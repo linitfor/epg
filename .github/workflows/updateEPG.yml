@@ -69,6 +69,8 @@ jobs:
         run: |
           sed -ie 's/\+0000/ \+0800/g' ./epg_TW.xml
 
+          rm -rf epg_TW.xmle
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
