@@ -67,7 +67,7 @@ jobs:
 
       - name: Smart Parsing
         run: |
-          sed -i '/+0000/+8000/' ./epg_TW.xml
+          sed -i '/ \+0000 / \+0800 /' ./epg_TW.xml
 
       - name: Set up Python
         uses: actions/setup-python@v2
