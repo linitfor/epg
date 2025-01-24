@@ -62,14 +62,18 @@ jobs:
         run: |
 
           rm -rf epg_TW.xml
+          rm -rf epg_lite.xml
           wget https://epg.pw/xmltv/epg_TW.xml
+          wget https://epg.pw/xmltv/epg_lite.xml
 
 
       - name: Smart Parsing
         run: |
           sed -ie 's/\+0000/ \+0800/g' ./epg_TW.xml
+          sed -ie 's/\+0000/ \+0800/g' ./epg_lite.xml
 
           rm -rf epg_TW.xmle
+          rm -rf epg_lite.xmle
 
       - name: Set up Python
         uses: actions/setup-python@v2
