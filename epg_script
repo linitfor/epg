@@ -145,52 +145,100 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 curl "$link" > ./epg/29.xml
 # 亞洲旅遊頻道
 set tvg_id = "369271"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/30.xml
 # HBO
 set tvg_id = "369313"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/31.xml
 # AXN
 set tvg_id = "369313"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/32.xml
 # CINEMAX
 set tvg_id = "334710"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/33.xml
 # 好萊塢電影台
 set tvg_id = "369269"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/34.xml
 # 緯來育樂
 set tvg_id = "369289"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/35.xml
 # 緯來精采
 set tvg_id = "335002"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/36.xml
 # 緯來體育
 set tvg_id = "369287"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/37.xml
 # ELEVEN體育1
 set tvg_id = "369288"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/38.xml
 # ELEVEN體育2
 set tvg_id = ""
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/39.xml
 # 博斯無限
 set tvg_id = "369235"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/40.xml
 # 博斯無限
 set tvg_id = "369229"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/41.xml
 # 博斯網球
 set tvg_id = "370204"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/42.xml
 # 博斯運動
 set tvg_id = "370202"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/43.xml
 # 博斯運動
 set tvg_id = "370205"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/44.xml
 # 博斯高球一
 set tvg_id = "370200"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/45.xml
 # 博斯高球
 set tvg_id = "370201"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/46.xml
 # 博斯魅力
 set tvg_id = "370206"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/47.xml
 # 時尚運動X
 set tvg_id = "370209"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/48.xml
 # 智林體育
 set tvg_id = "335009"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/49.xml
 # NickJr.
 set tvg_id = "334895"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/50.xml
 # 東森YOYO
 set tvg_id = "271829"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/51.xml
 # MOMO親子
 set tvg_id = "368942"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/52.xml
 # 動物星球
 set tvg_id = "368948"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/53.xml
 
 
 
