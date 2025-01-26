@@ -1,6 +1,9 @@
 #!/bin/csh -f
 ###
 
+rm -rf 1.xml
+rm -rf 2.xml
+
 set today = `date +%Y%m%d`
 echo $today
 
