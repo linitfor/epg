@@ -155,3 +155,7 @@ set tvg_id = "271829"
 set tvg_id = "368942"
 # 動物星球
 set tvg_id = "368948"
+
+
+
+gzip ./epg/*.xml
