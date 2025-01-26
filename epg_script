@@ -152,7 +152,7 @@ set tvg_id = "369313"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/31.xml
 # AXN
-set tvg_id = "369313"
+set tvg_id = "368365"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/32.xml
 # CINEMAX
