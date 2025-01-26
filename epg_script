@@ -26,118 +26,118 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 
 
 # 壹新聞
-set tvg-id = "369218"
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg-id
+set tvg_id = "369218"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > 1.xml
 # 年代新聞
-set tvg-id = "369247"
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg-id
+set tvg_id = "369247"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > 2.xml
 # 東森新聞
-set tvg-id = "369248"
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg-id
+set tvg_id = "369248"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > 3.xml
 # 華視新聞
-set tvg-id = "368816"
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg-id
+set tvg_id = "368816"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > 4.xml
 # 民視新聞
-set tvg-id = "369239"
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg-id
+set tvg_id = "369239"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > 5.xml
 # 三立新聞
-set tvg-id = "369243"
+set tvg_id = "369243"
 # TVBS新聞
-set tvg-id = "369244"
+set tvg_id = "369244"
 # 東森財經新聞台
-set tvg-id = "370175"
+set tvg_id = "370175"
 # 台視新聞
-set tvg-id = "369307"
+set tvg_id = "369307"
 # 中視新聞
-set tvg-id = "369324"
+set tvg_id = "369324"
 # 中天新聞
-set tvg-id = "370177"
+set tvg_id = "370177"
 # 民視
-set tvg-id = "334874"
+set tvg_id = "334874"
 # 台視
-set tvg-id = "334821"
+set tvg_id = "334821"
 # 中視
-set tvg-id = "334773"
+set tvg_id = "334773"
 # 華視
-set tvg-id = "335088"
+set tvg_id = "335088"
 # 東森戲劇
-set tvg-id = "369227"
+set tvg_id = "369227"
 # 八大戲劇
-set tvg-id = "369226"
+set tvg_id = "369226"
 # 緯來戲劇
-set tvg-id = "369224"
+set tvg_id = "369224"
 # ELTA娛樂
-set tvg-id = "370149"
+set tvg_id = "370149"
 # 緯來日本
-set tvg-id = "369284"
+set tvg_id = "369284"
 # 緯來綜合
-set tvg-id = "368944"
+set tvg_id = "368944"
 # 八大第一
-set tvg-id = "368943"
+set tvg_id = "368943"
 # 八大綜合
-set tvg-id = "368953"
+set tvg_id = "368953"
 # 中天綜合
-set tvg-id = "369192"
+set tvg_id = "369192"
 # 中天娛樂
-set tvg-id = "369183"
+set tvg_id = "369183"
 # tvN
-set tvg-id = "2323"
+set tvg_id = "2323"
 # 東森綜合
-set tvg-id = "272025"
+set tvg_id = "272025"
 # 東森超視
-set tvg-id = "369189"
+set tvg_id = "369189"
 # ELTA
-set tvg-id = "370222"
+set tvg_id = "370222"
 # 亞洲旅遊頻道
-set tvg-id = "369271"
+set tvg_id = "369271"
 # HBO
-set tvg-id = "369313"
+set tvg_id = "369313"
 # AXN
-set tvg-id = "369313"
+set tvg_id = "369313"
 # CINEMAX
-set tvg-id = "334710"
+set tvg_id = "334710"
 # 好萊塢電影台
-set tvg-id = "369269"
+set tvg_id = "369269"
 # 緯來育樂
-set tvg-id = "369289"
+set tvg_id = "369289"
 # 緯來精采
-set tvg-id = "335002"
+set tvg_id = "335002"
 # 緯來體育
-set tvg-id = "369287"
+set tvg_id = "369287"
 # ELEVEN體育1
-set tvg-id = "369288"
+set tvg_id = "369288"
 # ELEVEN體育2
-set tvg-id = ""
+set tvg_id = ""
 # 博斯無限
-set tvg-id = "369235"
+set tvg_id = "369235"
 # 博斯無限
-set tvg-id = "369229"
+set tvg_id = "369229"
 # 博斯網球
-set tvg-id = "370204"
+set tvg_id = "370204"
 # 博斯運動
-set tvg-id = "370202"
+set tvg_id = "370202"
 # 博斯運動
-set tvg-id = "370205"
+set tvg_id = "370205"
 # 博斯高球一
-set tvg-id = "370200"
+set tvg_id = "370200"
 # 博斯高球
-set tvg-id = "370201"
+set tvg_id = "370201"
 # 博斯魅力
-set tvg-id = "370206"
+set tvg_id = "370206"
 # 時尚運動X
-set tvg-id = "370209"
+set tvg_id = "370209"
 # 智林體育
-set tvg-id = "335009"
+set tvg_id = "335009"
 # NickJr.
-set tvg-id = "334895"
+set tvg_id = "334895"
 # 東森YOYO
-set tvg-id = "271829"
+set tvg_id = "271829"
 # MOMO親子
-set tvg-id = "368942"
+set tvg_id = "368942"
 # 動物星球
-set tvg-id = "368948"
+set tvg_id = "368948"
