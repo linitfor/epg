@@ -249,7 +249,7 @@ head -n 2 ./epg/1.xml > head.xml
 
 ## 拼接檔案
 rm -rf content.xml
-rm -rf file
+rm -rf file.xml
 touch content.xml
 touch file.xml
 
