@@ -67,6 +67,8 @@ jobs:
           rm -rf 1.xml
           rm -rf 2.xml
 
+          name=date::$(date +'%Y%m%d')"
+          echo $name
   
           
           #wget https://epg.pw/xmltv/epg_TW.xml
