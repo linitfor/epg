@@ -263,7 +263,7 @@ sed "s/<\/tv>//" a.xml  >> content.xml
 
 
 cat head.xml content.xml >> file.xml
-echo "</tv>" file.xml
+echo "<\/tv>" >> file.xml
 
 
 rm -rf a.xml
