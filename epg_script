@@ -244,29 +244,29 @@ curl "$link" > ./epg/53.xml
 
 
 ## 處理檔頭
-rm -rf head.xml
-head -n 2 ./epg/1.xml > head.xml
+#rm -rf head.xml
+#head -n 2 ./epg/1.xml > head.xml
 
 ## 拼接檔案
-rm -rf content.xml
-rm -rf file.xml
-touch content.xml
-touch file.xml
+#rm -rf content.xml
+#rm -rf file.xml
+#touch content.xml
+#touch file.xml
 
 
 
-sed -n "/channel id/,/tv/p" ./epg/1.xml > a.xml
-sed "s/<\/tv>//" a.xml  > content.xml
+#sed -n "/channel id/,/tv/p" ./epg/1.xml > a.xml
+#sed "s/<\/tv>//" a.xml  > content.xml
 
-sed -n "/channel id/,/tv/p" ./epg/2.xml > a.xml
-sed "s/<\/tv>//" a.xml  >> content.xml
-
-
-cat head.xml content.xml >> file.xml
-echo "<\/tv>" >> file.xml
+#sed -n "/channel id/,/tv/p" ./epg/2.xml > a.xml
+#sed "s/<\/tv>//" a.xml  >> content.xml
 
 
-rm -rf a.xml
+#cat head.xml content.xml >> file.xml
+#echo "<\/tv>" >> file.xml
+
+
+#rm -rf a.xml
 
 
 
