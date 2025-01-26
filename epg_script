@@ -9,7 +9,7 @@ echo $today
 
 #set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id=369218"
 set link = "https://epg.pw/api/epg.xml\?lang\=zh-hant\&timezone\=QXNpYS9UYWlwZWk%3D\&date\="$today"\&channel_id\=369218"
-echo $link
+echo "$link"
 
 
 #壹電視新聞
