@@ -239,9 +239,10 @@ curl "$link" > ./epg/52.xml
 set tvg_id = "368948"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/53.xml
-
-
-
+# DAZN 2
+set tvg_id = "335106"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/54.xml
 
 ## 處理檔頭
 #rm -rf head.xml
