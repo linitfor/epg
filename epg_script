@@ -168,7 +168,7 @@ set tvg_id = "369289"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/35.xml
 # 緯來精采
-set tvg_id = "335002"
+set tvg_id = "368773"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/36.xml
 # 緯來體育
