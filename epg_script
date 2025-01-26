@@ -1,10 +1,12 @@
 #!/bin/csh -f
 ###
-
+rm -rf epg
 rm -rf 1.xml
 rm -rf 2.xml
 rm -rf 3.xml
 rm -rf 4.xml
+
+mkdir epg
 
 set today = `date +%Y%m%d`
 echo $today
@@ -28,35 +30,47 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 # 壹新聞
 set tvg_id = "369218"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
-curl "$link" > 1.xml
+curl "$link" > ./epg/1.xml
 # 年代新聞
 set tvg_id = "369247"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
-curl "$link" > 2.xml
+curl "$link" > ./epg/2.xml
 # 東森新聞
 set tvg_id = "369248"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
-curl "$link" > 3.xml
+curl "$link" > ./epg/3.xml
 # 華視新聞
 set tvg_id = "368816"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
-curl "$link" > 4.xml
+curl "$link" > ./epg/4.xml
 # 民視新聞
 set tvg_id = "369239"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
-curl "$link" > 5.xml
+curl "$link" > ./epg/5.xml
 # 三立新聞
 set tvg_id = "369243"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/6.xml
 # TVBS新聞
 set tvg_id = "369244"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/7.xml
 # 東森財經新聞台
 set tvg_id = "370175"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/8.xml
 # 台視新聞
 set tvg_id = "369307"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/9.xml
 # 中視新聞
 set tvg_id = "369324"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/10.xml
 # 中天新聞
 set tvg_id = "370177"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/11.xml
 # 民視
 set tvg_id = "334874"
 # 台視
