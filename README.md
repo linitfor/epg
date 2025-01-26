@@ -1,3 +1,17 @@
+# 台灣EPG 頻道
+https://epg.pw/search/channel/YXhu.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
+修改步驟
+1. APTV.m3u header （）
+   ex. #EXTM3U x-tvg-url="https://raw.githubusercontent.com/linitfor/epg/refs/heads/main/epg/1.xml"
+3. tvg-id=""
+   ex.
+   #EXTINF:-1 group-title="APTV" tvg-name="" tvg-id="369313" tvg-language="zh" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png", HBO HD
+   http://125.227.210.55:8153/VideoInput/play.ts
+5. epg_script 添加更新epg 資訊頻道
+   
+
+
 # epg-xml
 
 由于廉价vps的稳定性,可靠性实在无法估量，故将所调用的台标文件及xml节目单数据分发到此，如果你可以流畅访问，建议将EPG调用数据的地址修改为这里。
