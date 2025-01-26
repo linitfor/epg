@@ -9,6 +9,7 @@ https://epg.pw/search/channel/YXhu.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
    #EXTINF:-1 group-title="APTV" tvg-name="" tvg-id="369313" tvg-language="zh" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png", HBO HD
    http://125.227.210.55:8153/VideoInput/play.ts
 5. epg_script 添加更新epg 資訊頻道
+   https://github.com/linitfor/epg/blob/main/epg_script
    
 
 
