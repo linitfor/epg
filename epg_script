@@ -13,7 +13,7 @@ echo "$link"
 
 
 #壹電視新聞
-curl $link > 1.xml
+curl "$link" > 1.xml
 
 #年代新聞
 curl https://epg.pw/api/epg.xml\?lang\=zh-hant\&timezone\=QXNpYS9UYWlwZWk%3D\&date\=20250126\&channel_id\=369247 > 2.xml
