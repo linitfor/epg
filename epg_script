@@ -10,14 +10,14 @@ echo $today
 
 
 #壹電視新聞
-channel_id = 369218
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$channel_id
+id = "369218"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$id
 echo "$link"
 
 curl "$link" > 1.xml
 
 #年代新聞
-channel_id = 369247
-set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$channel_id
+id = "369247"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$id
 #curl https://epg.pw/api/epg.xml\?lang\=zh-hant\&timezone\=QXNpYS9UYWlwZWk%3D\&date\=20250126\&channel_id\=369247 > 2.xml
 curl "$link" > 2.xml
