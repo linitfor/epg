@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250126204120 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250126.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250126&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250127002643 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250126000000 +0800" stop="20250126030000 +0800">
-    <title lang="zh">2023-24司諾克賽季 球員錦標賽 4強 SELvs ZHA</title>
-    <desc>2023-24司諾克賽季 球員錦標賽 4強 SELvs ZHA</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126030000 +0800" stop="20250126060000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 司諾克大師賽 四強 2100-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 司諾克大師賽 四強 2100-0000</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126060000 +0800" stop="20250126090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 SEL vs LIS</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 SEL vs LIS</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126090000 +0800" stop="20250126120000 +0800">
-    <title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 8強 HIG vs FOR</title>
-    <desc>2023-24司諾克賽季 蘇格蘭公開賽 8強 HIG vs FOR</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126120000 +0800" stop="20250126150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 SEL vs LIS</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 SEL vs LIS</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126150000 +0800" stop="20250126210000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 司諾克大師賽 四強</title>
-    <desc>首播 2024-25司諾克賽季 司諾克大師賽 四強</desc>
-    <date>2025-01-26</date>
-  </programme>
-  <programme channel="369235" start="20250126210000 +0800" stop="20250127000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 司諾克大師賽 決賽 2100-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 司諾克大師賽 決賽 2100-0000</desc>
-    <date>2025-01-26</date>
-  </programme>
   <programme channel="369235" start="20250127000000 +0800" stop="20250127013000 +0800">
     <title lang="zh">2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</title>
     <desc>2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</desc>
@@ -104,9 +69,54 @@
     <desc>2024-25司諾克賽季 英國錦標賽 第一輪 ZHA vs LEI</desc>
     <date>2025-01-27</date>
   </programme>
-  <programme channel="369235" start="20250128000000 +0800" stop="20250129000000 +0800">
+  <programme channel="369235" start="20250128000000 +0800" stop="20250128013000 +0800">
     <title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</title>
     <desc>2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</desc>
     <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128013000 +0800" stop="20250128043000 +0800">
+    <title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+    <desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128043000 +0800" stop="20250128073000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128073000 +0800" stop="20250128090000 +0800">
+    <title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</title>
+    <desc>2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128090000 +0800" stop="20250128120000 +0800">
+    <title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+    <desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128120000 +0800" stop="20250128150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128150000 +0800" stop="20250128180000 +0800">
+    <title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+    <desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128180000 +0800" stop="20250128210000 +0800">
+    <title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 決賽 WIL vs SAE</title>
+    <desc>2023-24司諾克賽季 蘇格蘭公開賽 決賽 WIL vs SAE</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250128210000 +0800" stop="20250129000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</desc>
+    <date>2025-01-28</date>
+  </programme>
+  <programme channel="369235" start="20250129000000 +0800" stop="20250130000000 +0800">
+    <title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 BRE vs DIN</title>
+    <desc>2023-24司諾克賽季 英國公開賽 第一輪 BRE vs DIN</desc>
+    <date>2025-01-29</date>
   </programme>
 </tv>
