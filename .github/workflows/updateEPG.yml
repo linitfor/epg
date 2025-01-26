@@ -63,8 +63,11 @@ jobs:
 
           rm -rf epg_TW.xml
           rm -rf epg_lite.xml
+          
           wget https://epg.pw/xmltv/epg_TW.xml
           wget https://epg.pw/xmltv/epg_lite.xml
+          #壹電視新聞
+          wget https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date=20250126&channel_id=369218 > 1.xml
 
 
       - name: Smart Parsing
