@@ -77,8 +77,8 @@ jobs:
 
       - name: Smart Parsing
         run: |
-          sed -ie 's/\+0000/ \+0800/g' ./epg_TW.xml
-          sed -ie 's/\+0000/ \+0800/g' ./epg_lite.xml
+          #sed -ie 's/\+0000/ \+0800/g' ./epg_TW.xml
+          #sed -ie 's/\+0000/ \+0800/g' ./epg_lite.xml
 
           rm -rf epg_TW.xmle
           rm -rf epg_lite.xmle
