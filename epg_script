@@ -128,7 +128,7 @@ set tvg_id = "369183"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/25.xml
 # tvN
-set tvg_id = "2323"
+set tvg_id = "368893"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/26.xml
 # 東森綜合
