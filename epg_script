@@ -245,7 +245,7 @@ curl "$link" > ./epg/53.xml
 
 ## 處理檔頭
 rm -rf head.xml
-head -n 2 ./1.xml > head.xml
+head -n 2 ./epg/1.xml > head.xml
 
 ## 拼接檔案
 rm -rf content.xml
@@ -255,10 +255,10 @@ touch file.xml
 
 
 
-sed -n "/channel id/,/tv/p" ./1.xml > a.xml
+sed -n "/channel id/,/tv/p" ./epg/1.xml > a.xml
 sed "s/<\/tv>//" a.xml  > content.xml
 
-sed -n "/channel id/,/tv/p" ./2.xml > a.xml
+sed -n "/channel id/,/tv/p" ./epg/2.xml > a.xml
 sed "s/<\/tv>//" a.xml  >> content.xml
 
 
