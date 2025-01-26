@@ -1,0 +1,282 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="IPTV EPG, Free TV Guide, IPTV App, TV listings, OTT Programme Guide, IPTV Programme Guide, Electronic Program Guide, TV schedule, TV channels, free TV streaming, Watch TV online, Watch TV for free, streaming channels,online TV streaming,cable TV listings,satellite TV listings,local TV listings,MOD, movie, drama, news, variety, entertainment">
+    <meta name="description" content="Get the most comprehensive, up-to-date TV schedules and free streaming of live TV channels from around the world.Watch TV online on any device, anywhere."/>
+    <meta property="og:title" content="The best TV Guide/TV listings website, providing IPTV EPG and free streaming of channels"/>
+    <meta property="og:description" content="Get the most comprehensive, up-to-date TV schedules and free streaming of live TV channels from around the world. Watch TV online on any device, anywhere."/>
+
+
+
+    
+    <title>The best TV Guide/TV listings website, providing IPTV EPG and free streaming of channels | FREE EPG</title>
+    
+    
+    <link rel="icon" href="/static/bulma/images/logo-32.png">
+    <link rel="stylesheet" href="/static/bulma/css/bulma-pageloader.min.css">
+    <link rel="stylesheet" href="/static/ctv_web/fontawesome-free-5.14.0/css/all.min.css"/>
+    <link rel="stylesheet" href="/static/bulma/css/bulma.min.css">
+    <link rel="stylesheet" href="/static/bulma/css/style.css?v=20240612">
+    
+</head>
+
+<body>
+<div class="pageloader"><span class="title">Loading ...</span></div>
+<section class="hero ">
+    <div class="hero-head">
+        <nav class="navbar is-transparent is-spaced has-shadow" aria-label="main navigation">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="https://epg.pw/index.html"
+                       title="The best TV Guide/TV listings website, providing IPTV EPG and free streaming of channels - FREE EPG">
+                        <img src="/static/bulma/images/logo-32.png" alt="FREE EPG" width="32" height="32">FREE EPG
+                    </a>
+                    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarTopMain">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div class="navbar-menu" id="navbarTopMain">
+                    <div class="navbar-end">
+                        <a class="bd-navbar-icon navbar-item" href="https://t.me/GlobalEPG" target="_blank">
+                                <span class="icon">
+                                  <i class="fab fa-lg fa-telegram"></i>
+                                </span>
+                        </a>
+                        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link">Language</a>
+                                                    <div class="navbar-dropdown">
+                                                        <form id="_language_form" method="post" action="/set_language/">
+                                                            <input type="hidden" id="current_lang" name="language_code" value=""/>
+                                                            <input type='hidden' name='csrfmiddlewaretoken' value='ogejFC1AAWx1OBu8ULXmvx6ryvmovJZs' />
+                        
+                        
+                        
+                        
+                                                            <a class="navbar-item language_button" data-value="en">English</a>
+                                                            <a class="navbar-item language_button" data-value="zh-hant">Traditional Chinese</a>
+                                                            <a class="navbar-item language_button" data-value="zh-hans">Simplified Chinese</a>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link">Select Area</a>
+                            <div class="navbar-dropdown">
+                                <a href="/areas/au.html"
+                                   class="navbar-item">Australia</a>
+                                <a href="/areas/ca.html"
+                                   class="navbar-item">Canada</a>
+                                <a href="/areas/cn.html"
+                                   class="navbar-item">China</a>
+                                <a href="/areas/fr.html"
+                                   class="navbar-item">France</a>
+                                <a href="/areas/hk.html"
+                                   class="navbar-item">Hong Kong</a>
+                                <a href="/areas/id.html"
+                                   class="navbar-item">Indonesia</a>
+                                <a href="/areas/in.html"
+                                   class="navbar-item">India</a>
+                                <a href="/areas/jp.html"
+                                   class="navbar-item">Japan</a>
+                                <a href="/areas/kr.html"
+                                   class="navbar-item">Korea</a>
+                                <a href="/areas/my.html"
+                                   class="navbar-item">Malaysia</a>
+                                <a href="/areas/nz.html"
+                                   class="navbar-item">New Zealand</a>
+                                <a href="/areas/ph.html"
+                                   class="navbar-item">Philippines</a>
+                                <a href="/areas/sg.html"
+                                   class="navbar-item">Singapore</a>
+                                <a href="/areas/th.html"
+                                   class="navbar-item">Thailand</a>
+                                <a href="/areas/tw.html"
+                                   class="navbar-item">Taiwan</a>
+                                <a href="/areas/gb.html"
+                                   class="navbar-item">U.K.</a>
+                                <a href="/areas/us.html"
+                                   class="navbar-item">USA</a>
+                                <a href="/areas/vn.html"
+                                   class="navbar-item">Viet Nam</a>
+                                <a href="/areas/za.html"
+                                   class="navbar-item">South Africa</a>
+                                <a href="/areas/br.html"
+                                   class="navbar-item">Brazil</a>
+                                <a href="/areas/ot.html"
+                                   class="navbar-item">Other</a>
+                                <hr class="navbar-divider"/>
+                                <a href="/areas/index.html"
+                                   class="navbar-item">All channels</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="hero-body p-b-30">
+        <div class="container">
+            <div class="columns is-centered">
+                <div class="column is-7">
+                    <div class="search-form ">
+                        <form method='post' id="_search_form" enctype='multipart/form-data' action="/search/channel/">
+                            <div class="field has-addons has-shadow-field">
+                                <div class="control has-icons-left is-expanded">
+                                    <input type='hidden' name='csrfmiddlewaretoken' value='ogejFC1AAWx1OBu8ULXmvx6ryvmovJZs' />
+                                    <input type="text" name="channel_search" placeholder="Please enter a channel name or program name"
+                                           class="input">
+                                    <input type="hidden" id="search_type" name="search_type" value="c"/>
+                                    <span class="icon is-small is-left">
+											<svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="search"
+                                                 role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+												<path fill="currentColor"
+                                                      d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z">
+												</path>
+											</svg>
+										</span>
+                                </div>
+                                <div class="control">
+                                    <div class="dropdown">
+                                      <div class="dropdown-trigger">
+                                        <button class="button is-primary" aria-haspopup="true" aria-controls="dropdown-menu" type="button">
+                                          <span class="has-text-weight-semibold px-1">Search </span>
+                                          <span class="icon is-small">
+                                            <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                          </span>
+                                        </button>
+                                      </div>
+                                      <div class="dropdown-menu" id="dropdown-menu" role="menu">
+                                        <div class="dropdown-content">
+                                            <a href="#" class="dropdown-item search_button" data-value="s">
+                                              <span class="has-text-weight-semibold">Search test TV streaming!</span>
+                                           </a>
+                                          <a href="#" class="dropdown-item search_button" data-value="c">
+                                              <span class="has-text-weight-semibold">Search TV channels!</span>
+                                          </a>
+                                          <a href="#" class="dropdown-item search_button" data-value="p">
+                                              <span class="has-text-weight-semibold">Search TV programs!</span>
+                                          </a>
+
+                                        </div>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="column">
+                    <form method='post' enctype='multipart/form-data' action="/set_timezone/">
+                        <div class="field has-addons">
+                            <div class="control is-expanded">
+                                <div class="select is-fullwidth">
+                                    <select name="timezone">
+                                        <option value="" selected></option>
+                                        
+                                    </select>
+                                    <input type='hidden' name='csrfmiddlewaretoken' value='ogejFC1AAWx1OBu8ULXmvx6ryvmovJZs' />
+                                </div>
+                            </div>
+                            <div class="control">
+                                <button type="submit" class="button is-primary">Select your time zone</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        
+            <h2 class="title">
+                <span class="is-size-2 has-text-centered is-block"><a href="/app_download.html">
+                    
+                        Recommend the best TV APP. You can watch thousands of channels around the world for free
+                    
+                </a></span>
+            </h2>
+        
+        </div>
+    </div>
+</section>
+
+
+
+    <section class="hero is-large is-bold is-danger">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        404
+                    </h1>
+                    <h2 class="subtitle">
+                        We couldn't find this page. The page you are looking for does not exists.
+                    </h2>
+                </div>
+            </div>
+        </section>
+
+
+<footer class="hero">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <a href="//epg.pw"
+               title="FREE EPG / The best free TV program guide website covering thousands of TV channels around the world">
+                <img src="/static/bulma/images/logo-32.png" alt="Made with FREE EPG" width="32" height="32">
+            </a>
+            <div class="columns m-t-10">
+                <div class="column">
+                    <nav class="has-text-grey-light">
+                        <a href="/xmltv.html" class="has-text-primary"
+                           title="Click to download for free the XMLTV format program guide of thousands of TV channels around the world in the current week.">XmlTV</a>
+                        &bullet;
+                        <a href="/test_channel_page.html" class="has-text-primary" title="Test EPG Accuracy with Free Public TV Channels">M3U</a>&bullet;
+                        <a href="/sitemap.xml" class="has-text-primary">Sitemap</a>&bullet;
+                        <a href="/app_download.html" class="has-text-primary">The best Live TV App</a> &bullet;
+                        <a href="/hkanime.html" class="has-text-primary">The best Animation Platform</a> &bullet;
+                        <a href="/tv_ratings/index.html" class="has-text-primary">TV Network Rankings</a> &bullet;
+                        <a href="/cdn-cgi/l/email-protection#c6a5a9a8b2a7a5b286a3b6a1e8b6b1" class="has-text-primary">Contact us</a> &bullet;
+                        <a href="https://t.me/GlobalEPG" class="has-text-primary">Chat Group</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="b-t m-t-30 p-t-30 has-text-grey-light is-size-7">
+                This site is based on machine learning and AI architecture, without any manual intervention in the whole process.<br>
+                It does not store or provide any streaming media content. All data comes from the Internet and is processed by AI.
+                It is only used for testing purposes.
+                <br>
+                Focus on providing you with a clear, unified and concise global TV program guide service and free IPTV EPG for thousands of TV channels
+                &copy;2020 EPG.PW.All rights reserved.
+                <br>
+                <a href="/terms.html" class="has-text-primary">Terms of use</a> and <a class="has-text-primary" href="/privacy.html">Privacy policy</a>.
+                <br>
+                <a href="https://t.me/epg_chinese" class="has-text-primary">中文討論組</a>
+            </div>
+        </div>
+    </div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/static/bulma/app.js?v=20220926" type="fdf0d902f9d61d250575cade-text/javascript"></script>
+<!-- Clarity tracking code for https://epg.pw/ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="fdf0d902f9d61d250575cade-|49" defer></script></body>
+
+</html>
