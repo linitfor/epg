@@ -2,7 +2,7 @@
 https://epg.pw/search/channel/YXhu.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
 
 修改步驟
-1. APTV.m3u header （）
+1. APTV.m3u header
    ex. #EXTM3U x-tvg-url="https://raw.githubusercontent.com/linitfor/epg/refs/heads/main/epg/1.xml"
 3. tvg-id=""
    ex.
