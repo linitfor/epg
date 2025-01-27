@@ -77,12 +77,9 @@ jobs:
           touch epg_tv.xml
           touch epg_tv_tmp.xml
           tv_merge -i ./epg/1.xml -m ./epg/2.xml -o epg_tv.xml
-          cat epg_tv.xml > epg_tmp.xml
-          rm -rf epg_tv.xml
-          tv_merge -i ./egp_tv_tmp.xml -m ./epg/3.xml -o epg_tv.xml
-          cat epg_tv.xml > epg_tmp.xml
-          rm -rf epg_tv.xml
-          tv_merge -i ./egp_tv_tmp.xml -m ./epg/4.xml -o epg_tv.xml
+          tv_merge -i ./egp_tv.xml -m ./epg/3.xml -o epg_tv1.xml
+
+          
 
       - name: Smart Parsing
         run: |
