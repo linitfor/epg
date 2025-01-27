@@ -50,7 +50,7 @@ jobs:
       - name: Install csh
         run: |
           sudo apt install csh
-          sudo apt install tv_merge
+          sudo apt install xmltv
 
       - name: Prepare Script
         run: |
