@@ -180,7 +180,7 @@ set tvg_id = "369288"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/38.xml
 # ELEVEN體育2
-set tvg_id = ""
+set tvg_id = "335106"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/39.xml
 # 博斯無限
