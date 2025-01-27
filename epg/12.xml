@@ -1,189 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250127212936 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370139/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370139&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250128003002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370139/20250128.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370139&amp;date=20250128&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370139">
     <display-name lang="Taiwan">民視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" />
   </channel>
-  <programme channel="370139" start="20250127013000 +0800" stop="20250127023000 +0800">
-    <title lang="zh">台灣演義【普】(E717)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127023000 +0800" stop="20250127030000 +0800">
-    <title lang="zh">元氣加油站【普】(E2919)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127030000 +0800" stop="20250127033000 +0800">
-    <title lang="zh">活力天天樂【普】(E1264)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127033000 +0800" stop="20250127040000 +0800">
-    <title lang="zh">消費高手【普】(E7837)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127040000 +0800" stop="20250127043000 +0800">
-    <title lang="zh">美鳳有約【普】(E5092)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127043000 +0800" stop="20250127050000 +0800">
-    <title lang="zh">元氣加油站【普】(E2578)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127050000 +0800" stop="20250127053000 +0800">
-    <title lang="zh">美鳳有約【普】(E5096)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127053000 +0800" stop="20250127060000 +0800">
-    <title lang="zh">消費高手【普】(E7826)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127060000 +0800" stop="20250127070000 +0800">
-    <title lang="zh">民視異言堂【普】(E1291)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127070000 +0800" stop="20250127080000 +0800">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127080000 +0800" stop="20250127083000 +0800">
-    <title lang="zh">元氣加油站【普】(E2904)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127083000 +0800" stop="20250127090000 +0800">
-    <title lang="zh">美鳳有約【普】(E5093)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127090000 +0800" stop="20250127093000 +0800">
-    <title lang="zh">元氣加油站【普】(E2925)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127093000 +0800" stop="20250127100000 +0800">
-    <title lang="zh">美食十一X廚【普】(E75)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127100000 +0800" stop="20250127103000 +0800">
-    <title lang="zh">2025新春自由行【普】(E3)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127103000 +0800" stop="20250127110000 +0800">
-    <title lang="zh">活力天天樂【普】(E1201)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127110000 +0800" stop="20250127113000 +0800">
-    <title lang="zh">元氣加油站【普】(E2673)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127113000 +0800" stop="20250127114000 +0800">
-    <title lang="zh">消費高手【普】(E7718)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127114000 +0800" stop="20250127115000 +0800">
-    <title lang="zh">消費高手【普】(E7727)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127115000 +0800" stop="20250127123000 +0800">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127123000 +0800" stop="20250127130000 +0800">
-    <title lang="zh">美鳳有約【普】(E5103)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127130000 +0800" stop="20250127151500 +0800">
-    <title lang="zh">好運來【普】(E24)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127151500 +0800" stop="20250127151600 +0800">
-    <title lang="zh">新歌介紹【普】(E93)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127151600 +0800" stop="20250127151700 +0800">
-    <title lang="zh">新歌介紹【普】(E101)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127151700 +0800" stop="20250127153000 +0800">
-    <title lang="zh">消費高手【普】</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127153000 +0800" stop="20250127160000 +0800">
-    <title lang="zh">消費高手【普】(E7826)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127160000 +0800" stop="20250127163000 +0800">
-    <title lang="zh">美鳳有約【普】(E5091)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127163000 +0800" stop="20250127170000 +0800">
-    <title lang="zh">元氣加油站【普】(E2765)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127170000 +0800" stop="20250127173000 +0800">
-    <title lang="zh">快樂故事屋【普】(E1071)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127173000 +0800" stop="20250127180000 +0800">
-    <title lang="zh">美鳳有約【普】(E5094)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127180000 +0800" stop="20250127183000 +0800">
-    <title lang="zh">民視晚間台語新聞【普】</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127183000 +0800" stop="20250127190000 +0800">
-    <title lang="zh">美食十一X廚【普】(E90)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127190000 +0800" stop="20250127200000 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127200000 +0800" stop="20250127221500 +0800">
-    <title lang="zh">好運來【普】(E25)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127221500 +0800" stop="20250127231500 +0800">
-    <title lang="zh">醫學大聯盟【普】(E420)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
-  <programme channel="370139" start="20250127231500 +0800" stop="20250128000000 +0800">
-    <title lang="zh">好運來【普】(E25)</title>
-    <desc />
-    <date>2025-01-27</date>
-  </programme>
   <programme channel="370139" start="20250128013000 +0800" stop="20250128020000 +0800">
     <title lang="zh">元氣加油站【普】(E2661)</title>
     <desc />
@@ -358,5 +178,150 @@
     <title lang="zh">民視第一發發發萬士益冷氣慶好年【普】</title>
     <desc />
     <date>2025-01-28</date>
+  </programme>
+  <programme channel="370139" start="20250129010000 +0800" stop="20250129015800 +0800">
+    <title lang="zh">民視第一發發發宇澄生技賀新春【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129015800 +0800" stop="20250129035500 +0800">
+    <title lang="zh">民視第一發發發宇澄生技好運來【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129035500 +0800" stop="20250129055000 +0800">
+    <title lang="zh">民視第一發發發星城Online迎好年【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129055000 +0800" stop="20250129070000 +0800">
+    <title lang="zh">民視第一發發發萬士益冷氣慶好年【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129070000 +0800" stop="20250129080000 +0800">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129080000 +0800" stop="20250129090000 +0800">
+    <title lang="zh">醫學大聯盟【普】(E416)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129090000 +0800" stop="20250129093000 +0800">
+    <title lang="zh">元氣加油站【普】(E2917)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129093000 +0800" stop="20250129100000 +0800">
+    <title lang="zh">美食十一X廚【普】(E79)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129100000 +0800" stop="20250129103000 +0800">
+    <title lang="zh">2025新春自由行【普】(E5)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129103000 +0800" stop="20250129104000 +0800">
+    <title lang="zh">消費高手【普】(E7718)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129104000 +0800" stop="20250129105000 +0800">
+    <title lang="zh">消費高手【普】(E7727)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129105000 +0800" stop="20250129112000 +0800">
+    <title lang="zh">感動心台灣【普】(E95)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129112000 +0800" stop="20250129115000 +0800">
+    <title lang="zh">感動心台灣【普】(E96)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129115000 +0800" stop="20250129123000 +0800">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129123000 +0800" stop="20250129130000 +0800">
+    <title lang="zh">美鳳有約【普】(E5103)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129130000 +0800" stop="20250129151500 +0800">
+    <title lang="zh">好運來【普】(E25)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129151500 +0800" stop="20250129151600 +0800">
+    <title lang="zh">新歌介紹【普】(E93)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129151600 +0800" stop="20250129151700 +0800">
+    <title lang="zh">新歌介紹【普】(E101)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129151700 +0800" stop="20250129153000 +0800">
+    <title lang="zh">消費高手【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129153000 +0800" stop="20250129154000 +0800">
+    <title lang="zh">消費高手【普】(E7834)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129154000 +0800" stop="20250129155000 +0800">
+    <title lang="zh">消費高手【普】(E7683)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129155000 +0800" stop="20250129165000 +0800">
+    <title lang="zh">民視第一發發發宇澄生技賀新春【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129165000 +0800" stop="20250129180000 +0800">
+    <title lang="zh">民視第一發發發萬士益冷氣慶好年【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129180000 +0800" stop="20250129183000 +0800">
+    <title lang="zh">民視晚間台語新聞【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129183000 +0800" stop="20250129190000 +0800">
+    <title lang="zh">美食十一X廚【普】(E91)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129190000 +0800" stop="20250129200000 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129200000 +0800" stop="20250129221500 +0800">
+    <title lang="zh">好運來【普】(E26)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129221500 +0800" stop="20250129231500 +0800">
+    <title lang="zh">姊妹亮起來【普】(E258)</title>
+    <desc />
+    <date>2025-01-29</date>
+  </programme>
+  <programme channel="370139" start="20250129231500 +0800" stop="20250130000000 +0800">
+    <title lang="zh">好運來【普】(E26)</title>
+    <desc />
+    <date>2025-01-29</date>
   </programme>
 </tv>
