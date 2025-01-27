@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250127095130 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250127115403 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -151,6 +151,10 @@
 <channel id="369288">
 <display-name lang="Taiwan">DAZN 1</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
+</channel>
+<channel id="369235">
+<display-name lang="Taiwan">博斯無限台</display-name>
+<icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
 </channel>
 <programme channel="369218" start="20250127000000 +0800" stop="20250127010000 +0800">
 <date>2025-01-27</date>
@@ -8301,5 +8305,120 @@
 <date>2025-01-28</date>
 <desc>(首)格鬥特區 2024PFL 職業格鬥聯盟</desc>
 <title lang="zh">(首)格鬥特區 2024PFL 職業格鬥聯盟</title>
+</programme>
+<programme channel="369235" start="20250127000000 +0800" stop="20250127013000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</desc>
+<title lang="zh">2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</title>
+</programme>
+<programme channel="369235" start="20250127013000 +0800" stop="20250127030000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</title>
+</programme>
+<programme channel="369235" start="20250127030000 +0800" stop="20250127043000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</title>
+</programme>
+<programme channel="369235" start="20250127043000 +0800" stop="20250127073000 +0800">
+<date>2025-01-27</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 WAK vs SET</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WAK vs SET</title>
+</programme>
+<programme channel="369235" start="20250127073000 +0800" stop="20250127090000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</desc>
+<title lang="zh">2023-24司諾克賽季 英國公開賽 第二輪 TRU vs MIA</title>
+</programme>
+<programme channel="369235" start="20250127090000 +0800" stop="20250127103000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</title>
+</programme>
+<programme channel="369235" start="20250127103000 +0800" stop="20250127120000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</title>
+</programme>
+<programme channel="369235" start="20250127120000 +0800" stop="20250127150000 +0800">
+<date>2025-01-27</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 WAK vs SET</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WAK vs SET</title>
+</programme>
+<programme channel="369235" start="20250127150000 +0800" stop="20250127163000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 SEL vs CAR</title>
+</programme>
+<programme channel="369235" start="20250127163000 +0800" stop="20250127180000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 第一輪 WIL vs VAF</title>
+</programme>
+<programme channel="369235" start="20250127180000 +0800" stop="20250127193000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 16強 ALL vs ZHA</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 16強 ALL vs ZHA</title>
+</programme>
+<programme channel="369235" start="20250127193000 +0800" stop="20250127210000 +0800">
+<date>2025-01-27</date>
+<desc>2023-24司諾克賽季 世界大獎賽 16強 O&apos;SUL vs ZHO</desc>
+<title lang="zh">2023-24司諾克賽季 世界大獎賽 16強 O&apos;SUL vs ZHO</title>
+</programme>
+<programme channel="369235" start="20250127210000 +0800" stop="20250128000000 +0800">
+<date>2025-01-27</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 ZHA vs LEI</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 ZHA vs LEI</title>
+</programme>
+<programme channel="369235" start="20250128000000 +0800" stop="20250128013000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</desc>
+<title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</title>
+</programme>
+<programme channel="369235" start="20250128013000 +0800" stop="20250128043000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+<title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+</programme>
+<programme channel="369235" start="20250128043000 +0800" stop="20250128073000 +0800">
+<date>2025-01-28</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
+</programme>
+<programme channel="369235" start="20250128073000 +0800" stop="20250128090000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</desc>
+<title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 ALL vs McG</title>
+</programme>
+<programme channel="369235" start="20250128090000 +0800" stop="20250128120000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+<title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+</programme>
+<programme channel="369235" start="20250128120000 +0800" stop="20250128150000 +0800">
+<date>2025-01-28</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
+</programme>
+<programme channel="369235" start="20250128150000 +0800" stop="20250128180000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</desc>
+<title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 4強 WIL vs ZHO</title>
+</programme>
+<programme channel="369235" start="20250128180000 +0800" stop="20250128210000 +0800">
+<date>2025-01-28</date>
+<desc>2023-24司諾克賽季 蘇格蘭公開賽 決賽 WIL vs SAE</desc>
+<title lang="zh">2023-24司諾克賽季 蘇格蘭公開賽 決賽 WIL vs SAE</title>
+</programme>
+<programme channel="369235" start="20250128210000 +0800" stop="20250129000000 +0800">
+<date>2025-01-28</date>
+<desc>2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</desc>
+<title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</title>
+</programme>
+<programme channel="369235" start="20250129000000 +0800" stop="20250130000000 +0800">
+<date>2025-01-29</date>
+<desc>2023-24司諾克賽季 英國公開賽 第一輪 BRE vs DIN</desc>
+<title lang="zh">2023-24司諾克賽季 英國公開賽 第一輪 BRE vs DIN</title>
 </programme>
 </tv>
