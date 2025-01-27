@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250127115403 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250127095130 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250127&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -147,6 +147,10 @@
 <channel id="369287">
 <display-name lang="Taiwan">緯來體育台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png" />
+</channel>
+<channel id="369288">
+<display-name lang="Taiwan">DAZN 1</display-name>
+<icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
 </channel>
 <programme channel="369218" start="20250127000000 +0800" stop="20250127010000 +0800">
 <date>2025-01-27</date>
@@ -8097,5 +8101,205 @@
 <date>2025-01-29</date>
 <desc>快艇VS太陽(1/28/25)#118 NBA美國籃球例行賽正激情上演！各球隊新進小將、資深老將們齊心奮戰，別錯過巔峰對決的熱血激動時刻！</desc>
 <title lang="zh">2024-2025 NBA籃球賽</title>
+</programme>
+<programme channel="369288" start="20250127011500 +0800" stop="20250127033000 +0800">
+<date>2025-01-27</date>
+<desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+<title lang="zh">(LIVE)西甲</title>
+</programme>
+<programme channel="369288" start="20250127033000 +0800" stop="20250127040000 +0800">
+<date>2025-01-27</date>
+<desc>鍵盤球探</desc>
+<title lang="zh">鍵盤球探</title>
+</programme>
+<programme channel="369288" start="20250127040000 +0800" stop="20250127060000 +0800">
+<date>2025-01-27</date>
+<desc>格鬥特區 競技空間拳擊</desc>
+<title lang="zh">格鬥特區 競技空間拳擊</title>
+</programme>
+<programme channel="369288" start="20250127060000 +0800" stop="20250127063000 +0800">
+<date>2025-01-27</date>
+<desc>健身特區</desc>
+<title lang="zh">健身特區</title>
+</programme>
+<programme channel="369288" start="20250127063000 +0800" stop="20250127070000 +0800">
+<date>2025-01-27</date>
+<desc>西甲世界</desc>
+<title lang="zh">西甲世界</title>
+</programme>
+<programme channel="369288" start="20250127070000 +0800" stop="20250127090000 +0800">
+<date>2025-01-27</date>
+<desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+<title lang="zh">西甲</title>
+</programme>
+<programme channel="369288" start="20250127090000 +0800" stop="20250127100000 +0800">
+<date>2025-01-27</date>
+<desc>西甲回顧</desc>
+<title lang="zh">西甲回顧</title>
+</programme>
+<programme channel="369288" start="20250127100000 +0800" stop="20250127120000 +0800">
+<date>2025-01-27</date>
+<desc>企業排球聯賽</desc>
+<title lang="zh">企業排球聯賽</title>
+</programme>
+<programme channel="369288" start="20250127120000 +0800" stop="20250127123000 +0800">
+<date>2025-01-27</date>
+<desc>健身特區</desc>
+<title lang="zh">健身特區</title>
+</programme>
+<programme channel="369288" start="20250127123000 +0800" stop="20250127130000 +0800">
+<date>2025-01-27</date>
+<desc>世界最強壯的男人（The World&apos;s Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+<title lang="zh">世界最強壯的男人</title>
+</programme>
+<programme channel="369288" start="20250127130000 +0800" stop="20250127140000 +0800">
+<date>2025-01-27</date>
+<desc>德州撲克百萬電視大賽</desc>
+<title lang="zh">德州撲克百萬電視大賽</title>
+</programme>
+<programme channel="369288" start="20250127140000 +0800" stop="20250127143000 +0800">
+<date>2025-01-27</date>
+<desc>誰是灌籃高手</desc>
+<title lang="zh">誰是灌籃高手</title>
+</programme>
+<programme channel="369288" start="20250127143000 +0800" stop="20250127150000 +0800">
+<date>2025-01-27</date>
+<desc>野球名人房</desc>
+<title lang="zh">野球名人房</title>
+</programme>
+<programme channel="369288" start="20250127150000 +0800" stop="20250127160000 +0800">
+<date>2025-01-27</date>
+<desc>麻將大師</desc>
+<title lang="zh">麻將大師</title>
+</programme>
+<programme channel="369288" start="20250127160000 +0800" stop="20250127180000 +0800">
+<date>2025-01-27</date>
+<desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+<title lang="zh">西甲</title>
+</programme>
+<programme channel="369288" start="20250127180000 +0800" stop="20250127203000 +0800">
+<date>2025-01-27</date>
+<desc>24-25TPBL</desc>
+<title lang="zh">24-25TPBL</title>
+</programme>
+<programme channel="369288" start="20250127203000 +0800" stop="20250127210000 +0800">
+<date>2025-01-27</date>
+<desc>(首)野球名人房</desc>
+<title lang="zh">(首)野球名人房</title>
+</programme>
+<programme channel="369288" start="20250127210000 +0800" stop="20250127220000 +0800">
+<date>2025-01-27</date>
+<desc>要用不一樣的風貌呈現給觀眾，像是氣象觀測一樣隨著體壇話題變化，「體壇觀測站」由知名體育主播常富寧擔任主持人搭配客座主持及來賓，節目內容包括國內外賽事報導，選手人物深入專訪，暢談運動商品趨勢流行，打造台灣最優質最獨特的體育節目！</desc>
+<title lang="zh">(首)體壇觀測站</title>
+</programme>
+<programme channel="369288" start="20250127220000 +0800" stop="20250128000000 +0800">
+<date>2025-01-27</date>
+<desc>(首)格鬥特區 競技空間拳擊</desc>
+<title lang="zh">(首)格鬥特區 競技空間拳擊</title>
+</programme>
+<programme channel="369288" start="20250128000000 +0800" stop="20250128010000 +0800">
+<date>2025-01-28</date>
+<desc>西甲回顧</desc>
+<title lang="zh">西甲回顧</title>
+</programme>
+<programme channel="369288" start="20250128010000 +0800" stop="20250128020000 +0800">
+<date>2025-01-28</date>
+<desc>要用不一樣的風貌呈現給觀眾，像是氣象觀測一樣隨著體壇話題變化，「體壇觀測站」由知名體育主播常富寧擔任主持人搭配客座主持及來賓，節目內容包括國內外賽事報導，選手人物深入專訪，暢談運動商品趨勢流行，打造台灣最優質最獨特的體育節目！</desc>
+<title lang="zh">體壇觀測站</title>
+</programme>
+<programme channel="369288" start="20250128020000 +0800" stop="20250128030000 +0800">
+<date>2025-01-28</date>
+<desc>德州撲克百萬電視大賽</desc>
+<title lang="zh">德州撲克百萬電視大賽</title>
+</programme>
+<programme channel="369288" start="20250128030000 +0800" stop="20250128060000 +0800">
+<date>2025-01-28</date>
+<desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
+<title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
+</programme>
+<programme channel="369288" start="20250128060000 +0800" stop="20250128063000 +0800">
+<date>2025-01-28</date>
+<desc>健身特區</desc>
+<title lang="zh">健身特區</title>
+</programme>
+<programme channel="369288" start="20250128063000 +0800" stop="20250128070000 +0800">
+<date>2025-01-28</date>
+<desc>西甲世界</desc>
+<title lang="zh">西甲世界</title>
+</programme>
+<programme channel="369288" start="20250128070000 +0800" stop="20250128090000 +0800">
+<date>2025-01-28</date>
+<desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+<title lang="zh">西甲</title>
+</programme>
+<programme channel="369288" start="20250128090000 +0800" stop="20250128100000 +0800">
+<date>2025-01-28</date>
+<desc>要用不一樣的風貌呈現給觀眾，像是氣象觀測一樣隨著體壇話題變化，「體壇觀測站」由知名體育主播常富寧擔任主持人搭配客座主持及來賓，節目內容包括國內外賽事報導，選手人物深入專訪，暢談運動商品趨勢流行，打造台灣最優質最獨特的體育節目！</desc>
+<title lang="zh">體壇觀測站</title>
+</programme>
+<programme channel="369288" start="20250128100000 +0800" stop="20250128120000 +0800">
+<date>2025-01-28</date>
+<desc>企業排球聯賽</desc>
+<title lang="zh">企業排球聯賽</title>
+</programme>
+<programme channel="369288" start="20250128120000 +0800" stop="20250128123000 +0800">
+<date>2025-01-28</date>
+<desc>健身特區</desc>
+<title lang="zh">健身特區</title>
+</programme>
+<programme channel="369288" start="20250128123000 +0800" stop="20250128130000 +0800">
+<date>2025-01-28</date>
+<desc>世界最強壯的男人（The World&apos;s Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+<title lang="zh">世界最強壯的男人</title>
+</programme>
+<programme channel="369288" start="20250128130000 +0800" stop="20250128140000 +0800">
+<date>2025-01-28</date>
+<desc>德州撲克百萬電視大賽</desc>
+<title lang="zh">德州撲克百萬電視大賽</title>
+</programme>
+<programme channel="369288" start="20250128140000 +0800" stop="20250128143000 +0800">
+<date>2025-01-28</date>
+<desc>誰是灌籃高手</desc>
+<title lang="zh">誰是灌籃高手</title>
+</programme>
+<programme channel="369288" start="20250128143000 +0800" stop="20250128150000 +0800">
+<date>2025-01-28</date>
+<desc>野球名人房</desc>
+<title lang="zh">野球名人房</title>
+</programme>
+<programme channel="369288" start="20250128150000 +0800" stop="20250128160000 +0800">
+<date>2025-01-28</date>
+<desc>麻將大師</desc>
+<title lang="zh">麻將大師</title>
+</programme>
+<programme channel="369288" start="20250128160000 +0800" stop="20250128163000 +0800">
+<date>2025-01-28</date>
+<desc>世界最強壯的男人（The World&apos;s Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+<title lang="zh">世界最強壯的男人</title>
+</programme>
+<programme channel="369288" start="20250128163000 +0800" stop="20250128183000 +0800">
+<date>2025-01-28</date>
+<desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+<title lang="zh">西甲</title>
+</programme>
+<programme channel="369288" start="20250128183000 +0800" stop="20250128190000 +0800">
+<date>2025-01-28</date>
+<desc>(首)鍵盤球探</desc>
+<title lang="zh">(首)鍵盤球探</title>
+</programme>
+<programme channel="369288" start="20250128190000 +0800" stop="20250128213000 +0800">
+<date>2025-01-28</date>
+<desc>(LIVE)24-25PLG</desc>
+<title lang="zh">(LIVE)24-25PLG</title>
+</programme>
+<programme channel="369288" start="20250128213000 +0800" stop="20250128220000 +0800">
+<date>2025-01-28</date>
+<desc>世界最強壯的男人（The World&apos;s Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+<title lang="zh">世界最強壯的男人</title>
+</programme>
+<programme channel="369288" start="20250128220000 +0800" stop="20250129000000 +0800">
+<date>2025-01-28</date>
+<desc>(首)格鬥特區 2024PFL 職業格鬥聯盟</desc>
+<title lang="zh">(首)格鬥特區 2024PFL 職業格鬥聯盟</title>
 </programme>
 </tv>
