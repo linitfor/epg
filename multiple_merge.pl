@@ -7,7 +7,7 @@ use XML::TreePP;
 my @files = ('./epg/1.xml', './epg/2.xml', './epg/3.xml', './epg/4.xml', './epg/5.xml', './epg/6.xml', './epg/7.xml', './epg/8.xml', './epg/9.xml', './epg/10.xml', 
 './epg/11.xml', './epg/12.xml', './epg/13.xml', './epg/14.xml', './epg/15.xml', './epg/16.xml', './epg/17.xml', './epg/18.xml', './epg/19.xml', './epg/20.xml', 
 './epg/21.xml', './epg/22.xml', './epg/23.xml', './epg/24.xml', './epg/25.xml', './epg/26.xml', './epg/27.xml', './epg/28.xml', './epg/29.xml', './epg/30.xml', 
-'./epg/31.xml', './epg/32.xml', './epg/33.xml', './epg/34.xml', './epg/35.xml', './epg/36.xml', './epg/37.xml', './epg/38.xml', './epg/39.xml', './epg/40.xml'');
+'./epg/31.xml', './epg/32.xml', './epg/33.xml', './epg/34.xml', './epg/35.xml', './epg/36.xml', './epg/37.xml', './epg/38.xml', './epg/39.xml', './epg/40.xml');
 my $output_file = 'merged.xml';
 
 my $tpp = XML::TreePP->new();
