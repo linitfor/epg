@@ -4,7 +4,7 @@ use strict;
 use XML::TreePP;
 
 # List your XMLTV files here
-my @files = ('1.xml', '2xml', '3.xml');
+my @files = ('1.xml', '2.xml', '3.xml');
 my $output_file = 'merged.xml';
 
 my $tpp = XML::TreePP->new();
