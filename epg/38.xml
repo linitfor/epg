@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250129212846 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250129.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250129&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250130003141 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250130&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369288">
     <display-name lang="Taiwan">DAZN 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
   </channel>
-  <programme channel="369288" start="20250129010000 +0800" stop="20250129020000 +0800">
-    <title lang="zh">體壇觀測站</title>
-    <desc>要用不一樣的風貌呈現給觀眾，像是氣象觀測一樣隨著體壇話題變化，「體壇觀測站」由知名體育主播常富寧擔任主持人搭配客座主持及來賓，節目內容包括國內外賽事報導，選手人物深入專訪，暢談運動商品趨勢流行，打造台灣最優質最獨特的體育節目！</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129020000 +0800" stop="20250129030000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129030000 +0800" stop="20250129060000 +0800">
-    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
-    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129060000 +0800" stop="20250129063000 +0800">
-    <title lang="zh">健身特區</title>
-    <desc>健身特區</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129063000 +0800" stop="20250129070000 +0800">
-    <title lang="zh">西甲世界</title>
-    <desc>西甲世界</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129070000 +0800" stop="20250129090000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129090000 +0800" stop="20250129100000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129100000 +0800" stop="20250129120000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129120000 +0800" stop="20250129123000 +0800">
-    <title lang="zh">健身特區</title>
-    <desc>健身特區</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129123000 +0800" stop="20250129130000 +0800">
-    <title lang="zh">世界最強壯的男人</title>
-    <desc>世界最強壯的男人（The World's Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129130000 +0800" stop="20250129140000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129140000 +0800" stop="20250129143000 +0800">
-    <title lang="zh">鍵盤球探</title>
-    <desc>鍵盤球探</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129143000 +0800" stop="20250129150000 +0800">
-    <title lang="zh">野球名人房</title>
-    <desc>野球名人房</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129150000 +0800" stop="20250129160000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129160000 +0800" stop="20250129183000 +0800">
-    <title lang="zh">24-25TPBL</title>
-    <desc>24-25TPBL</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129183000 +0800" stop="20250129190000 +0800">
-    <title lang="zh">誰是灌籃高手</title>
-    <desc>誰是灌籃高手</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129190000 +0800" stop="20250129200000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129200000 +0800" stop="20250129210000 +0800">
-    <title lang="zh">世界最強壯的男人</title>
-    <desc>世界最強壯的男人（The World's Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129210000 +0800" stop="20250129220000 +0800">
-    <title lang="zh">(首)巨人挑戰賽</title>
-    <desc>(首)巨人挑戰賽</desc>
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="369288" start="20250129220000 +0800" stop="20250130000000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽</desc>
-    <date>2025-01-29</date>
-  </programme>
   <programme channel="369288" start="20250130000000 +0800" stop="20250130010000 +0800">
     <title lang="zh">2024西甲年度最佳進球</title>
     <desc>2024西甲年度最佳進球</desc>
@@ -209,9 +109,94 @@
     <desc>企業排球聯賽</desc>
     <date>2025-01-30</date>
   </programme>
-  <programme channel="369288" start="20250131000000 +0800" stop="20250201000000 +0800">
+  <programme channel="369288" start="20250131000000 +0800" stop="20250131010000 +0800">
     <title lang="zh">2024西甲年度關鍵戰役</title>
     <desc>2024西甲年度關鍵戰役</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131010000 +0800" stop="20250131020000 +0800">
+    <title lang="zh">巨人挑戰賽</title>
+    <desc>巨人挑戰賽</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131020000 +0800" stop="20250131030000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131030000 +0800" stop="20250131050000 +0800">
+    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
+    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131050000 +0800" stop="20250131080000 +0800">
+    <title lang="zh">2024日本職棒高潮系列賽</title>
+    <desc>2024日本職棒高潮系列賽 火腿 vs 羅德 G2 (10/13/24)</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131080000 +0800" stop="20250131090000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師 第六季 EP44</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131090000 +0800" stop="20250131100000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師 第六季 EP45</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131100000 +0800" stop="20250131120000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽 義力營造 vs 臺北鯨華 (10/26/24)</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131120000 +0800" stop="20250131123000 +0800">
+    <title lang="zh">世界最強壯的男人</title>
+    <desc>世界最強壯的男人 S4 EP3</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131123000 +0800" stop="20250131130000 +0800">
+    <title lang="zh">世界最強壯的男人</title>
+    <desc>世界最強壯的男人 S4 EP4</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131130000 +0800" stop="20250131140000 +0800">
+    <title lang="zh">2024高雄霹靂舞國際大賽</title>
+    <desc>2024高雄霹靂舞國際大賽 EP4</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131140000 +0800" stop="20250131163000 +0800">
+    <title lang="zh">24-25TPBL</title>
+    <desc>24-25TPBL 國王 vs 海神 (10/19/24)</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131163000 +0800" stop="20250131170000 +0800">
+    <title lang="zh">野球名人房</title>
+    <desc>野球名人房 12強英雄特輯 陳傑憲 上</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131170000 +0800" stop="20250131200000 +0800">
+    <title lang="zh">2024中華職棒</title>
+    <desc>2024中華職棒 統一 vs 台鋼 (8/29/24)</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131200000 +0800" stop="20250131203000 +0800">
+    <title lang="zh">(首)世界最強壯的男人</title>
+    <desc>(首)世界最強壯的男人 S4 EP5</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131203000 +0800" stop="20250131210000 +0800">
+    <title lang="zh">世界最強壯的男人</title>
+    <desc>世界最強壯的男人 S3 EP5</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131210000 +0800" stop="20250131220000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽 第四季 EP7</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="369288" start="20250131220000 +0800" stop="20250201000000 +0800">
+    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
+    <desc>格鬥特區 2024PFL 職業格鬥聯盟 例行賽EP3</desc>
     <date>2025-01-31</date>
   </programme>
 </tv>

@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250129212852 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250129.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250129&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250130003148 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250130&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="271829">
     <display-name lang="Taiwan">東森幼幼台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="271829" start="20250129000000 +0800" stop="20250129003000 +0800">
-    <title lang="zh">櫻桃小丸子HD</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129003000 +0800" stop="20250129020000 +0800">
-    <title lang="zh">我們這一家</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129020000 +0800" stop="20250129040000 +0800">
-    <title lang="zh">腦筋急轉彎</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129040000 +0800" stop="20250129050000 +0800">
-    <title lang="zh">我們這一家</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129050000 +0800" stop="20250129060000 +0800">
-    <title lang="zh">櫻桃小丸子HD</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129060000 +0800" stop="20250129063000 +0800">
-    <title lang="zh">粉紅豬小妹</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129063000 +0800" stop="20250129070000 +0800">
-    <title lang="zh">POLI</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129070000 +0800" stop="20250129073000 +0800">
-    <title lang="zh">阿奇幼幼園</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129073000 +0800" stop="20250129080000 +0800">
-    <title lang="zh">妙妙犬布麗</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129080000 +0800" stop="20250129090000 +0800">
-    <title lang="zh">可愛巧虎島劇場版-巧虎繪本王國歷險記</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129090000 +0800" stop="20250129093000 +0800">
-    <title lang="zh">蓋比的娃娃屋</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129093000 +0800" stop="20250129094500 +0800">
-    <title lang="zh">粉紅豬小妹的黃金雨靴</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129094500 +0800" stop="20250129100000 +0800">
-    <title lang="zh">粉紅豬小妹</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129100000 +0800" stop="20250129110000 +0800">
-    <title lang="zh">妙妙犬布麗</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129110000 +0800" stop="20250129120000 +0800">
-    <title lang="zh">我們這一家</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129120000 +0800" stop="20250129140000 +0800">
-    <title lang="zh">腦筋急轉彎</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129140000 +0800" stop="20250129160000 +0800">
-    <title lang="zh">蠟筆小新--幽靈忍者珍風傳</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129160000 +0800" stop="20250129174500 +0800">
-    <title lang="zh">蜂電影</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129174500 +0800" stop="20250129183000 +0800">
-    <title lang="zh">我們這一家</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129183000 +0800" stop="20250129190000 +0800">
-    <title lang="zh">我們這一家 NEXT</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129190000 +0800" stop="20250129205500 +0800">
-    <title lang="zh">蠟筆小新--新次元!超能力大決戰~飛吧!手卷壽司~</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129205500 +0800" stop="20250129231500 +0800">
-    <title lang="zh">海洋奇緣</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
-  <programme channel="271829" start="20250129231500 +0800" stop="20250130000000 +0800">
-    <title lang="zh">櫻桃小丸子HD</title>
-    <desc />
-    <date>2025-01-29</date>
-  </programme>
   <programme channel="271829" start="20250130001500 +0800" stop="20250130004500 +0800">
     <title lang="zh">櫻桃小丸子HD</title>
     <desc />
@@ -238,5 +123,135 @@
     <title lang="zh">櫻桃小丸子HD</title>
     <desc />
     <date>2025-01-30</date>
+  </programme>
+  <programme channel="271829" start="20250131003500 +0800" stop="20250131013500 +0800">
+    <title lang="zh">我們這一家-超能力花媽</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131013500 +0800" stop="20250131020000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131020000 +0800" stop="20250131040500 +0800">
+    <title lang="zh">青春養成記</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131040500 +0800" stop="20250131050000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131050000 +0800" stop="20250131060000 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131060000 +0800" stop="20250131063000 +0800">
+    <title lang="zh">粉紅豬小妹</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131063000 +0800" stop="20250131070000 +0800">
+    <title lang="zh">POLI</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131070000 +0800" stop="20250131073000 +0800">
+    <title lang="zh">阿奇幼幼園</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131073000 +0800" stop="20250131074500 +0800">
+    <title lang="zh">妙妙犬布麗</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131074500 +0800" stop="20250131090000 +0800">
+    <title lang="zh">芭比之城市夢想家</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131090000 +0800" stop="20250131093000 +0800">
+    <title lang="zh">蓋比的娃娃屋</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131093000 +0800" stop="20250131100000 +0800">
+    <title lang="zh">粉紅豬小妹</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131100000 +0800" stop="20250131110000 +0800">
+    <title lang="zh">妙妙犬布麗</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131110000 +0800" stop="20250131120000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131120000 +0800" stop="20250131140000 +0800">
+    <title lang="zh">蠟筆小新--謎案！天下春日部學院的怪奇事件</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131140000 +0800" stop="20250131160500 +0800">
+    <title lang="zh">青春養成記</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131160500 +0800" stop="20250131170000 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131170000 +0800" stop="20250131173000 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131173000 +0800" stop="20250131180000 +0800">
+    <title lang="zh">國王戰隊</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131180000 +0800" stop="20250131183000 +0800">
+    <title lang="zh">新我們這一家</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131183000 +0800" stop="20250131190000 +0800">
+    <title lang="zh">我們這一家 NEXT</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131190000 +0800" stop="20250131193000 +0800">
+    <title lang="zh">神奇柑仔店</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131193000 +0800" stop="20250131200000 +0800">
+    <title lang="zh">戰鬥陀螺X-最棒的陀螺手</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131200000 +0800" stop="20250131214500 +0800">
+    <title lang="zh">寵物當家2</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131214500 +0800" stop="20250131234000 +0800">
+    <title lang="zh">獅子王</title>
+    <desc />
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="271829" start="20250131234000 +0800" stop="20250201000000 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
+    <desc />
+    <date>2025-01-31</date>
   </programme>
 </tv>
