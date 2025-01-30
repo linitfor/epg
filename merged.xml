@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250131052151 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250131072409 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -2591,6 +2591,10 @@
 <programme channel="370177" start="20250201230000 +0800" stop="20250202000000 +0800">
 <date>2025-02-01</date>
 <desc /><title lang="zh">琴謙天下事</title>
+</programme>
+<programme channel="370177" start="20250202000000 +0800" stop="20250203000000 +0800">
+<date>2025-02-02</date>
+<desc /><title lang="zh">中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20250131013000 +0800" stop="20250131020000 +0800">
 <date>2025-01-31</date>
