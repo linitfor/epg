@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250130212828 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250130&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250131003145 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250130000000 +0800" stop="20250130063000 +0800">
-    <title lang="zh">首播2025澳洲網球公開賽DAY10八強</title>
-    <desc>首播2025澳洲網球公開賽DAY10八強</desc>
-    <date>2025-01-30</date>
-  </programme>
-  <programme channel="369216" start="20250130063000 +0800" stop="20250130210000 +0800">
-    <title lang="zh">LIVE2025澳洲網球公開賽DAY11八強</title>
-    <desc>LIVE2025澳洲網球公開賽DAY11八強</desc>
-    <date>2025-01-30</date>
-  </programme>
-  <programme channel="369216" start="20250130210000 +0800" stop="20250131000000 +0800">
-    <title lang="zh">首播2025澳洲網球公開賽DAY11八強</title>
-    <desc>首播2025澳洲網球公開賽DAY11八強</desc>
-    <date>2025-01-30</date>
-  </programme>
   <programme channel="369216" start="20250131000000 +0800" stop="20250131070000 +0800">
     <title lang="zh">首播2025澳洲網球公開賽DAY11八強</title>
     <desc>首播2025澳洲網球公開賽DAY11八強</desc>
@@ -44,9 +29,39 @@
     <desc>首播2025澳洲網球公開賽DAY12</desc>
     <date>2025-01-31</date>
   </programme>
-  <programme channel="369216" start="20250201000000 +0800" stop="20250202000000 +0800">
+  <programme channel="369216" start="20250201000000 +0800" stop="20250201073000 +0800">
     <title lang="zh">首播2025澳洲網球公開賽DAY12</title>
     <desc>首播2025澳洲網球公開賽DAY12</desc>
     <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250201073000 +0800" stop="20250201140000 +0800">
+    <title lang="zh">LIVE2025澳洲網球公開賽DAY13混雙決賽/男單四強</title>
+    <desc>LIVE2025澳洲網球公開賽DAY13混雙決賽/男單四強</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250201140000 +0800" stop="20250201150000 +0800">
+    <title lang="zh">2025澳網第9天精華</title>
+    <desc>2025澳網第9天精華</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250201150000 +0800" stop="20250201160000 +0800">
+    <title lang="zh">2025澳網第10天精華</title>
+    <desc>2025澳網第10天精華</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250201160000 +0800" stop="20250201193000 +0800">
+    <title lang="zh">LIVE2025澳洲網球公開賽DAY13男單四強</title>
+    <desc>LIVE2025澳洲網球公開賽DAY13男單四強</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250201193000 +0800" stop="20250202000000 +0800">
+    <title lang="zh">首播2025澳洲網球公開賽DAY13混雙決賽/男單四強</title>
+    <desc>首播2025澳洲網球公開賽DAY13混雙決賽/男單四強</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="369216" start="20250202000000 +0800" stop="20250203000000 +0800">
+    <title lang="zh">首播2025澳洲網球公開賽DAY13混雙決賽/男單四強</title>
+    <desc>首播2025澳洲網球公開賽DAY13混雙決賽/男單四強</desc>
+    <date>2025-02-02</date>
   </programme>
 </tv>
