@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250131232427 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250201003015 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250201.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250201&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334710">
     <display-name lang="Taiwan">Cinemax</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334710" start="20250131001500 +0800" stop="20250131020500 +0800">
-    <title lang="zh">風雲男人幫</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131020500 +0800" stop="20250131033500 +0800">
-    <title lang="zh">正義聯盟:戰爭世界</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131033500 +0800" stop="20250131050500 +0800">
-    <title lang="zh">哈啦上路</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131050500 +0800" stop="20250131053500 +0800">
-    <title lang="zh">我家也有大明星S6：01</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131053500 +0800" stop="20250131060000 +0800">
-    <title lang="zh">我家也有大明星S6：02</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131060000 +0800" stop="20250131080000 +0800">
-    <title lang="zh">坎達哈行動</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131080000 +0800" stop="20250131085500 +0800">
-    <title lang="zh">守護者S1:03</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131085500 +0800" stop="20250131102500 +0800">
-    <title lang="zh">拿破崙炸藥</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131102500 +0800" stop="20250131121500 +0800">
-    <title lang="zh">聯航93</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131121500 +0800" stop="20250131140500 +0800">
-    <title lang="zh">風雲男人幫</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131140500 +0800" stop="20250131155000 +0800">
-    <title lang="zh">中央情爆員</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131155000 +0800" stop="20250131180500 +0800">
-    <title lang="zh">打不倒的勇者</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131180500 +0800" stop="20250131194500 +0800">
-    <title lang="zh">大到不能倒：金融海嘯真相</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131194500 +0800" stop="20250131220000 +0800">
-    <title lang="zh">蜘蛛人:返校日</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="334710" start="20250131220000 +0800" stop="20250201000000 +0800">
-    <title lang="zh">機密真相</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
   <programme channel="334710" start="20250201001500 +0800" stop="20250201022000 +0800">
     <title lang="zh">絕地營救</title>
     <desc />
@@ -138,5 +63,75 @@
     <title lang="zh">玩命關頭8</title>
     <desc />
     <date>2025-02-01</date>
+  </programme>
+  <programme channel="334710" start="20250202001500 +0800" stop="20250202023500 +0800">
+    <title lang="zh">玩命關頭X</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202023500 +0800" stop="20250202030000 +0800">
+    <title lang="zh">我家也有大明星S6：03</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202030000 +0800" stop="20250202041500 +0800">
+    <title lang="zh">真人快打：凱吉之戰</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202041500 +0800" stop="20250202060000 +0800">
+    <title lang="zh">大明星小跟班</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202060000 +0800" stop="20250202065500 +0800">
+    <title lang="zh">守護者S1:03</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202065500 +0800" stop="20250202091000 +0800">
+    <title lang="zh">永不屈服</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202091000 +0800" stop="20250202110500 +0800">
+    <title lang="zh">魔鬼終結者：未來救贖</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202110500 +0800" stop="20250202130000 +0800">
+    <title lang="zh">親家路窄</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202130000 +0800" stop="20250202144000 +0800">
+    <title lang="zh">門當父不對之我才是老大</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202144000 +0800" stop="20250202161500 +0800">
+    <title lang="zh">愛因斯坦與愛丁頓</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202161500 +0800" stop="20250202175500 +0800">
+    <title lang="zh">霹靂嬌娃</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202175500 +0800" stop="20250202194000 +0800">
+    <title lang="zh">霹靂嬌娃2:全速進攻</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202194000 +0800" stop="20250202220000 +0800">
+    <title lang="zh">玩命關頭8</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="334710" start="20250202220000 +0800" stop="20250203000000 +0800">
+    <title lang="zh">玩命關頭X</title>
+    <desc />
+    <date>2025-02-02</date>
   </programme>
 </tv>

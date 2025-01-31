@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250131232426 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369313/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369313&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250201003014 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369313/20250201.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369313&amp;date=20250201&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369313">
     <display-name lang="Taiwan">HBO HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154432045568_41.jpg" />
   </channel>
-  <programme channel="369313" start="20250131001000 +0800" stop="20250131015000 +0800">
-    <title lang="zh">醉後大丈夫2</title>
-    <desc>準備好進行第二回合的終極大狂歡嗎？在本續集中，菲爾、史都、亞倫和道格來到充滿異國風情的泰國參加史都婚禮。</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131015000 +0800" stop="20250131035000 +0800">
-    <title lang="zh">熾愛琴人</title>
-    <desc>這齣HBO 影片描述娛樂界的經典人物，奢華的利柏拉契與年輕愛人充滿風暴的五年同居生活</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131035000 +0800" stop="20250131044500 +0800">
-    <title lang="zh">末世餘生第1季:8</title>
-    <desc>這齣HBO原創戲劇影集描寫在全世界有2%的人口突然莫名失蹤的情況下，紐約的那些人如何面對的過程。</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131044500 +0800" stop="20250131063000 +0800">
-    <title lang="zh">約翰麥肯-喪鐘為誰而鳴</title>
-    <desc>亞利桑那州參議員約翰麥肯啟發人心的傳記影片。他曾淪為越戰戰俘長達五年以上，並於參議院服務達31年。堅忍不拔的精神在他與癌症的搏鬥中再度體現</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131063000 +0800" stop="20250131080500 +0800">
-    <title lang="zh">憤怒鳥玩電影2</title>
-    <desc>一起事件讓鳥之島與豬之島同時陷入了危險，銳德、恰克、砰伯以及威猛鷹神找來了恰克的妹妹，並與綠豬達成停戰，共同組隊拯救家園</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131080500 +0800" stop="20250131100000 +0800">
-    <title lang="zh">哥吉拉與金剛-新帝國</title>
-    <desc>一場全新冒險使無敵的金剛與威風的哥吉拉聯手對抗巨獸，並發掘了潛藏的危險，威脅著巨獸乃至於人類的生存</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131100000 +0800" stop="20250131110000 +0800">
-    <title lang="zh">倫敦神探第4季:2</title>
-    <desc>科默朗史崔克調查紅遍全球的超級名模的離奇兇案</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131110000 +0800" stop="20250131133500 +0800">
-    <title lang="zh">銀翼殺手2049</title>
-    <desc>在第一部電影事件發生的30年後，新任銀翼殺手紐約警官K發現一個隱藏已久，足以讓社會陷入混亂的的秘密</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131133500 +0800" stop="20250131140000 +0800">
-    <title lang="zh">好萊塢好好看第1季:1102</title>
-    <desc>本節目每週深入幕後與片場，介紹三部強檔電影的製作過程，內含動作片段與演員及製作人的採訪</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131140000 +0800" stop="20250131155500 +0800">
-    <title lang="zh">玩命特攻-武演行動</title>
-    <desc>頂級間諜歐森福瓊必須追查並阻止億萬軍火商葛瑞西蒙茲銷售他持有的致命新武器技術</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131155500 +0800" stop="20250131175500 +0800">
-    <title lang="zh">金剛-骷髏島</title>
-    <desc>由科學家、士兵與冒險家所組成的探險隊打算深入一座神秘的無名小島探勘，卻因此引發人類與大自然的終極戰爭</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131175500 +0800" stop="20250131200000 +0800">
-    <title lang="zh">藍甲蟲</title>
-    <desc>聖甲蟲突然選擇傑米當作共生宿主，賦予他一套令人難以置信的盔甲，具有非凡和不可預測的力量，而這永遠改變了他的命運，因為他成為了超級英雄藍甲蟲</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131200000 +0800" stop="20250131210000 +0800">
-    <title lang="zh">倫敦神探第4季:2</title>
-    <desc>科默朗史崔克調查紅遍全球的超級名模的離奇兇案</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131210000 +0800" stop="20250131232000 +0800">
-    <title lang="zh">玩命關頭X</title>
-    <desc>唐老大和他的夥伴必須面對有史以來最致命的對手：一個從過去的陰影中浮現的可怕威脅</desc>
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="369313" start="20250131232000 +0800" stop="20250201000000 +0800">
-    <title lang="zh">超危險保鑣</title>
-    <desc>受困於平凡的平民生活的退伍陸軍抓住機會，護送一名頗具爭議的記者前往南美洲採訪一名殘酷的獨裁者。他們抵達後，一場政變爆發，迫使這個由軍人、記者和獨裁者組成的特殊團隊共同努力，阻止政變，努力活著離開這個國家</desc>
-    <date>2025-01-31</date>
-  </programme>
   <programme channel="369313" start="20250201010500 +0800" stop="20250201030000 +0800">
     <title lang="zh">反恐特警組</title>
     <desc>各路人馬因為1億美金的酬勞賞金紛紛出動，特警隊很快就意識到，此次任務必須要火力全開…</desc>
@@ -143,5 +68,85 @@
     <title lang="zh">怒火狂猴</title>
     <desc>一名地下格鬥社團的員工出發尋仇，找上弒母仇人──一群欺凌弱者的犯罪首腦</desc>
     <date>2025-02-01</date>
+  </programme>
+  <programme channel="369313" start="20250202000500 +0800" stop="20250202014000 +0800">
+    <title lang="zh">太空管制I.S.S.</title>
+    <desc>世界大戰在地球爆發，各國秘密地與他們在國際太空站的太空人聯絡，指示他們控制太空站</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202014000 +0800" stop="20250202032500 +0800">
+    <title lang="zh">圈套</title>
+    <desc>一對父女一同參加演唱會，卻發現自己陷入一場黑暗又邪惡的風暴之中</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202032500 +0800" stop="20250202045500 +0800">
+    <title lang="zh">人生訪客</title>
+    <desc>一名男子必須發掘畫中分身的真實身份</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202045500 +0800" stop="20250202062500 +0800">
+    <title lang="zh">非愛不可的聖誕</title>
+    <desc>一個著名的聖誕小說作家突然因雪受困冬季樂園小鎮，她意外碰上兒時暗戀對象，以及一名堅決想訪問她的記者。當她同時愛上兩人，該如何是好？真是段小說般的佳節三角戀</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202062500 +0800" stop="20250202083000 +0800">
+    <title lang="zh">真愛每一天</title>
+    <desc>善良的年輕律師運用自己時空旅行的能力來追求心儀的女子，卻發現這個能力無法 讓他免於生命中的苦痛。</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202083000 +0800" stop="20250202095500 +0800">
+    <title lang="zh">森林保衛戰</title>
+    <desc>快別錯過這部夢工廠年度動畫鉅作!從冬眠中甦醒的動物們發現自己就在”人類”的家園旁，而”人類” 的垃圾桶竟然是寶藏箱，充滿了野生動物愛吃的食物…</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202095500 +0800" stop="20250202104500 +0800">
+    <title lang="zh">利器第1季:5</title>
+    <desc>記者卡蜜兒普利克為了報導兩名小女孩的兇案，回到家鄉小鎮，卻發現自己對被害人的遭遇似乎太過於熟悉…</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202104500 +0800" stop="20250202114000 +0800">
+    <title lang="zh">利器第1季:6</title>
+    <desc>記者卡蜜兒普利克為了報導兩名小女孩的兇案，回到家鄉小鎮，卻發現自己對被害人的遭遇似乎太過於熟悉…</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202114000 +0800" stop="20250202123500 +0800">
+    <title lang="zh">利器第1季:7</title>
+    <desc>記者卡蜜兒普利克為了報導兩名小女孩的兇案，回到家鄉小鎮，卻發現自己對被害人的遭遇似乎太過於熟悉…</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202123500 +0800" stop="20250202132500 +0800">
+    <title lang="zh">利器第1季:8</title>
+    <desc>記者卡蜜兒普利克為了報導兩名小女孩的兇案，回到家鄉小鎮，卻發現自己對被害人的遭遇似乎太過於熟悉…</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202132500 +0800" stop="20250202151000 +0800">
+    <title lang="zh">灰色花園</title>
+    <desc>本HBO自製電影榮獲影評人協會獎及包括最佳電視電影,女主角等六座艾美獎,本片描述賈桂琳甘迺迪的阿姨與甥女精彩人生。本片焦點集中於在拍攝他們迷人和富有的生活，以及他們家道中落的幕後祕辛</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202151000 +0800" stop="20250202164000 +0800">
+    <title lang="zh">豆豆假期</title>
+    <desc>豆豆先生又回來了!! 這次幸運的豆豆先生中了大獎,將前往法國度假，但路途上他可一點都不幸運,風波不斷的豆豆會有個圓滿的假期嗎?</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202164000 +0800" stop="20250202191000 +0800">
+    <title lang="zh">神力女超人1984</title>
+    <desc>神力女超人即將與擁有超人力量與速度的反派豹女正面對決</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202191000 +0800" stop="20250202210000 +0800">
+    <title lang="zh">超危險警探</title>
+    <desc>一名失憶的前重案組探員被迫調查一起他無法回憶的殘忍兇殺案</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202210000 +0800" stop="20250202224500 +0800">
+    <title lang="zh">孤狼救援</title>
+    <desc>特種部隊退伍軍人利伊岡納的孩子被毒販綁架，他不惜一切代價也要把他們救回來</desc>
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="369313" start="20250202224500 +0800" stop="20250203000000 +0800">
+    <title lang="zh">圈套</title>
+    <desc>一對父女一同參加演唱會，卻發現自己陷入一場黑暗又邪惡的風暴之中</desc>
+    <date>2025-02-02</date>
   </programme>
 </tv>

@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250131232414 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370175/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370175&amp;date=20250131&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250201003002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370175/20250201.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370175&amp;date=20250201&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370175">
     <display-name lang="Taiwan">東森財經新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110856176677_36.png" />
   </channel>
-  <programme channel="370175" start="20250131000000 +0800" stop="20250131010000 +0800">
-    <title lang="zh">銅板美食呷透透</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131010000 +0800" stop="20250131020000 +0800">
-    <title lang="zh">重案組</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131020000 +0800" stop="20250131030000 +0800">
-    <title lang="zh">現代啟示錄</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131030000 +0800" stop="20250131040000 +0800">
-    <title lang="zh">台灣大代誌</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131040000 +0800" stop="20250131050000 +0800">
-    <title lang="zh">夢想街57號-預約你的夢想</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131050000 +0800" stop="20250131060000 +0800">
-    <title lang="zh">重返時間線</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131060000 +0800" stop="20250131070000 +0800">
-    <title lang="zh">進擊的台灣</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131070000 +0800" stop="20250131080000 +0800">
-    <title lang="zh">銅板美食呷透透</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131080000 +0800" stop="20250131090000 +0800">
-    <title lang="zh">蛇年6一波</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131090000 +0800" stop="20250131100000 +0800">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131100000 +0800" stop="20250131110000 +0800">
-    <title lang="zh">重返時間線</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131110000 +0800" stop="20250131120000 +0800">
-    <title lang="zh">趨勢造夢者</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131120000 +0800" stop="20250131130000 +0800">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131130000 +0800" stop="20250131140000 +0800">
-    <title lang="zh">57怪奇物語</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131140000 +0800" stop="20250131150000 +0800">
-    <title lang="zh">現代啟示錄</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131150000 +0800" stop="20250131160000 +0800">
-    <title lang="zh">台灣啟示錄</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131160000 +0800" stop="20250131170000 +0800">
-    <title lang="zh">台灣大代誌</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131170000 +0800" stop="20250131180000 +0800">
-    <title lang="zh">蛇年6一波</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131180000 +0800" stop="20250131190000 +0800">
-    <title lang="zh">東森財經晚報 LIVE</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131190000 +0800" stop="20250131200000 +0800">
-    <title lang="zh">銅板美食呷透透</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131200000 +0800" stop="20250131210000 +0800">
-    <title lang="zh">進擊的台灣</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131210000 +0800" stop="20250131220000 +0800">
-    <title lang="zh">現代啟示錄</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131220000 +0800" stop="20250131230000 +0800">
-    <title lang="zh">57怪奇物語</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
-  <programme channel="370175" start="20250131230000 +0800" stop="20250201000000 +0800">
-    <title lang="zh">夢想街57號-預約你的夢想</title>
-    <desc />
-    <date>2025-01-31</date>
-  </programme>
   <programme channel="370175" start="20250201000000 +0800" stop="20250201010000 +0800">
     <title lang="zh">進擊的台灣</title>
     <desc />
@@ -249,7 +129,127 @@
     <desc />
     <date>2025-02-01</date>
   </programme>
-  <programme channel="370175" start="20250202000000 +0800" stop="20250203000000 +0800">
+  <programme channel="370175" start="20250202000000 +0800" stop="20250202010000 +0800">
+    <title lang="zh">台灣大代誌</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202010000 +0800" stop="20250202020000 +0800">
+    <title lang="zh">重案組</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202020000 +0800" stop="20250202030000 +0800">
+    <title lang="zh">現代啟示錄</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202030000 +0800" stop="20250202040000 +0800">
+    <title lang="zh">台灣大代誌</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202040000 +0800" stop="20250202050000 +0800">
+    <title lang="zh">打卡吧我的炫FOOD日記</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202050000 +0800" stop="20250202060000 +0800">
+    <title lang="zh">57怪奇物語</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202060000 +0800" stop="20250202070000 +0800">
+    <title lang="zh">進擊的台灣</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202070000 +0800" stop="20250202080000 +0800">
+    <title lang="zh">銅板美食呷透透</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202080000 +0800" stop="20250202083000 +0800">
+    <title lang="zh">Dr.劉的健康週報</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202083000 +0800" stop="20250202090000 +0800">
+    <title lang="zh">銅板美食呷透透</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202090000 +0800" stop="20250202100000 +0800">
+    <title lang="zh">重案組</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202100000 +0800" stop="20250202110000 +0800">
+    <title lang="zh">進擊的台灣</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202110000 +0800" stop="20250202120000 +0800">
+    <title lang="zh">打卡吧!我的炫FOOD日記</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202120000 +0800" stop="20250202130000 +0800">
+    <title lang="zh">進擊的台灣</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202130000 +0800" stop="20250202140000 +0800">
+    <title lang="zh">57怪奇物語</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202140000 +0800" stop="20250202150000 +0800">
+    <title lang="zh">重案組</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202150000 +0800" stop="20250202160000 +0800">
+    <title lang="zh">57健康同學會</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202160000 +0800" stop="20250202170000 +0800">
+    <title lang="zh">現代啟示錄</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202170000 +0800" stop="20250202180000 +0800">
+    <title lang="zh">銅板美食呷透透</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202180000 +0800" stop="20250202190000 +0800">
+    <title lang="zh">東森財經晚報 LIVE</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202190000 +0800" stop="20250202200000 +0800">
+    <title lang="zh">趨勢造夢者</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202200000 +0800" stop="20250202210000 +0800">
+    <title lang="zh">進擊的台灣</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202210000 +0800" stop="20250202220000 +0800">
+    <title lang="zh">台灣大代誌</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202220000 +0800" stop="20250202230000 +0800">
+    <title lang="zh">現代啟示錄</title>
+    <desc />
+    <date>2025-02-02</date>
+  </programme>
+  <programme channel="370175" start="20250202230000 +0800" stop="20250203000000 +0800">
     <title lang="zh">台灣大代誌</title>
     <desc />
     <date>2025-02-02</date>
