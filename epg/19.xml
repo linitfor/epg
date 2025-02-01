@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250202022929 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20250202.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20250202&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250202052152 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20250202.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20250202&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370149">
     <display-name lang="Taiwan">愛爾達娛樂台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" />
@@ -303,5 +303,10 @@
     <title lang="zh">體壇最前線 2/3(第34集) (普)</title>
     <desc />
     <date>2025-02-03</date>
+  </programme>
+  <programme channel="370149" start="20250204000000 +0800" stop="20250205000000 +0800">
+    <title lang="zh">醫師好辣(第239集) (普)</title>
+    <desc />
+    <date>2025-02-04</date>
   </programme>
 </tv>
