@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250204023418 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250204.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250204&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250204052251 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250204.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250204&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1486,6 +1486,10 @@
 <date>2025-02-05</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250206000000 +0800" stop="20250207000000 +0800">
+<date>2025-02-06</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250204000000 +0800" stop="20250204010000 +0800">
 <date>2025-02-04</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2178,6 +2182,10 @@
 <date>2025-02-05</date>
 <desc /><title lang="zh">全球大視野</title>
 </programme>
+<programme channel="370177" start="20250206000000 +0800" stop="20250207000000 +0800">
+<date>2025-02-06</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250204013000 +0800" stop="20250204020000 +0800">
 <date>2025-02-04</date>
 <desc /><title lang="zh">元氣加油站【普】(E2854)</title>
@@ -2684,35 +2692,35 @@
 </programme>
 <programme channel="334773" start="20250204000000 +0800" stop="20250204010000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(18)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
 </programme>
 <programme channel="334773" start="20250204010000 +0800" stop="20250204020000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
 </programme>
 <programme channel="334773" start="20250204020000 +0800" stop="20250204030000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">全民星攻略(1106)(普)</title>
+<desc /><title lang="zh">全民星攻略(1107)(普)</title>
 </programme>
 <programme channel="334773" start="20250204030000 +0800" stop="20250204033000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">台灣味道2(6)(普)</title>
+<desc /><title lang="zh">台灣味道2(7)(普)</title>
 </programme>
 <programme channel="334773" start="20250204033000 +0800" stop="20250204040000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">台灣味道2(7)(普)</title>
+<desc /><title lang="zh">台灣味道2(8)(普)</title>
 </programme>
 <programme channel="334773" start="20250204040000 +0800" stop="20250204050000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">MIT台灣誌(768)(普)</title>
+<desc /><title lang="zh">MIT台灣誌(769)(普)</title>
 </programme>
 <programme channel="334773" start="20250204050000 +0800" stop="20250204060000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">大陸尋奇(2044)(普)</title>
+<desc /><title lang="zh">大陸尋奇(2045)(普)</title>
 </programme>
 <programme channel="334773" start="20250204060000 +0800" stop="20250204070000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">全民星攻略(1106)(普)</title>
+<desc /><title lang="zh">全民星攻略(1107)(普)</title>
 </programme>
 <programme channel="334773" start="20250204070000 +0800" stop="20250204080000 +0800">
 <date>2025-02-04</date>
@@ -2720,11 +2728,11 @@
 </programme>
 <programme channel="334773" start="20250204080000 +0800" stop="20250204083000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">財經早點名(4)(普)</title>
+<desc /><title lang="zh">財經早點名(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204083000 +0800" stop="20250204090000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">股市貴公子(4)(普)</title>
+<desc /><title lang="zh">股市貴公子(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204090000 +0800" stop="20250204100000 +0800">
 <date>2025-02-04</date>
@@ -2732,11 +2740,11 @@
 </programme>
 <programme channel="334773" start="20250204100000 +0800" stop="20250204110000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(18)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
 </programme>
 <programme channel="334773" start="20250204110000 +0800" stop="20250204115800 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
 </programme>
 <programme channel="334773" start="20250204115800 +0800" stop="20250204130000 +0800">
 <date>2025-02-04</date>
@@ -2744,23 +2752,23 @@
 </programme>
 <programme channel="334773" start="20250204130000 +0800" stop="20250204140000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">MIT台灣誌(646)(普)</title>
+<desc /><title lang="zh">MIT台灣誌(647)(普)</title>
 </programme>
 <programme channel="334773" start="20250204140000 +0800" stop="20250204143000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">股林高手(4)(普)</title>
+<desc /><title lang="zh">股林高手(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204143000 +0800" stop="20250204150000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">超越巔峰(4)(普)</title>
+<desc /><title lang="zh">超越巔峰(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204150000 +0800" stop="20250204153000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">價值型投資(4)(普)</title>
+<desc /><title lang="zh">價值型投資(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204153000 +0800" stop="20250204160000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">金融鬼谷子(4)(普)</title>
+<desc /><title lang="zh">金融鬼谷子(5)(普)</title>
 </programme>
 <programme channel="334773" start="20250204160000 +0800" stop="20250204170000 +0800">
 <date>2025-02-04</date>
@@ -2768,15 +2776,15 @@
 </programme>
 <programme channel="334773" start="20250204170000 +0800" stop="20250204172800 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">櫻桃小丸子第七季(445)(普)</title>
+<desc /><title lang="zh">櫻桃小丸子第七季(444)(普)</title>
 </programme>
 <programme channel="334773" start="20250204172800 +0800" stop="20250204175800 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">櫻桃小丸子第六季(431)(普)</title>
+<desc /><title lang="zh">櫻桃小丸子第六季(430)(普)</title>
 </programme>
 <programme channel="334773" start="20250204175800 +0800" stop="20250204185800 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">全民星攻略(1107)(普)</title>
+<desc /><title lang="zh">全民星攻略(1108)(普)</title>
 </programme>
 <programme channel="334773" start="20250204185800 +0800" stop="20250204200000 +0800">
 <date>2025-02-04</date>
@@ -2784,51 +2792,51 @@
 </programme>
 <programme channel="334773" start="20250204200000 +0800" stop="20250204210000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
 </programme>
 <programme channel="334773" start="20250204210000 +0800" stop="20250204220000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
 </programme>
 <programme channel="334773" start="20250204220000 +0800" stop="20250204230000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">倚天屠龍記(47)(普)</title>
+<desc /><title lang="zh">倚天屠龍記(49)(普)</title>
 </programme>
 <programme channel="334773" start="20250204230000 +0800" stop="20250205000000 +0800">
 <date>2025-02-04</date>
-<desc /><title lang="zh">倚天屠龍記(48)(普)</title>
+<desc /><title lang="zh">倚天屠龍記(50)(普)</title>
 </programme>
 <programme channel="334773" start="20250205000000 +0800" stop="20250205010000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
 </programme>
 <programme channel="334773" start="20250205010000 +0800" stop="20250205020000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
 </programme>
 <programme channel="334773" start="20250205020000 +0800" stop="20250205030000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">全民星攻略(1107)(普)</title>
+<desc /><title lang="zh">全民星攻略(1108)(普)</title>
 </programme>
 <programme channel="334773" start="20250205030000 +0800" stop="20250205033000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">台灣味道2(7)(普)</title>
+<desc /><title lang="zh">台灣味道2(8)(普)</title>
 </programme>
 <programme channel="334773" start="20250205033000 +0800" stop="20250205040000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">台灣味道2(8)(普)</title>
+<desc /><title lang="zh">台灣味道2(9)(普)</title>
 </programme>
 <programme channel="334773" start="20250205040000 +0800" stop="20250205050000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">MIT台灣誌(769)(普)</title>
+<desc /><title lang="zh">MIT台灣誌(770)(普)</title>
 </programme>
 <programme channel="334773" start="20250205050000 +0800" stop="20250205060000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">大陸尋奇(2045)(普)</title>
+<desc /><title lang="zh">大陸尋奇(2046)(普)</title>
 </programme>
 <programme channel="334773" start="20250205060000 +0800" stop="20250205070000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">全民星攻略(1107)(普)</title>
+<desc /><title lang="zh">全民星攻略(1108)(普)</title>
 </programme>
 <programme channel="334773" start="20250205070000 +0800" stop="20250205080000 +0800">
 <date>2025-02-05</date>
@@ -2836,11 +2844,11 @@
 </programme>
 <programme channel="334773" start="20250205080000 +0800" stop="20250205083000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">財經早點名(5)(普)</title>
+<desc /><title lang="zh">財經早點名(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205083000 +0800" stop="20250205090000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">股市貴公子(5)(普)</title>
+<desc /><title lang="zh">股市貴公子(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205090000 +0800" stop="20250205100000 +0800">
 <date>2025-02-05</date>
@@ -2848,11 +2856,11 @@
 </programme>
 <programme channel="334773" start="20250205100000 +0800" stop="20250205110000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(19)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
 </programme>
 <programme channel="334773" start="20250205110000 +0800" stop="20250205115800 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
 </programme>
 <programme channel="334773" start="20250205115800 +0800" stop="20250205130000 +0800">
 <date>2025-02-05</date>
@@ -2860,23 +2868,23 @@
 </programme>
 <programme channel="334773" start="20250205130000 +0800" stop="20250205140000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">MIT台灣誌(647)(普)</title>
+<desc /><title lang="zh">MIT台灣誌(648)(普)</title>
 </programme>
 <programme channel="334773" start="20250205140000 +0800" stop="20250205143000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">股林高手(5)(普)</title>
+<desc /><title lang="zh">股林高手(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205143000 +0800" stop="20250205150000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">超越巔峰(5)(普)</title>
+<desc /><title lang="zh">超越巔峰(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205150000 +0800" stop="20250205153000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">價值型投資(5)(普)</title>
+<desc /><title lang="zh">價值型投資(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205153000 +0800" stop="20250205160000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">金融鬼谷子(5)(普)</title>
+<desc /><title lang="zh">金融鬼谷子(6)(普)</title>
 </programme>
 <programme channel="334773" start="20250205160000 +0800" stop="20250205170000 +0800">
 <date>2025-02-05</date>
@@ -2884,15 +2892,15 @@
 </programme>
 <programme channel="334773" start="20250205170000 +0800" stop="20250205172800 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">櫻桃小丸子第七季(444)(普)</title>
+<desc /><title lang="zh">櫻桃小丸子第七季(443)(普)</title>
 </programme>
 <programme channel="334773" start="20250205172800 +0800" stop="20250205175800 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">櫻桃小丸子第六季(430)(普)</title>
+<desc /><title lang="zh">櫻桃小丸子第六季(429)(普)</title>
 </programme>
 <programme channel="334773" start="20250205175800 +0800" stop="20250205185800 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">全民星攻略(1108)(普)</title>
+<desc /><title lang="zh">全民星攻略(1109)(普)</title>
 </programme>
 <programme channel="334773" start="20250205185800 +0800" stop="20250205200000 +0800">
 <date>2025-02-05</date>
@@ -2900,23 +2908,23 @@
 </programme>
 <programme channel="334773" start="20250205200000 +0800" stop="20250205210000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
 </programme>
 <programme channel="334773" start="20250205210000 +0800" stop="20250205220000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(22)(普)</title>
 </programme>
 <programme channel="334773" start="20250205220000 +0800" stop="20250205230000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">倚天屠龍記(49)(普)</title>
+<desc /><title lang="zh">大陸尋奇(2025)(普)</title>
 </programme>
 <programme channel="334773" start="20250205230000 +0800" stop="20250206000000 +0800">
 <date>2025-02-05</date>
-<desc /><title lang="zh">倚天屠龍記(50)(普)</title>
+<desc /><title lang="zh">MIT台灣誌(770)(普)</title>
 </programme>
 <programme channel="334773" start="20250206000000 +0800" stop="20250207000000 +0800">
 <date>2025-02-06</date>
-<desc /><title lang="zh">流星蝴蝶劍(20)(普)</title>
+<desc /><title lang="zh">流星蝴蝶劍(21)(普)</title>
 </programme>
 <programme channel="335088" start="20250204000000 +0800" stop="20250204010000 +0800">
 <date>2025-02-04</date>
@@ -4104,6 +4112,10 @@
 <programme channel="370149" start="20250205233000 +0800" stop="20250206000000 +0800">
 <date>2025-02-05</date>
 <desc /><title lang="zh">體壇最前線 2/5(第36集) (普)</title>
+</programme>
+<programme channel="370149" start="20250206000000 +0800" stop="20250207000000 +0800">
+<date>2025-02-06</date>
+<desc /><title lang="zh">醫師好辣(第245集) (普)</title>
 </programme>
 <programme channel="369284" start="20250204003000 +0800" stop="20250204014500 +0800">
 <date>2025-02-04</date>
@@ -6522,6 +6534,10 @@
 <programme channel="370222" start="20250205235400 +0800" stop="20250206000000 +0800">
 <date>2025-02-05</date>
 <desc /><title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
+</programme>
+<programme channel="370222" start="20250206000000 +0800" stop="20250207000000 +0800">
+<date>2025-02-06</date>
+<desc /><title lang="zh">主廚大聯盟 15</title>
 </programme>
 <programme channel="369271" start="20250204000000 +0800" stop="20250204010000 +0800">
 <date>2025-02-04</date>
