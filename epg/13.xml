@@ -1,149 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250204232917 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368558/20250204.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368558&amp;date=20250204&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250205003129 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368558/20250205.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368558&amp;date=20250205&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368558">
     <display-name lang="Taiwan">台視HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609113338758019_90.png" />
   </channel>
-  <programme channel="368558" start="20250204000000 +0800" stop="20250204010000 +0800">
-    <title lang="zh">2400晚間在光裏的人(0013)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204010000 +0800" stop="20250204020000 +0800">
-    <title lang="zh">晚間在光裏的人(0014)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204020000 +0800" stop="20250204030000 +0800">
-    <title lang="zh">台灣名人堂(0163)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204030000 +0800" stop="20250204040000 +0800">
-    <title lang="zh">熱線追蹤(1208)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204040000 +0800" stop="20250204050000 +0800">
-    <title lang="zh">台灣名人堂(0350)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204050000 +0800" stop="20250204060000 +0800">
-    <title lang="zh">健康好簡單(1590)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204060000 +0800" stop="20250204070000 +0800">
-    <title lang="zh">３６０行向前衝(0439)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204070000 +0800" stop="20250204080000 +0800">
-    <title lang="zh">早安您好台視新聞(4087)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204080000 +0800" stop="20250204085800 +0800">
-    <title lang="zh">早安台灣台語新聞(2434)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204085800 +0800" stop="20250204095800 +0800">
-    <title lang="zh">神機妙算劉伯溫(0112)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204095800 +0800" stop="20250204102800 +0800">
-    <title lang="zh">消費情報讚(2418)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204102800 +0800" stop="20250204105800 +0800">
-    <title lang="zh">消費情報讚(2418)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204105800 +0800" stop="20250204115800 +0800">
-    <title lang="zh">天之蕉子(0019)(護)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204115800 +0800" stop="20250204130000 +0800">
-    <title lang="zh">午安您好－台視新聞(4460)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204130000 +0800" stop="20250204140000 +0800">
-    <title lang="zh">1300午間在光裏的人(0013)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204140000 +0800" stop="20250204150000 +0800">
-    <title lang="zh">午間在光裏的人(0014)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204150000 +0800" stop="20250204153000 +0800">
-    <title lang="zh">消費情報讚(2418)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204153000 +0800" stop="20250204160000 +0800">
-    <title lang="zh">生活情報通(1799)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204160000 +0800" stop="20250204163000 +0800">
-    <title lang="zh">生活情報通(1799)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204163000 +0800" stop="20250204165800 +0800">
-    <title lang="zh">烤箱讀書會(0011)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204165800 +0800" stop="20250204172800 +0800">
-    <title lang="zh">1700我們這一家(0002)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204172800 +0800" stop="20250204175800 +0800">
-    <title lang="zh">我們這一家(0003)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204175800 +0800" stop="20250204182800 +0800">
-    <title lang="zh">1800蠟筆小新(0066)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204182800 +0800" stop="20250204185800 +0800">
-    <title lang="zh">1830蠟筆小新(0067)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204185800 +0800" stop="20250204200000 +0800">
-    <title lang="zh">台視晚間新聞(4460)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204200000 +0800" stop="20250204210000 +0800">
-    <title lang="zh">2000在光裏的人(0014)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204210000 +0800" stop="20250204220000 +0800">
-    <title lang="zh">在光裏的人(0015)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
-  <programme channel="368558" start="20250204220000 +0800" stop="20250205000000 +0800">
-    <title lang="zh">美麗人生壯志高飛(0155)(普)</title>
-    <desc />
-    <date>2025-02-04</date>
-  </programme>
   <programme channel="368558" start="20250205000000 +0800" stop="20250205010000 +0800">
     <title lang="zh">2400晚間在光裏的人(0014)(普)</title>
     <desc />
@@ -289,9 +149,154 @@
     <desc />
     <date>2025-02-05</date>
   </programme>
-  <programme channel="368558" start="20250206000000 +0800" stop="20250207000000 +0800">
+  <programme channel="368558" start="20250206000000 +0800" stop="20250206010000 +0800">
     <title lang="zh">2400晚間在光裏的人(0015)(普)</title>
     <desc />
     <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206010000 +0800" stop="20250206020000 +0800">
+    <title lang="zh">晚間在光裏的人(0016)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206020000 +0800" stop="20250206030000 +0800">
+    <title lang="zh">益起看世界(0352)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206030000 +0800" stop="20250206033000 +0800">
+    <title lang="zh">午夜尋找台灣感動力(0439)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206033000 +0800" stop="20250206040000 +0800">
+    <title lang="zh">發現科學(0117)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206040000 +0800" stop="20250206050000 +0800">
+    <title lang="zh">台灣名人堂(0352)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206050000 +0800" stop="20250206060000 +0800">
+    <title lang="zh">健康好簡單(1592)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206060000 +0800" stop="20250206070000 +0800">
+    <title lang="zh">３６０行向前衝(0441)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206070000 +0800" stop="20250206080000 +0800">
+    <title lang="zh">早安您好台視新聞(4089)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206080000 +0800" stop="20250206085800 +0800">
+    <title lang="zh">早安台灣台語新聞(2436)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206085800 +0800" stop="20250206095800 +0800">
+    <title lang="zh">神機妙算劉伯溫(0114)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206095800 +0800" stop="20250206102800 +0800">
+    <title lang="zh">消費情報讚(2420)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206102800 +0800" stop="20250206105800 +0800">
+    <title lang="zh">消費情報讚(2420)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206105800 +0800" stop="20250206115800 +0800">
+    <title lang="zh">天之蕉子(0021)(護)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206115800 +0800" stop="20250206130000 +0800">
+    <title lang="zh">午安您好－台視新聞(4462)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206130000 +0800" stop="20250206140000 +0800">
+    <title lang="zh">1300午間在光裏的人(0015)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206140000 +0800" stop="20250206150000 +0800">
+    <title lang="zh">午間在光裏的人(0016)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206150000 +0800" stop="20250206153000 +0800">
+    <title lang="zh">消費情報讚(2420)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206153000 +0800" stop="20250206160000 +0800">
+    <title lang="zh">生活情報通(1801)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206160000 +0800" stop="20250206163000 +0800">
+    <title lang="zh">生活情報通(1801)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206163000 +0800" stop="20250206165800 +0800">
+    <title lang="zh">烤箱讀書會(0013)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206165800 +0800" stop="20250206172800 +0800">
+    <title lang="zh">1700我們這一家(0004)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206172800 +0800" stop="20250206175800 +0800">
+    <title lang="zh">我們這一家(0005)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206175800 +0800" stop="20250206182800 +0800">
+    <title lang="zh">1800蠟筆小新(0068)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206182800 +0800" stop="20250206185800 +0800">
+    <title lang="zh">1830蠟筆小新(0069)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206185800 +0800" stop="20250206200000 +0800">
+    <title lang="zh">台視晚間新聞(4462)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206200000 +0800" stop="20250206210000 +0800">
+    <title lang="zh">2000在光裏的人(0016)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206210000 +0800" stop="20250206220000 +0800">
+    <title lang="zh">在光裏的人(0017)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250206220000 +0800" stop="20250207000000 +0800">
+    <title lang="zh">美麗人生壯志高飛(0157)(普)</title>
+    <desc />
+    <date>2025-02-06</date>
+  </programme>
+  <programme channel="368558" start="20250207000000 +0800" stop="20250208000000 +0800">
+    <title lang="zh">2400晚間在光裏的人(0016)(普)</title>
+    <desc />
+    <date>2025-02-07</date>
   </programme>
 </tv>
