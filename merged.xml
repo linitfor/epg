@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250206023346 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250206.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250206&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250206052317 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250206.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250206&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1662,6 +1662,10 @@
 <date>2025-02-07</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250208000000 +0800" stop="20250209000000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">進擊的台灣</title>
+</programme>
 <programme channel="369307" start="20250206000000 +0800" stop="20250206010000 +0800">
 <date>2025-02-06</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2348,6 +2352,10 @@
 <programme channel="370177" start="20250207230000 +0800" stop="20250208000000 +0800">
 <date>2025-02-07</date>
 <desc /><title lang="zh">全球大視野</title>
+</programme>
+<programme channel="370177" start="20250208000000 +0800" stop="20250209000000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20250206013000 +0800" stop="20250206020000 +0800">
 <date>2025-02-06</date>
@@ -4231,6 +4239,10 @@
 <programme channel="370149" start="20250207233000 +0800" stop="20250208000000 +0800">
 <date>2025-02-07</date>
 <desc /><title lang="zh">體壇最前線 2/7(第38集) (普)</title>
+</programme>
+<programme channel="370149" start="20250208000000 +0800" stop="20250209000000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">醫師好辣(第251集) (普)</title>
 </programme>
 <programme channel="369284" start="20250206000000 +0800" stop="20250206003000 +0800">
 <date>2025-02-06</date>
@@ -6603,6 +6615,10 @@
 <programme channel="370222" start="20250207232700 +0800" stop="20250208000000 +0800">
 <date>2025-02-07</date>
 <desc /><title lang="zh">野人追夢 03 吃綠螞蟻 餵大鱷魚</title>
+</programme>
+<programme channel="370222" start="20250208000000 +0800" stop="20250209000000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">主廚大聯盟 17</title>
 </programme>
 <programme channel="369271" start="20250206000000 +0800" stop="20250206010000 +0800">
 <date>2025-02-06</date>
