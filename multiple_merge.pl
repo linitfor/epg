@@ -12,7 +12,7 @@ my @files = ('./epg/1.xml', './epg/2.xml', './epg/3.xml', './epg/4.xml', './epg/
 #'./epg/42.xml', './epg/43.xml', './epg/44.xml', './epg/45.xml', './epg/46.xml', './epg/47.xml', 
 './epg/48.xml', './epg/49.xml', './epg/50.xml', 
 './epg/51.xml', './epg/52.xml', './epg/53.xml', './epg/54.xml', './epg/55.xml', './epg/56.xml', './epg/57.xml', './epg/58.xml', './epg/59.xml', './epg/60.xml',
-'./epg/61.xml', './epg/62.xml', './epg/63.xml');
+'./epg/61.xml', './epg/62.xml', './epg/63.xml', './epg/64.xml');
 my $output_file = 'merged.xml';
 
 my $tpp = XML::TreePP->new();
