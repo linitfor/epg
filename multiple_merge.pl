@@ -10,7 +10,8 @@ my @files = ('./epg/1.xml', './epg/2.xml', './epg/3.xml', './epg/4.xml', './epg/
 './epg/31.xml', './epg/32.xml', './epg/33.xml', './epg/34.xml', './epg/35.xml', './epg/36.xml', './epg/37.xml', './epg/38.xml');
 #'./epg/39.xml', './epg/40.xml', 
 #'./epg/41.xml', './epg/42.xml', './epg/43.xml', './epg/44.xml', './epg/45.xml', './epg/46.xml', './epg/47.xml', './epg/48.xml', './epg/49.xml', './epg/50.xml', 
-#'./epg/51.xml', './epg/52.xml', './epg/53.xml', './epg/54.xml', './epg/55.xml', './epg/56.xml', './epg/57.xml', './epg/58.xml', './epg/59.xml', './epg/60.xml');
+#'./epg/51.xml', './epg/52.xml', './epg/53.xml', './epg/54.xml', './epg/55.xml', './epg/56.xml', './epg/57.xml', './epg/58.xml', './epg/59.xml', './epg/60.xml',
+'./epg/61.xml');
 my $output_file = 'merged.xml';
 
 my $tpp = XML::TreePP->new();
