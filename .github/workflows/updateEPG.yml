@@ -72,7 +72,7 @@ jobs:
           ./epg_script
 
           chmod +x ./multiple_merge.pl
-          #perl ./multiple_merge.pl
+          perl ./multiple_merge.pl
           
           rm -rf epg_tv.xml epg_tv_tmp.xml
           touch epg_tv.xml
