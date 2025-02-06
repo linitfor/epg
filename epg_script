@@ -147,7 +147,7 @@ curl "$link" > ./epg/29.xml
 set tvg_id = "369271"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/30.xml
-# HBO
+# HBO HD
 set tvg_id = "369313"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/31.xml
@@ -270,6 +270,10 @@ curl "$link" > ./epg/59.xml
 set tvg_id = "368596"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/60.xml
+# HBO
+set tvg_id = "335015"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/61.xml
 
 ## 處理檔頭
 #rm -rf head.xml
