@@ -300,6 +300,13 @@ set tvg_id = "369190"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/66.xml
 
+
+# 韓國娛樂台
+set tvg_id = "380055"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/67.xml
+
+
 ## 處理檔頭
 #rm -rf head.xml
 #head -n 2 ./epg/1.xml > head.xml
