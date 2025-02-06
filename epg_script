@@ -285,6 +285,10 @@ set tvg_id = "369193"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/63.xml
 
+# Discovery Asia
+set tvg_id = "369275"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/64.xml
 
 ## 處理檔頭
 #rm -rf head.xml
