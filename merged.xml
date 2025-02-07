@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250208052213 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250208072239 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -8229,6 +8229,14 @@
 <desc>24-25TPBL 攻城獅 vs 戰神 (2/9/25)</desc>
 <title lang="zh">24-25TPBL</title>
 </programme>
+<programme channel="335106" start="20250208000000 +0800" stop="20250208010000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">麻將大師 總裁盃決賽(護)</title>
+</programme>
+<programme channel="335106" start="20250208010000 +0800" stop="20250208011500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP22(輔12)</title>
+</programme>
 <programme channel="335106" start="20250208011500 +0800" stop="20250208014500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">世界最強壯的男人 S3 EP4(普)</title>
@@ -8237,61 +8245,77 @@
 <date>2025-02-08</date>
 <desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
-<programme channel="335106" start="20250208020000 +0800" stop="20250208035500 +0800">
+<programme channel="335106" start="20250208020000 +0800" stop="20250208025500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">格鬥特區 競技空間拳擊 EP23(輔12)</title>
 </programme>
+<programme channel="335106" start="20250208025500 +0800" stop="20250208035500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">西甲回顧 第二十輪(普)</title>
+</programme>
 <programme channel="335106" start="20250208035500 +0800" stop="20250208060000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">LIVE 西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 巴列卡諾 vs 皇家瓦拉多利德(2/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208060000 +0800" stop="20250208070000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">麻將大師 第六季 EP31(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP30(護)</title>
 </programme>
 <programme channel="335106" start="20250208070000 +0800" stop="20250208090000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 高雄台電 vs 新北中纖 (1/19/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208090000 +0800" stop="20250208120000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">2024日本職棒 歐力士 vs 羅德 (4/30/24)(普)</title>
+<desc /><title lang="zh">2024中華職棒 中信兄弟 vs 樂天 (9/29/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250208120000 +0800" stop="20250208130000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">麻將大師 第六季 EP38(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP37(護)</title>
 </programme>
 <programme channel="335106" start="20250208130000 +0800" stop="20250208150000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">西甲 吉羅納 vs 拉斯帕爾馬斯(2/4/25)(普)</title>
+<desc /><title lang="zh">西甲 皇家貝提斯 vs 畢爾包競技(2/3/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250208150000 +0800" stop="20250208170000 +0800">
+<programme channel="335106" start="20250208150000 +0800" stop="20250208160000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 高雄台電 (1/26/25)(普)</title>
+<desc /><title lang="zh">世界最強壯的男人 S3 EP6(普)</title>
 </programme>
-<programme channel="335106" start="20250208170000 +0800" stop="20250208193000 +0800">
+<programme channel="335106" start="20250208160000 +0800" stop="20250208170000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024中華職棒 統一 vs 樂天 (8/18/24)(普)</title>
+</programme>
+<programme channel="335106" start="20250208170000 +0800" stop="20250208190000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">LIVE 24-25 PLG 領航猿 vs 獵鷹 (2/9/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250208190000 +0800" stop="20250208193000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 義力營造 (1/26/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208193000 +0800" stop="20250208200000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
 </programme>
-<programme channel="335106" start="20250208200000 +0800" stop="20250208220000 +0800">
+<programme channel="335106" start="20250208200000 +0800" stop="20250208210000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
+<programme channel="335106" start="20250208210000 +0800" stop="20250208220000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">(首)西甲回顧 第二十二輪(普)</title>
+</programme>
 <programme channel="335106" start="20250208220000 +0800" stop="20250208221500 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">都是排球咖 S2 EP8(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
 <programme channel="335106" start="20250208221500 +0800" stop="20250208231000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">巨人挑戰賽EP2(普)</title>
+<desc /><title lang="zh">巨人挑戰賽EP1(普)</title>
 </programme>
 <programme channel="335106" start="20250208231000 +0800" stop="20250209000000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">LIVE 西甲 瓦倫西亞 vs 萊加內斯(2/9/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 吉羅納(2/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209011500 +0800" stop="20250209014500 +0800">
 <date>2025-02-09</date>
@@ -8299,55 +8323,67 @@
 </programme>
 <programme channel="335106" start="20250209014500 +0800" stop="20250209020000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">都是排球咖 S2 EP9(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
 <programme channel="335106" start="20250209020000 +0800" stop="20250209035500 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP18(輔12)</title>
+<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP23(輔12)</title>
 </programme>
 <programme channel="335106" start="20250209035500 +0800" stop="20250209060000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 巴塞隆納(2/10/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209060000 +0800" stop="20250209070000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">麻將大師 第六季 EP26(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP31(護)</title>
 </programme>
 <programme channel="335106" start="20250209070000 +0800" stop="20250209090000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 義力營造 (12/15/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250209090000 +0800" stop="20250209120000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024日本職棒 火腿 vs 樂天 (4/3/24)(普)</title>
+<desc /><title lang="zh">2024日本職棒 歐力士 vs 羅德 (4/30/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250209120000 +0800" stop="20250209130000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">麻將大師 第六季 EP33(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP38(護)</title>
 </programme>
 <programme channel="335106" start="20250209130000 +0800" stop="20250209150000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">西甲 比利亞雷亞爾 vs 皇家瓦拉多利德(2/1/25)(普)</title>
+<desc /><title lang="zh">西甲 吉羅納 vs 拉斯帕爾馬斯(2/4/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209150000 +0800" stop="20250209163000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024 第三屆 Universal台北職業撞球公開賽 小組賽1(普)</title>
+<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 高雄台電 (1/26/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209163000 +0800" stop="20250209170000 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">世界最強壯的男人 S3 EP1(普)</title>
 </programme>
-<programme channel="335106" start="20250209170000 +0800" stop="20250209200000 +0800">
+<programme channel="335106" start="20250209170000 +0800" stop="20250209193000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024日本職棒 軟銀 vs 火腿 (4/9/24)(普)</title>
+<desc /><title lang="zh">LIVE 24-25 PLG 領航猿 vs 獵鷹 (2/9/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250209193000 +0800" stop="20250209200000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
 </programme>
 <programme channel="335106" start="20250209200000 +0800" stop="20250209220000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 義力營造 (1/26/25)(普)</title>
+<desc /><title lang="zh">西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250209220000 +0800" stop="20250210000000 +0800">
+<programme channel="335106" start="20250209220000 +0800" stop="20250209221500 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">西甲 巴塞隆納 vs 瓦倫西亞(1/27/25)(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP8(普)</title>
+</programme>
+<programme channel="335106" start="20250209221500 +0800" stop="20250209231000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">巨人挑戰賽EP2(普)</title>
+</programme>
+<programme channel="335106" start="20250209231000 +0800" stop="20250210000000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">LIVE 西甲 瓦倫西亞 vs 萊加內斯(2/9/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250210000000 +0800" stop="20250211000000 +0800">
 <date>2025-02-10</date>
@@ -9354,41 +9390,81 @@
 <date>2025-02-10</date>
 <desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
-<programme channel="335009" start="20250208000000 +0800" stop="20250208020000 +0800">
+<programme channel="335009" start="20250208000000 +0800" stop="20250208010400 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+<desc /><title lang="zh">112學年國民小學籃球聯賽 男子季軍戰 高雄龍華 vs 南投南光(普)</title>
 </programme>
-<programme channel="335009" start="20250208020000 +0800" stop="20250208050000 +0800">
+<programme channel="335009" start="20250208010400 +0800" stop="20250208020000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">112學年國民小學籃球聯賽 男子冠軍戰 臺北北投 vs 新北安坑(普)</title>
+</programme>
+<programme channel="335009" start="20250208020000 +0800" stop="20250208021200 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250208050000 +0800" stop="20250208080500 +0800">
+<programme channel="335009" start="20250208021200 +0800" stop="20250208035200 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024登峰造極排球 高女組 鶯歌工商 vs 北港高中(普)</title>
+</programme>
+<programme channel="335009" start="20250208035200 +0800" stop="20250208050000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024勝求盃少棒 冠軍戰 高雄金潭 vs 桃園龜山(普)</title>
+</programme>
+<programme channel="335009" start="20250208050000 +0800" stop="20250208060500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
 </programme>
-<programme channel="335009" start="20250208080500 +0800" stop="20250208102000 +0800">
+<programme channel="335009" start="20250208060500 +0800" stop="20250208080500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第二回合(普)</title>
+</programme>
+<programme channel="335009" start="20250208080500 +0800" stop="20250208085000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">113學年高中木棒組 第一階段 彰化藝中 vs 高苑工商(普)</title>
+</programme>
+<programme channel="335009" start="20250208085000 +0800" stop="20250208102000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 大專組冠軍戰 台灣啤酒 vs 富邦公牛(普)</title>
 </programme>
 <programme channel="335009" start="20250208102000 +0800" stop="20250208120000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 挑戰賽(普)</title>
 </programme>
-<programme channel="335009" start="20250208120000 +0800" stop="20250208140000 +0800">
+<programme channel="335009" start="20250208120000 +0800" stop="20250208130400 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+<desc /><title lang="zh">112學年國民小學籃球聯賽 男子季軍戰 高雄龍華 vs 南投南光(普)</title>
 </programme>
-<programme channel="335009" start="20250208140000 +0800" stop="20250208170000 +0800">
+<programme channel="335009" start="20250208130400 +0800" stop="20250208140000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">112學年國民小學籃球聯賽 男子冠軍戰 臺北北投 vs 新北安坑(普)</title>
+</programme>
+<programme channel="335009" start="20250208140000 +0800" stop="20250208141200 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250208170000 +0800" stop="20250208200500 +0800">
+<programme channel="335009" start="20250208141200 +0800" stop="20250208155200 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024登峰造極排球 高女組 鶯歌工商 vs 北港高中(普)</title>
+</programme>
+<programme channel="335009" start="20250208155200 +0800" stop="20250208170000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024勝求盃少棒 冠軍戰 高雄金潭 vs 桃園龜山(普)</title>
+</programme>
+<programme channel="335009" start="20250208170000 +0800" stop="20250208180500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
 </programme>
-<programme channel="335009" start="20250208200500 +0800" stop="20250208222000 +0800">
+<programme channel="335009" start="20250208180500 +0800" stop="20250208200500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第二回合(普)</title>
+</programme>
+<programme channel="335009" start="20250208200500 +0800" stop="20250208205000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">113學年高中木棒組 第一階段 彰化藝中 vs 高苑工商(普)</title>
+</programme>
+<programme channel="335009" start="20250208205000 +0800" stop="20250208222000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 大專組冠軍戰 台灣啤酒 vs 富邦公牛(普)</title>
 </programme>
 <programme channel="335009" start="20250208222000 +0800" stop="20250209000000 +0800">
 <date>2025-02-08</date>
@@ -9396,11 +9472,19 @@
 </programme>
 <programme channel="335009" start="20250209000000 +0800" stop="20250209015000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">113學年高中木棒組 第一階段 西苑高中 vs 中興商工(普)</title>
+<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
 </programme>
-<programme channel="335009" start="20250209015000 +0800" stop="20250209054000 +0800">
+<programme channel="335009" start="20250209015000 +0800" stop="20250209020000 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">2024 SDK全國羽球分齡錦標賽(普)</title>
+</programme>
+<programme channel="335009" start="20250209020000 +0800" stop="20250209050000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250209050000 +0800" stop="20250209054000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
 </programme>
 <programme channel="335009" start="20250209054000 +0800" stop="20250209070300 +0800">
 <date>2025-02-09</date>
@@ -9410,9 +9494,17 @@
 <date>2025-02-09</date>
 <desc /><title lang="zh">追日潤菁英邀請賽 第二回合(普)</title>
 </programme>
-<programme channel="335009" start="20250209080300 +0800" stop="20250209104000 +0800">
+<programme channel="335009" start="20250209080300 +0800" stop="20250209080500 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">113年自由盃桌球錦標賽 4/14上午賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250209080500 +0800" stop="20250209102000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">113學年高中木棒組 第一階段 彰化藝中 vs 高苑工商(普)</title>
+</programme>
+<programme channel="335009" start="20250209102000 +0800" stop="20250209104000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 挑戰賽(普)</title>
 </programme>
 <programme channel="335009" start="20250209104000 +0800" stop="20250209120000 +0800">
 <date>2025-02-09</date>
@@ -9420,11 +9512,19 @@
 </programme>
 <programme channel="335009" start="20250209120000 +0800" stop="20250209135000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">113學年高中木棒組 第一階段 西苑高中 vs 中興商工(普)</title>
+<desc /><title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
 </programme>
-<programme channel="335009" start="20250209135000 +0800" stop="20250209174000 +0800">
+<programme channel="335009" start="20250209135000 +0800" stop="20250209140000 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">2024 SDK全國羽球分齡錦標賽(普)</title>
+</programme>
+<programme channel="335009" start="20250209140000 +0800" stop="20250209170000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250209170000 +0800" stop="20250209174000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
 </programme>
 <programme channel="335009" start="20250209174000 +0800" stop="20250209190300 +0800">
 <date>2025-02-09</date>
@@ -9434,9 +9534,17 @@
 <date>2025-02-09</date>
 <desc /><title lang="zh">追日潤菁英邀請賽 第二回合(普)</title>
 </programme>
-<programme channel="335009" start="20250209200300 +0800" stop="20250209224000 +0800">
+<programme channel="335009" start="20250209200300 +0800" stop="20250209200500 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">113年自由盃桌球錦標賽 4/14上午賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250209200500 +0800" stop="20250209222000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">113學年高中木棒組 第一階段 彰化藝中 vs 高苑工商(普)</title>
+</programme>
+<programme channel="335009" start="20250209222000 +0800" stop="20250209224000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 挑戰賽(普)</title>
 </programme>
 <programme channel="335009" start="20250209224000 +0800" stop="20250210000000 +0800">
 <date>2025-02-09</date>
@@ -9444,7 +9552,7 @@
 </programme>
 <programme channel="335009" start="20250210000000 +0800" stop="20250211000000 +0800">
 <date>2025-02-10</date>
-<desc /><title lang="zh">113學年高中木棒組 第一階段 臺南海事 vs 陽明工商(普)</title>
+<desc /><title lang="zh">113學年高中木棒組 第一階段 西苑高中 vs 中興商工(普)</title>
 </programme>
 <programme channel="334895" start="20250208000000 +0800" stop="20250208002000 +0800">
 <date>2025-02-08</date>
@@ -11105,6 +11213,14 @@
 <desc>掠食者的操作守則-探索掠食者在險惡環境中生存的獨特技能。紀錄片深入探討世界各地掠食者的狩獵技術，包括罕見的枯葉魚和瀕臨滅絕的科摩多龍，揭開每種掠食者成功的獨門策略。</desc>
 <title lang="zh">掠食者的操作守則</title>
 </programme>
+<programme channel="335106" start="20250208000000 +0800" stop="20250208010000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">麻將大師 總裁盃決賽(護)</title>
+</programme>
+<programme channel="335106" start="20250208010000 +0800" stop="20250208011500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP22(輔12)</title>
+</programme>
 <programme channel="335106" start="20250208011500 +0800" stop="20250208014500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">世界最強壯的男人 S3 EP4(普)</title>
@@ -11113,61 +11229,77 @@
 <date>2025-02-08</date>
 <desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
-<programme channel="335106" start="20250208020000 +0800" stop="20250208035500 +0800">
+<programme channel="335106" start="20250208020000 +0800" stop="20250208025500 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">格鬥特區 競技空間拳擊 EP23(輔12)</title>
 </programme>
+<programme channel="335106" start="20250208025500 +0800" stop="20250208035500 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">西甲回顧 第二十輪(普)</title>
+</programme>
 <programme channel="335106" start="20250208035500 +0800" stop="20250208060000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">LIVE 西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 巴列卡諾 vs 皇家瓦拉多利德(2/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208060000 +0800" stop="20250208070000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">麻將大師 第六季 EP31(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP30(護)</title>
 </programme>
 <programme channel="335106" start="20250208070000 +0800" stop="20250208090000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 高雄台電 vs 新北中纖 (1/19/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208090000 +0800" stop="20250208120000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">2024日本職棒 歐力士 vs 羅德 (4/30/24)(普)</title>
+<desc /><title lang="zh">2024中華職棒 中信兄弟 vs 樂天 (9/29/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250208120000 +0800" stop="20250208130000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">麻將大師 第六季 EP38(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP37(護)</title>
 </programme>
 <programme channel="335106" start="20250208130000 +0800" stop="20250208150000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">西甲 吉羅納 vs 拉斯帕爾馬斯(2/4/25)(普)</title>
+<desc /><title lang="zh">西甲 皇家貝提斯 vs 畢爾包競技(2/3/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250208150000 +0800" stop="20250208170000 +0800">
+<programme channel="335106" start="20250208150000 +0800" stop="20250208160000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 高雄台電 (1/26/25)(普)</title>
+<desc /><title lang="zh">世界最強壯的男人 S3 EP6(普)</title>
 </programme>
-<programme channel="335106" start="20250208170000 +0800" stop="20250208193000 +0800">
+<programme channel="335106" start="20250208160000 +0800" stop="20250208170000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">2024中華職棒 統一 vs 樂天 (8/18/24)(普)</title>
+</programme>
+<programme channel="335106" start="20250208170000 +0800" stop="20250208190000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">LIVE 24-25 PLG 領航猿 vs 獵鷹 (2/9/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250208190000 +0800" stop="20250208193000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 義力營造 (1/26/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250208193000 +0800" stop="20250208200000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
 </programme>
-<programme channel="335106" start="20250208200000 +0800" stop="20250208220000 +0800">
+<programme channel="335106" start="20250208200000 +0800" stop="20250208210000 +0800">
 <date>2025-02-08</date>
 <desc /><title lang="zh">西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
+<programme channel="335106" start="20250208210000 +0800" stop="20250208220000 +0800">
+<date>2025-02-08</date>
+<desc /><title lang="zh">(首)西甲回顧 第二十二輪(普)</title>
+</programme>
 <programme channel="335106" start="20250208220000 +0800" stop="20250208221500 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">都是排球咖 S2 EP8(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
 <programme channel="335106" start="20250208221500 +0800" stop="20250208231000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">巨人挑戰賽EP2(普)</title>
+<desc /><title lang="zh">巨人挑戰賽EP1(普)</title>
 </programme>
 <programme channel="335106" start="20250208231000 +0800" stop="20250209000000 +0800">
 <date>2025-02-08</date>
-<desc /><title lang="zh">LIVE 西甲 瓦倫西亞 vs 萊加內斯(2/9/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 吉羅納(2/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209011500 +0800" stop="20250209014500 +0800">
 <date>2025-02-09</date>
@@ -11175,55 +11307,67 @@
 </programme>
 <programme channel="335106" start="20250209014500 +0800" stop="20250209020000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">都是排球咖 S2 EP9(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP7(普)</title>
 </programme>
 <programme channel="335106" start="20250209020000 +0800" stop="20250209035500 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP18(輔12)</title>
+<desc /><title lang="zh">格鬥特區 競技空間拳擊 EP23(輔12)</title>
 </programme>
 <programme channel="335106" start="20250209035500 +0800" stop="20250209060000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 巴塞隆納(2/10/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209060000 +0800" stop="20250209070000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">麻將大師 第六季 EP26(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP31(護)</title>
 </programme>
 <programme channel="335106" start="20250209070000 +0800" stop="20250209090000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 義力營造 (12/15/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250209090000 +0800" stop="20250209120000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024日本職棒 火腿 vs 樂天 (4/3/24)(普)</title>
+<desc /><title lang="zh">2024日本職棒 歐力士 vs 羅德 (4/30/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250209120000 +0800" stop="20250209130000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">麻將大師 第六季 EP33(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP38(護)</title>
 </programme>
 <programme channel="335106" start="20250209130000 +0800" stop="20250209150000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">西甲 比利亞雷亞爾 vs 皇家瓦拉多利德(2/1/25)(普)</title>
+<desc /><title lang="zh">西甲 吉羅納 vs 拉斯帕爾馬斯(2/4/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209150000 +0800" stop="20250209163000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024 第三屆 Universal台北職業撞球公開賽 小組賽1(普)</title>
+<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 高雄台電 (1/26/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250209163000 +0800" stop="20250209170000 +0800">
 <date>2025-02-09</date>
 <desc /><title lang="zh">世界最強壯的男人 S3 EP1(普)</title>
 </programme>
-<programme channel="335106" start="20250209170000 +0800" stop="20250209200000 +0800">
+<programme channel="335106" start="20250209170000 +0800" stop="20250209193000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">2024日本職棒 軟銀 vs 火腿 (4/9/24)(普)</title>
+<desc /><title lang="zh">LIVE 24-25 PLG 領航猿 vs 獵鷹 (2/9/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250209193000 +0800" stop="20250209200000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
 </programme>
 <programme channel="335106" start="20250209200000 +0800" stop="20250209220000 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 義力營造 (1/26/25)(普)</title>
+<desc /><title lang="zh">西甲 皇家馬德里 vs 馬德里競技(2/9/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250209220000 +0800" stop="20250210000000 +0800">
+<programme channel="335106" start="20250209220000 +0800" stop="20250209221500 +0800">
 <date>2025-02-09</date>
-<desc /><title lang="zh">西甲 巴塞隆納 vs 瓦倫西亞(1/27/25)(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP8(普)</title>
+</programme>
+<programme channel="335106" start="20250209221500 +0800" stop="20250209231000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">巨人挑戰賽EP2(普)</title>
+</programme>
+<programme channel="335106" start="20250209231000 +0800" stop="20250210000000 +0800">
+<date>2025-02-09</date>
+<desc /><title lang="zh">LIVE 西甲 瓦倫西亞 vs 萊加內斯(2/9/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250210000000 +0800" stop="20250211000000 +0800">
 <date>2025-02-10</date>
