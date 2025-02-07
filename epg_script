@@ -361,6 +361,27 @@ set tvg_id = "370162"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/76.xml
 
+# DreamWorks 夢工廠動畫
+set tvg_id = "370162"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/76.xml
+
+# HBO Family
+set tvg_id = "410280"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/77.xml
+
+# HBO Hits
+set tvg_id = "410279"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/78.xml
+
+# HBO Signature
+set tvg_id = "410282"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/79.xml
+
+
 
 
 ##############################################
