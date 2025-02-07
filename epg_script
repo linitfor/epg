@@ -302,7 +302,7 @@ curl "$link" > ./epg/66.xml
 
 
 # 韓國娛樂台
-set tvg_id = "380055"
+set tvg_id = "368912"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/67.xml
 
