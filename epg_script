@@ -381,7 +381,10 @@ set tvg_id = "410282"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/79.xml
 
-
+# Animax (HK)
+set tvg_id = "410287"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/80.xml
 
 
 ##############################################
