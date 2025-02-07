@@ -350,6 +350,17 @@ set tvg_id = "387572"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/75.xml
 
+# MOMO親子（4gtv）
+set tvg_id = "370167"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/75.xml
+
+
+# DreamWorks 夢工廠動畫
+set tvg_id = "370162"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/76.xml
+
 
 
 ##############################################
