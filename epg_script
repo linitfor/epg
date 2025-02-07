@@ -327,6 +327,11 @@ curl "$link" > ./epg/70.xml
 
 
 
+# Star Movie HD
+set tvg_id = "404197"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/71.xml
+
 
 
 
