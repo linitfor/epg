@@ -1,7 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250208023329 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250208052243 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250208010200 +0800" stop="20250208030000 +0800">
+    <title lang="zh">X-Men Origins: Wolverine</title>
+    <desc>After years of working as a mutant mercenary, Logan lives a quiet life with his girlfriend, Kayla. However, a figure from his past brutally assassinates Kayla, compelling Logan to seek vengeance.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208030000 +0800" stop="20250208044500 +0800">
+    <title lang="zh">The Monkey King 2</title>
+    <desc>The Monkey King decides to accompany Tang Sanzang, a monk who aims to retrieve sacred scriptures. On their way, they encounter an evil demon who seeks immortality at great cost to Sanzang.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208044500 +0800" stop="20250208070000 +0800">
+    <title lang="zh">KunLun Battle</title>
+    <desc>After the Kunlun gatekeeper is betrayed and ruined by his own people, his son joins forces with a shark man to fight their way back into Kunlun and avenge his father.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208070000 +0800" stop="20250208083000 +0800">
+    <title lang="zh">Conan The Barbarian</title>
+    <desc>Conan, a Cimmerian warrior, seeks revenge against a warlord who attacked his village and killed his father. However, he soon realises that his kingdom faces a far greater threat.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208083000 +0800" stop="20250208100000 +0800">
+    <title lang="zh">The Shallows</title>
+    <desc>A woman journeys to a secluded beach following her mother's death and while surfing, she gets attacked by a great white shark, which leaves her stranded on a rock 200 yards away from the shore.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208100000 +0800" stop="20250208120000 +0800">
+    <title lang="zh">Man of Steel</title>
+    <desc>Clark learns about the source of his abilities and his real home when he enters a Kryptonian ship in the Artic. However, an old enemy follows him to Earth in search of a codex and brings destruction.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208120000 +0800" stop="20250208134500 +0800">
+    <title lang="zh">Zathura: A Space Adventure</title>
+    <desc>Two young brothers find themselves transported into the depths of space while playing a board game. They try their best to find their way back to Earth.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208134500 +0800" stop="20250208153000 +0800">
+    <title lang="zh">Zootopia</title>
+    <desc>Judy Hopps and Nick Wilde team up to uncover the mystery behind fourteen missing predators. They end up finding out that the conspiracy is larger than it seems.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208153000 +0800" stop="20250208171500 +0800">
+    <title lang="zh">The Lion King</title>
+    <desc>Simba, a young lion prince, flees his kingdom after the murder of his father, Mufasa. Years later, a chance encounter with Nala, a lioness, compels him to return and take back what is rightfully his.</desc>
+    <date>2025-02-08</date>
+  </programme>
+  <programme channel="404197" start="20250208171500 +0800" stop="20250209000000 +0800">
+    <title lang="zh">X-Men</title>
+    <desc>Magneto kidnaps Marie, a young mutant, with the intention of using her powers to destroy humanity. However, the X-Men and Wolverine team up to save her and stop Magneto.</desc>
+    <date>2025-02-08</date>
+  </programme>
 </tv>
