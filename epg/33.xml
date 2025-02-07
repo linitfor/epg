@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250207212855 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250207.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250207&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250208003101 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334710">
     <display-name lang="Taiwan">Cinemax</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334710" start="20250207004000 +0800" stop="20250207024000 +0800">
-    <title lang="zh">萬惡城市</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207024000 +0800" stop="20250207043000 +0800">
-    <title lang="zh">火線掏寶</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207043000 +0800" stop="20250207050000 +0800">
-    <title lang="zh">好萊塢好好看S1:1103</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207050000 +0800" stop="20250207053000 +0800">
-    <title lang="zh">我家也有大明星S6：03</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207053000 +0800" stop="20250207060500 +0800">
-    <title lang="zh">我家也有大明星S6：04</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207060500 +0800" stop="20250207081500 +0800">
-    <title lang="zh">雙面翻譯</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207081500 +0800" stop="20250207091000 +0800">
-    <title lang="zh">守護者S1:04</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207091000 +0800" stop="20250207094000 +0800">
-    <title lang="zh">好萊塢好好看S1:1103</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207094000 +0800" stop="20250207112500 +0800">
-    <title lang="zh">阿飛外傳</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207112500 +0800" stop="20250207125000 +0800">
-    <title lang="zh">穷途末路</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207125000 +0800" stop="20250207151000 +0800">
-    <title lang="zh">綠巨人浩克</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207151000 +0800" stop="20250207170500 +0800">
-    <title lang="zh">棒球男孩</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207170500 +0800" stop="20250207192000 +0800">
-    <title lang="zh">魂歸傷膝谷</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207192000 +0800" stop="20250207220000 +0800">
-    <title lang="zh">銀翼殺手2049</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="334710" start="20250207220000 +0800" stop="20250208000000 +0800">
-    <title lang="zh">全面啟動</title>
-    <desc />
-    <date>2025-02-07</date>
-  </programme>
   <programme channel="334710" start="20250208002500 +0800" stop="20250208021500 +0800">
     <title lang="zh">火線掏寶</title>
     <desc />
@@ -148,5 +73,80 @@
     <title lang="zh">守護者</title>
     <desc />
     <date>2025-02-08</date>
+  </programme>
+  <programme channel="334710" start="20250209021500 +0800" stop="20250209024000 +0800">
+    <title lang="zh">我家也有大明星S6：05</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209024000 +0800" stop="20250209043000 +0800">
+    <title lang="zh">貝武夫：北海的詛咒</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209043000 +0800" stop="20250209060000 +0800">
+    <title lang="zh">正義聯盟:戰爭世界</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209060000 +0800" stop="20250209065000 +0800">
+    <title lang="zh">守護者S1:04</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209065000 +0800" stop="20250209083500 +0800">
+    <title lang="zh">逃出絕命鎮</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209083500 +0800" stop="20250209090000 +0800">
+    <title lang="zh">好萊塢好好看S1:1103</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209090000 +0800" stop="20250209105000 +0800">
+    <title lang="zh">伴侶度假村</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209105000 +0800" stop="20250209125000 +0800">
+    <title lang="zh">絕地營救</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209125000 +0800" stop="20250209144000 +0800">
+    <title lang="zh">間接傷害</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209144000 +0800" stop="20250209161500 +0800">
+    <title lang="zh">戀愛學分</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209161500 +0800" stop="20250209175500 +0800">
+    <title lang="zh">廉價保鑣</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209175500 +0800" stop="20250209200500 +0800">
+    <title lang="zh">叛將風雲</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209200500 +0800" stop="20250209220000 +0800">
+    <title lang="zh">玩命特攻：武演行動</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250209220000 +0800" stop="20250210000000 +0800">
+    <title lang="zh">坎達哈行動</title>
+    <desc />
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="334710" start="20250210000000 +0800" stop="20250211000000 +0800">
+    <title lang="zh">貝武夫：北海的詛咒</title>
+    <desc />
+    <date>2025-02-10</date>
   </programme>
 </tv>

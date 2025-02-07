@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250207212908 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250207.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250207&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250208003112 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369213">
     <display-name lang="Taiwan">博斯高球2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155209866861_10.jpg" />
   </channel>
-  <programme channel="369213" start="20250207000000 +0800" stop="20250207030000 +0800">
-    <title lang="zh">LIVE2025 LPGA創始者盃第一天</title>
-    <desc>LIVE2025 LPGA創始者盃第一天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207030000 +0800" stop="20250207070000 +0800">
-    <title lang="zh">2024 LPGA匯豐女子世界錦標賽第四天</title>
-    <desc>2024 LPGA匯豐女子世界錦標賽第四天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207070000 +0800" stop="20250207130000 +0800">
-    <title lang="zh">2024 LPGA美國女子PGA錦標賽第一天</title>
-    <desc>2024 LPGA美國女子PGA錦標賽第一天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207130000 +0800" stop="20250207153000 +0800">
-    <title lang="zh">首播2025 LPGA創始者盃第一天</title>
-    <desc>首播2025 LPGA創始者盃第一天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207153000 +0800" stop="20250207190000 +0800">
-    <title lang="zh">2024 亞巡阿曼國際亞巡賽第四天</title>
-    <desc>2024 亞巡阿曼國際亞巡賽第四天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207190000 +0800" stop="20250207220000 +0800">
-    <title lang="zh">LIVE2025非洲業餘女子錦標賽第三天</title>
-    <desc>LIVE2025非洲業餘女子錦標賽第三天</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369213" start="20250207220000 +0800" stop="20250208000000 +0800">
-    <title lang="zh">2024 LPGA加拿大公開賽第四天</title>
-    <desc>2024 LPGA加拿大公開賽第四天</desc>
-    <date>2025-02-07</date>
-  </programme>
   <programme channel="369213" start="20250208000000 +0800" stop="20250208030000 +0800">
     <title lang="zh">LIVE2025 LPGA創始者盃第二天</title>
     <desc>LIVE2025 LPGA創始者盃第二天</desc>
@@ -79,9 +44,44 @@
     <desc>2024 TLPGA臺灣強女子公開賽第二回合 精華</desc>
     <date>2025-02-08</date>
   </programme>
-  <programme channel="369213" start="20250209000000 +0800" stop="20250210000000 +0800">
+  <programme channel="369213" start="20250209000000 +0800" stop="20250209030000 +0800">
     <title lang="zh">2024亞太業餘女子錦標賽第一天</title>
     <desc>2024亞太業餘女子錦標賽第一天</desc>
     <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209030000 +0800" stop="20250209060000 +0800">
+    <title lang="zh">LIVE2025 LPGA創始者盃第三天</title>
+    <desc>LIVE2025 LPGA創始者盃第三天</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209060000 +0800" stop="20250209130000 +0800">
+    <title lang="zh">2024 LPGA美國女子PGA錦標賽第三天</title>
+    <desc>2024 LPGA美國女子PGA錦標賽第三天</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209130000 +0800" stop="20250209153000 +0800">
+    <title lang="zh">首播2025 LPGA創始者盃第三天</title>
+    <desc>首播2025 LPGA創始者盃第三天</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209153000 +0800" stop="20250209190000 +0800">
+    <title lang="zh">2024台灣業餘高爾夫緊逼賽第三回合</title>
+    <desc>2024台灣業餘高爾夫緊逼賽第三回合</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209190000 +0800" stop="20250209230000 +0800">
+    <title lang="zh">2025 亞巡印度國際亞巡賽第二天</title>
+    <desc>2025 亞巡印度國際亞巡賽第二天</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250209230000 +0800" stop="20250210000000 +0800">
+    <title lang="zh">2024 TLPGA臺灣強女子公開賽第三回合 精華</title>
+    <desc>2024 TLPGA臺灣強女子公開賽第三回合 精華</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369213" start="20250210000000 +0800" stop="20250211000000 +0800">
+    <title lang="zh">2024亞太業餘女子錦標賽第二天</title>
+    <desc>2024亞太業餘女子錦標賽第二天</desc>
+    <date>2025-02-10</date>
   </programme>
 </tv>

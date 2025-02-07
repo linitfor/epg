@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250207212900 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250207.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250207&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250208003105 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250207000000 +0800" stop="20250207010000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207010000 +0800" stop="20250207023000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207023000 +0800" stop="20250207040000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207040000 +0800" stop="20250207050000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
-    <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207050000 +0800" stop="20250207060000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
-    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207060000 +0800" stop="20250207070000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207070000 +0800" stop="20250207083000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207083000 +0800" stop="20250207100000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207100000 +0800" stop="20250207110000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
-    <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207110000 +0800" stop="20250207120000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
-    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207120000 +0800" stop="20250207130000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(1)SIN vs AZI</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207130000 +0800" stop="20250207143000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(2)HSU(台灣) vs LEO</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207143000 +0800" stop="20250207160000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs DAV</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207160000 +0800" stop="20250207170000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
-    <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207170000 +0800" stop="20250207180000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
-    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207180000 +0800" stop="20250207193000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(3)HSI(台灣) vs NGU</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(3)HSI(台灣) vs NGU</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207193000 +0800" stop="20250207210000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(4)SHA vs ALI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第一天(4)SHA vs ALI</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207210000 +0800" stop="20250207220000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 O'SUL vs BAI</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 O'SUL vs BAI</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207220000 +0800" stop="20250207230000 +0800">
-    <title lang="zh">2023莫斯考尼盃第1天(4)ALCvsWOL</title>
-    <desc>2023莫斯考尼盃第1天(4)ALCvsWOL</desc>
-    <date>2025-02-07</date>
-  </programme>
-  <programme channel="369229" start="20250207230000 +0800" stop="20250208000000 +0800">
-    <title lang="zh">2023莫斯考尼盃第2天(1)JOSvsFED</title>
-    <desc>2023莫斯考尼盃第2天(1)JOSvsFED</desc>
-    <date>2025-02-07</date>
-  </programme>
   <programme channel="369229" start="20250208000000 +0800" stop="20250208013000 +0800">
     <title lang="zh">2024 ACBS十號球亞洲錦標賽 第一天(3)HSI(台灣) vs NGU</title>
     <desc>2024 ACBS十號球亞洲錦標賽 第一天(3)HSI(台灣) vs NGU</desc>
@@ -209,9 +109,109 @@
     <desc>2023莫斯考尼盃第2天(2)FRAvsFED</desc>
     <date>2025-02-08</date>
   </programme>
-  <programme channel="369229" start="20250209000000 +0800" stop="20250210000000 +0800">
+  <programme channel="369229" start="20250209000000 +0800" stop="20250209010000 +0800">
     <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</title>
     <desc>2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</desc>
     <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209010000 +0800" stop="20250209020000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209020000 +0800" stop="20250209030000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209030000 +0800" stop="20250209043000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209043000 +0800" stop="20250209060000 +0800">
+    <title lang="zh">2023莫斯考尼盃第2天(2)FRAvsFED</title>
+    <desc>2023莫斯考尼盃第2天(2)FRAvsFED</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209060000 +0800" stop="20250209070000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209070000 +0800" stop="20250209080000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209080000 +0800" stop="20250209090000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209090000 +0800" stop="20250209103000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209103000 +0800" stop="20250209110000 +0800">
+    <title lang="zh">巴哈姆特電玩瘋</title>
+    <desc>巴哈姆特電玩瘋</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209110000 +0800" stop="20250209123000 +0800">
+    <title lang="zh">2023莫斯考尼盃第2天(2)FRAvsFED</title>
+    <desc>2023莫斯考尼盃第2天(2)FRAvsFED</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209123000 +0800" stop="20250209133000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209133000 +0800" stop="20250209143000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(2)QAE vs ALI</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209143000 +0800" stop="20250209153000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(3)RAG vs CHA(台灣)</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209153000 +0800" stop="20250209170000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第一輪 TRU vs LAM</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209170000 +0800" stop="20250209180000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(1)SIN vs QAE</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209180000 +0800" stop="20250209190000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(4)ALI vs SOU</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(4)ALI vs SOU</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209190000 +0800" stop="20250209210000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209210000 +0800" stop="20250209223000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 MUR vs DON</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 MUR vs DON</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250209223000 +0800" stop="20250210000000 +0800">
+    <title lang="zh">2023莫斯考尼盃第2天(3)SANvsVAN</title>
+    <desc>2023莫斯考尼盃第2天(3)SANvsVAN</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="369229" start="20250210000000 +0800" stop="20250211000000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第二天(4)ALI vs SOU</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第二天(4)ALI vs SOU</desc>
+    <date>2025-02-10</date>
   </programme>
 </tv>
