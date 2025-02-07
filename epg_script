@@ -345,6 +345,14 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 curl "$link" > ./epg/74.xml
 
 
+# AXN TW
+set tvg_id = "387572"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/75.xml
+
+
+
+##############################################
 
 ## 處理檔頭
 #rm -rf head.xml
