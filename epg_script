@@ -80,11 +80,11 @@ set tvg_id = "368558"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/13.xml
 # 中視
-set tvg_id = "334773"
+set tvg_id = "370141"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/14.xml
 # 華視
-set tvg_id = "335088"
+set tvg_id = "368922"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/15.xml
 # 東森戲劇
