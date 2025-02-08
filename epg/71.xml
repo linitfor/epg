@@ -1,7 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250209023012 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250209.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250209&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250209052426 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250209.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250209&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250209011100 +0800" stop="20250209043000 +0800">
+    <title lang="zh">Titanic</title>
+    <desc>Seventeen-year-old Rose hails from an aristocratic family and is set to be married. When she boards the Titanic, she meets Jack Dawson, an artist, and falls in love with him.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209043000 +0800" stop="20250209063000 +0800">
+    <title lang="zh">Mojin: The Treasure Valley</title>
+    <desc>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209063000 +0800" stop="20250209073000 +0800">
+    <title lang="zh">Super Typhoon</title>
+    <desc>A wrathful goddess unleashes a cataclysmic typhoon upon the world as punishment for humanity's transgressions. Panic ensues as people are forced to confront monstrous creatures amid the chaos.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209073000 +0800" stop="20250209093000 +0800">
+    <title lang="zh">Ride On</title>
+    <desc>A washed-up stuntman and his horse get into a fight with debt collectors before escaping in grand fashion. As footage of the incident goes viral, the humiliated collectors seek revenge.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209093000 +0800" stop="20250209111500 +0800">
+    <title lang="zh">Ratatouille</title>
+    <desc>Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209111500 +0800" stop="20250209131500 +0800">
+    <title lang="zh">Life Of Pi</title>
+    <desc>Pi Patel finds a way to survive in a lifeboat that is adrift in the middle of nowhere. His fight against the odds is heightened by the company of a hyena and a male Bengal tiger.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209131500 +0800" stop="20250209153000 +0800">
+    <title lang="zh">The Avengers</title>
+    <desc>Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. Eventually, the superheroes cast their differences aside to accomplish the task.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209153000 +0800" stop="20250209173000 +0800">
+    <title lang="zh">Terminator Genisys</title>
+    <desc>John sends Kyle to the year 1984 to protect his mother, Sarah, from being killed. When the timeline is altered, Kyle asks her to travel to the year 2017 to stop an AI system that wants to end mankind.</desc>
+    <date>2025-02-09</date>
+  </programme>
+  <programme channel="404197" start="20250209173000 +0800" stop="20250210000000 +0800">
+    <title lang="zh">Air Force One</title>
+    <desc>While on his way home from Moscow, the president of the USA finds himself in danger when his plane, Air Force One, is hijacked.</desc>
+    <date>2025-02-09</date>
+  </programme>
 </tv>
