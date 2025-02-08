@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250208204421 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368589/20250208.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368589&amp;date=20250208&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250209002747 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368589/20250209.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368589&amp;date=20250209&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368589">
     <display-name lang="Taiwan">愛爾達體育1台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114213429687_50.png" />
   </channel>
-  <programme channel="368589" start="20250208003000 +0800" stop="20250208010000 +0800">
-    <title lang="zh">歐冠足球誌#18(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208010000 +0800" stop="20250208035000 +0800">
-    <title lang="zh">12強棒球 中華 VS 日本 冠軍戰 11/24(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208035000 +0800" stop="20250208061000 +0800">
-    <title lang="zh">LIVE 英格蘭足總盃 曼聯 VS 萊斯特城 第四輪(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208061000 +0800" stop="20250208083000 +0800">
-    <title lang="zh">D-LIVE 德甲 拜仁慕尼黑 VS 文達布萊梅 第21輪(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208083000 +0800" stop="20250208090000 +0800">
-    <title lang="zh">NBA動態#15 (新)(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208090000 +0800" stop="20250208115500 +0800">
-    <title lang="zh">LIVE NBA 暴龍 VS 雷霆 2/8 例行賽(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208115500 +0800" stop="20250208160000 +0800">
-    <title lang="zh">LIVE 亞冬運 陳映竹/戴瑋麟 競速滑冰 男女100/1500公尺決賽 2/8(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208160000 +0800" stop="20250208180000 +0800">
-    <title lang="zh">NBA 暴龍 VS 雷霆 2/8 例行賽(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208180000 +0800" stop="20250208193000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 新加坡站 男單四強 2/8(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208193000 +0800" stop="20250208210000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 新加坡站 女雙決賽 2/8(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208210000 +0800" stop="20250208225000 +0800">
-    <title lang="zh">NBA 暴龍 VS 雷霆 2/8 例行賽(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
-  <programme channel="368589" start="20250208225000 +0800" stop="20250209000000 +0800">
-    <title lang="zh">LIVE 英格蘭足總盃 艾佛頓 VS 伯恩茅斯 第四輪(普)</title>
-    <desc />
-    <date>2025-02-08</date>
-  </programme>
   <programme channel="368589" start="20250209010500 +0800" stop="20250209013500 +0800">
     <title lang="zh">體壇最前線 2/8 (新)(普)</title>
     <desc />
@@ -138,5 +78,80 @@
     <title lang="zh">LIVE 英格蘭足總盃 普立茅斯 VS 利物浦 第四輪(普)</title>
     <desc />
     <date>2025-02-09</date>
+  </programme>
+  <programme channel="368589" start="20250210010500 +0800" stop="20250210013000 +0800">
+    <title lang="zh">體壇最前線 2/9 (新)(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210013000 +0800" stop="20250210023000 +0800">
+    <title lang="zh">WTT大滿貫賽 新加坡站 男單決賽 2/9(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210023000 +0800" stop="20250210030000 +0800">
+    <title lang="zh">體壇最前線 2/9(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210030000 +0800" stop="20250210053000 +0800">
+    <title lang="zh">LIVE NBA 76人 VS 公鹿 2/10 例行賽(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210053000 +0800" stop="20250210060000 +0800">
+    <title lang="zh">歐冠足球誌#17(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210060000 +0800" stop="20250210063000 +0800">
+    <title lang="zh">體壇最前線 2/9(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210063000 +0800" stop="20250210070000 +0800">
+    <title lang="zh">NBA動態#15(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210070000 +0800" stop="20250210113000 +0800">
+    <title lang="zh">LIVE NFL 老鷹 VS 酋長 第59屆超級盃(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210113000 +0800" stop="20250210115500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#5(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210115500 +0800" stop="20250210160000 +0800">
+    <title lang="zh">LIVE 亞冬運 戴瑋麟 競速滑冰 男500/女3000公尺/男團衝刺決賽 2/10(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210160000 +0800" stop="20250210184500 +0800">
+    <title lang="zh">NFL 老鷹 VS 酋長 第59屆超級盃(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210184500 +0800" stop="20250210204500 +0800">
+    <title lang="zh">NBA 76人 VS 公鹿 2/10 例行賽(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210204500 +0800" stop="20250210233000 +0800">
+    <title lang="zh">NFL 老鷹 VS 酋長 第59屆超級盃(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250210233000 +0800" stop="20250211000000 +0800">
+    <title lang="zh">體壇最前線 2/10 (新)(普)</title>
+    <desc />
+    <date>2025-02-10</date>
+  </programme>
+  <programme channel="368589" start="20250211000000 +0800" stop="20250212000000 +0800">
+    <title lang="zh">NFL 酋長 VS 老鷹 第59屆超級盃(普)</title>
+    <desc />
+    <date>2025-02-11</date>
   </programme>
 </tv>
