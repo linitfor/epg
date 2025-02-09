@@ -423,6 +423,10 @@ curl "$link" > ./epg/88.xml
 set tvg_id = "369159"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/89.xml
+# JStar極限台電影頻道
+set tvg_id = "369157"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/90.xml
 
 ##############################################
 
