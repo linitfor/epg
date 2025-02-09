@@ -407,7 +407,22 @@ curl "$link" > ./epg/84.xml
 set tvg_id = "368935"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/85.xml
-
+# 潘朵啦高畫質玩美台
+set tvg_id = "369203"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/86.xml
+# 潘朵啦高畫質粉紅台
+set tvg_id = "369164"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/87.xml
+# 驚豔成人電影台
+set tvg_id = "369158"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/88.xml
+# 香蕉台
+set tvg_id = "369159"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/89.xml
 
 ##############################################
 
