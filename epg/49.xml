@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250210204903 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250210.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250210&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250211003151 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250210000000 +0800" stop="20250210015000 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 西苑高中 vs 中興商工(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210015000 +0800" stop="20250210020700 +0800">
-    <title lang="zh">2024 SDK全國羽球分齡錦標賽(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210020700 +0800" stop="20250210050000 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 秀峰高中 vs 大理高中(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210050000 +0800" stop="20250210054000 +0800">
-    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210054000 +0800" stop="20250210070300 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 新社高中 vs 臺東體中(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210070300 +0800" stop="20250210080300 +0800">
-    <title lang="zh">追日潤菁英邀請賽 第二回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210080300 +0800" stop="20250210092000 +0800">
-    <title lang="zh">113年自由盃桌球錦標賽 4/14上午賽程(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210092000 +0800" stop="20250210101500 +0800">
-    <title lang="zh">2024國賓ADT公開賽第三回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210101500 +0800" stop="20250210104000 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 莊政霖 vs 羅庠禮(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210104000 +0800" stop="20250210105100 +0800">
-    <title lang="zh">追日潤菁英邀請賽 第三回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210105100 +0800" stop="20250210112100 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 伍珈萱 vs 王永玠(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210112100 +0800" stop="20250210120000 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 莊智宇 vs 伍珈萱(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210120000 +0800" stop="20250210135000 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 西苑高中 vs 中興商工(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210135000 +0800" stop="20250210140700 +0800">
-    <title lang="zh">2024 SDK全國羽球分齡錦標賽(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210140700 +0800" stop="20250210170000 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 秀峰高中 vs 大理高中(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210170000 +0800" stop="20250210174000 +0800">
-    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210174000 +0800" stop="20250210190300 +0800">
-    <title lang="zh">113學年高中木棒組 第一階段 新社高中 vs 臺東體中(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210190300 +0800" stop="20250210200300 +0800">
-    <title lang="zh">追日潤菁英邀請賽 第二回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210200300 +0800" stop="20250210212000 +0800">
-    <title lang="zh">113年自由盃桌球錦標賽 4/14上午賽程(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210212000 +0800" stop="20250210221500 +0800">
-    <title lang="zh">2024國賓ADT公開賽第三回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210221500 +0800" stop="20250210224000 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 莊政霖 vs 羅庠禮(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210224000 +0800" stop="20250210225100 +0800">
-    <title lang="zh">追日潤菁英邀請賽 第三回合(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210225100 +0800" stop="20250210232100 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 伍珈萱 vs 王永玠(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="335009" start="20250210232100 +0800" stop="20250211000000 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 莊智宇 vs 伍珈萱(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
   <programme channel="335009" start="20250211000000 +0800" stop="20250211011300 +0800">
     <title lang="zh">113學年高中木棒組 第一階段 臺南海事 vs 陽明工商(普)</title>
     <desc />
@@ -244,9 +124,74 @@
     <desc />
     <date>2025-02-11</date>
   </programme>
-  <programme channel="335009" start="20250212000000 +0800" stop="20250213000000 +0800">
+  <programme channel="335009" start="20250212000000 +0800" stop="20250212011300 +0800">
     <title lang="zh">2024長耀盃 高女循環賽 北一女中 vs 日本昭和學院(普)</title>
     <desc />
     <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212011300 +0800" stop="20250212025300 +0800">
+    <title lang="zh">2024長耀盃 高女循環賽 金甌女中 vs 韓國善一女高(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212025300 +0800" stop="20250212042400 +0800">
+    <title lang="zh">2024長耀盃 大專男預賽 澳洲布里斯本 vs 國立體大(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212042400 +0800" stop="20250212072400 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 中午、下午賽程(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212072400 +0800" stop="20250212085000 +0800">
+    <title lang="zh">2024彰化公開賽第四回合(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212085000 +0800" stop="20250212143000 +0800">
+    <title lang="zh">[Live] 基隆市中小學運動會田徑項目 2/12賽程(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212143000 +0800" stop="20250212145300 +0800">
+    <title lang="zh">2024長耀盃 高女循環賽 金甌女中 vs 韓國善一女高(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212145300 +0800" stop="20250212162400 +0800">
+    <title lang="zh">2024長耀盃 大專男預賽 澳洲布里斯本 vs 國立體大(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212162400 +0800" stop="20250212192400 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 中午、下午賽程(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212192400 +0800" stop="20250212205000 +0800">
+    <title lang="zh">2024彰化公開賽第四回合(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212205000 +0800" stop="20250212221200 +0800">
+    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15賽程(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212221200 +0800" stop="20250212232300 +0800">
+    <title lang="zh">112年全國運動會 橄欖球項目(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250212232300 +0800" stop="20250213000000 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 莊政霖 vs 羅庠禮(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="335009" start="20250213000000 +0800" stop="20250214000000 +0800">
+    <title lang="zh">112全國手球錦標賽 公開男子甲組 台灣體大 vs 2018代表隊(普)</title>
+    <desc />
+    <date>2025-02-13</date>
   </programme>
 </tv>

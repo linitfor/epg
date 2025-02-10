@@ -1,369 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250210232736 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20250210.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20250210&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250211003203 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370167">
     <display-name lang="Taiwan">MOMO親子台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110802687808_97.png" />
   </channel>
-  <programme channel="370167" start="20250210000000 +0800" stop="20250210002200 +0800">
-    <title lang="zh">MOMO這一家 EP01</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210002200 +0800" stop="20250210004400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP14</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210004400 +0800" stop="20250210010000 +0800">
-    <title lang="zh">ABC故事屋EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210010000 +0800" stop="20250210012200 +0800">
-    <title lang="zh">MOMO這一家 EP02</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210012200 +0800" stop="20250210014400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP15</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210014400 +0800" stop="20250210020000 +0800">
-    <title lang="zh">ABC故事屋EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210020000 +0800" stop="20250210022200 +0800">
-    <title lang="zh">MOMO這一家 EP03</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210022200 +0800" stop="20250210024400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP16</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210024400 +0800" stop="20250210030000 +0800">
-    <title lang="zh">ABC故事屋EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210030000 +0800" stop="20250210032200 +0800">
-    <title lang="zh">MOMO這一家 EP04</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210032200 +0800" stop="20250210034400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210034400 +0800" stop="20250210040000 +0800">
-    <title lang="zh">ABC故事屋EP20</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210040000 +0800" stop="20250210042200 +0800">
-    <title lang="zh">MOMO這一家 EP05</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210042200 +0800" stop="20250210044400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210044400 +0800" stop="20250210050000 +0800">
-    <title lang="zh">ABC故事屋EP21</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210050000 +0800" stop="20250210052200 +0800">
-    <title lang="zh">MOMO這一家 EP06</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210052200 +0800" stop="20250210054400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210054400 +0800" stop="20250210060000 +0800">
-    <title lang="zh">ABC故事屋EP22</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210060000 +0800" stop="20250210062200 +0800">
-    <title lang="zh">MOMO這一家 EP01</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210062200 +0800" stop="20250210064400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP14</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210064400 +0800" stop="20250210070000 +0800">
-    <title lang="zh">ABC故事屋EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210070000 +0800" stop="20250210072200 +0800">
-    <title lang="zh">MOMO這一家 EP02</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210072200 +0800" stop="20250210074400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP15</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210074400 +0800" stop="20250210080000 +0800">
-    <title lang="zh">ABC故事屋EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210080000 +0800" stop="20250210082200 +0800">
-    <title lang="zh">MOMO這一家 EP03</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210082200 +0800" stop="20250210084400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP16</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210084400 +0800" stop="20250210090000 +0800">
-    <title lang="zh">ABC故事屋EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210090000 +0800" stop="20250210092200 +0800">
-    <title lang="zh">MOMO這一家 EP04</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210092200 +0800" stop="20250210094400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210094400 +0800" stop="20250210100000 +0800">
-    <title lang="zh">ABC故事屋EP20</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210100000 +0800" stop="20250210102200 +0800">
-    <title lang="zh">MOMO這一家 EP05</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210102200 +0800" stop="20250210104400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210104400 +0800" stop="20250210110000 +0800">
-    <title lang="zh">ABC故事屋EP21</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210110000 +0800" stop="20250210112200 +0800">
-    <title lang="zh">MOMO這一家 EP06</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210112200 +0800" stop="20250210114400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210114400 +0800" stop="20250210120000 +0800">
-    <title lang="zh">ABC故事屋EP22</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210120000 +0800" stop="20250210122200 +0800">
-    <title lang="zh">MOMO這一家 EP01</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210122200 +0800" stop="20250210124400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP14</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210124400 +0800" stop="20250210130000 +0800">
-    <title lang="zh">ABC故事屋EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210130000 +0800" stop="20250210132200 +0800">
-    <title lang="zh">MOMO這一家 EP02</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210132200 +0800" stop="20250210134400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP15</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210134400 +0800" stop="20250210140000 +0800">
-    <title lang="zh">ABC故事屋EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210140000 +0800" stop="20250210142200 +0800">
-    <title lang="zh">MOMO這一家 EP03</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210142200 +0800" stop="20250210144400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP16</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210144400 +0800" stop="20250210150000 +0800">
-    <title lang="zh">ABC故事屋EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210150000 +0800" stop="20250210152200 +0800">
-    <title lang="zh">MOMO這一家 EP04</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210152200 +0800" stop="20250210154400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210154400 +0800" stop="20250210160000 +0800">
-    <title lang="zh">ABC故事屋EP20</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210160000 +0800" stop="20250210162200 +0800">
-    <title lang="zh">MOMO這一家 EP05</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210162200 +0800" stop="20250210164400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210164400 +0800" stop="20250210170000 +0800">
-    <title lang="zh">ABC故事屋EP21</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210170000 +0800" stop="20250210172200 +0800">
-    <title lang="zh">MOMO這一家 EP06</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210172200 +0800" stop="20250210174400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210174400 +0800" stop="20250210180000 +0800">
-    <title lang="zh">ABC故事屋EP22</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210180000 +0800" stop="20250210182200 +0800">
-    <title lang="zh">MOMO這一家 EP01</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210182200 +0800" stop="20250210184400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP14</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210184400 +0800" stop="20250210190000 +0800">
-    <title lang="zh">ABC故事屋EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210190000 +0800" stop="20250210192200 +0800">
-    <title lang="zh">MOMO這一家 EP02</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210192200 +0800" stop="20250210194400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP15</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210194400 +0800" stop="20250210200000 +0800">
-    <title lang="zh">ABC故事屋EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210200000 +0800" stop="20250210202200 +0800">
-    <title lang="zh">MOMO這一家 EP03</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210202200 +0800" stop="20250210204400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP16</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210204400 +0800" stop="20250210210000 +0800">
-    <title lang="zh">ABC故事屋EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210210000 +0800" stop="20250210212200 +0800">
-    <title lang="zh">MOMO這一家 EP04</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210212200 +0800" stop="20250210214400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP17</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210214400 +0800" stop="20250210220000 +0800">
-    <title lang="zh">ABC故事屋EP20</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210220000 +0800" stop="20250210222200 +0800">
-    <title lang="zh">MOMO這一家 EP05</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210222200 +0800" stop="20250210224400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP18</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210224400 +0800" stop="20250210230000 +0800">
-    <title lang="zh">ABC故事屋EP21</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210230000 +0800" stop="20250210232200 +0800">
-    <title lang="zh">MOMO這一家 EP06</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210232200 +0800" stop="20250210234400 +0800">
-    <title lang="zh">MOMO玩玩樂 EP19</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370167" start="20250210234400 +0800" stop="20250211000000 +0800">
-    <title lang="zh">ABC故事屋EP22</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
   <programme channel="370167" start="20250211000000 +0800" stop="20250211002200 +0800">
     <title lang="zh">MOMO這一家 EP07</title>
     <desc />
@@ -724,8 +364,363 @@
     <desc />
     <date>2025-02-11</date>
   </programme>
-  <programme channel="370167" start="20250212000000 +0800" stop="20250213000000 +0800">
+  <programme channel="370167" start="20250212000000 +0800" stop="20250212002200 +0800">
     <title lang="zh">MOMO這一家 EP13</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212002200 +0800" stop="20250212004400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP29</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212004400 +0800" stop="20250212010000 +0800">
+    <title lang="zh">做菜ABCS1 EP03 (堅果沙拉)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212010000 +0800" stop="20250212012200 +0800">
+    <title lang="zh">MOMO這一家 EP14</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212012200 +0800" stop="20250212014400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP30</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212014400 +0800" stop="20250212020000 +0800">
+    <title lang="zh">做菜ABCS1 EP04 (意大利肉醬麵)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212020000 +0800" stop="20250212022200 +0800">
+    <title lang="zh">MOMO這一家 EP15</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212022200 +0800" stop="20250212024400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP31</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212024400 +0800" stop="20250212030000 +0800">
+    <title lang="zh">做菜ABCS1 EP05 (中華炒飯)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212030000 +0800" stop="20250212032200 +0800">
+    <title lang="zh">MOMO這一家 EP16</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212032200 +0800" stop="20250212034400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP32</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212034400 +0800" stop="20250212040000 +0800">
+    <title lang="zh">做菜ABCS1 EP06 (越南麵包)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212040000 +0800" stop="20250212042200 +0800">
+    <title lang="zh">MOMO這一家 EP17</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212042200 +0800" stop="20250212044400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP33</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212044400 +0800" stop="20250212050000 +0800">
+    <title lang="zh">做菜ABCS1 EP07 (烤雞翅)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212050000 +0800" stop="20250212052200 +0800">
+    <title lang="zh">MOMO這一家 EP18</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212052200 +0800" stop="20250212054400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP34</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212054400 +0800" stop="20250212060000 +0800">
+    <title lang="zh">做菜ABCS1 EP08 (水果奶昔)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212060000 +0800" stop="20250212062200 +0800">
+    <title lang="zh">MOMO這一家 EP13</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212062200 +0800" stop="20250212064400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP29</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212064400 +0800" stop="20250212070000 +0800">
+    <title lang="zh">做菜ABCS1 EP03 (堅果沙拉)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212070000 +0800" stop="20250212072200 +0800">
+    <title lang="zh">MOMO這一家 EP14</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212072200 +0800" stop="20250212074400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP30</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212074400 +0800" stop="20250212080000 +0800">
+    <title lang="zh">做菜ABCS1 EP04 (意大利肉醬麵)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212080000 +0800" stop="20250212082200 +0800">
+    <title lang="zh">MOMO這一家 EP15</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212082200 +0800" stop="20250212084400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP31</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212084400 +0800" stop="20250212090000 +0800">
+    <title lang="zh">做菜ABCS1 EP05 (中華炒飯)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212090000 +0800" stop="20250212092200 +0800">
+    <title lang="zh">MOMO這一家 EP16</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212092200 +0800" stop="20250212094400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP32</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212094400 +0800" stop="20250212100000 +0800">
+    <title lang="zh">做菜ABCS1 EP06 (越南麵包)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212100000 +0800" stop="20250212102200 +0800">
+    <title lang="zh">MOMO這一家 EP17</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212102200 +0800" stop="20250212104400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP33</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212104400 +0800" stop="20250212110000 +0800">
+    <title lang="zh">做菜ABCS1 EP07 (烤雞翅)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212110000 +0800" stop="20250212112200 +0800">
+    <title lang="zh">MOMO這一家 EP18</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212112200 +0800" stop="20250212114400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP34</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212114400 +0800" stop="20250212120000 +0800">
+    <title lang="zh">做菜ABCS1 EP08 (水果奶昔)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212120000 +0800" stop="20250212122200 +0800">
+    <title lang="zh">MOMO這一家 EP13</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212122200 +0800" stop="20250212124400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP29</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212124400 +0800" stop="20250212130000 +0800">
+    <title lang="zh">做菜ABCS1 EP03 (堅果沙拉)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212130000 +0800" stop="20250212132200 +0800">
+    <title lang="zh">MOMO這一家 EP14</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212132200 +0800" stop="20250212134400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP30</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212134400 +0800" stop="20250212140000 +0800">
+    <title lang="zh">做菜ABCS1 EP04 (意大利肉醬麵)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212140000 +0800" stop="20250212142200 +0800">
+    <title lang="zh">MOMO這一家 EP15</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212142200 +0800" stop="20250212144400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP31</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212144400 +0800" stop="20250212150000 +0800">
+    <title lang="zh">做菜ABCS1 EP05 (中華炒飯)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212150000 +0800" stop="20250212152200 +0800">
+    <title lang="zh">MOMO這一家 EP16</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212152200 +0800" stop="20250212154400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP32</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212154400 +0800" stop="20250212160000 +0800">
+    <title lang="zh">做菜ABCS1 EP06 (越南麵包)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212160000 +0800" stop="20250212162200 +0800">
+    <title lang="zh">MOMO這一家 EP17</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212162200 +0800" stop="20250212164400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP33</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212164400 +0800" stop="20250212170000 +0800">
+    <title lang="zh">做菜ABCS1 EP07 (烤雞翅)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212170000 +0800" stop="20250212172200 +0800">
+    <title lang="zh">MOMO這一家 EP18</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212172200 +0800" stop="20250212174400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP34</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212174400 +0800" stop="20250212180000 +0800">
+    <title lang="zh">做菜ABCS1 EP08 (水果奶昔)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212180000 +0800" stop="20250212182200 +0800">
+    <title lang="zh">MOMO這一家 EP13</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212182200 +0800" stop="20250212184400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP29</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212184400 +0800" stop="20250212190000 +0800">
+    <title lang="zh">做菜ABCS1 EP03 (堅果沙拉)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212190000 +0800" stop="20250212192200 +0800">
+    <title lang="zh">MOMO這一家 EP14</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212192200 +0800" stop="20250212194400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP30</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212194400 +0800" stop="20250212200000 +0800">
+    <title lang="zh">做菜ABCS1 EP04 (意大利肉醬麵)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212200000 +0800" stop="20250212202200 +0800">
+    <title lang="zh">MOMO這一家 EP15</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212202200 +0800" stop="20250212204400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP31</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212204400 +0800" stop="20250212210000 +0800">
+    <title lang="zh">做菜ABCS1 EP05 (中華炒飯)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212210000 +0800" stop="20250212212200 +0800">
+    <title lang="zh">MOMO這一家 EP16</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212212200 +0800" stop="20250212214400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP32</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212214400 +0800" stop="20250212220000 +0800">
+    <title lang="zh">做菜ABCS1 EP06 (越南麵包)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212220000 +0800" stop="20250212222200 +0800">
+    <title lang="zh">MOMO這一家 EP17</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212222200 +0800" stop="20250212224400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP33</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212224400 +0800" stop="20250212230000 +0800">
+    <title lang="zh">做菜ABCS1 EP07 (烤雞翅)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212230000 +0800" stop="20250212232200 +0800">
+    <title lang="zh">MOMO這一家 EP18</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212232200 +0800" stop="20250212234400 +0800">
+    <title lang="zh">MOMO玩玩樂 EP34</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370167" start="20250212234400 +0800" stop="20250213000000 +0800">
+    <title lang="zh">做菜ABCS1 EP08 (水果奶昔)</title>
     <desc />
     <date>2025-02-12</date>
   </programme>

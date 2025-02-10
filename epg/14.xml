@@ -1,139 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250210232727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250210.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250210&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250211003135 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370141">
     <display-name lang="Taiwan">中視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" />
   </channel>
-  <programme channel="370141" start="20250210000000 +0800" stop="20250210020000 +0800">
-    <title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210020000 +0800" stop="20250210040000 +0800">
-    <title lang="zh">綜藝玩很大(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210040000 +0800" stop="20250210050000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210050000 +0800" stop="20250210060000 +0800">
-    <title lang="zh">大陸尋奇(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210060000 +0800" stop="20250210070000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210070000 +0800" stop="20250210080000 +0800">
-    <title lang="zh">中視早安新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210080000 +0800" stop="20250210083000 +0800">
-    <title lang="zh">財經早點名(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210083000 +0800" stop="20250210090000 +0800">
-    <title lang="zh">股市貴公子(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210090000 +0800" stop="20250210100000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210100000 +0800" stop="20250210110000 +0800">
-    <title lang="zh">流星蝴蝶劍(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210110000 +0800" stop="20250210115800 +0800">
-    <title lang="zh">流星蝴蝶劍(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210115800 +0800" stop="20250210130000 +0800">
-    <title lang="zh">中視午間新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210130000 +0800" stop="20250210140000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210140000 +0800" stop="20250210143000 +0800">
-    <title lang="zh">股林高手(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210143000 +0800" stop="20250210150000 +0800">
-    <title lang="zh">超越巔峰(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210150000 +0800" stop="20250210153000 +0800">
-    <title lang="zh">價值型投資(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210153000 +0800" stop="20250210160000 +0800">
-    <title lang="zh">金融鬼谷子(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210160000 +0800" stop="20250210170000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210170000 +0800" stop="20250210172800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210172800 +0800" stop="20250210175800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210175800 +0800" stop="20250210185800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210185800 +0800" stop="20250210200000 +0800">
-    <title lang="zh">中視新聞全球報導(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210200000 +0800" stop="20250210210000 +0800">
-    <title lang="zh">流星蝴蝶劍(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210210000 +0800" stop="20250210220000 +0800">
-    <title lang="zh">流星蝴蝶劍(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210220000 +0800" stop="20250210230000 +0800">
-    <title lang="zh">大陸尋奇(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
-  <programme channel="370141" start="20250210230000 +0800" stop="20250211000000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-02-10</date>
-  </programme>
   <programme channel="370141" start="20250211000000 +0800" stop="20250211010000 +0800">
     <title lang="zh">流星蝴蝶劍(普)</title>
     <desc />
@@ -279,8 +149,148 @@
     <desc />
     <date>2025-02-11</date>
   </programme>
-  <programme channel="370141" start="20250212000000 +0800" stop="20250213000000 +0800">
+  <programme channel="370141" start="20250212000000 +0800" stop="20250212010000 +0800">
     <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212010000 +0800" stop="20250212020000 +0800">
+    <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212020000 +0800" stop="20250212030000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212030000 +0800" stop="20250212033000 +0800">
+    <title lang="zh">台灣味道2(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212033000 +0800" stop="20250212040000 +0800">
+    <title lang="zh">台灣味道2(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212040000 +0800" stop="20250212050000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212050000 +0800" stop="20250212060000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212060000 +0800" stop="20250212070000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212070000 +0800" stop="20250212080000 +0800">
+    <title lang="zh">中視早安新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212080000 +0800" stop="20250212083000 +0800">
+    <title lang="zh">財經早點名(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212083000 +0800" stop="20250212090000 +0800">
+    <title lang="zh">股市貴公子(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212090000 +0800" stop="20250212100000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212100000 +0800" stop="20250212110000 +0800">
+    <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212110000 +0800" stop="20250212115800 +0800">
+    <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212115800 +0800" stop="20250212130000 +0800">
+    <title lang="zh">中視午間新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212130000 +0800" stop="20250212140000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212140000 +0800" stop="20250212143000 +0800">
+    <title lang="zh">股林高手(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212143000 +0800" stop="20250212150000 +0800">
+    <title lang="zh">超越巔峰(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212150000 +0800" stop="20250212153000 +0800">
+    <title lang="zh">價值型投資(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212153000 +0800" stop="20250212160000 +0800">
+    <title lang="zh">金融鬼谷子(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212160000 +0800" stop="20250212170000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212170000 +0800" stop="20250212172800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212172800 +0800" stop="20250212175800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212175800 +0800" stop="20250212185800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212185800 +0800" stop="20250212200000 +0800">
+    <title lang="zh">中視新聞全球報導(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212200000 +0800" stop="20250212210000 +0800">
+    <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212210000 +0800" stop="20250212220000 +0800">
+    <title lang="zh">流星蝴蝶劍(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212220000 +0800" stop="20250212230000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2025-02-12</date>
+  </programme>
+  <programme channel="370141" start="20250212230000 +0800" stop="20250213000000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
     <desc />
     <date>2025-02-12</date>
   </programme>
