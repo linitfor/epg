@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250211023400 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250211052358 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250211010500 +0800" stop="20250211025900 +0800">
+    <title lang="zh">The Conjuring 2</title>
+    <desc>Peggy, a single mother of four children, seeks the help of occult investigators Ed and Lorraine Warren when she and her children witness strange, paranormal events in their house.</desc>
+    <date>2025-02-11</date>
+  </programme>
+  <programme channel="404197" start="20250211025900 +0800" stop="20250211044800 +0800">
+    <title lang="zh">Prince Of Persia: The Sands Of Time</title>
+    <desc>Dastan, a young prince, teams up with Princess Tamina to thwart the evil plans of his uncle Nizam, who wants to control time with the help of a special dagger.</desc>
+    <date>2025-02-11</date>
+  </programme>
+  <programme channel="404197" start="20250211044800 +0800" stop="20250211050500 +0800">
+    <title lang="zh">Movie In Focus</title>
+    <desc>A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+    <date>2025-02-11</date>
+  </programme>
+  <programme channel="404197" start="20250211050500 +0800" stop="20250211083000 +0800">
+    <title lang="zh">Nezha</title>
+    <desc>In a world where demons pose a threat to humanity, a couple must do everything they can to save fellow humans. Things change when their son, Nezha, insists that all demons are not necessarily evil.</desc>
+    <date>2025-02-11</date>
+  </programme>
+  <programme channel="404197" start="20250211083000 +0800" stop="20250211113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-11</date>
+  </programme>
+  <programme channel="404197" start="20250211113000 +0800" stop="20250212000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-11</date>
+  </programme>
 </tv>
