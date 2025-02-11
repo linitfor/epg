@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250211232826 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250212003339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250212.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250212&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250211000000 +0800" stop="20250211020000 +0800">
-    <title lang="zh">2024新生代總決賽第一天FILvsFON</title>
-    <desc>2024新生代總決賽第一天FILvsFON</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211020000 +0800" stop="20250211043000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女單決賽</title>
-    <desc>2025澳洲網球公開賽女單決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211043000 +0800" stop="20250211073000 +0800">
-    <title lang="zh">2025澳洲網球公開賽決賽</title>
-    <desc>2025澳洲網球公開賽決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211073000 +0800" stop="20250211093000 +0800">
-    <title lang="zh">2024新生代總決賽第一天FILvsFON</title>
-    <desc>2024新生代總決賽第一天FILvsFON</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211093000 +0800" stop="20250211120000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女單決賽</title>
-    <desc>2025澳洲網球公開賽女單決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211120000 +0800" stop="20250211143000 +0800">
-    <title lang="zh">首播2025蒙彼利埃男網賽決賽</title>
-    <desc>首播2025蒙彼利埃男網賽決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211143000 +0800" stop="20250211173000 +0800">
-    <title lang="zh">2025澳洲網球公開賽決賽</title>
-    <desc>2025澳洲網球公開賽決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211173000 +0800" stop="20250211200000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女單決賽</title>
-    <desc>2025澳洲網球公開賽女單決賽</desc>
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="369216" start="20250211200000 +0800" stop="20250212000000 +0800">
-    <title lang="zh">LIVE2025鹿特丹男網賽第一天</title>
-    <desc>LIVE2025鹿特丹男網賽第一天</desc>
-    <date>2025-02-11</date>
-  </programme>
   <programme channel="369216" start="20250212000000 +0800" stop="20250212023000 +0800">
     <title lang="zh">2025澳洲網球公開賽女單決賽</title>
     <desc>2025澳洲網球公開賽女單決賽</desc>
@@ -79,9 +34,44 @@
     <desc>LIVE2025鹿特丹男網賽第二天</desc>
     <date>2025-02-12</date>
   </programme>
-  <programme channel="369216" start="20250213000000 +0800" stop="20250214000000 +0800">
+  <programme channel="369216" start="20250213000000 +0800" stop="20250213023000 +0800">
     <title lang="zh">2025澳洲網球公開賽第一輪POUvsZVE</title>
     <desc>2025澳洲網球公開賽第一輪POUvsZVE</desc>
     <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213023000 +0800" stop="20250213063000 +0800">
+    <title lang="zh">LIVE2025鹿特丹男網賽第二天</title>
+    <desc>LIVE2025鹿特丹男網賽第二天</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213063000 +0800" stop="20250213090000 +0800">
+    <title lang="zh">2025澳洲網球公開賽第一輪POUvsZVE</title>
+    <desc>2025澳洲網球公開賽第一輪POUvsZVE</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213090000 +0800" stop="20250213100000 +0800">
+    <title lang="zh">2025澳網第1天精華</title>
+    <desc>2025澳網第1天精華</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213100000 +0800" stop="20250213120000 +0800">
+    <title lang="zh">2024新生代總決賽第二天MICvsASS</title>
+    <desc>2024新生代總決賽第二天MICvsASS</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213120000 +0800" stop="20250213180000 +0800">
+    <title lang="zh">首播2025鹿特丹男網賽第二天</title>
+    <desc>首播2025鹿特丹男網賽第二天</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250213180000 +0800" stop="20250214000000 +0800">
+    <title lang="zh">LIVE2025鹿特丹男網賽第三天</title>
+    <desc>LIVE2025鹿特丹男網賽第三天</desc>
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="369216" start="20250214000000 +0800" stop="20250215000000 +0800">
+    <title lang="zh">2024新生代總決賽第三天MENvsFON</title>
+    <desc>2024新生代總決賽第三天MENvsFON</desc>
+    <date>2025-02-14</date>
   </programme>
 </tv>

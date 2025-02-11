@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250211232804 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250211.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250211&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250212003315 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250212.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250212&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
   </channel>
-  <programme channel="370177" start="20250211000000 +0800" stop="20250211010000 +0800">
-    <title lang="zh">中天辣晚報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211010000 +0800" stop="20250211020000 +0800">
-    <title lang="zh">中天辣晚報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211020000 +0800" stop="20250211030000 +0800">
-    <title lang="zh">頭條開講(重)</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211030000 +0800" stop="20250211040000 +0800">
-    <title lang="zh">頭條開講(重)</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211040000 +0800" stop="20250211050000 +0800">
-    <title lang="zh">中天SUPER夜線新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211050000 +0800" stop="20250211060000 +0800">
-    <title lang="zh">全球大視野(重)</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211060000 +0800" stop="20250211070000 +0800">
-    <title lang="zh">0600中天晨報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211070000 +0800" stop="20250211080000 +0800">
-    <title lang="zh">0700中天晨報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211080000 +0800" stop="20250211090000 +0800">
-    <title lang="zh">0800中天晨報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211090000 +0800" stop="20250211100000 +0800">
-    <title lang="zh">0900中天新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211100000 +0800" stop="20250211110000 +0800">
-    <title lang="zh">1000中天新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211110000 +0800" stop="20250211120000 +0800">
-    <title lang="zh">1100中天新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211120000 +0800" stop="20250211130000 +0800">
-    <title lang="zh">1200午間新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211130000 +0800" stop="20250211140000 +0800">
-    <title lang="zh">1300午間新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211140000 +0800" stop="20250211150000 +0800">
-    <title lang="zh">1400大新聞大爆卦</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211150000 +0800" stop="20250211160000 +0800">
-    <title lang="zh">1500大新聞大爆卦</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211160000 +0800" stop="20250211170000 +0800">
-    <title lang="zh">1600中天新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211170000 +0800" stop="20250211180000 +0800">
-    <title lang="zh">1700中天新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211180000 +0800" stop="20250211190000 +0800">
-    <title lang="zh">中天辣晚報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211190000 +0800" stop="20250211200000 +0800">
-    <title lang="zh">中天辣晚報</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211200000 +0800" stop="20250211210000 +0800">
-    <title lang="zh">頭條開講</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211210000 +0800" stop="20250211220000 +0800">
-    <title lang="zh">頭條開講</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211220000 +0800" stop="20250211230000 +0800">
-    <title lang="zh">中天SUPER夜線新聞</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
-  <programme channel="370177" start="20250211230000 +0800" stop="20250212000000 +0800">
-    <title lang="zh">全球大視野</title>
-    <desc />
-    <date>2025-02-11</date>
-  </programme>
   <programme channel="370177" start="20250212000000 +0800" stop="20250212010000 +0800">
     <title lang="zh">中天辣晚報</title>
     <desc />
@@ -244,8 +124,123 @@
     <desc />
     <date>2025-02-12</date>
   </programme>
-  <programme channel="370177" start="20250213000000 +0800" stop="20250214000000 +0800">
+  <programme channel="370177" start="20250213000000 +0800" stop="20250213010000 +0800">
     <title lang="zh">中天辣晚報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213010000 +0800" stop="20250213020000 +0800">
+    <title lang="zh">中天辣晚報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213020000 +0800" stop="20250213030000 +0800">
+    <title lang="zh">頭條開講(重)</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213030000 +0800" stop="20250213040000 +0800">
+    <title lang="zh">頭條開講(重)</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213040000 +0800" stop="20250213050000 +0800">
+    <title lang="zh">中天SUPER夜線新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213050000 +0800" stop="20250213060000 +0800">
+    <title lang="zh">全球大視野(重)</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213060000 +0800" stop="20250213070000 +0800">
+    <title lang="zh">0600中天晨報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213070000 +0800" stop="20250213080000 +0800">
+    <title lang="zh">0700中天晨報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213080000 +0800" stop="20250213090000 +0800">
+    <title lang="zh">0800中天晨報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213090000 +0800" stop="20250213100000 +0800">
+    <title lang="zh">0900中天新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213100000 +0800" stop="20250213110000 +0800">
+    <title lang="zh">1000中天新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213110000 +0800" stop="20250213120000 +0800">
+    <title lang="zh">1100中天新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213120000 +0800" stop="20250213130000 +0800">
+    <title lang="zh">1200午間新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213130000 +0800" stop="20250213140000 +0800">
+    <title lang="zh">1300午間新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213140000 +0800" stop="20250213150000 +0800">
+    <title lang="zh">1400大新聞大爆卦</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213150000 +0800" stop="20250213160000 +0800">
+    <title lang="zh">1500大新聞大爆卦</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213160000 +0800" stop="20250213170000 +0800">
+    <title lang="zh">1600中天新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213170000 +0800" stop="20250213180000 +0800">
+    <title lang="zh">1700中天新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213180000 +0800" stop="20250213190000 +0800">
+    <title lang="zh">中天辣晚報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213190000 +0800" stop="20250213200000 +0800">
+    <title lang="zh">中天辣晚報</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213200000 +0800" stop="20250213210000 +0800">
+    <title lang="zh">頭條開講</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213210000 +0800" stop="20250213220000 +0800">
+    <title lang="zh">頭條開講</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213220000 +0800" stop="20250213230000 +0800">
+    <title lang="zh">中天SUPER夜線新聞</title>
+    <desc />
+    <date>2025-02-13</date>
+  </programme>
+  <programme channel="370177" start="20250213230000 +0800" stop="20250214000000 +0800">
+    <title lang="zh">全球大視野</title>
     <desc />
     <date>2025-02-13</date>
   </programme>
