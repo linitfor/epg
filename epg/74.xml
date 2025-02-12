@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250212213536 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368591/20250212.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368591&amp;date=20250212&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250213003249 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368591/20250213.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368591&amp;date=20250213&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368591">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114237559998_77.png" />
   </channel>
-  <programme channel="368591" start="20250212003000 +0800" stop="20250212010000 +0800">
-    <title lang="zh">體壇最前線 2/11 (新)(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212010000 +0800" stop="20250212040000 +0800">
-    <title lang="zh">羽球混團亞錦賽 第一日 韓國 VS 澳門 D組 2/11(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212040000 +0800" stop="20250212060000 +0800">
-    <title lang="zh">亞冬運 李宇翔 花式滑冰 男子短曲 2/11(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212060000 +0800" stop="20250212093000 +0800">
-    <title lang="zh">亞冬運 陳映竹/戴瑋麟 競速滑冰 男女1000公尺/男女團追逐決賽 2/11(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212093000 +0800" stop="20250212150000 +0800">
-    <title lang="zh">LIVE 羽球混團亞錦賽 第二日 馬來西亞 VS 香港 B組 2/12(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212150000 +0800" stop="20250212170000 +0800">
-    <title lang="zh">2024-25 NBA美國職籃(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212170000 +0800" stop="20250212220000 +0800">
-    <title lang="zh">LIVE 羽球混團亞錦賽 第二日 台灣 VS 新加坡 A組 2/12(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212220000 +0800" stop="20250212223000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
-  <programme channel="368591" start="20250212223000 +0800" stop="20250213000000 +0800">
-    <title lang="zh">羽球混團亞錦賽 第二日 台灣 VS 新加坡 A組 2/12(普)</title>
-    <desc />
-    <date>2025-02-12</date>
-  </programme>
   <programme channel="368591" start="20250213013000 +0800" stop="20250213020000 +0800">
     <title lang="zh">體壇最前線 2/12 (新)(普)</title>
     <desc />
@@ -108,5 +63,70 @@
     <title lang="zh">羽球混團亞錦賽 第三日 中國 VS 台灣 A組 2/13(普)</title>
     <desc />
     <date>2025-02-13</date>
+  </programme>
+  <programme channel="368591" start="20250214013000 +0800" stop="20250214020000 +0800">
+    <title lang="zh">體壇最前線 2/13 (新)(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214020000 +0800" stop="20250214043000 +0800">
+    <title lang="zh">亞冬運 香港VS中華 冰壺 女子預賽 2/12(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214043000 +0800" stop="20250214063000 +0800">
+    <title lang="zh">亞冬運 李宇翔 花式滑冰 男子長曲 2/13(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214063000 +0800" stop="20250214093000 +0800">
+    <title lang="zh">羽球混團亞錦賽 第三日 中國 VS 台灣 A組 2/13(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214093000 +0800" stop="20250214150000 +0800">
+    <title lang="zh">LIVE 羽球混團亞錦賽 八強 (上)  2/14(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214150000 +0800" stop="20250214153000 +0800">
+    <title lang="zh">歐冠精華 淘汰賽附加賽首回合 2/12(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214153000 +0800" stop="20250214154500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#6(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214154500 +0800" stop="20250214160000 +0800">
+    <title lang="zh">世界羽球戰報第七季 #1(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214160000 +0800" stop="20250214163000 +0800">
+    <title lang="zh">2024 BWF世界羽球雜誌#11 東宗特集(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214163000 +0800" stop="20250214170000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214170000 +0800" stop="20250214220000 +0800">
+    <title lang="zh">LIVE 羽球混團亞錦賽 八強 (下) 2/14(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214220000 +0800" stop="20250214223000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="368591" start="20250214223000 +0800" stop="20250215000000 +0800">
+    <title lang="zh">羽球混團亞錦賽 八強 (上)  2/14(普)</title>
+    <desc />
+    <date>2025-02-14</date>
   </programme>
 </tv>
