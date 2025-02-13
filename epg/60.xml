@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250213232717 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368596/20250213.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368596&amp;date=20250213&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250214003250 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368596/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368596&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368596">
     <display-name lang="Taiwan">博斯魅力HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114335241476_39.png" />
   </channel>
-  <programme channel="368596" start="20250213000000 +0800" stop="20250213043000 +0800">
-    <title lang="zh">LIVE2025卡達女網賽16強1900-0430(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213043000 +0800" stop="20250213073000 +0800">
-    <title lang="zh">2025阿德萊德女網賽16強KRU vs BAD(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213073000 +0800" stop="20250213093000 +0800">
-    <title lang="zh">2025羅馬尼亞女網賽8強(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213093000 +0800" stop="20250213113000 +0800">
-    <title lang="zh">2025阿布達比女網賽16強(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213113000 +0800" stop="20250213120000 +0800">
-    <title lang="zh">WTA新視界(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213120000 +0800" stop="20250213203000 +0800">
-    <title lang="zh">首播2025卡達女網賽16強(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
-  <programme channel="368596" start="20250213203000 +0800" stop="20250214000000 +0800">
-    <title lang="zh">LIVE2025卡達女網賽8強2030-0430(普)</title>
-    <desc />
-    <date>2025-02-13</date>
-  </programme>
   <programme channel="368596" start="20250214000000 +0800" stop="20250214043000 +0800">
     <title lang="zh">LIVE2025卡達女網賽8強2030-0430(普)</title>
     <desc />
@@ -79,9 +44,74 @@
     <desc />
     <date>2025-02-14</date>
   </programme>
-  <programme channel="368596" start="20250215000000 +0800" stop="20250216000000 +0800">
+  <programme channel="368596" start="20250215000000 +0800" stop="20250215020000 +0800">
     <title lang="zh">LIVE2025卡達女網賽4強2200-0200(普)</title>
     <desc />
     <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215020000 +0800" stop="20250215030000 +0800">
+    <title lang="zh">WTA新視界(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215030000 +0800" stop="20250215043000 +0800">
+    <title lang="zh">2025阿德萊德女網賽16強PEG vs SAK(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215043000 +0800" stop="20250215063000 +0800">
+    <title lang="zh">2025羅馬尼亞女網賽8強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215063000 +0800" stop="20250215083000 +0800">
+    <title lang="zh">2025阿布達比女網賽8強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215083000 +0800" stop="20250215100000 +0800">
+    <title lang="zh">2025阿德萊德女網賽16強PEG vs SAK(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215100000 +0800" stop="20250215120000 +0800">
+    <title lang="zh">2025羅馬尼亞女網賽8強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215120000 +0800" stop="20250215160000 +0800">
+    <title lang="zh">首播2025卡達女網賽4強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215160000 +0800" stop="20250215180000 +0800">
+    <title lang="zh">2025阿布達比女網賽8強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215180000 +0800" stop="20250215200000 +0800">
+    <title lang="zh">2025羅馬尼亞女網賽4強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215200000 +0800" stop="20250215220000 +0800">
+    <title lang="zh">2025阿布達比女網賽8強(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215220000 +0800" stop="20250215230000 +0800">
+    <title lang="zh">WTA新視界(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250215230000 +0800" stop="20250216000000 +0800">
+    <title lang="zh">LIVE2025卡達女網賽決賽2300-0100(普)</title>
+    <desc />
+    <date>2025-02-15</date>
+  </programme>
+  <programme channel="368596" start="20250216000000 +0800" stop="20250217000000 +0800">
+    <title lang="zh">LIVE2025卡達女網賽決賽2300-0100(普)</title>
+    <desc />
+    <date>2025-02-16</date>
   </programme>
 </tv>
