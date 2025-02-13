@@ -433,18 +433,18 @@ set tvg_id = "368793"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/91.xml
 
-＃ 東森洋片台 (TBC)
+＃東森洋片台 (TBC)
 set tvg_id = "369267"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/92.xml
 
 
-＃ 龍華戲劇HD (MOD)
+＃龍華戲劇HD (MOD)
 set tvg_id = "368790"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/93.xml
 
-＃ 龍華洋片HD (MOD)
+＃龍華洋片HD (MOD)
 set tvg_id = "368841"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/94.xml
