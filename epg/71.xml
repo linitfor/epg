@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250214023415 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250214052342 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250214010400 +0800" stop="20250214030000 +0800">
+    <title lang="zh">World War Z</title>
+    <desc>Gerry, a former United Nations employee, unexpectedly finds himself in a race against time as he investigates a threatening virus that turns humans into zombies.</desc>
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="404197" start="20250214030000 +0800" stop="20250214054500 +0800">
+    <title lang="zh">The Mummy Hunters</title>
+    <desc>Three tomb raiders retire from their roles and move to New York to enjoy the rest of their lives. However, they are asked to resume duty in order to find out the reason behind the loss of a loved one.</desc>
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="404197" start="20250214054500 +0800" stop="20250214080000 +0800">
+    <title lang="zh">Emergency Declaration</title>
+    <desc>Aboard an international flight, when a terror attack threatens to transpire, havoc wreaks on the plane. The cabin crew must strive to save their passengers and themselves.</desc>
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="404197" start="20250214080000 +0800" stop="20250214094500 +0800">
+    <title lang="zh">Cosmoball</title>
+    <desc>Post a galactic war, a man, unaware of his special powers, joins a national cosmoball team. In return, he hopes that his sick mother will get better.</desc>
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="404197" start="20250214094500 +0800" stop="20250214121500 +0800">
+    <title lang="zh">Maze Runner: The Death Cure</title>
+    <desc>Thomas and his friends attempt to break into The Last City, a stronghold controlled by the evil WCKD. Soon, they try to free a companion from being imprisoned while finding a cure for a rare disease.</desc>
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="404197" start="20250214121500 +0800" stop="20250215000000 +0800">
+    <title lang="zh">Tom and Jerry</title>
+    <desc>Jerry, a mischievous mouse, takes refuge in a fancy hotel that is set to host a wedding. In order to get rid of him, one of the event planners hires Jerry's feline rival, Tom.</desc>
+    <date>2025-02-14</date>
+  </programme>
 </tv>
