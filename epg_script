@@ -449,7 +449,10 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 curl "$link" > ./epg/94.xml
 
 
-
+# 三立新聞iNEWS (4gtv)
+set tvg_id = "370173"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/95.xml
 
 ##############################################
 
