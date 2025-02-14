@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250215023302 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334895/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334895&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250215052304 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334895/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334895&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334895">
     <display-name lang="Taiwan">Nick Jr.</display-name>
     <icon src="" />
@@ -898,5 +898,10 @@
     <title lang="zh">鯊魚寶寶海洋歡樂秀S2(203)(普)</title>
     <desc />
     <date>2025-02-16</date>
+  </programme>
+  <programme channel="334895" start="20250217000000 +0800" stop="20250218000000 +0800">
+    <title lang="zh">汪汪隊立大功S9(915)(普)</title>
+    <desc />
+    <date>2025-02-17</date>
   </programme>
 </tv>

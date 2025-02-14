@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250215023236 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250215052237 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -2039,6 +2039,10 @@
 <date>2025-02-16</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">57怪奇物語</title>
+</programme>
 <programme channel="369307" start="20250215000000 +0800" stop="20250215010000 +0800">
 <date>2025-02-15</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2746,6 +2750,10 @@
 <date>2025-02-16</date>
 <desc /><title lang="zh">世界越來越盧</title>
 </programme>
+<programme channel="370177" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250215013000 +0800" stop="20250215020000 +0800">
 <date>2025-02-15</date>
 <desc /><title lang="zh">元氣加油站【普】(E2923)</title>
@@ -3305,6 +3313,10 @@
 <programme channel="370141" start="20250216220000 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">萬秀大勝利(普)</title>
+</programme>
+<programme channel="370141" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">飢餓遊戲(普)</title>
 </programme>
 <programme channel="368922" start="20250215000000 +0800" stop="20250215010000 +0800">
 <date>2025-02-15</date>
@@ -4460,6 +4472,10 @@
 <programme channel="370149" start="20250216233000 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">體壇最前線 2/16(第47集) (普)</title>
+</programme>
+<programme channel="370149" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">醫師好辣(第278集) (普)</title>
 </programme>
 <programme channel="369284" start="20250215000500 +0800" stop="20250215003000 +0800">
 <date>2025-02-15</date>
@@ -6650,6 +6666,10 @@
 <programme channel="370222" start="20250216233300 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
+</programme>
+<programme channel="370222" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">主廚大聯盟 06</title>
 </programme>
 <programme channel="369271" start="20250215000000 +0800" stop="20250215010000 +0800">
 <date>2025-02-15</date>
@@ -9341,6 +9361,10 @@
 <date>2025-02-16</date>
 <desc /><title lang="zh">04455 Lingerie Fashion Exposed TRIUMPH Singapore JewelFest 2015 151204 PMNB</title>
 </programme>
+<programme channel="370209" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
+</programme>
 <programme channel="335009" start="20250215000000 +0800" stop="20250215010000 +0800">
 <date>2025-02-15</date>
 <desc /><title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第四回合(普)</title>
@@ -10152,6 +10176,10 @@
 <programme channel="334895" start="20250216235000 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(203)(普)</title>
+</programme>
+<programme channel="334895" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">汪汪隊立大功S9(915)(普)</title>
 </programme>
 <programme channel="271829" start="20250215003000 +0800" stop="20250215013000 +0800">
 <date>2025-02-15</date>
@@ -13734,6 +13762,41 @@
 <desc>故事敘述銀河（朴素談飾）是名特別的駕駛，只要能拿到報酬，不論什麼東西都能配送成功。某天在她讓孩子書元（鄭賢俊 飾）上車後，竟捲入了出乎意料的事件中…</desc>
 <title lang="zh">極速快遞</title>
 </programme>
+<programme channel="404197" start="20250215021500 +0800" stop="20250215034500 +0800">
+<date>2025-02-15</date>
+<desc>Pete, a veteran storm chaser, travels to a town in hopes to film a series of developing storms. However, he learns that a tornado has shifted its course and is headed towards a high school.</desc>
+<title lang="zh">Into The Storm</title>
+</programme>
+<programme channel="404197" start="20250215034500 +0800" stop="20250215054500 +0800">
+<date>2025-02-15</date>
+<desc>Valerian and Laureline, two special operatives for the space station of Alpha, have to protect the city from an evil force that threatens not only its existence, but the future of the universe.</desc>
+<title lang="zh">Valerian and the City of a Thousand Planets</title>
+</programme>
+<programme channel="404197" start="20250215054500 +0800" stop="20250215081500 +0800">
+<date>2025-02-15</date>
+<desc>On an expedition to learn about the species of an island full of snakes, a team encounters trouble in the form of evil hunters. They must strive to keep the isle safe.</desc>
+<title lang="zh">King of Serpent</title>
+</programme>
+<programme channel="404197" start="20250215081500 +0800" stop="20250215091500 +0800">
+<date>2025-02-15</date>
+<desc>A wrathful goddess unleashes a cataclysmic typhoon upon the world as punishment for humanity&apos;s transgressions. Panic ensues as people are forced to confront monstrous creatures amid the chaos.</desc>
+<title lang="zh">Super Typhoon</title>
+</programme>
+<programme channel="404197" start="20250215091500 +0800" stop="20250215110000 +0800">
+<date>2025-02-15</date>
+<desc>Tim Goodman travels to Ryme City to settle the affairs of his late father. There, he meets an intelligent talking Pikachu and soon teams up with it to solve his father&apos;s last case.</desc>
+<title lang="zh">Pokemon Detective Pikachu</title>
+</programme>
+<programme channel="404197" start="20250215110000 +0800" stop="20250215124500 +0800">
+<date>2025-02-15</date>
+<desc>Siblings Edmund and Lucy return to the fantasy realm of Narnia with their cousin, Eustace. Soon, the trio embarks on a voyage across the seas with an old friend to rescue seven lords.</desc>
+<title lang="zh">The Chronicles of Narnia: The Voyage of the Dawn Treader</title>
+</programme>
+<programme channel="404197" start="20250215124500 +0800" stop="20250216000000 +0800">
+<date>2025-02-15</date>
+<desc>After the security of a top-secret laboratory is compromised, genetically modified dinosaurs get unleashed. Then, a black-ops unit is tasked with capturing the creatures before they cause more damage.</desc>
+<title lang="zh">Jurassic City</title>
+</programme>
 <programme channel="368589" start="20250215012000 +0800" stop="20250215035000 +0800">
 <date>2025-02-15</date>
 <desc /><title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
@@ -14649,6 +14712,10 @@
 <programme channel="370167" start="20250216234300 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">ABC故事屋EP02</title>
+</programme>
+<programme channel="370167" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">一起玩編織 EP13</title>
 </programme>
 <programme channel="370162" start="20250215002000 +0800" stop="20250215004500 +0800">
 <date>2025-02-15</date>
@@ -18498,6 +18565,10 @@
 <date>2025-02-16</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250215013000 +0800" stop="20250215034000 +0800">
 <date>2025-02-15</date>
 <desc>四名大學生讀了恐怖小說家郭徑 編寫的小說《荒村》，被深深吸引並決定出發去找，四人在荒村里遭遇怪事連篇，其後更逐一或死或瘋…… 荒村是一個沒有時間的村子，盛傳有一對恩愛的夫婦不幸被火燒死，自此發生連串怪事。傳說中真誠相愛的戀人進入此地，便會受到祝福！但若虛情假意的人到達這裡，便會招來不幸…</desc>
@@ -18744,5 +18815,9 @@
 <programme channel="370144" start="20250216230000 +0800" stop="20250217000000 +0800">
 <date>2025-02-16</date>
 <desc /><title lang="zh">旅行東西軍(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250217000000 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
