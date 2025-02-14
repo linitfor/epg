@@ -13,6 +13,8 @@ echo $today
 set tomorrow = `date -d "+1 day" +%Y%m%d`
 echo $tomorrow
 
+echo "\<programme channel\=\"123456\" start\=\""$today."000000 \+0800\" stop\=\""$today."010000" \+0800\"\>"
+
 
 
 touch 1.xml
