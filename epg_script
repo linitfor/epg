@@ -469,7 +469,7 @@ curl "$link" > ./epg/96.xml
 set tvg_id = "370144"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/97.xml
-370144
+
 
 ##############################################
 
