@@ -1,12 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250101072400 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250214072400 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="123456">
-    <display-name lang="Taiwan">Cafe Music BGM channel</display-name>
+    <display-name lang="Taiwan">BGM</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
   </channel>
-  <programme channel="123456" start="20250101000000 +0800" stop="20500101000000 +0800">
-    <title lang="zh">Cafe Music BGM channel</title>
-    <desc>📜 What is BGMC? Morning. Gentle light that shines through the blinds One glass of water after waking up</desc>
+    <programme channel="123456" start="20250214000000 +0800" stop="20250214010000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214010000 +0800" stop="20250214020000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214020000 +0800" stop="20250214030000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214030000 +0800" stop="20250214040000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214040000 +0800" stop="20250214050000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214050000 +0800" stop="20250214060000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214060000 +0800" stop="20250214070000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214070000 +0800" stop="20250214080000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214080000 +0800" stop="20250214090000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214090000 +0800" stop="20250214100000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214100000 +0800" stop="20250214110000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214110000 +0800" stop="20250214120000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214120000 +0800" stop="20250214130000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214130000 +0800" stop="20250214140000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214140000 +0800" stop="20250214150000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214150000 +0800" stop="20250214160000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214160000 +0800" stop="20250214170000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214170000 +0800" stop="20250214180000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214180000 +0800" stop="20250214190000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214190000 +0800" stop="20250214200000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214200000 +0800" stop="20250214210000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214210000 +0800" stop="20250214220000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214220000 +0800" stop="20250214230000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
+    <date>2025-02-14</date>
+  </programme>
+  <programme channel="123456" start="20250214230000 +0800" stop="20250215000000 +0800">
+    <title lang="zh">BGM Music Playing</title>
+    <desc />
     <date>2025-02-14</date>
   </programme>
 </tv>
