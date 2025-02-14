@@ -1,79 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250214222533 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250215002959 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334710">
     <display-name lang="Taiwan">Cinemax</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334710" start="20250214013000 +0800" stop="20250214031000 +0800">
-    <title lang="zh">全家玩到趴</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214031000 +0800" stop="20250214050500 +0800">
-    <title lang="zh">猛毒</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214050500 +0800" stop="20250214053000 +0800">
-    <title lang="zh">我家也有大明星S6：05</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214053000 +0800" stop="20250214060000 +0800">
-    <title lang="zh">我家也有大明星S6：06</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214060000 +0800" stop="20250214082000 +0800">
-    <title lang="zh">刺激1995</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214082000 +0800" stop="20250214092000 +0800">
-    <title lang="zh">守護者S1:05</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214092000 +0800" stop="20250214112500 +0800">
-    <title lang="zh">絕地營救</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214112500 +0800" stop="20250214134500 +0800">
-    <title lang="zh">綠巨人浩克</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214134500 +0800" stop="20250214151000 +0800">
-    <title lang="zh">穷途末路</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214151000 +0800" stop="20250214164000 +0800">
-    <title lang="zh">救命援手</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214164000 +0800" stop="20250214182000 +0800">
-    <title lang="zh">霹靂嬌娃</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214182000 +0800" stop="20250214200500 +0800">
-    <title lang="zh">霹靂嬌娃2:全速進攻</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214200500 +0800" stop="20250214220000 +0800">
-    <title lang="zh">七日之癢</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="334710" start="20250214220000 +0800" stop="20250215000000 +0800">
-    <title lang="zh">飢餓遊戲</title>
-    <desc />
-    <date>2025-02-14</date>
-  </programme>
   <programme channel="334710" start="20250215002000 +0800" stop="20250215021000 +0800">
     <title lang="zh">伴侶度假村</title>
     <desc />
@@ -138,5 +68,75 @@
     <title lang="zh">飢餓遊戲:星火燎原</title>
     <desc />
     <date>2025-02-15</date>
+  </programme>
+  <programme channel="334710" start="20250216002500 +0800" stop="20250216023500 +0800">
+    <title lang="zh">駭客任務：重裝上陣</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216023500 +0800" stop="20250216030000 +0800">
+    <title lang="zh">我家也有大明星S6：07</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216030000 +0800" stop="20250216043000 +0800">
+    <title lang="zh">絕命終結站３</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216043000 +0800" stop="20250216060500 +0800">
+    <title lang="zh">吸血鬼特助：雷菲爾</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216060500 +0800" stop="20250216070500 +0800">
+    <title lang="zh">守護者S1:05</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216070500 +0800" stop="20250216094500 +0800">
+    <title lang="zh">銀翼殺手2049</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216094500 +0800" stop="20250216114000 +0800">
+    <title lang="zh">特務謎雲</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216114000 +0800" stop="20250216134500 +0800">
+    <title lang="zh">鬼計神偷</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216134500 +0800" stop="20250216154000 +0800">
+    <title lang="zh">玩命特攻：武演行動</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216154000 +0800" stop="20250216174000 +0800">
+    <title lang="zh">選情告急</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216174000 +0800" stop="20250216193000 +0800">
+    <title lang="zh">門當父不對</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216193000 +0800" stop="20250216220000 +0800">
+    <title lang="zh">飢餓遊戲:星火燎原</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250216220000 +0800" stop="20250217000000 +0800">
+    <title lang="zh">飢餓遊戲:自由幻夢I</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="334710" start="20250217000000 +0800" stop="20250218000000 +0800">
+    <title lang="zh">駭客任務完結篇:最後戰役</title>
+    <desc />
+    <date>2025-02-17</date>
   </programme>
 </tv>

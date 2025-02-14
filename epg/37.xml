@@ -1,104 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250214222536 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250214.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250214&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250215003000 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250215&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369287">
     <display-name lang="Taiwan">緯來體育台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png" />
   </channel>
-  <programme channel="369287" start="20250214010000 +0800" stop="20250214030000 +0800">
-    <title lang="zh">2024-2025 NBA籃球賽</title>
-    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214030000 +0800" stop="20250214033000 +0800">
-    <title lang="zh">2024-25 NBAㄟˊ猜不到吧</title>
-    <desc>為您剖析NBA今日戰果與明日賽事！喜歡籃球的朋友一起跟我們在線上與電視機前同樂，準時鎖定我們的NBA直播，偏財小機會就是屬於你的唷～</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214033000 +0800" stop="20250214043000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214043000 +0800" stop="20250214060000 +0800">
-    <title lang="zh">113學年度富邦人壽UBA大專籃球聯賽</title>
-    <desc>UBA大專籃球聯賽是國內學生籃球競技最高殿堂；在多元化的台灣籃球生態裡，讓球迷們有更多的管道提早關注本土籃球奇才 ，敬請鎖定緯來的精采賽事！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214060000 +0800" stop="20250214063000 +0800">
-    <title lang="zh">2024-2025 NBA Daily</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214063000 +0800" stop="20250214070000 +0800">
-    <title lang="zh">2024-2025 NBA Daily</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214070000 +0800" stop="20250214080000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214080000 +0800" stop="20250214083000 +0800">
-    <title lang="zh">2024-2025 NBA Daily</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214083000 +0800" stop="20250214110000 +0800">
-    <title lang="zh">2024-2025 NBA籃球賽 LIVE</title>
-    <desc>2024-2025 NBA籃球賽 LIVE</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214110000 +0800" stop="20250214133000 +0800">
-    <title lang="zh">2024-2025 NBA籃球賽 LIVE</title>
-    <desc>2024-2025 NBA籃球賽 LIVE</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214133000 +0800" stop="20250214140000 +0800">
-    <title lang="zh">2024-25 NBAㄟˊ猜不到吧 LIVE</title>
-    <desc>為您剖析NBA今日戰果與明日賽事！喜歡籃球的朋友一起跟我們在線上與電視機前同樂，準時鎖定我們的NBA直播，偏財小機會就是屬於你的唷～</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214140000 +0800" stop="20250214143000 +0800">
-    <title lang="zh">2024-2025 NBA Daily (調整)</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214143000 +0800" stop="20250214183000 +0800">
-    <title lang="zh">體育署113年度運動賽事</title>
-    <desc>緯來與體育署合作，帶來多項運動賽事轉播，期許能夠扎根台灣運動，讓更多運動可以被看見。</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214183000 +0800" stop="20250214190000 +0800">
-    <title lang="zh">2024-2025 NBA Daily</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214190000 +0800" stop="20250214210000 +0800">
-    <title lang="zh">2024-2025 TPBL職業籃球 LIVE</title>
-    <desc>職業籃球新風貌，七支隊伍一較高下，更多元化的對戰組合、期待已久的球星對決，不想錯過就要鎖定緯來！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214210000 +0800" stop="20250214213000 +0800">
-    <title lang="zh">2024-2025 NBA Daily (調整)</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214213000 +0800" stop="20250214223000 +0800">
-    <title lang="zh">緯來運動STUDIO LIVE</title>
-    <desc>緯來運動STUDIO LIVE</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214223000 +0800" stop="20250214230000 +0800">
-    <title lang="zh">2024-2025 NBA Daily</title>
-    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
-    <date>2025-02-14</date>
-  </programme>
-  <programme channel="369287" start="20250214230000 +0800" stop="20250215000000 +0800">
-    <title lang="zh">2024-2025 NBA籃球賽</title>
-    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
-    <date>2025-02-14</date>
-  </programme>
   <programme channel="369287" start="20250215010000 +0800" stop="20250215030000 +0800">
     <title lang="zh">2024-2025 NBA籃球賽</title>
     <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
@@ -198,5 +103,90 @@
     <title lang="zh">2024-2025 NBA籃球賽</title>
     <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
     <date>2025-02-15</date>
+  </programme>
+  <programme channel="369287" start="20250216010000 +0800" stop="20250216030000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216030000 +0800" stop="20250216033000 +0800">
+    <title lang="zh">2024-25 NBAㄟˊ猜不到吧</title>
+    <desc>為您剖析NBA今日戰果與明日賽事！喜歡籃球的朋友一起跟我們在線上與電視機前同樂，準時鎖定我們的NBA直播，偏財小機會就是屬於你的唷～</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216033000 +0800" stop="20250216043000 +0800">
+    <title lang="zh">緯來運動STUDIO</title>
+    <desc>緯來運動STUDIO</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216043000 +0800" stop="20250216060000 +0800">
+    <title lang="zh">2024-2025 TPBL職業籃球</title>
+    <desc>職業籃球新風貌，七支隊伍一較高下，更多元化的對戰組合、期待已久的球星對決，不想錯過就要鎖定緯來！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216060000 +0800" stop="20250216070000 +0800">
+    <title lang="zh">緯來運動STUDIO</title>
+    <desc>緯來運動STUDIO</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216070000 +0800" stop="20250216090000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216090000 +0800" stop="20250216113000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽 LIVE</title>
+    <desc>2024-2025 NBA籃球賽 LIVE</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216113000 +0800" stop="20250216140000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽 D-LIVE</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216140000 +0800" stop="20250216143000 +0800">
+    <title lang="zh">2024-25 NBAㄟˊ猜不到吧 LIVE</title>
+    <desc>為您剖析NBA今日戰果與明日賽事！喜歡籃球的朋友一起跟我們在線上與電視機前同樂，準時鎖定我們的NBA直播，偏財小機會就是屬於你的唷～</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216143000 +0800" stop="20250216163000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216163000 +0800" stop="20250216170000 +0800">
+    <title lang="zh">2024-2025 NBA Daily (調整)</title>
+    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216170000 +0800" stop="20250216190000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216190000 +0800" stop="20250216210000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216210000 +0800" stop="20250216213000 +0800">
+    <title lang="zh">2024-25 NBAㄟˊ猜不到吧</title>
+    <desc>為您剖析NBA今日戰果與明日賽事！喜歡籃球的朋友一起跟我們在線上與電視機前同樂，準時鎖定我們的NBA直播，偏財小機會就是屬於你的唷～</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216213000 +0800" stop="20250216223000 +0800">
+    <title lang="zh">緯來運動STUDIO LIVE</title>
+    <desc>緯來運動STUDIO LIVE</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216223000 +0800" stop="20250216230000 +0800">
+    <title lang="zh">2024-2025 NBA Daily</title>
+    <desc>每日對戰組合精采好球濃縮，加上熱門單元五大好球，讓你與美國職籃接軌零時差！</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="369287" start="20250216230000 +0800" stop="20250217000000 +0800">
+    <title lang="zh">2024-2025 NBA籃球賽</title>
+    <desc>籃球最高殿堂NBA新賽季即將點燃戰火，精采的籃球盛宴不容錯過！想感受每場比賽的熱血激情，別忘了收看緯來體育台！</desc>
+    <date>2025-02-16</date>
   </programme>
 </tv>
