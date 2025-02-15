@@ -1,7 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216023041 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250216052230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250216011300 +0800" stop="20250216030000 +0800">
+    <title lang="zh">Baywatch</title>
+    <desc>Lifeguard Mitch Buchannon and his team discover a drug racket involving businesswoman Victoria Leeds and decide to unearth the truth and bring the perpetrators to justice.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216030000 +0800" stop="20250216053000 +0800">
+    <title lang="zh">Samson</title>
+    <desc>Samson, a Hebrew with extraordinary strength, must use his God-given gift to rally his people to freedom from the evil Philistines.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216053000 +0800" stop="20250216064500 +0800">
+    <title lang="zh">Nezha</title>
+    <desc>In a world where demons pose a threat to humanity, a couple must do everything they can to save fellow humans. Things change when their son, Nezha, insists that all demons are not necessarily evil.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216064500 +0800" stop="20250216081500 +0800">
+    <title lang="zh">KunLun Battle</title>
+    <desc>After the Kunlun gatekeeper is betrayed and ruined by his own people, his son joins forces with a shark man to fight their way back into Kunlun and avenge his father.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216081500 +0800" stop="20250216100000 +0800">
+    <title lang="zh">The Mummy Hunters</title>
+    <desc>Three tomb raiders retire from their roles and move to New York to enjoy the rest of their lives. However, they are asked to resume duty in order to find out the reason behind the loss of a loved one.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216100000 +0800" stop="20250216114500 +0800">
+    <title lang="zh">Zathura: A Space Adventure</title>
+    <desc>Two young brothers find themselves transported into the depths of space while playing a board game. They try their best to find their way back to Earth.</desc>
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="404197" start="20250216114500 +0800" stop="20250217000000 +0800">
+    <title lang="zh">300: Rise Of An Empire</title>
+    <desc>Xerxes sets out to control the major states of Greece with the help of his vast Persian army. Themistocles, the admiral of Athens, is forced to form an alliance with Sparta in order to save Athens.</desc>
+    <date>2025-02-16</date>
+  </programme>
 </tv>
