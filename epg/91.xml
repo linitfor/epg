@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216232355 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368793/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368793&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217002849 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368793/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368793&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368793">
     <display-name lang="Taiwan">愛爾達影劇台HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609115944951904_59.png" />
   </channel>
-  <programme channel="368793" start="20250216000000 +0800" stop="20250216010000 +0800">
-    <title lang="zh">理想之城 (重)(37)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216010000 +0800" stop="20250216020000 +0800">
-    <title lang="zh">理想之城 (重)(38)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216020000 +0800" stop="20250216030000 +0800">
-    <title lang="zh">地球的慶典 (重)(63)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216030000 +0800" stop="20250216040000 +0800">
-    <title lang="zh">地球的慶典 (重)(64)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216040000 +0800" stop="20250216050000 +0800">
-    <title lang="zh">延禧攻略 (重)(55)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216050000 +0800" stop="20250216060000 +0800">
-    <title lang="zh">延禧攻略 (重)(56)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216060000 +0800" stop="20250216070000 +0800">
-    <title lang="zh">理想之城 (重)(37)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216070000 +0800" stop="20250216080000 +0800">
-    <title lang="zh">理想之城 (重)(38)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216080000 +0800" stop="20250216090000 +0800">
-    <title lang="zh">延禧攻略 (重)(57)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216090000 +0800" stop="20250216100000 +0800">
-    <title lang="zh">延禧攻略 (重)(58)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216100000 +0800" stop="20250216110000 +0800">
-    <title lang="zh">延禧攻略 (重)(59)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216110000 +0800" stop="20250216120000 +0800">
-    <title lang="zh">延禧攻略 (重)(60)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216120000 +0800" stop="20250216130000 +0800">
-    <title lang="zh">理想之城 (重)(38)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216130000 +0800" stop="20250216140000 +0800">
-    <title lang="zh">理想之城 (首)(39)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216140000 +0800" stop="20250216150000 +0800">
-    <title lang="zh">理想之城(完) (首)(40)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216150000 +0800" stop="20250216160000 +0800">
-    <title lang="zh">延禧攻略 (重)(60)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216160000 +0800" stop="20250216170000 +0800">
-    <title lang="zh">延禧攻略 (重)(61)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216170000 +0800" stop="20250216180000 +0800">
-    <title lang="zh">延禧攻略 (首)(62)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216180000 +0800" stop="20250216190000 +0800">
-    <title lang="zh">延禧攻略 (首)(63)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216190000 +0800" stop="20250216200000 +0800">
-    <title lang="zh">延禧攻略 (首)(64)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216200000 +0800" stop="20250216210000 +0800">
-    <title lang="zh">小姐不熙娣 (首)(58)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216210000 +0800" stop="20250216220000 +0800">
-    <title lang="zh">大胃王來了S2 (首)(16)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216220000 +0800" stop="20250216230000 +0800">
-    <title lang="zh">一日三餐S2-旌善篇 (首)(31)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368793" start="20250216230000 +0800" stop="20250217000000 +0800">
-    <title lang="zh">一日三餐S2-旌善篇 (首)(32)(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
   <programme channel="368793" start="20250217000000 +0800" stop="20250217010000 +0800">
     <title lang="zh">理想之城 (重)(39)(普)</title>
     <desc />
@@ -243,5 +123,120 @@
     <title lang="zh">永夜星河 (重)(27)(普)</title>
     <desc />
     <date>2025-02-17</date>
+  </programme>
+  <programme channel="368793" start="20250218003000 +0800" stop="20250218013000 +0800">
+    <title lang="zh">永夜星河 (重)(28)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218013000 +0800" stop="20250218023000 +0800">
+    <title lang="zh">地球的慶典 (重)(66)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218023000 +0800" stop="20250218033000 +0800">
+    <title lang="zh">地球的慶典 (重)(67)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218033000 +0800" stop="20250218043000 +0800">
+    <title lang="zh">你也有今天 (重)(29)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218043000 +0800" stop="20250218053000 +0800">
+    <title lang="zh">你也有今天 (重)(30)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218053000 +0800" stop="20250218070000 +0800">
+    <title lang="zh">浪漫醫生金師傅 (重)(2)(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218070000 +0800" stop="20250218080000 +0800">
+    <title lang="zh">你也有今天 (重)(29)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218080000 +0800" stop="20250218090000 +0800">
+    <title lang="zh">你也有今天 (重)(30)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218090000 +0800" stop="20250218100000 +0800">
+    <title lang="zh">鏡･雙城 (首)(19)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218100000 +0800" stop="20250218110000 +0800">
+    <title lang="zh">鏡･雙城 (首)(20)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218110000 +0800" stop="20250218120000 +0800">
+    <title lang="zh">永夜星河 (重)(27)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218120000 +0800" stop="20250218130000 +0800">
+    <title lang="zh">永夜星河 (重)(28)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218130000 +0800" stop="20250218140000 +0800">
+    <title lang="zh">你也有今天 (重)(29)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218140000 +0800" stop="20250218150000 +0800">
+    <title lang="zh">你也有今天 (重)(30)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218150000 +0800" stop="20250218160000 +0800">
+    <title lang="zh">何以笙簫默 (首)(4)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218160000 +0800" stop="20250218170000 +0800">
+    <title lang="zh">何以笙簫默 (首)(5)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218170000 +0800" stop="20250218180000 +0800">
+    <title lang="zh">何以笙簫默 (首)(6)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218180000 +0800" stop="20250218190000 +0800">
+    <title lang="zh">永夜星河 (首)(29)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218190000 +0800" stop="20250218200000 +0800">
+    <title lang="zh">永夜星河 (首)(30)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218200000 +0800" stop="20250218210000 +0800">
+    <title lang="zh">你也有今天 (首)(31)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218210000 +0800" stop="20250218220000 +0800">
+    <title lang="zh">你也有今天 (首)(32)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218220000 +0800" stop="20250218233000 +0800">
+    <title lang="zh">浪漫醫生金師傅 (首)(3)(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368793" start="20250218233000 +0800" stop="20250219000000 +0800">
+    <title lang="zh">永夜星河 (重)(29)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
   </programme>
 </tv>

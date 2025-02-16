@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216232328 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217002820 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250216000000 +0800" stop="20250216030000 +0800">
-    <title lang="zh">2023-24司諾克賽季 英國公開賽 4強 WIL vs VAF</title>
-    <desc>2023-24司諾克賽季 英國公開賽 4強 WIL vs VAF</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216030000 +0800" stop="20250216060000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 德國名人賽 四強 0300-0600</title>
-    <desc>LIVE 2024-25司諾克賽季 德國名人賽 四強 0300-0600</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216060000 +0800" stop="20250216090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 JON vs HOL</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 16強 JON vs HOL</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216090000 +0800" stop="20250216110000 +0800">
-    <title lang="zh">2023-24司諾克賽季 威爾斯公開賽 第一輪 BRE vs JUN</title>
-    <desc>2023-24司諾克賽季 威爾斯公開賽 第一輪 BRE vs JUN</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216110000 +0800" stop="20250216130000 +0800">
-    <title lang="zh">2023-24司諾克賽季 英國公開賽 4強 WIL vs VAF</title>
-    <desc>2023-24司諾克賽季 英國公開賽 4強 WIL vs VAF</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216130000 +0800" stop="20250216190000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 德國名人賽 四強</title>
-    <desc>首播 2024-25司諾克賽季 德國名人賽 四強</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216190000 +0800" stop="20250216210000 +0800">
-    <title lang="zh">2023-24司諾克賽季 威爾斯公開賽 第一輪 SEL vs YUA</title>
-    <desc>2023-24司諾克賽季 威爾斯公開賽 第一輪 SEL vs YUA</desc>
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="369235" start="20250216210000 +0800" stop="20250217000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 德國名人賽 決賽 2100-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 德國名人賽 決賽 2100-0000</desc>
-    <date>2025-02-16</date>
-  </programme>
   <programme channel="369235" start="20250217000000 +0800" stop="20250217013000 +0800">
     <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 WIL vs MCG</title>
     <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 WIL vs MCG</desc>
@@ -84,9 +44,34 @@
     <desc>2024-25司諾克賽季 國際錦標賽 決賽 DIN vs WAK</desc>
     <date>2025-02-17</date>
   </programme>
-  <programme channel="369235" start="20250218000000 +0800" stop="20250219000000 +0800">
+  <programme channel="369235" start="20250218000000 +0800" stop="20250218060000 +0800">
     <title lang="zh">LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</title>
     <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</desc>
     <date>2025-02-18</date>
+  </programme>
+  <programme channel="369235" start="20250218060000 +0800" stop="20250218090000 +0800">
+    <title lang="zh">2023-24司諾克賽季 威爾斯公開賽 第三輪 DAL vs MOO</title>
+    <desc>2023-24司諾克賽季 威爾斯公開賽 第三輪 DAL vs MOO</desc>
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="369235" start="20250218090000 +0800" stop="20250218120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN</title>
+    <desc>2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN</desc>
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="369235" start="20250218120000 +0800" stop="20250218180000 +0800">
+    <title lang="zh">首播 2024-25司諾克賽季 威爾斯公開賽 第一輪</title>
+    <desc>首播 2024-25司諾克賽季 威爾斯公開賽 第一輪</desc>
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="369235" start="20250218180000 +0800" stop="20250219000000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</title>
+    <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</desc>
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="369235" start="20250219000000 +0800" stop="20250220000000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</title>
+    <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 第一輪 1800-0600</desc>
+    <date>2025-02-19</date>
   </programme>
 </tv>

@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216232325 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217002817 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334710/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334710&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334710">
     <display-name lang="Taiwan">Cinemax</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334710" start="20250216002500 +0800" stop="20250216023500 +0800">
-    <title lang="zh">駭客任務：重裝上陣</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216023500 +0800" stop="20250216030000 +0800">
-    <title lang="zh">我家也有大明星S6：07</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216030000 +0800" stop="20250216043000 +0800">
-    <title lang="zh">絕命終結站３</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216043000 +0800" stop="20250216060500 +0800">
-    <title lang="zh">吸血鬼特助：雷菲爾</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216060500 +0800" stop="20250216070500 +0800">
-    <title lang="zh">守護者S1:05</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216070500 +0800" stop="20250216094500 +0800">
-    <title lang="zh">銀翼殺手2049</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216094500 +0800" stop="20250216114000 +0800">
-    <title lang="zh">特務謎雲</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216114000 +0800" stop="20250216134500 +0800">
-    <title lang="zh">鬼計神偷</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216134500 +0800" stop="20250216154000 +0800">
-    <title lang="zh">玩命特攻：武演行動</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216154000 +0800" stop="20250216174000 +0800">
-    <title lang="zh">選情告急</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216174000 +0800" stop="20250216193000 +0800">
-    <title lang="zh">門當父不對</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216193000 +0800" stop="20250216220000 +0800">
-    <title lang="zh">飢餓遊戲:星火燎原</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="334710" start="20250216220000 +0800" stop="20250217000000 +0800">
-    <title lang="zh">飢餓遊戲:自由幻夢I</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
   <programme channel="334710" start="20250217000000 +0800" stop="20250217021000 +0800">
     <title lang="zh">駭客任務完結篇:最後戰役</title>
     <desc />
@@ -148,5 +83,75 @@
     <title lang="zh">安娜貝爾:造孽</title>
     <desc />
     <date>2025-02-17</date>
+  </programme>
+  <programme channel="334710" start="20250218014000 +0800" stop="20250218024000 +0800">
+    <title lang="zh">守護者S1:06</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218024000 +0800" stop="20250218043000 +0800">
+    <title lang="zh">神經殺手</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218043000 +0800" stop="20250218060000 +0800">
+    <title lang="zh">惡鄰纏身</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218060000 +0800" stop="20250218081500 +0800">
+    <title lang="zh">玩命關頭8</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218081500 +0800" stop="20250218095500 +0800">
+    <title lang="zh">逃出絕命鎮</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218095500 +0800" stop="20250218105500 +0800">
+    <title lang="zh">守護者S1:06</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218105500 +0800" stop="20250218125000 +0800">
+    <title lang="zh">坎達哈行動</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218125000 +0800" stop="20250218144500 +0800">
+    <title lang="zh">魔鬼終結者：未來救贖</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218144500 +0800" stop="20250218165500 +0800">
+    <title lang="zh">魂歸傷膝谷</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218165500 +0800" stop="20250218183000 +0800">
+    <title lang="zh">戀愛學分</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218183000 +0800" stop="20250218201000 +0800">
+    <title lang="zh">神鬼團隊</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218201000 +0800" stop="20250218220000 +0800">
+    <title lang="zh">阿飛外傳</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218220000 +0800" stop="20250218233500 +0800">
+    <title lang="zh">地心引力</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="334710" start="20250218233500 +0800" stop="20250219000000 +0800">
+    <title lang="zh">惡鄰纏身</title>
+    <desc />
+    <date>2025-02-18</date>
   </programme>
 </tv>

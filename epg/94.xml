@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216232358 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368841/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368841&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217002851 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368841/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368841&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368841">
     <display-name lang="Taiwan">龍華洋片HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609121104977791_45.png" />
   </channel>
-  <programme channel="368841" start="20250216020000 +0800" stop="20250216041500 +0800">
-    <title lang="zh">惡水真相(首)(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216041500 +0800" stop="20250216060000 +0800">
-    <title lang="zh">【週末夜狂熱】玩命直播(輔15)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216060000 +0800" stop="20250216080000 +0800">
-    <title lang="zh">好萊塢現場直擊(新)(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216080000 +0800" stop="20250216094500 +0800">
-    <title lang="zh">決戰天際線(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216094500 +0800" stop="20250216120000 +0800">
-    <title lang="zh">宿主(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216120000 +0800" stop="20250216135000 +0800">
-    <title lang="zh">封火線(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216135000 +0800" stop="20250216154000 +0800">
-    <title lang="zh">惡魔突襲隊(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216154000 +0800" stop="20250216172000 +0800">
-    <title lang="zh">環遊世界大冒險(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216172000 +0800" stop="20250216192500 +0800">
-    <title lang="zh">你願意嫁給我老公嗎？(普)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216192500 +0800" stop="20250216210000 +0800">
-    <title lang="zh">搜索戰(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216210000 +0800" stop="20250216231500 +0800">
-    <title lang="zh">【星光首映場】惡水真相(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
-  <programme channel="368841" start="20250216231500 +0800" stop="20250217000000 +0800">
-    <title lang="zh">暴力特區(護)</title>
-    <desc />
-    <date>2025-02-16</date>
-  </programme>
   <programme channel="368841" start="20250217004500 +0800" stop="20250217022500 +0800">
     <title lang="zh">超市撿到槍(新)(輔12)</title>
     <desc />
@@ -128,5 +68,70 @@
     <title lang="zh">魔女神兵(輔12)</title>
     <desc />
     <date>2025-02-17</date>
+  </programme>
+  <programme channel="368841" start="20250218002500 +0800" stop="20250218021500 +0800">
+    <title lang="zh">追殺胖老爹(輔12)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218021500 +0800" stop="20250218040000 +0800">
+    <title lang="zh">華特(輔12)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218040000 +0800" stop="20250218060000 +0800">
+    <title lang="zh">飛起來吧蝴蝶(3-4)(首)(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218060000 +0800" stop="20250218074000 +0800">
+    <title lang="zh">對頭冤家(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218074000 +0800" stop="20250218100000 +0800">
+    <title lang="zh">極地先鋒(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218100000 +0800" stop="20250218120000 +0800">
+    <title lang="zh">天崩颶裂(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218120000 +0800" stop="20250218135500 +0800">
+    <title lang="zh">一級任務(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218135500 +0800" stop="20250218155000 +0800">
+    <title lang="zh">終極殺陣5(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218155000 +0800" stop="20250218173500 +0800">
+    <title lang="zh">父愁者聯盟(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218173500 +0800" stop="20250218191000 +0800">
+    <title lang="zh">單車總動員(普)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218191000 +0800" stop="20250218210000 +0800">
+    <title lang="zh">夜幕獵人(護)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218210000 +0800" stop="20250218225000 +0800">
+    <title lang="zh">天罡星下凡(輔15)</title>
+    <desc />
+    <date>2025-02-18</date>
+  </programme>
+  <programme channel="368841" start="20250218225000 +0800" stop="20250219000000 +0800">
+    <title lang="zh">索命22顆子彈(輔12)</title>
+    <desc />
+    <date>2025-02-18</date>
   </programme>
 </tv>
