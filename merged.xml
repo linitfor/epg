@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250217023042 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217052254 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1915,6 +1915,10 @@
 <date>2025-02-18</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250217000000 +0800" stop="20250217003000 +0800">
 <date>2025-02-17</date>
 <desc>收播</desc>
@@ -2596,6 +2600,10 @@
 <programme channel="370177" start="20250218230000 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">全球大視野</title>
+</programme>
+<programme channel="370177" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20250217013000 +0800" stop="20250217023000 +0800">
 <date>2025-02-17</date>
@@ -3316,6 +3324,10 @@
 <programme channel="370141" start="20250218230000 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">MIT台灣誌(普)</title>
+</programme>
+<programme channel="370141" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">流星蝴蝶劍(普)</title>
 </programme>
 <programme channel="368922" start="20250217000000 +0800" stop="20250217020000 +0800">
 <date>2025-02-17</date>
@@ -4556,6 +4568,10 @@
 <programme channel="370149" start="20250218233000 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">體壇最前線 2/18(第49集) (普)</title>
+</programme>
+<programme channel="370149" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">醫師好辣(第284集) (普)</title>
 </programme>
 <programme channel="369284" start="20250217000000 +0800" stop="20250217025500 +0800">
 <date>2025-02-17</date>
@@ -6921,6 +6937,10 @@
 <programme channel="370222" start="20250218233200 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">環遊世界800天 第二季 03 逆境求生</title>
+</programme>
+<programme channel="370222" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">主廚大聯盟 08</title>
 </programme>
 <programme channel="369271" start="20250217000000 +0800" stop="20250217010000 +0800">
 <date>2025-02-17</date>
@@ -9770,6 +9790,10 @@
 <programme channel="370209" start="20250218235600 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">04455 Lingerie Fashion Exposed TRIUMPH Singapore JewelFest 2015 151204 PMNB</title>
+</programme>
+<programme channel="370209" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
 </programme>
 <programme channel="335009" start="20250217000000 +0800" stop="20250217012500 +0800">
 <date>2025-02-17</date>
@@ -14527,6 +14551,36 @@
 <desc>故事敘述擁有各自的故事和苦衷的人們造訪了一家飯店，在這樣的狀態下14個人物互相呈現出的7種色彩，他們以各自的方式串起屬於自己的緣分。所構成的愛情故事也是我們大家的故事！</desc>
 <title lang="zh">緣來大飯店</title>
 </programme>
+<programme channel="404197" start="20250217011400 +0800" stop="20250217031500 +0800">
+<date>2025-02-17</date>
+<desc>When he is hired as a secret agent in an investigative agency to hunt for an ecological terrorist, a street-wise finds himself engulfed in chaos.</desc>
+<title lang="zh">Kingsman: The Secret Service</title>
+</programme>
+<programme channel="404197" start="20250217031500 +0800" stop="20250217044500 +0800">
+<date>2025-02-17</date>
+<desc>A woman journeys to a secluded beach following her mother&apos;s death and while surfing, she gets attacked by a great white shark, which leaves her stranded on a rock 200 yards away from the shore.</desc>
+<title lang="zh">The Shallows</title>
+</programme>
+<programme channel="404197" start="20250217044500 +0800" stop="20250217080000 +0800">
+<date>2025-02-17</date>
+<desc>Aboard an international flight, when a terror attack threatens to transpire, havoc wreaks on the plane. The cabin crew must strive to save their passengers and themselves.</desc>
+<title lang="zh">Emergency Declaration</title>
+</programme>
+<programme channel="404197" start="20250217080000 +0800" stop="20250217101500 +0800">
+<date>2025-02-17</date>
+<desc>Valerian and Laureline, two special operatives for the space station of Alpha, have to protect the city from an evil force that threatens not only its existence, but the future of the universe.</desc>
+<title lang="zh">Valerian and the City of a Thousand Planets</title>
+</programme>
+<programme channel="404197" start="20250217101500 +0800" stop="20250217114500 +0800">
+<date>2025-02-17</date>
+<desc>Three years after her coronation when Elsa celebrates Autumn, she hears a mysterious voice. She follows that sound, along with Anna and their friends as they are forced to uncover the truth.</desc>
+<title lang="zh">Frozen II</title>
+</programme>
+<programme channel="404197" start="20250217114500 +0800" stop="20250218000000 +0800">
+<date>2025-02-17</date>
+<desc>Larry, a night security guard at the Museum of Natural History, gets some help from the exhibits who come alive at night to foil a robbery attempt of a magic tablet and proves that he is not a loser.</desc>
+<title lang="zh">Night At The Museum</title>
+</programme>
 <programme channel="368589" start="20250217000500 +0800" stop="20250217002000 +0800">
 <date>2025-02-17</date>
 <desc /><title lang="zh">英超名人堂 #36(普)</title>
@@ -15474,6 +15528,10 @@
 <programme channel="370167" start="20250218234400 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">ABC故事屋EP14</title>
+</programme>
+<programme channel="370167" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">一起玩編織 EP25</title>
 </programme>
 <programme channel="370162" start="20250217002000 +0800" stop="20250217004500 +0800">
 <date>2025-02-17</date>
@@ -19424,6 +19482,10 @@
 <date>2025-02-18</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250217012000 +0800" stop="20250217044500 +0800">
 <date>2025-02-17</date>
 <desc>冷血匪幫大傻械劫一批名貴鑽石，托李雲飛出貨，後來傻欲殺飛滅口，幸飛機警逃脫並偷走鑽石，案件驚動警方，命探員張郎接近飛以套取線報，張郎上司欲以飛作餌引出大傻，張不忍出賣飛，在最後關頭救走飛，卻被追蹤而至之大傻打傷，至此張與飛攜手對付大傻…</desc>
@@ -19715,5 +19777,9 @@
 <programme channel="370144" start="20250218230000 +0800" stop="20250219000000 +0800">
 <date>2025-02-18</date>
 <desc /><title lang="zh">阿姐萬歲(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250219000000 +0800" stop="20250220000000 +0800">
+<date>2025-02-19</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>

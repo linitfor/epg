@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250217023113 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250217052327 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250217011400 +0800" stop="20250217031500 +0800">
+    <title lang="zh">Kingsman: The Secret Service</title>
+    <desc>When he is hired as a secret agent in an investigative agency to hunt for an ecological terrorist, a street-wise finds himself engulfed in chaos.</desc>
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="404197" start="20250217031500 +0800" stop="20250217044500 +0800">
+    <title lang="zh">The Shallows</title>
+    <desc>A woman journeys to a secluded beach following her mother's death and while surfing, she gets attacked by a great white shark, which leaves her stranded on a rock 200 yards away from the shore.</desc>
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="404197" start="20250217044500 +0800" stop="20250217080000 +0800">
+    <title lang="zh">Emergency Declaration</title>
+    <desc>Aboard an international flight, when a terror attack threatens to transpire, havoc wreaks on the plane. The cabin crew must strive to save their passengers and themselves.</desc>
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="404197" start="20250217080000 +0800" stop="20250217101500 +0800">
+    <title lang="zh">Valerian and the City of a Thousand Planets</title>
+    <desc>Valerian and Laureline, two special operatives for the space station of Alpha, have to protect the city from an evil force that threatens not only its existence, but the future of the universe.</desc>
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="404197" start="20250217101500 +0800" stop="20250217114500 +0800">
+    <title lang="zh">Frozen II</title>
+    <desc>Three years after her coronation when Elsa celebrates Autumn, she hears a mysterious voice. She follows that sound, along with Anna and their friends as they are forced to uncover the truth.</desc>
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="404197" start="20250217114500 +0800" stop="20250218000000 +0800">
+    <title lang="zh">Night At The Museum</title>
+    <desc>Larry, a night security guard at the Museum of Natural History, gets some help from the exhibits who come alive at night to foil a robbery attempt of a magic tablet and proves that he is not a loser.</desc>
+    <date>2025-02-17</date>
+  </programme>
 </tv>
