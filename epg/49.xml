@@ -1,46 +1,101 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250216052222 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250216095852 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250216&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250216000000 +0800" stop="20250216050000 +0800">
-    <title lang="zh">113年自由盃國小組團體桌球錦標賽 5/16賽程(普)</title>
+  <programme channel="335009" start="20250216000000 +0800" stop="20250216010000 +0800">
+    <title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第四回合(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
-  <programme channel="335009" start="20250216050000 +0800" stop="20250216094000 +0800">
+  <programme channel="335009" start="20250216010000 +0800" stop="20250216034300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216034300 +0800" stop="20250216050000 +0800">
+    <title lang="zh">112學年高中木棒組 第三階段 高苑工商 vs 臺東體中(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216050000 +0800" stop="20250216055300 +0800">
     <title lang="zh">2024新北市議長盃全國撞球公開賽 公開組16強&amp;8強(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
-  <programme channel="335009" start="20250216094000 +0800" stop="20250216120000 +0800">
+  <programme channel="335009" start="20250216055300 +0800" stop="20250216064900 +0800">
+    <title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216064900 +0800" stop="20250216080000 +0800">
+    <title lang="zh">112學年國民小學籃球聯賽 男子冠軍戰 臺北北投 vs 新北安坑(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216080000 +0800" stop="20250216094000 +0800">
+    <title lang="zh">[Live] 113學年高中木棒組 第二階段 大同高中 vs 鶯歌工商(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216094000 +0800" stop="20250216100000 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
-  <programme channel="335009" start="20250216120000 +0800" stop="20250216170000 +0800">
-    <title lang="zh">113年自由盃國小組團體桌球錦標賽 5/16賽程(普)</title>
+  <programme channel="335009" start="20250216100000 +0800" stop="20250216120000 +0800">
+    <title lang="zh">[Live] 113學年高中木棒組 第二階段 大理高中 vs 成功商水(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
-  <programme channel="335009" start="20250216170000 +0800" stop="20250216214000 +0800">
-    <title lang="zh">2024新北市議長盃全國撞球公開賽 公開組16強&amp;8強(普)</title>
+  <programme channel="335009" start="20250216120000 +0800" stop="20250216140000 +0800">
+    <title lang="zh">[Live] 113學年高中木棒組 第二階段 東石高中 vs 台南海事(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
-  <programme channel="335009" start="20250216214000 +0800" stop="20250217000000 +0800">
+  <programme channel="335009" start="20250216140000 +0800" stop="20250216170000 +0800">
+    <title lang="zh">[Live] 113學年高中木棒組 第二階段 中興高中 vs 崇義高中(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216170000 +0800" stop="20250216194300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216194300 +0800" stop="20250216214000 +0800">
+    <title lang="zh">112學年高中木棒組 第三階段 高苑工商 vs 臺東體中(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216214000 +0800" stop="20250216215300 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216215300 +0800" stop="20250216224900 +0800">
+    <title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-02-16</date>
+  </programme>
+  <programme channel="335009" start="20250216224900 +0800" stop="20250217000000 +0800">
+    <title lang="zh">112學年國民小學籃球聯賽 男子冠軍戰 臺北北投 vs 新北安坑(普)</title>
     <desc />
     <date>2025-02-16</date>
   </programme>
   <programme channel="335009" start="20250217000000 +0800" stop="20250217012500 +0800">
-    <title lang="zh">2024巨人盃少棒 四強戰 台北東園 vs 韓國京畿道(普)</title>
+    <title lang="zh">113年自由盃國小組團體桌球錦標賽 5/16賽程(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
-  <programme channel="335009" start="20250217012500 +0800" stop="20250217051500 +0800">
+  <programme channel="335009" start="20250217012500 +0800" stop="20250217050000 +0800">
     <title lang="zh">[首播] 第一屆臺灣美式躲避球錦標賽 1/18 上午賽程(普)</title>
+    <desc />
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="335009" start="20250217050000 +0800" stop="20250217051500 +0800">
+    <title lang="zh">2024新北市議長盃全國撞球公開賽 公開組16強&amp;8強(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
@@ -59,8 +114,13 @@
     <desc />
     <date>2025-02-17</date>
   </programme>
-  <programme channel="335009" start="20250217093700 +0800" stop="20250217103500 +0800">
+  <programme channel="335009" start="20250217093700 +0800" stop="20250217094000 +0800">
     <title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="335009" start="20250217094000 +0800" stop="20250217103500 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
@@ -70,12 +130,17 @@
     <date>2025-02-17</date>
   </programme>
   <programme channel="335009" start="20250217120000 +0800" stop="20250217132500 +0800">
-    <title lang="zh">2024巨人盃少棒 四強戰 台北東園 vs 韓國京畿道(普)</title>
+    <title lang="zh">113年自由盃國小組團體桌球錦標賽 5/16賽程(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
-  <programme channel="335009" start="20250217132500 +0800" stop="20250217171500 +0800">
+  <programme channel="335009" start="20250217132500 +0800" stop="20250217170000 +0800">
     <title lang="zh">第一屆臺灣美式躲避球錦標賽 1/18 上午賽程(普)</title>
+    <desc />
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="335009" start="20250217170000 +0800" stop="20250217171500 +0800">
+    <title lang="zh">2024新北市議長盃全國撞球公開賽 公開組16強&amp;8強(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
@@ -94,8 +159,13 @@
     <desc />
     <date>2025-02-17</date>
   </programme>
-  <programme channel="335009" start="20250217213700 +0800" stop="20250217223500 +0800">
+  <programme channel="335009" start="20250217213700 +0800" stop="20250217214000 +0800">
     <title lang="zh">2023肇喜登峰高球巡迴賽 仰德公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-02-17</date>
+  </programme>
+  <programme channel="335009" start="20250217214000 +0800" stop="20250217223500 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-02-17</date>
   </programme>
@@ -105,7 +175,7 @@
     <date>2025-02-17</date>
   </programme>
   <programme channel="335009" start="20250218000000 +0800" stop="20250219000000 +0800">
-    <title lang="zh">2024臺北亞洲柔道公開賽 7/19賽程(普)</title>
+    <title lang="zh">2024巨人盃少棒 四強戰 台北東園 vs 韓國京畿道(普)</title>
     <desc />
     <date>2025-02-18</date>
   </programme>
