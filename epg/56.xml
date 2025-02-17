@@ -1,59 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250217232638 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368601/20250217.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368601&amp;date=20250217&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250218003204 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368601/20250218.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368601&amp;date=20250218&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368601">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114438517759_78.png" />
   </channel>
-  <programme channel="368601" start="20250217000000 +0800" stop="20250217033000 +0800">
-    <title lang="zh">2025澳洲網球公開賽八強SHE vs SON(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217033000 +0800" stop="20250217040000 +0800">
-    <title lang="zh">網球雜誌(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217040000 +0800" stop="20250217060000 +0800">
-    <title lang="zh">LIVE2025德雷海灘男網賽決賽0400-0600(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217060000 +0800" stop="20250217083000 +0800">
-    <title lang="zh">2024企業女子壘球聯賽第五周新北凱撒 vs 兆基穿山甲(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217083000 +0800" stop="20250217120000 +0800">
-    <title lang="zh">2024中華職棒場次125樂天桃猿 vs統一7-ELEVEN獅(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217120000 +0800" stop="20250217140000 +0800">
-    <title lang="zh">2025歐冠男排聯賽季後賽 LEG1哈克銀行 vs 安聯米蘭(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217140000 +0800" stop="20250217143000 +0800">
-    <title lang="zh">網球雜誌(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217143000 +0800" stop="20250217190000 +0800">
-    <title lang="zh">2025澳洲網球公開賽八強SHE vs SON(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217190000 +0800" stop="20250217213000 +0800">
-    <title lang="zh">首播2025德雷海灘男網賽決賽(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
-  <programme channel="368601" start="20250217213000 +0800" stop="20250218000000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女單四強KEY vs SWI0030(普)</title>
-    <desc />
-    <date>2025-02-17</date>
-  </programme>
   <programme channel="368601" start="20250218000000 +0800" stop="20250218003000 +0800">
     <title lang="zh">2025澳洲網球公開賽女單四強KEY vs SWI0030(普)</title>
     <desc />
@@ -99,9 +49,69 @@
     <desc />
     <date>2025-02-18</date>
   </programme>
-  <programme channel="368601" start="20250219000000 +0800" stop="20250220000000 +0800">
+  <programme channel="368601" start="20250219000000 +0800" stop="20250219010000 +0800">
     <title lang="zh">2025歐冠女排聯賽季後賽 LEG1斯圖加特 vs 波蘭熱舒伏(普)</title>
     <desc />
     <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219010000 +0800" stop="20250219030000 +0800">
+    <title lang="zh">LIVE2025歐冠女排聯賽季後賽 LEG2羅茲建設 vs 奧布雷諾瓦茨0100-0300(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219030000 +0800" stop="20250219033000 +0800">
+    <title lang="zh">網球雜誌(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219033000 +0800" stop="20250219060000 +0800">
+    <title lang="zh">2024企業女子壘球聯賽第五周新世紀黃蜂 vs 臺北臺產熊讚(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219060000 +0800" stop="20250219100000 +0800">
+    <title lang="zh">LIVE2025里約男網賽第二天0600-1000(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219100000 +0800" stop="20250219125000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女雙四強謝淑薇/OST vs DAB/ROU1250(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219125000 +0800" stop="20250219160000 +0800">
+    <title lang="zh">2025歐冠女排聯賽季後賽 LEG1斯圖加特 vs 波蘭熱舒伏(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219160000 +0800" stop="20250219163000 +0800">
+    <title lang="zh">網球雜誌(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219163000 +0800" stop="20250219190000 +0800">
+    <title lang="zh">2024企業女子壘球聯賽第五周新世紀黃蜂 vs 臺北臺產熊讚(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219190000 +0800" stop="20250219220000 +0800">
+    <title lang="zh">2025澳洲網球公開賽四強SIN vs SHE(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219220000 +0800" stop="20250219233000 +0800">
+    <title lang="zh">2025歐冠女排聯賽季後賽 LEG1德國施威林 vs 義大利米蘭(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250219233000 +0800" stop="20250220000000 +0800">
+    <title lang="zh">網球雜誌(普)</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="368601" start="20250220000000 +0800" stop="20250221000000 +0800">
+    <title lang="zh">2024中華職棒場次141台鋼雄鷹 vs統一7-ELEVEN獅(普)</title>
+    <desc />
+    <date>2025-02-20</date>
   </programme>
 </tv>
