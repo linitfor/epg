@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250219023452 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250219.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250219&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250219052339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250219.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250219&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250219005800 +0800" stop="20250219031500 +0800">
+    <title lang="zh">Air Force One</title>
+    <desc>While on his way home from Moscow, the president of the USA finds himself in danger when his plane, Air Force One, is hijacked.</desc>
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="404197" start="20250219031500 +0800" stop="20250219050000 +0800">
+    <title lang="zh">Cosmoball</title>
+    <desc>Post a galactic war, a man, unaware of his special powers, joins a national cosmoball team. In return, he hopes that his sick mother will get better.</desc>
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="404197" start="20250219050000 +0800" stop="20250219083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="404197" start="20250219083000 +0800" stop="20250219113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
+  <programme channel="404197" start="20250219113000 +0800" stop="20250220000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-19</date>
+  </programme>
 </tv>
