@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250220023328 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250220.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250220&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250220052406 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250220.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250220&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250220010600 +0800" stop="20250220023000 +0800">
+    <title lang="zh">X-Men Origins: Wolverine</title>
+    <desc>After years of working as a mutant mercenary, Logan lives a quiet life with his girlfriend, Kayla. However, a figure from his past brutally assassinates Kayla, compelling Logan to seek vengeance.</desc>
+    <date>2025-02-20</date>
+  </programme>
+  <programme channel="404197" start="20250220023000 +0800" stop="20250220053000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-20</date>
+  </programme>
+  <programme channel="404197" start="20250220053000 +0800" stop="20250220083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-20</date>
+  </programme>
+  <programme channel="404197" start="20250220083000 +0800" stop="20250220113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-20</date>
+  </programme>
+  <programme channel="404197" start="20250220113000 +0800" stop="20250221000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-02-20</date>
+  </programme>
 </tv>
