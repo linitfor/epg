@@ -1,209 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250219204727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250219.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250219&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250220003126 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250220.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250220&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
   </channel>
-  <programme channel="370222" start="20250219000000 +0800" stop="20250219005000 +0800">
-    <title lang="zh">主廚大聯盟 08</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219005000 +0800" stop="20250219013600 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219013600 +0800" stop="20250219022400 +0800">
-    <title lang="zh">網路很忙 23</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219022400 +0800" stop="20250219030600 +0800">
-    <title lang="zh">地球的慶典55 大阪波斯菊節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219030600 +0800" stop="20250219035300 +0800">
-    <title lang="zh">地球的慶典56 新社花海節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219035300 +0800" stop="20250219041600 +0800">
-    <title lang="zh">週遊列國 03 法國stay+小酒館</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219041600 +0800" stop="20250219044200 +0800">
-    <title lang="zh">週游列國 05 韓國 韓式炸雞</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219044200 +0800" stop="20250219050700 +0800">
-    <title lang="zh">環遊世界800天 第二季 04 釜山男人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219050700 +0800" stop="20250219053200 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219053200 +0800" stop="20250219060100 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219060100 +0800" stop="20250219065100 +0800">
-    <title lang="zh">主廚大聯盟 08</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219065100 +0800" stop="20250219073700 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219073700 +0800" stop="20250219082500 +0800">
-    <title lang="zh">網路很忙 23</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219082500 +0800" stop="20250219090800 +0800">
-    <title lang="zh">地球的慶典55 大阪波斯菊節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219090800 +0800" stop="20250219095400 +0800">
-    <title lang="zh">地球的慶典56 新社花海節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219095400 +0800" stop="20250219101700 +0800">
-    <title lang="zh">週遊列國 03 法國stay+小酒館</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219101700 +0800" stop="20250219104300 +0800">
-    <title lang="zh">週游列國 05 韓國 韓式炸雞</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219104300 +0800" stop="20250219110800 +0800">
-    <title lang="zh">環遊世界800天 第二季 04 釜山男人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219110800 +0800" stop="20250219113300 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219113300 +0800" stop="20250219120000 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219120000 +0800" stop="20250219125000 +0800">
-    <title lang="zh">主廚大聯盟 08</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219125000 +0800" stop="20250219133600 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219133600 +0800" stop="20250219142400 +0800">
-    <title lang="zh">網路很忙 23</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219142400 +0800" stop="20250219150700 +0800">
-    <title lang="zh">地球的慶典55 大阪波斯菊節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219150700 +0800" stop="20250219155300 +0800">
-    <title lang="zh">地球的慶典56 新社花海節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219155300 +0800" stop="20250219161600 +0800">
-    <title lang="zh">週遊列國 03 法國stay+小酒館</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219161600 +0800" stop="20250219164200 +0800">
-    <title lang="zh">週游列國 05 韓國 韓式炸雞</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219164200 +0800" stop="20250219170700 +0800">
-    <title lang="zh">環遊世界800天 第二季 04 釜山男人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219170700 +0800" stop="20250219173200 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219173200 +0800" stop="20250219175900 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219175900 +0800" stop="20250219184900 +0800">
-    <title lang="zh">主廚大聯盟 08</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219184900 +0800" stop="20250219193500 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219193500 +0800" stop="20250219202300 +0800">
-    <title lang="zh">網路很忙 23</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219202300 +0800" stop="20250219210600 +0800">
-    <title lang="zh">地球的慶典55 大阪波斯菊節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219210600 +0800" stop="20250219215200 +0800">
-    <title lang="zh">地球的慶典56 新社花海節</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219215200 +0800" stop="20250219221500 +0800">
-    <title lang="zh">週遊列國 03 法國stay+小酒館</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219221500 +0800" stop="20250219224100 +0800">
-    <title lang="zh">週游列國 05 韓國 韓式炸雞</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219224100 +0800" stop="20250219230600 +0800">
-    <title lang="zh">環遊世界800天 第二季 04 釜山男人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219230600 +0800" stop="20250219233100 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
-  <programme channel="370222" start="20250219233100 +0800" stop="20250220000000 +0800">
-    <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
-    <desc />
-    <date>2025-02-19</date>
-  </programme>
   <programme channel="370222" start="20250220000000 +0800" stop="20250220004900 +0800">
     <title lang="zh">主廚大聯盟 09</title>
     <desc />
@@ -379,8 +179,183 @@
     <desc />
     <date>2025-02-20</date>
   </programme>
-  <programme channel="370222" start="20250221000000 +0800" stop="20250222000000 +0800">
+  <programme channel="370222" start="20250221000000 +0800" stop="20250221004800 +0800">
     <title lang="zh">主廚大聯盟 10</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221004800 +0800" stop="20250221013500 +0800">
+    <title lang="zh">網路很忙 26</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221013500 +0800" stop="20250221022100 +0800">
+    <title lang="zh">網路很忙 27</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221022100 +0800" stop="20250221030800 +0800">
+    <title lang="zh">地球的慶典59 台東炸寒單</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221030800 +0800" stop="20250221035400 +0800">
+    <title lang="zh">地球的慶典61 荷蘭花季</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221035400 +0800" stop="20250221041900 +0800">
+    <title lang="zh">週遊列國 07 日本北投+時時</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221041900 +0800" stop="20250221044100 +0800">
+    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221044100 +0800" stop="20250221052300 +0800">
+    <title lang="zh">野人追夢 03 吃綠螞蟻 餵大鱷魚</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221052300 +0800" stop="20250221060800 +0800">
+    <title lang="zh">野人追夢 04 達爾文粉絲見面會</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221060800 +0800" stop="20250221065700 +0800">
+    <title lang="zh">主廚大聯盟 10</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221065700 +0800" stop="20250221074300 +0800">
+    <title lang="zh">網路很忙 26</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221074300 +0800" stop="20250221082900 +0800">
+    <title lang="zh">網路很忙 27</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221082900 +0800" stop="20250221091700 +0800">
+    <title lang="zh">地球的慶典59 台東炸寒單</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221091700 +0800" stop="20250221100300 +0800">
+    <title lang="zh">地球的慶典61 荷蘭花季</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221100300 +0800" stop="20250221102700 +0800">
+    <title lang="zh">週遊列國 07 日本北投+時時</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221102700 +0800" stop="20250221105000 +0800">
+    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221105000 +0800" stop="20250221113200 +0800">
+    <title lang="zh">野人追夢 03 吃綠螞蟻 餵大鱷魚</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221113200 +0800" stop="20250221121700 +0800">
+    <title lang="zh">野人追夢 04 達爾文粉絲見面會</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221121700 +0800" stop="20250221130500 +0800">
+    <title lang="zh">主廚大聯盟 10</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221130500 +0800" stop="20250221135100 +0800">
+    <title lang="zh">網路很忙 26</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221135100 +0800" stop="20250221143700 +0800">
+    <title lang="zh">網路很忙 27</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221143700 +0800" stop="20250221152500 +0800">
+    <title lang="zh">地球的慶典59 台東炸寒單</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221152500 +0800" stop="20250221161100 +0800">
+    <title lang="zh">地球的慶典61 荷蘭花季</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221161100 +0800" stop="20250221163600 +0800">
+    <title lang="zh">週遊列國 07 日本北投+時時</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221163600 +0800" stop="20250221165800 +0800">
+    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221165800 +0800" stop="20250221174000 +0800">
+    <title lang="zh">野人追夢 03 吃綠螞蟻 餵大鱷魚</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221174000 +0800" stop="20250221182500 +0800">
+    <title lang="zh">野人追夢 04 達爾文粉絲見面會</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221182500 +0800" stop="20250221191400 +0800">
+    <title lang="zh">主廚大聯盟 10</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221191400 +0800" stop="20250221200000 +0800">
+    <title lang="zh">網路很忙 26</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221200000 +0800" stop="20250221204600 +0800">
+    <title lang="zh">網路很忙 27</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221204600 +0800" stop="20250221213300 +0800">
+    <title lang="zh">地球的慶典59 台東炸寒單</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221213300 +0800" stop="20250221221900 +0800">
+    <title lang="zh">地球的慶典61 荷蘭花季</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221221900 +0800" stop="20250221224400 +0800">
+    <title lang="zh">週遊列國 07 日本北投+時時</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221224400 +0800" stop="20250221230700 +0800">
+    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221230700 +0800" stop="20250221234900 +0800">
+    <title lang="zh">野人追夢 03 吃綠螞蟻 餵大鱷魚</title>
+    <desc />
+    <date>2025-02-21</date>
+  </programme>
+  <programme channel="370222" start="20250221234900 +0800" stop="20250222000000 +0800">
+    <title lang="zh">野人追夢 04 達爾文粉絲見面會</title>
     <desc />
     <date>2025-02-21</date>
   </programme>
