@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250221232642 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368590/20250221.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368590&amp;date=20250221&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250222003155 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368590/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368590&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368590">
     <display-name lang="Taiwan">愛爾達體育2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114225425458_38.png" />
   </channel>
-  <programme channel="368590" start="20250221003500 +0800" stop="20250221013500 +0800">
-    <title lang="zh">2025澳網第15日精華(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221013500 +0800" stop="20250221035000 +0800">
-    <title lang="zh">WBC資格賽 台灣 VS 樂天巨人 自辦熱身賽 2/13(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221035000 +0800" stop="20250221060500 +0800">
-    <title lang="zh">LIVE UEFA歐霸 皇家社會 VS 中日德蘭 附加賽次回合(原音)(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221060500 +0800" stop="20250221090000 +0800">
-    <title lang="zh">WBC棒球經典賽 荷蘭 VS 台灣 A組預賽(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221090000 +0800" stop="20250221113000 +0800">
-    <title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221113000 +0800" stop="20250221120000 +0800">
-    <title lang="zh">體壇最前線 2/20(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221120000 +0800" stop="20250221153000 +0800">
-    <title lang="zh">LIVE WBC棒球經典賽 南非 VS 尼加拉瓜 資格賽 2/21(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221153000 +0800" stop="20250221160000 +0800">
-    <title lang="zh">體壇最前線 2/20(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221160000 +0800" stop="20250221190000 +0800">
-    <title lang="zh">WBC棒球經典賽 南非 VS 尼加拉瓜 資格賽 2/21(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221190000 +0800" stop="20250221223000 +0800">
-    <title lang="zh">LIVE WBC棒球經典賽 西班牙 VS 中華 資格賽 2/21(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221223000 +0800" stop="20250221230000 +0800">
-    <title lang="zh">LIVE 體壇最前線 2/21(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368590" start="20250221230000 +0800" stop="20250222000000 +0800">
-    <title lang="zh">WBC棒球經典賽 西班牙 VS 中華 資格賽 2/21(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
   <programme channel="368590" start="20250222023000 +0800" stop="20250222053000 +0800">
     <title lang="zh">WBC棒球經典賽 南非 VS 尼加拉瓜 資格賽 2/21(普)</title>
     <desc />
@@ -113,5 +53,55 @@
     <title lang="zh">WBC棒球經典賽 中華 VS 南非 資格賽 2/22(普)</title>
     <desc />
     <date>2025-02-22</date>
+  </programme>
+  <programme channel="368590" start="20250223023000 +0800" stop="20250223053000 +0800">
+    <title lang="zh">12強棒球 中華 VS 日本 冠軍戰 11/24(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223053000 +0800" stop="20250223083000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南非 資格賽 2/22(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223083000 +0800" stop="20250223113000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南非 資格賽 2/22(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223113000 +0800" stop="20250223120000 +0800">
+    <title lang="zh">體壇最前線 2/22(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223120000 +0800" stop="20250223153000 +0800">
+    <title lang="zh">LIVE WBC棒球經典賽 南非 VS 西班牙 資格賽 2/23(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223153000 +0800" stop="20250223160000 +0800">
+    <title lang="zh">體壇最前線 2/22(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223160000 +0800" stop="20250223190000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南非 資格賽 2/22(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223190000 +0800" stop="20250223223000 +0800">
+    <title lang="zh">LIVE WBC棒球經典賽 尼加拉瓜 VS 中華 資格賽 2/23(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223223000 +0800" stop="20250223230000 +0800">
+    <title lang="zh">LIVE 體壇最前線 2/23(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368590" start="20250223230000 +0800" stop="20250224000000 +0800">
+    <title lang="zh">WBC棒球經典賽 尼加拉瓜 VS 中華 資格賽 2/23(普)</title>
+    <desc />
+    <date>2025-02-23</date>
   </programme>
 </tv>

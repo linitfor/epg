@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250221232636 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250221.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250221&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250222003146 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250221050000 +0800" stop="20250221073000 +0800">
-    <title lang="zh">2025蒙彼利埃男網賽四強JONvsALI</title>
-    <desc>2025蒙彼利埃男網賽四強JONvsALI</desc>
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="369216" start="20250221073000 +0800" stop="20250221100000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女單第三輪SABvsTAU</title>
-    <desc>2025澳洲網球公開賽女單第三輪SABvsTAU</desc>
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="369216" start="20250221100000 +0800" stop="20250221120000 +0800">
-    <title lang="zh">2025鹿特丹男網賽十六強</title>
-    <desc>2025鹿特丹男網賽十六強</desc>
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="369216" start="20250221120000 +0800" stop="20250221203000 +0800">
-    <title lang="zh">首播2025馬賽男網賽第三天</title>
-    <desc>首播2025馬賽男網賽第三天</desc>
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="369216" start="20250221203000 +0800" stop="20250222000000 +0800">
-    <title lang="zh">LIVE2025馬賽男網賽十六強</title>
-    <desc>LIVE2025馬賽男網賽十六強</desc>
-    <date>2025-02-21</date>
-  </programme>
   <programme channel="369216" start="20250222050000 +0800" stop="20250222070000 +0800">
     <title lang="zh">2025蒙彼利埃男網賽四強RUBvsKOV</title>
     <desc>2025蒙彼利埃男網賽四強RUBvsKOV</desc>
@@ -53,5 +28,35 @@
     <title lang="zh">LIVE2025馬賽男網賽八強</title>
     <desc>LIVE2025馬賽男網賽八強</desc>
     <date>2025-02-22</date>
+  </programme>
+  <programme channel="369216" start="20250223053000 +0800" stop="20250223090000 +0800">
+    <title lang="zh">2025蒙彼利埃男網賽決賽KOVvsALI</title>
+    <desc>2025蒙彼利埃男網賽決賽KOVvsALI</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="369216" start="20250223090000 +0800" stop="20250223120000 +0800">
+    <title lang="zh">2025澳洲網球公開賽十六強DJOvsLEH</title>
+    <desc>2025澳洲網球公開賽十六強DJOvsLEH</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="369216" start="20250223120000 +0800" stop="20250223200000 +0800">
+    <title lang="zh">首播2025馬賽男網賽八強</title>
+    <desc>首播2025馬賽男網賽八強</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="369216" start="20250223200000 +0800" stop="20250223213000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女單十六強KUDvsSVI</title>
+    <desc>2025澳洲網球公開賽女單十六強KUDvsSVI</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="369216" start="20250223213000 +0800" stop="20250224000000 +0800">
+    <title lang="zh">2025鹿特丹男網賽八強</title>
+    <desc>2025鹿特丹男網賽八強</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="369216" start="20250224000000 +0800" stop="20250225000000 +0800">
+    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
+    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
+    <date>2025-02-24</date>
   </programme>
 </tv>

@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250221205030 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368841/20250221.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368841&amp;date=20250221&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250222003205 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368841/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368841&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368841">
     <display-name lang="Taiwan">龍華洋片HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609121104977791_45.png" />
   </channel>
-  <programme channel="368841" start="20250221001500 +0800" stop="20250221013000 +0800">
-    <title lang="zh">戰狼堡壘5：最高機密(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221013000 +0800" stop="20250221040000 +0800">
-    <title lang="zh">大魔術師(首)(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221040000 +0800" stop="20250221060000 +0800">
-    <title lang="zh">飛起來吧蝴蝶(9-10)(首)(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221060000 +0800" stop="20250221083500 +0800">
-    <title lang="zh">她的搖滾滋味(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221083500 +0800" stop="20250221102000 +0800">
-    <title lang="zh">跟著IKEA衣櫥去旅行(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221102000 +0800" stop="20250221120000 +0800">
-    <title lang="zh">鐵血營救(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221120000 +0800" stop="20250221140000 +0800">
-    <title lang="zh">明信片謀殺案(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221140000 +0800" stop="20250221154000 +0800">
-    <title lang="zh">限時搶救(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221154000 +0800" stop="20250221171500 +0800">
-    <title lang="zh">仙戒奇緣(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221171500 +0800" stop="20250221185000 +0800">
-    <title lang="zh">頑童怪盜(普)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221185000 +0800" stop="20250221210000 +0800">
-    <title lang="zh">惡水真相(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221210000 +0800" stop="20250221225000 +0800">
-    <title lang="zh">封火線(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
-  <programme channel="368841" start="20250221225000 +0800" stop="20250222000000 +0800">
-    <title lang="zh">巴頓將軍(首)(護)</title>
-    <desc />
-    <date>2025-02-21</date>
-  </programme>
   <programme channel="368841" start="20250222021000 +0800" stop="20250222042000 +0800">
     <title lang="zh">深入戰區(輔12)</title>
     <desc />
@@ -128,5 +63,65 @@
     <title lang="zh">浩劫餘生：人猿星球(首)(普)</title>
     <desc />
     <date>2025-02-22</date>
+  </programme>
+  <programme channel="368841" start="20250223011000 +0800" stop="20250223034000 +0800">
+    <title lang="zh">黑盒線索(首)(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223034000 +0800" stop="20250223060000 +0800">
+    <title lang="zh">【週末夜狂熱】潛艦疑雲(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223060000 +0800" stop="20250223080000 +0800">
+    <title lang="zh">好萊塢現場直擊(新)(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223080000 +0800" stop="20250223102000 +0800">
+    <title lang="zh">72小時前哨救援(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223102000 +0800" stop="20250223121000 +0800">
+    <title lang="zh">夜幕獵人(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223121000 +0800" stop="20250223140000 +0800">
+    <title lang="zh">我要活下去(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223140000 +0800" stop="20250223154000 +0800">
+    <title lang="zh">終極飆靶(護)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223154000 +0800" stop="20250223172000 +0800">
+    <title lang="zh">翻轉奇蹟(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223172000 +0800" stop="20250223191000 +0800">
+    <title lang="zh">喜劇天團：勞萊與哈台(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223191000 +0800" stop="20250223210000 +0800">
+    <title lang="zh">搏命關頭(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223210000 +0800" stop="20250223233000 +0800">
+    <title lang="zh">【星光首映場】黑盒線索(普)</title>
+    <desc />
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="368841" start="20250223233000 +0800" stop="20250224000000 +0800">
+    <title lang="zh">龍吻(輔12)</title>
+    <desc />
+    <date>2025-02-23</date>
   </programme>
 </tv>
