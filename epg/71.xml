@@ -1,7 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250222023438 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250222062621 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250222010200 +0800" stop="20250222025800 +0800">
+    <title lang="zh">Deadpool 2</title>
+    <desc>Deadpool protects a young mutant, Russell, from the authorities and gets thrown in prison. However, he escapes and forms a team of mutants to prevent a time-travelling mercenary from killing Russell.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222025800 +0800" stop="20250222044500 +0800">
+    <title lang="zh">Sword Master</title>
+    <desc>A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222044500 +0800" stop="20250222064500 +0800">
+    <title lang="zh">Super Typhoon</title>
+    <desc>A wrathful goddess unleashes a cataclysmic typhoon upon the world as punishment for humanity's transgressions. Panic ensues as people are forced to confront monstrous creatures amid the chaos.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222064500 +0800" stop="20250222080000 +0800">
+    <title lang="zh">Mojin: The Treasure Valley</title>
+    <desc>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222080000 +0800" stop="20250222091500 +0800">
+    <title lang="zh">Unbending Mr. Fang</title>
+    <desc>After returning from Shaolin school, Fang decides to lead a normal life but gets dragged into a corruption case. Later, he along with Lei Tingting fight against the authorities to restore justice.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222091500 +0800" stop="20250222104500 +0800">
+    <title lang="zh">Tarzan</title>
+    <desc>Tarzan, a feral orphan raised by gorillas, encounters a beautiful woman named Jane. As he grows close to her, he faces a difficult choice between staying with his ape family and rejoining humanity.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222104500 +0800" stop="20250222120000 +0800">
+    <title lang="zh">300: Rise Of An Empire</title>
+    <desc>Xerxes sets out to control the major states of Greece with the help of his vast Persian army. Themistocles, the admiral of Athens, is forced to form an alliance with Sparta in order to save Athens.</desc>
+    <date>2025-02-22</date>
+  </programme>
+  <programme channel="404197" start="20250222120000 +0800" stop="20250223000000 +0800">
+    <title lang="zh">Zathura: A Space Adventure</title>
+    <desc>Two young brothers find themselves transported into the depths of space while playing a board game. They try their best to find their way back to Earth.</desc>
+    <date>2025-02-22</date>
+  </programme>
 </tv>
