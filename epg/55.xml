@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250222212532 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250223002819 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250222050000 +0800" stop="20250222070000 +0800">
-    <title lang="zh">2025蒙彼利埃男網賽四強RUBvsKOV</title>
-    <desc>2025蒙彼利埃男網賽四強RUBvsKOV</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369216" start="20250222070000 +0800" stop="20250222103000 +0800">
-    <title lang="zh">2025澳洲網球公開賽第三輪FRIvsMON</title>
-    <desc>2025澳洲網球公開賽第三輪FRIvsMON</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369216" start="20250222103000 +0800" stop="20250222120000 +0800">
-    <title lang="zh">2025鹿特丹男網賽八強</title>
-    <desc>2025鹿特丹男網賽八強</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369216" start="20250222120000 +0800" stop="20250222213000 +0800">
-    <title lang="zh">首播2025馬賽男網賽十六強</title>
-    <desc>首播2025馬賽男網賽十六強</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369216" start="20250222213000 +0800" stop="20250223000000 +0800">
-    <title lang="zh">LIVE2025馬賽男網賽八強</title>
-    <desc>LIVE2025馬賽男網賽八強</desc>
-    <date>2025-02-22</date>
-  </programme>
   <programme channel="369216" start="20250223053000 +0800" stop="20250223090000 +0800">
     <title lang="zh">2025蒙彼利埃男網賽決賽KOVvsALI</title>
     <desc>2025蒙彼利埃男網賽決賽KOVvsALI</desc>
@@ -54,9 +29,49 @@
     <desc>2025鹿特丹男網賽八強</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="369216" start="20250224000000 +0800" stop="20250225000000 +0800">
+  <programme channel="369216" start="20250224000000 +0800" stop="20250224020000 +0800">
     <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
     <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224020000 +0800" stop="20250224040000 +0800">
+    <title lang="zh">2025德雷海灘男網賽八強</title>
+    <desc>2025德雷海灘男網賽八強</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224040000 +0800" stop="20250224070000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</title>
+    <desc>2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224070000 +0800" stop="20250224090000 +0800">
+    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
+    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224090000 +0800" stop="20250224110000 +0800">
+    <title lang="zh">2025德雷海灘男網賽八強</title>
+    <desc>2025德雷海灘男網賽八強</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224110000 +0800" stop="20250224140000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</title>
+    <desc>2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224140000 +0800" stop="20250224160000 +0800">
+    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
+    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224160000 +0800" stop="20250224180000 +0800">
+    <title lang="zh">2025德雷海灘男網賽八強</title>
+    <desc>2025德雷海灘男網賽八強</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369216" start="20250224180000 +0800" stop="20250225000000 +0800">
+    <title lang="zh">LIVE2025杜拜男網賽第一天</title>
+    <desc>LIVE2025杜拜男網賽第一天</desc>
     <date>2025-02-24</date>
   </programme>
 </tv>

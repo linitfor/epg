@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250222212527 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250222.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250222&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250223002812 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250222000000 +0800" stop="20250222030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 ALL vs LIN</title>
-    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 ALL vs LIN</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222030000 +0800" stop="20250222060000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 威爾斯公開賽 八強 0000-0300</title>
-    <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 八強 0000-0300</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222060000 +0800" stop="20250222090000 +0800">
-    <title lang="zh">2023-24司諾克賽季 威爾斯公開賽 8強 DAL vs SLE</title>
-    <desc>2023-24司諾克賽季 威爾斯公開賽 8強 DAL vs SLE</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222090000 +0800" stop="20250222120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 WIL vs DIN</title>
-    <desc>2024-25司諾克賽季 國際錦標賽 8強 WIL vs DIN</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222120000 +0800" stop="20250222180000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 威爾斯公開賽 八強</title>
-    <desc>首播 2024-25司諾克賽季 威爾斯公開賽 八強</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222180000 +0800" stop="20250222210000 +0800">
-    <title lang="zh">2023-24司諾克賽季 威爾斯公開賽 4強 HIG vs WIL</title>
-    <desc>2023-24司諾克賽季 威爾斯公開賽 4強 HIG vs WIL</desc>
-    <date>2025-02-22</date>
-  </programme>
-  <programme channel="369235" start="20250222210000 +0800" stop="20250223000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 威爾斯公開賽 四強 2100-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 四強 2100-0000</desc>
-    <date>2025-02-22</date>
-  </programme>
   <programme channel="369235" start="20250223000000 +0800" stop="20250223013000 +0800">
     <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 TRU vs SEL</title>
     <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第二輪 TRU vs SEL</desc>
@@ -79,9 +44,64 @@
     <desc>LIVE 2024-25司諾克賽季 威爾斯公開賽 決賽 2100-0000</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="369235" start="20250224000000 +0800" stop="20250225000000 +0800">
+  <programme channel="369235" start="20250224000000 +0800" stop="20250224020000 +0800">
     <title lang="zh">2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</title>
     <desc>2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</desc>
     <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224020000 +0800" stop="20250224033000 +0800">
+    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 BRE vs LIS</title>
+    <desc>2023-24司諾克賽季 司諾克大師賽 16強 BRE vs LIS</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224033000 +0800" stop="20250224050000 +0800">
+    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 O'SUL vs DIN</title>
+    <desc>2023-24司諾克賽季 司諾克大師賽 16強 O'SUL vs DIN</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224050000 +0800" stop="20250224080000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 第三輪 ROB vs THO</title>
+    <desc>2024-25司諾克賽季 英國公開賽 第三輪 ROB vs THO</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224080000 +0800" stop="20250224100000 +0800">
+    <title lang="zh">2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</title>
+    <desc>2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224100000 +0800" stop="20250224113000 +0800">
+    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 BRE vs LIS</title>
+    <desc>2023-24司諾克賽季 司諾克大師賽 16強 BRE vs LIS</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224113000 +0800" stop="20250224130000 +0800">
+    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 O'SUL vs DIN</title>
+    <desc>2023-24司諾克賽季 司諾克大師賽 16強 O'SUL vs DIN</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224130000 +0800" stop="20250224160000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 第三輪 ROB vs THO</title>
+    <desc>2024-25司諾克賽季 英國公開賽 第三輪 ROB vs THO</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224160000 +0800" stop="20250224180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</title>
+    <desc>2024-25司諾克賽季 武漢公開賽 第一天 DIN vs MCG</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224180000 +0800" stop="20250224210000 +0800">
+    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 MUR vs ZHA</title>
+    <desc>2023-24司諾克賽季 司諾克大師賽 16強 MUR vs ZHA</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250224210000 +0800" stop="20250225000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 第三輪 SEL vs YUA</title>
+    <desc>2024-25司諾克賽季 英國公開賽 第三輪 SEL vs YUA</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="369235" start="20250225000000 +0800" stop="20250226000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 16強 MUR vs BIN</title>
+    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 16強 MUR vs BIN</desc>
+    <date>2025-02-25</date>
   </programme>
 </tv>
