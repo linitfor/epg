@@ -1,7 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250223023120 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250223052240 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250223010000 +0800" stop="20250223030000 +0800">
+    <title lang="zh">The Conjuring 2</title>
+    <desc>Peggy, a single mother of four children, seeks the help of occult investigators Ed and Lorraine Warren when she and her children witness strange, paranormal events in their house.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223030000 +0800" stop="20250223051500 +0800">
+    <title lang="zh">Beowulf</title>
+    <desc>Beowulf, a fierce warrior, protects the Danes from Grendel, a hideous monster, by mortally wounding him. When Grendel's mother learns of this, she swears vengeance.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223051500 +0800" stop="20250223064500 +0800">
+    <title lang="zh">Conan The Barbarian</title>
+    <desc>Conan, a Cimmerian warrior, seeks revenge against a warlord who attacked his village and killed his father. However, he soon realises that his kingdom faces a far greater threat.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223064500 +0800" stop="20250223090000 +0800">
+    <title lang="zh">Emergency Declaration</title>
+    <desc>Aboard an international flight, when a terror attack threatens to transpire, havoc wreaks on the plane. The cabin crew must strive to save their passengers and themselves.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223090000 +0800" stop="20250223103000 +0800">
+    <title lang="zh">Frozen</title>
+    <desc>Anna, the princess of the kingdom of Arendelle, sets out to find her estranged sister Elsa after she accidentally plunges their home into eternal winter with her power to create and control ice.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223103000 +0800" stop="20250223121500 +0800">
+    <title lang="zh">The Jungle Book</title>
+    <desc>Mowgli is a boy brought up in the jungle by a pack of wolves. When Shere Khan, a tiger, threatens to kill him, a panther and a bear help him escape his clutches.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="404197" start="20250223121500 +0800" stop="20250224000000 +0800">
+    <title lang="zh">Pokemon Detective Pikachu</title>
+    <desc>Tim Goodman travels to Ryme City to settle the affairs of his late father. There, he meets an intelligent talking Pikachu and soon teams up with it to solve his father's last case.</desc>
+    <date>2025-02-23</date>
+  </programme>
 </tv>
