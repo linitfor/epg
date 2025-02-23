@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250223232325 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368816/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368816&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250224002750 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368816/20250224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368816&amp;date=20250224&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368816">
     <display-name lang="Taiwan">華視新聞資訊HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609120500461946_29.png" />
   </channel>
-  <programme channel="368816" start="20250223000000 +0800" stop="20250223010000 +0800">
-    <title lang="zh">華視2400夜間新聞(417)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223010000 +0800" stop="20250223020000 +0800">
-    <title lang="zh">華視夜間新聞(3414)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223020000 +0800" stop="20250223030000 +0800">
-    <title lang="zh">華視2400夜間新聞(417)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223030000 +0800" stop="20250223040000 +0800">
-    <title lang="zh">華視新聞雜誌(2448)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223040000 +0800" stop="20250223050000 +0800">
-    <title lang="zh">華視2400夜間新聞(417)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223050000 +0800" stop="20250223060000 +0800">
-    <title lang="zh">華視夜間新聞(3414)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223060000 +0800" stop="20250223070000 +0800">
-    <title lang="zh">華視2400夜間新聞(417)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223070000 +0800" stop="20250223080000 +0800">
-    <title lang="zh">華視晨間新聞(3874)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223080000 +0800" stop="20250223090000 +0800">
-    <title lang="zh">52華視0800晨間新聞(696)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223090000 +0800" stop="20250223100000 +0800">
-    <title lang="zh">52華視0900整點新聞(644)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223100000 +0800" stop="20250223110000 +0800">
-    <title lang="zh">52華視1000新聞搶先報(586)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223110000 +0800" stop="20250223115900 +0800">
-    <title lang="zh">52華視1100新聞搶先報(694)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223115900 +0800" stop="20250223125500 +0800">
-    <title lang="zh">華視午間新聞(4525)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223125500 +0800" stop="20250223140000 +0800">
-    <title lang="zh">52華視1300午間新聞(700)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223140000 +0800" stop="20250223150000 +0800">
-    <title lang="zh">52華視1400整點新聞(643)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223150000 +0800" stop="20250223160000 +0800">
-    <title lang="zh">三國演議(385)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223160000 +0800" stop="20250223170000 +0800">
-    <title lang="zh">華視1600整點新聞(130)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223170000 +0800" stop="20250223190000 +0800">
-    <title lang="zh">華視新聞晚報(489)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223190000 +0800" stop="20250223200000 +0800">
-    <title lang="zh">華視晚間新聞(4037)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223200000 +0800" stop="20250223210000 +0800">
-    <title lang="zh">新聞高峰會(127)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223210000 +0800" stop="20250223220000 +0800">
-    <title lang="zh">國際線，出發！(199)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223220000 +0800" stop="20250223223000 +0800">
-    <title lang="zh">Trending News 脆新聞(17)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223223000 +0800" stop="20250223230000 +0800">
-    <title lang="zh">52華視2200夜間新聞(375)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="368816" start="20250223230000 +0800" stop="20250224000000 +0800">
-    <title lang="zh">華視夜間新聞(3415)(普)</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
   <programme channel="368816" start="20250224000000 +0800" stop="20250224010000 +0800">
     <title lang="zh">華視2400夜間新聞(418)(普)</title>
     <desc />
@@ -238,5 +118,115 @@
     <title lang="zh">華視2400夜間新聞(419)(普)</title>
     <desc />
     <date>2025-02-24</date>
+  </programme>
+  <programme channel="368816" start="20250225010000 +0800" stop="20250225020000 +0800">
+    <title lang="zh">新聞湘對論(242)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225020000 +0800" stop="20250225030000 +0800">
+    <title lang="zh">華視2400夜間新聞(419)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225030000 +0800" stop="20250225040000 +0800">
+    <title lang="zh">World News 9(460)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225040000 +0800" stop="20250225050000 +0800">
+    <title lang="zh">華視2400夜間新聞(419)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225050000 +0800" stop="20250225060000 +0800">
+    <title lang="zh">新聞湘對論(242)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225060000 +0800" stop="20250225070000 +0800">
+    <title lang="zh">華視2400夜間新聞(419)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225070000 +0800" stop="20250225080000 +0800">
+    <title lang="zh">華視晨間新聞(3876)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225080000 +0800" stop="20250225090000 +0800">
+    <title lang="zh">52華視0800晨間新聞(698)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225090000 +0800" stop="20250225100000 +0800">
+    <title lang="zh">52華視0900整點新聞(646)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225100000 +0800" stop="20250225110000 +0800">
+    <title lang="zh">52華視1000新聞搶先報(588)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225110000 +0800" stop="20250225115800 +0800">
+    <title lang="zh">52華視1100新聞搶先報(696)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225115800 +0800" stop="20250225130000 +0800">
+    <title lang="zh">華視午間新聞(4527)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225130000 +0800" stop="20250225140000 +0800">
+    <title lang="zh">52華視1300午間新聞(702)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225140000 +0800" stop="20250225150000 +0800">
+    <title lang="zh">52華視1400整點新聞(645)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225150000 +0800" stop="20250225160000 +0800">
+    <title lang="zh">52華視1500整點新聞(495)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225160000 +0800" stop="20250225165300 +0800">
+    <title lang="zh">華視在地新聞(3163)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225165300 +0800" stop="20250225200000 +0800">
+    <title lang="zh">華視新聞晚報(491)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225200000 +0800" stop="20250225210000 +0800">
+    <title lang="zh">52華視2000整點新聞(494)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225210000 +0800" stop="20250225220000 +0800">
+    <title lang="zh">World News 9(461)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225220000 +0800" stop="20250225230000 +0800">
+    <title lang="zh">新聞湘對論(243)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225230000 +0800" stop="20250225235500 +0800">
+    <title lang="zh">華視夜間新聞(3417)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="368816" start="20250225235500 +0800" stop="20250226000000 +0800">
+    <title lang="zh">華視2400夜間新聞(420)(普)</title>
+    <desc />
+    <date>2025-02-25</date>
   </programme>
 </tv>

@@ -1,89 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250223232336 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/272025/20250223.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=272025&amp;date=20250223&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250224002800 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/272025/20250224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=272025&amp;date=20250224&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="272025">
     <display-name lang="Taiwan">東森綜合台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="272025" start="20250223000000 +0800" stop="20250223020000 +0800">
-    <title lang="zh">花甲少年趣旅行</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223020000 +0800" stop="20250223040000 +0800">
-    <title lang="zh">天才衝衝衝</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223040000 +0800" stop="20250223060000 +0800">
-    <title lang="zh">效廉出發吧</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223060000 +0800" stop="20250223070000 +0800">
-    <title lang="zh">YOYO點點名</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223070000 +0800" stop="20250223080000 +0800">
-    <title lang="zh">銅板美食呷透透</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223080000 +0800" stop="20250223090000 +0800">
-    <title lang="zh">樂活好正點</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223090000 +0800" stop="20250223100000 +0800">
-    <title lang="zh">小姐不熙娣</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223100000 +0800" stop="20250223120000 +0800">
-    <title lang="zh">花甲少年趣旅行</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223120000 +0800" stop="20250223140000 +0800">
-    <title lang="zh">天才衝衝衝</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223140000 +0800" stop="20250223150000 +0800">
-    <title lang="zh">生活大小事</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223150000 +0800" stop="20250223170000 +0800">
-    <title lang="zh">花甲少年趣旅行</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223170000 +0800" stop="20250223180000 +0800">
-    <title lang="zh">醫師好辣</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223180000 +0800" stop="20250223200000 +0800">
-    <title lang="zh">天才衝衝衝</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223200000 +0800" stop="20250223210000 +0800">
-    <title lang="zh">全民星攻略</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223210000 +0800" stop="20250223220000 +0800">
-    <title lang="zh">小姐不熙娣</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="272025" start="20250223220000 +0800" stop="20250224000000 +0800">
-    <title lang="zh">效廉出發吧</title>
-    <desc />
-    <date>2025-02-23</date>
-  </programme>
   <programme channel="272025" start="20250224000000 +0800" stop="20250224020000 +0800">
     <title lang="zh">天才衝衝衝</title>
     <desc />
@@ -189,9 +109,124 @@
     <desc />
     <date>2025-02-24</date>
   </programme>
-  <programme channel="272025" start="20250225000000 +0800" stop="20250226000000 +0800">
+  <programme channel="272025" start="20250225000000 +0800" stop="20250225010000 +0800">
     <title lang="zh">小姐不熙娣</title>
     <desc />
     <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225010000 +0800" stop="20250225020000 +0800">
+    <title lang="zh">全民星攻略</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225020000 +0800" stop="20250225030000 +0800">
+    <title lang="zh">醫師好辣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225030000 +0800" stop="20250225040000 +0800">
+    <title lang="zh">今晚開讚吧</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225040000 +0800" stop="20250225050000 +0800">
+    <title lang="zh">小姐不熙娣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225050000 +0800" stop="20250225060000 +0800">
+    <title lang="zh">夢想街57號-預約你的夢想</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225060000 +0800" stop="20250225070000 +0800">
+    <title lang="zh">月刊家</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225070000 +0800" stop="20250225080000 +0800">
+    <title lang="zh">進擊的台灣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225080000 +0800" stop="20250225090000 +0800">
+    <title lang="zh">請問今晚住誰家</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225090000 +0800" stop="20250225100000 +0800">
+    <title lang="zh">全民星攻略</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225100000 +0800" stop="20250225110000 +0800">
+    <title lang="zh">元氣探索家</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225110000 +0800" stop="20250225120000 +0800">
+    <title lang="zh">小姐不熙娣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225120000 +0800" stop="20250225130000 +0800">
+    <title lang="zh">全民星攻略</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225130000 +0800" stop="20250225140000 +0800">
+    <title lang="zh">醫師好辣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225140000 +0800" stop="20250225150000 +0800">
+    <title lang="zh">小姐不熙娣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225150000 +0800" stop="20250225160000 +0800">
+    <title lang="zh">乾坤轉運盤</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225160000 +0800" stop="20250225170000 +0800">
+    <title lang="zh">后宮歐買尬</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225170000 +0800" stop="20250225180000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225180000 +0800" stop="20250225190000 +0800">
+    <title lang="zh">全民星攻略</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225190000 +0800" stop="20250225210000 +0800">
+    <title lang="zh">天才衝衝衝</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225210000 +0800" stop="20250225220000 +0800">
+    <title lang="zh">全民星攻略</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225220000 +0800" stop="20250225230000 +0800">
+    <title lang="zh">小姐不熙娣</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250225230000 +0800" stop="20250226000000 +0800">
+    <title lang="zh">今晚開讚吧</title>
+    <desc />
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="272025" start="20250226000000 +0800" stop="20250227000000 +0800">
+    <title lang="zh">小姐不熙娣</title>
+    <desc />
+    <date>2025-02-26</date>
   </programme>
 </tv>
