@@ -1,7 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250225042841 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250225&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250225072423 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250225&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250225005800 +0800" stop="20250225022000 +0800">
+    <title lang="zh">Paranormal Activity: The Ghost Dimension</title>
+    <desc>When the Fleeges find some eerie old tapes and a camera in their new house, they realise that they have walked straight into a landmine of supernatural activities.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225022000 +0800" stop="20250225041600 +0800">
+    <title lang="zh">Cosmoball</title>
+    <desc>Post a galactic war, a man, unaware of his special powers, joins a national cosmoball team. In return, he hopes that his sick mother will get better.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225041600 +0800" stop="20250225042700 +0800">
+    <title lang="zh">Movie In Focus</title>
+    <desc>A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225042700 +0800" stop="20250225064500 +0800">
+    <title lang="zh">Conan The Barbarian</title>
+    <desc>Conan, a Cimmerian warrior, seeks revenge against a warlord who attacked his village and killed his father. However, he soon realises that his kingdom faces a far greater threat.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225064500 +0800" stop="20250225081500 +0800">
+    <title lang="zh">Sword Master</title>
+    <desc>A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225081500 +0800" stop="20250225100000 +0800">
+    <title lang="zh">Samson</title>
+    <desc>Samson, a Hebrew with extraordinary strength, must use his God-given gift to rally his people to freedom from the evil Philistines.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225100000 +0800" stop="20250225114500 +0800">
+    <title lang="zh">Tom and Jerry</title>
+    <desc>Jerry, a mischievous mouse, takes refuge in a fancy hotel that is set to host a wedding. In order to get rid of him, one of the event planners hires Jerry's feline rival, Tom.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="404197" start="20250225114500 +0800" stop="20250226000000 +0800">
+    <title lang="zh">The Avengers</title>
+    <desc>Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. Eventually, the superheroes cast their differences aside to accomplish the task.</desc>
+    <date>2025-02-25</date>
+  </programme>
 </tv>
