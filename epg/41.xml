@@ -1,89 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250225232901 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250225&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250226003348 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250226.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250226&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250225000000 +0800" stop="20250225010000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(2) GOR vs SHA</title>
-    <desc>2024莫斯考尼盃 第二天(2) GOR vs SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225010000 +0800" stop="20250225020000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</title>
-    <desc>2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225020000 +0800" stop="20250225040000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225040000 +0800" stop="20250225060000 +0800">
-    <title lang="zh">2023歐洲公開賽 第2天(3)MARvsOLI</title>
-    <desc>2023歐洲公開賽 第2天(3)MARvsOLI</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225060000 +0800" stop="20250225070000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(2) GOR vs SHA</title>
-    <desc>2024莫斯考尼盃 第二天(2) GOR vs SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225070000 +0800" stop="20250225080000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</title>
-    <desc>2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225080000 +0800" stop="20250225100000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225100000 +0800" stop="20250225120000 +0800">
-    <title lang="zh">2023歐洲公開賽 第2天(3)MARvsOLI</title>
-    <desc>2023歐洲公開賽 第2天(3)MARvsOLI</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225120000 +0800" stop="20250225130000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(2) GOR vs SHA</title>
-    <desc>2024莫斯考尼盃 第二天(2) GOR vs SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225130000 +0800" stop="20250225140000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</title>
-    <desc>2024莫斯考尼盃 第二天(3) THO STY vs KRA SHA</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225140000 +0800" stop="20250225160000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第三輪 WIL vs MAG</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225160000 +0800" stop="20250225180000 +0800">
-    <title lang="zh">2023歐洲公開賽 第2天(3)MARvsOLI</title>
-    <desc>2023歐洲公開賽 第2天(3)MARvsOLI</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225180000 +0800" stop="20250225190000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(4) BOE vs RUI</title>
-    <desc>2024莫斯考尼盃 第二天(4) BOE vs RUI</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225190000 +0800" stop="20250225203000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第二天(5) WOO GOR vs ALC KAC</title>
-    <desc>2024莫斯考尼盃 第二天(5) WOO GOR vs ALC KAC</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225203000 +0800" stop="20250225223000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 16強 SEL vs LIS</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 16強 SEL vs LIS</desc>
-    <date>2025-02-25</date>
-  </programme>
-  <programme channel="369229" start="20250225223000 +0800" stop="20250226000000 +0800">
-    <title lang="zh">2023歐洲公開賽 第2天(2)LOvsSTU</title>
-    <desc>2023歐洲公開賽 第2天(2)LOvsSTU</desc>
-    <date>2025-02-25</date>
-  </programme>
   <programme channel="369229" start="20250226000000 +0800" stop="20250226010000 +0800">
     <title lang="zh">2024莫斯考尼盃 第二天(4) BOE vs RUI</title>
     <desc>2024莫斯考尼盃 第二天(4) BOE vs RUI</desc>
@@ -164,9 +84,89 @@
     <desc>2023歐洲公開賽 第2天(4)SKYvsDAM</desc>
     <date>2025-02-26</date>
   </programme>
-  <programme channel="369229" start="20250227000000 +0800" stop="20250228000000 +0800">
+  <programme channel="369229" start="20250227000000 +0800" stop="20250227010000 +0800">
     <title lang="zh">2024莫斯考尼盃 第三天(1) USA vs EUR</title>
     <desc>2024莫斯考尼盃 第三天(1) USA vs EUR</desc>
     <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227010000 +0800" stop="20250227020000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</title>
+    <desc>2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227020000 +0800" stop="20250227040000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227040000 +0800" stop="20250227060000 +0800">
+    <title lang="zh">2023歐洲公開賽 第2天(4)SKYvsDAM</title>
+    <desc>2023歐洲公開賽 第2天(4)SKYvsDAM</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227060000 +0800" stop="20250227070000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(1) USA vs EUR</title>
+    <desc>2024莫斯考尼盃 第三天(1) USA vs EUR</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227070000 +0800" stop="20250227080000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</title>
+    <desc>2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227080000 +0800" stop="20250227100000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227100000 +0800" stop="20250227120000 +0800">
+    <title lang="zh">2023歐洲公開賽 第2天(4)SKYvsDAM</title>
+    <desc>2023歐洲公開賽 第2天(4)SKYvsDAM</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227120000 +0800" stop="20250227130000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(1) USA vs EUR</title>
+    <desc>2024莫斯考尼盃 第三天(1) USA vs EUR</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227130000 +0800" stop="20250227140000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</title>
+    <desc>2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227140000 +0800" stop="20250227160000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 16強 TRU vs XIA</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227160000 +0800" stop="20250227180000 +0800">
+    <title lang="zh">2023歐洲公開賽 第2天(4)SKYvsDAM</title>
+    <desc>2023歐洲公開賽 第2天(4)SKYvsDAM</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227180000 +0800" stop="20250227190000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(3) THO vs ALC</title>
+    <desc>2024莫斯考尼盃 第三天(3) THO vs ALC</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227190000 +0800" stop="20250227200000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(4) GOR STY vs SHA KAC</title>
+    <desc>2024莫斯考尼盃 第三天(4) GOR STY vs SHA KAC</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227200000 +0800" stop="20250227220000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 8強 K.WI vs G.WI</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 8強 K.WI vs G.WI</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250227220000 +0800" stop="20250228000000 +0800">
+    <title lang="zh">2023歐洲公開 賽第2天(5)CHAvsDO</title>
+    <desc>2023歐洲公開 賽第2天(5)CHAvsDO</desc>
+    <date>2025-02-27</date>
+  </programme>
+  <programme channel="369229" start="20250228000000 +0800" stop="20250301000000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第三天(3) THO vs ALC</title>
+    <desc>2024莫斯考尼盃 第三天(3) THO vs ALC</desc>
+    <date>2025-02-28</date>
   </programme>
 </tv>
