@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250226042719 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250226.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250226&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250226072339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250226.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250226&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1880,6 +1880,10 @@
 <date>2025-02-27</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">進擊的台灣</title>
+</programme>
 <programme channel="369307" start="20250226000000 +0800" stop="20250226010000 +0800">
 <date>2025-02-26</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2571,6 +2575,10 @@
 <programme channel="370177" start="20250227230000 +0800" stop="20250228000000 +0800">
 <date>2025-02-27</date>
 <desc /><title lang="zh">全球大視野</title>
+</programme>
+<programme channel="370177" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20250226013000 +0800" stop="20250226020000 +0800">
 <date>2025-02-26</date>
@@ -3303,6 +3311,10 @@
 <programme channel="370141" start="20250227230000 +0800" stop="20250228000000 +0800">
 <date>2025-02-27</date>
 <desc /><title lang="zh">MIT台灣誌(普)</title>
+</programme>
+<programme channel="370141" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
 </programme>
 <programme channel="368922" start="20250226000000 +0800" stop="20250226010000 +0800">
 <date>2025-02-26</date>
@@ -4526,6 +4538,10 @@
 <programme channel="370149" start="20250227233000 +0800" stop="20250228000000 +0800">
 <date>2025-02-27</date>
 <desc /><title lang="zh">體壇最前線 2/27(第58集) (普)</title>
+</programme>
+<programme channel="370149" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">醫師好辣(第311集) (普)</title>
 </programme>
 <programme channel="369284" start="20250226002500 +0800" stop="20250226003000 +0800">
 <date>2025-02-26</date>
@@ -6919,6 +6935,10 @@
 <programme channel="370222" start="20250227233200 +0800" stop="20250228000000 +0800">
 <date>2025-02-27</date>
 <desc /><title lang="zh">環遊世界800天 第一季 03 名聲</title>
+</programme>
+<programme channel="370222" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">主廚大聯盟 17</title>
 </programme>
 <programme channel="369271" start="20250226000000 +0800" stop="20250226010000 +0800">
 <date>2025-02-26</date>
@@ -15442,6 +15462,10 @@
 <date>2025-02-27</date>
 <desc /><title lang="zh">ABC故事屋EP12</title>
 </programme>
+<programme channel="370167" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">紙箱做玩具 EP29</title>
+</programme>
 <programme channel="370162" start="20250226002000 +0800" stop="20250226004500 +0800">
 <date>2025-02-26</date>
 <desc /><title lang="zh">馴龍高手:博克龍騎士(普)</title>
@@ -19382,6 +19406,10 @@ A day w..........歡迎來到赤裸的成人娛樂世界~人的內心總埋藏�
 <date>2025-02-27</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250226005500 +0800" stop="20250226031000 +0800">
 <date>2025-02-26</date>
 <desc>古代的大和國誕生了雙胞胎王子，但因雙胞胎為傳為不吉祥的前兆，弟弟（武尊）因此遭到國王的遺棄。長大成人的武尊成人，好不容易回到國都，卻不巧遇到母后病死，又和兄長衝突而使兄長喪命</desc>
@@ -19683,5 +19711,9 @@ A day w..........歡迎來到赤裸的成人娛樂世界~人的內心總埋藏�
 <programme channel="370144" start="20250227230000 +0800" stop="20250228000000 +0800">
 <date>2025-02-27</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250228000000 +0800" stop="20250301000000 +0800">
+<date>2025-02-28</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
