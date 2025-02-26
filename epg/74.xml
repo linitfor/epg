@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250226233021 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368591/20250226.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368591&amp;date=20250226&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250227003423 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368591/20250227.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368591&amp;date=20250227&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368591">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609114237559998_77.png" />
   </channel>
-  <programme channel="368591" start="20250226000000 +0800" stop="20250226003000 +0800">
-    <title lang="zh">體壇最前線 2/25 (新)(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226003000 +0800" stop="20250226033000 +0800">
-    <title lang="zh">2025 亞洲冬季運動會(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226033000 +0800" stop="20250226040000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226040000 +0800" stop="20250226043000 +0800">
-    <title lang="zh">體壇最前線 2/25(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226043000 +0800" stop="20250226053000 +0800">
-    <title lang="zh">2025澳網第15日精華(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226053000 +0800" stop="20250226083000 +0800">
-    <title lang="zh">2025 亞洲冬季運動會(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226083000 +0800" stop="20250226090000 +0800">
-    <title lang="zh">體壇最前線 2/25(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226090000 +0800" stop="20250226110000 +0800">
-    <title lang="zh">ISU四大洲花式滑冰錦標賽 冰舞短曲 2/20(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226110000 +0800" stop="20250226130000 +0800">
-    <title lang="zh">ISU四大洲花式滑冰錦標賽 冰舞長曲 2/22(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226130000 +0800" stop="20250226133000 +0800">
-    <title lang="zh">體壇最前線 2/25(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226133000 +0800" stop="20250226134500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#5(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226134500 +0800" stop="20250226140000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#6(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226140000 +0800" stop="20250226161500 +0800">
-    <title lang="zh">英超 兵工廠 VS 西漢姆聯 第26輪(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226161500 +0800" stop="20250226180000 +0800">
-    <title lang="zh">ISU四大洲花式滑冰錦標賽 雙人短曲 2/20(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226180000 +0800" stop="20250226200000 +0800">
-    <title lang="zh">ISU四大洲花式滑冰錦標賽 雙人長曲 2/21(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226200000 +0800" stop="20250226230000 +0800">
-    <title lang="zh">2025 亞洲冬季運動會(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
-  <programme channel="368591" start="20250226230000 +0800" stop="20250227000000 +0800">
-    <title lang="zh">2025澳網第15日精華(普)</title>
-    <desc />
-    <date>2025-02-26</date>
-  </programme>
   <programme channel="368591" start="20250227000000 +0800" stop="20250227003000 +0800">
     <title lang="zh">體壇最前線 2/26 (新)(普)</title>
     <desc />
@@ -194,9 +109,104 @@
     <desc />
     <date>2025-02-27</date>
   </programme>
-  <programme channel="368591" start="20250228000000 +0800" stop="20250301000000 +0800">
+  <programme channel="368591" start="20250228000000 +0800" stop="20250228003000 +0800">
     <title lang="zh">體壇最前線 2/27 (新)(普)</title>
     <desc />
     <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228003000 +0800" stop="20250228033000 +0800">
+    <title lang="zh">台日親善交流賽 台鋼雄鷹 VS Oisix新潟天鵝之皇 2/27(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228033000 +0800" stop="20250228040000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228040000 +0800" stop="20250228043000 +0800">
+    <title lang="zh">體壇最前線 2/27(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228043000 +0800" stop="20250228063000 +0800">
+    <title lang="zh">FIBA 籃球亞洲盃資格賽 菲律賓VS中華 B組 2/20(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228063000 +0800" stop="20250228070000 +0800">
+    <title lang="zh">體壇最前線 2/27(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228070000 +0800" stop="20250228080000 +0800">
+    <title lang="zh">WTT大滿貫賽 新加坡站 男雙決賽 林昀儒/高承睿VS王楚欽/林詩棟 2/8(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228080000 +0800" stop="20250228083000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#1(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228083000 +0800" stop="20250228090000 +0800">
+    <title lang="zh">體壇最前線 2/27(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228090000 +0800" stop="20250228110000 +0800">
+    <title lang="zh">ISU四大洲花式滑冰錦標賽 雙人短曲 2/20(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228110000 +0800" stop="20250228130000 +0800">
+    <title lang="zh">ISU四大洲花式滑冰錦標賽 冰舞短曲 2/20(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228130000 +0800" stop="20250228133000 +0800">
+    <title lang="zh">體壇最前線 2/27(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228133000 +0800" stop="20250228134500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#6(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228134500 +0800" stop="20250228140000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#7(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228140000 +0800" stop="20250228161500 +0800">
+    <title lang="zh">英超 曼城 VS 利物浦 第26輪(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228161500 +0800" stop="20250228180000 +0800">
+    <title lang="zh">ISU四大洲花式滑冰錦標賽 男子短曲 李宇翔 2/20(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228180000 +0800" stop="20250228200000 +0800">
+    <title lang="zh">ISU四大洲花式滑冰錦標賽 女子短曲 2/21(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228200000 +0800" stop="20250228230000 +0800">
+    <title lang="zh">台日親善交流賽 台鋼雄鷹 VS Oisix新潟天鵝之皇 2/28(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250228230000 +0800" stop="20250301000000 +0800">
+    <title lang="zh">2025澳網第15日精華(普)</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="368591" start="20250301000000 +0800" stop="20250302000000 +0800">
+    <title lang="zh">體壇最前線 2/28 (新)(普)</title>
+    <desc />
+    <date>2025-03-01</date>
   </programme>
 </tv>
