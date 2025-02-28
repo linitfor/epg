@@ -1,7 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250301012234 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301042708 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250301012300 +0800" stop="20250301030000 +0800">
+    <title lang="zh">Into The Storm</title>
+    <desc>Pete, a veteran storm chaser, travels to a town in hopes to film a series of developing storms. However, he learns that a tornado has shifted its course and is headed towards a high school.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301030000 +0800" stop="20250301044500 +0800">
+    <title lang="zh">The Mummy Hunters</title>
+    <desc>Three tomb raiders retire from their roles and move to New York to enjoy the rest of their lives. However, they are asked to resume duty in order to find out the reason behind the loss of a loved one.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301044500 +0800" stop="20250301063000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301063000 +0800" stop="20250301083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301083000 +0800" stop="20250301101500 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301101500 +0800" stop="20250301121500 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="404197" start="20250301121500 +0800" stop="20250302000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
 </tv>
