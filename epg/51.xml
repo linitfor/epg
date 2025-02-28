@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250301023444 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301052332 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="271829">
     <display-name lang="Taiwan">東森幼幼台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="271829" start="20250301003000 +0800" stop="20250301013000 +0800">
+  <programme channel="271829" start="20250301000000 +0800" stop="20250301003000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="271829" start="20250301003000 +0800" stop="20250301010000 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="271829" start="20250301010000 +0800" stop="20250301013000 +0800">
     <title lang="zh">櫻桃小丸子HD</title>
     <desc />
     <date>2025-03-01</date>
@@ -75,7 +85,7 @@
     <date>2025-03-01</date>
   </programme>
   <programme channel="271829" start="20250301083000 +0800" stop="20250301090000 +0800">
-    <title lang="zh">Super Wings</title>
+    <title lang="zh">米奇歡樂屋</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
@@ -85,7 +95,7 @@
     <date>2025-03-01</date>
   </programme>
   <programme channel="271829" start="20250301093000 +0800" stop="20250301100000 +0800">
-    <title lang="zh">可愛巧虎島</title>
+    <title lang="zh">小公主蘇菲亞</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
@@ -129,8 +139,13 @@
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="271829" start="20250301170000 +0800" stop="20250301180000 +0800">
+  <programme channel="271829" start="20250301170000 +0800" stop="20250301175000 +0800">
     <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="271829" start="20250301175000 +0800" stop="20250301180000 +0800">
+    <title lang="zh">我們這一家 NEXT</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
@@ -170,11 +185,16 @@
     <date>2025-03-01</date>
   </programme>
   <programme channel="271829" start="20250302000000 +0800" stop="20250302003000 +0800">
+    <title lang="zh">新我們這一家</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="271829" start="20250302003000 +0800" stop="20250302010000 +0800">
     <title lang="zh">我們這一家</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="271829" start="20250302003000 +0800" stop="20250302013000 +0800">
+  <programme channel="271829" start="20250302010000 +0800" stop="20250302013000 +0800">
     <title lang="zh">櫻桃小丸子HD</title>
     <desc />
     <date>2025-03-02</date>
@@ -245,7 +265,7 @@
     <date>2025-03-02</date>
   </programme>
   <programme channel="271829" start="20250302083000 +0800" stop="20250302090000 +0800">
-    <title lang="zh">POLI</title>
+    <title lang="zh">米奇歡樂屋</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -255,7 +275,7 @@
     <date>2025-03-02</date>
   </programme>
   <programme channel="271829" start="20250302093000 +0800" stop="20250302100000 +0800">
-    <title lang="zh">阿奇幼幼園</title>
+    <title lang="zh">小公主蘇菲亞</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -294,8 +314,13 @@
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="271829" start="20250302171500 +0800" stop="20250302180000 +0800">
+  <programme channel="271829" start="20250302171500 +0800" stop="20250302174500 +0800">
     <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="271829" start="20250302174500 +0800" stop="20250302180000 +0800">
+    <title lang="zh">我們這一家 NEXT</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -335,7 +360,7 @@
     <date>2025-03-02</date>
   </programme>
   <programme channel="271829" start="20250303000000 +0800" stop="20250304000000 +0800">
-    <title lang="zh">我們這一家</title>
+    <title lang="zh">新我們這一家</title>
     <desc />
     <date>2025-03-03</date>
   </programme>
