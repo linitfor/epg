@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250228235330 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368790/20250228.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368790&amp;date=20250228&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301003315 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368790/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368790&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368790">
     <display-name lang="Taiwan">龍華戲劇HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609115907037893_16.png" />
   </channel>
-  <programme channel="368790" start="20250228000000 +0800" stop="20250228020000 +0800">
-    <title lang="zh">快意恩仇武當劍(35-36)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228020000 +0800" stop="20250228040000 +0800">
-    <title lang="zh">世上最漂亮的女兒(首)(69-70)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228040000 +0800" stop="20250228060000 +0800">
-    <title lang="zh">追蹤者(首)(7-8)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228060000 +0800" stop="20250228080000 +0800">
-    <title lang="zh">遇龍(11-12)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228080000 +0800" stop="20250228100000 +0800">
-    <title lang="zh">仁心仁術：皇甫神醫(35-36)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228100000 +0800" stop="20250228110000 +0800">
-    <title lang="zh">今天不算命(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228110000 +0800" stop="20250228130000 +0800">
-    <title lang="zh">大秦賦(45-46)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228130000 +0800" stop="20250228140000 +0800">
-    <title lang="zh">包青天(烏盆記)(1)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228140000 +0800" stop="20250228160000 +0800">
-    <title lang="zh">快意恩仇武當劍(35-36)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228160000 +0800" stop="20250228180000 +0800">
-    <title lang="zh">大秦賦(47-48)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228180000 +0800" stop="20250228200000 +0800">
-    <title lang="zh">遇龍(首)(13-14)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228200000 +0800" stop="20250228220000 +0800">
-    <title lang="zh">快意恩仇武當劍(新)(37-38)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="368790" start="20250228220000 +0800" stop="20250301000000 +0800">
-    <title lang="zh">仁心仁術：皇甫神醫(新)(37-38)(普)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
   <programme channel="368790" start="20250301000000 +0800" stop="20250301020000 +0800">
     <title lang="zh">軍師聯盟 Ⅱ(25-26)(普)</title>
     <desc />
@@ -119,8 +54,53 @@
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="368790" start="20250302000000 +0800" stop="20250303000000 +0800">
+  <programme channel="368790" start="20250302000000 +0800" stop="20250302020000 +0800">
     <title lang="zh">軍師聯盟 Ⅱ(29-30)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302020000 +0800" stop="20250302050000 +0800">
+    <title lang="zh">開創盛世(27-29)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302050000 +0800" stop="20250302070000 +0800">
+    <title lang="zh">請問今晚住誰家(101-102)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302070000 +0800" stop="20250302100000 +0800">
+    <title lang="zh">開創盛世(30-32)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302100000 +0800" stop="20250302110000 +0800">
+    <title lang="zh">今天不算命(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302110000 +0800" stop="20250302150000 +0800">
+    <title lang="zh">善德女王(57-60)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302150000 +0800" stop="20250302160000 +0800">
+    <title lang="zh">今天不算命(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302160000 +0800" stop="20250302200000 +0800">
+    <title lang="zh">軍師聯盟 Ⅱ(31-34)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302200000 +0800" stop="20250302220000 +0800">
+    <title lang="zh">請問今晚住誰家(首)(103-104)(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="368790" start="20250302220000 +0800" stop="20250303000000 +0800">
+    <title lang="zh">軍師聯盟 Ⅱ(31-32)(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>

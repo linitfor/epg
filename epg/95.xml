@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250228235407 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250228.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250228&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301003316 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20250228000000 +0800" stop="20250228020000 +0800">
-    <title lang="zh">關我什麼事(重)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228020000 +0800" stop="20250228030000 +0800">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228030000 +0800" stop="20250228050000 +0800">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228050000 +0800" stop="20250228060000 +0800">
-    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228060000 +0800" stop="20250228070000 +0800">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228070000 +0800" stop="20250228080000 +0800">
-    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228080000 +0800" stop="20250228090000 +0800">
-    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228090000 +0800" stop="20250228095500 +0800">
-    <title lang="zh">iNEWS0900整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228095500 +0800" stop="20250228105500 +0800">
-    <title lang="zh">iNEWS1000整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228105500 +0800" stop="20250228115500 +0800">
-    <title lang="zh">iNEWS1100整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228115500 +0800" stop="20250228140000 +0800">
-    <title lang="zh">iNEWS財經午報(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228140000 +0800" stop="20250228143000 +0800">
-    <title lang="zh">股票王(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228143000 +0800" stop="20250228150000 +0800">
-    <title lang="zh">飆股急先鋒(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228150000 +0800" stop="20250228153000 +0800">
-    <title lang="zh">iNEWS1500整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228153000 +0800" stop="20250228160000 +0800">
-    <title lang="zh">前進關鍵碼(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228160000 +0800" stop="20250228165500 +0800">
-    <title lang="zh">1600iNEWS整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228165500 +0800" stop="20250228175500 +0800">
-    <title lang="zh">1700iNEWS整點新聞(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228175500 +0800" stop="20250228195500 +0800">
-    <title lang="zh">1819錢進大頭條(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228195500 +0800" stop="20250228203000 +0800">
-    <title lang="zh">iNEWS大世界(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228203000 +0800" stop="20250228210000 +0800">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228210000 +0800" stop="20250228230000 +0800">
-    <title lang="zh">關我什麼事(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="370173" start="20250228230000 +0800" stop="20250301000000 +0800">
-    <title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
-    <desc />
-    <date>2025-02-28</date>
-  </programme>
   <programme channel="370173" start="20250301000000 +0800" stop="20250301020000 +0800">
     <title lang="zh">關我什麼事(重)(普)(N)</title>
     <desc />
@@ -224,7 +114,117 @@
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="370173" start="20250302000000 +0800" stop="20250303000000 +0800">
+  <programme channel="370173" start="20250302000000 +0800" stop="20250302010000 +0800">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302010000 +0800" stop="20250302020000 +0800">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302020000 +0800" stop="20250302030000 +0800">
+    <title lang="zh">世界面對面(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302030000 +0800" stop="20250302040000 +0800">
+    <title lang="zh">MIT趨勢先知(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302040000 +0800" stop="20250302050000 +0800">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302050000 +0800" stop="20250302060000 +0800">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302060000 +0800" stop="20250302070000 +0800">
+    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302070000 +0800" stop="20250302080000 +0800">
+    <title lang="zh">台灣亮起來(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302080000 +0800" stop="20250302090000 +0800">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302090000 +0800" stop="20250302100000 +0800">
+    <title lang="zh">全球新食力(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302100000 +0800" stop="20250302110000 +0800">
+    <title lang="zh">世界面對面(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302110000 +0800" stop="20250302120000 +0800">
+    <title lang="zh">iNEWS1100整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302120000 +0800" stop="20250302130000 +0800">
+    <title lang="zh">iNEWS財經午報(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302130000 +0800" stop="20250302140000 +0800">
+    <title lang="zh">好宅敲敲門(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302140000 +0800" stop="20250302150000 +0800">
+    <title lang="zh">醫點不誇張(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302150000 +0800" stop="20250302160000 +0800">
+    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302160000 +0800" stop="20250302170000 +0800">
+    <title lang="zh">國際辯論社(重)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302170000 +0800" stop="20250302180000 +0800">
+    <title lang="zh">iNEWS財經晚報(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302180000 +0800" stop="20250302200000 +0800">
+    <title lang="zh">1819錢進大頭條(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302200000 +0800" stop="20250302210000 +0800">
+    <title lang="zh">360大世界(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302210000 +0800" stop="20250302220000 +0800">
+    <title lang="zh">Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302220000 +0800" stop="20250302230000 +0800">
+    <title lang="zh">台灣新思路(首)(普)(N)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="370173" start="20250302230000 +0800" stop="20250303000000 +0800">
     <title lang="zh">驚爆新聞線(首)(普)(N)</title>
     <desc />
     <date>2025-03-02</date>

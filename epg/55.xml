@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250228234136 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250228.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250228&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301003253 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250228033000 +0800" stop="20250228040000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="369216" start="20250228040000 +0800" stop="20250228065000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女雙四強謝淑薇/OSTvsDAB/ROU</title>
-    <desc>2025澳洲網球公開賽女雙四強謝淑薇/OSTvsDAB/ROU</desc>
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="369216" start="20250228065000 +0800" stop="20250228100000 +0800">
-    <title lang="zh">2025鹿特丹男網賽四強ALCvsHUR</title>
-    <desc>2025鹿特丹男網賽四強ALCvsHUR</desc>
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="369216" start="20250228100000 +0800" stop="20250228120000 +0800">
-    <title lang="zh">2025馬賽男網賽八強</title>
-    <desc>2025馬賽男網賽八強</desc>
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="369216" start="20250228120000 +0800" stop="20250228193000 +0800">
-    <title lang="zh">首播2025卡達男網賽十六強</title>
-    <desc>首播2025卡達男網賽十六強</desc>
-    <date>2025-02-28</date>
-  </programme>
-  <programme channel="369216" start="20250228193000 +0800" stop="20250301000000 +0800">
-    <title lang="zh">LIVE2025卡達男網賽八強</title>
-    <desc>LIVE2025卡達男網賽八強</desc>
-    <date>2025-02-28</date>
-  </programme>
   <programme channel="369216" start="20250301033000 +0800" stop="20250301060000 +0800">
     <title lang="zh">2025鹿特丹男網賽決賽ALCvsMIN</title>
     <desc>2025鹿特丹男網賽決賽ALCvsMIN</desc>
@@ -73,5 +43,50 @@
     <title lang="zh">LIVE2025卡達男網賽四強</title>
     <desc>LIVE2025卡達男網賽四強</desc>
     <date>2025-03-01</date>
+  </programme>
+  <programme channel="369216" start="20250302030000 +0800" stop="20250302050000 +0800">
+    <title lang="zh">2025馬賽男網賽決賽</title>
+    <desc>2025馬賽男網賽決賽</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302050000 +0800" stop="20250302070000 +0800">
+    <title lang="zh">2025德雷海灘男網賽八強</title>
+    <desc>2025德雷海灘男網賽八強</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302070000 +0800" stop="20250302100000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女單決賽SABvsKEY</title>
+    <desc>2025澳洲網球公開賽女單決賽SABvsKEY</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302100000 +0800" stop="20250302120000 +0800">
+    <title lang="zh">2025馬賽男網賽決賽</title>
+    <desc>2025馬賽男網賽決賽</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302120000 +0800" stop="20250302160000 +0800">
+    <title lang="zh">首播2025卡達男網賽四強</title>
+    <desc>首播2025卡達男網賽四強</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302160000 +0800" stop="20250302190000 +0800">
+    <title lang="zh">2025澳洲網球公開賽女單決賽SABvsKEY</title>
+    <desc>2025澳洲網球公開賽女單決賽SABvsKEY</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302190000 +0800" stop="20250302193000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302193000 +0800" stop="20250302210000 +0800">
+    <title lang="zh">2025澳洲網球公開賽決賽SINvsZVE</title>
+    <desc>2025澳洲網球公開賽決賽SINvsZVE</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="369216" start="20250302210000 +0800" stop="20250303000000 +0800">
+    <title lang="zh">2025蒙彼利埃男網賽決賽KOVvsALI</title>
+    <desc>2025蒙彼利埃男網賽決賽KOVvsALI</desc>
+    <date>2025-03-02</date>
   </programme>
 </tv>
