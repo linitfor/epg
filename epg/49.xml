@@ -1,21 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250301052331 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250301072417 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250301.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250301&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250301000000 +0800" stop="20250301012000 +0800">
-    <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布A VS 臺北重慶(普)</title>
+  <programme channel="335009" start="20250301000000 +0800" stop="20250301005000 +0800">
+    <title lang="zh">112全國手球錦標賽 公開男子乙組 高市慢慢喝 vs 桃園市藍(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="335009" start="20250301012000 +0800" stop="20250301031000 +0800">
+  <programme channel="335009" start="20250301005000 +0800" stop="20250301012000 +0800">
+    <title lang="zh">2023育創盃高中籃球邀請賽 冠軍賽 光復高中 vs 能仁家商(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301012000 +0800" stop="20250301020600 +0800">
     <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布B VS 臺北長安(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="335009" start="20250301031000 +0800" stop="20250301103000 +0800">
+  <programme channel="335009" start="20250301020600 +0800" stop="20250301031000 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301031000 +0800" stop="20250301040600 +0800">
     <title lang="zh">2024年全國幼獅盃三對三籃球鬥牛賽(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301040600 +0800" stop="20250301062300 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 少棒冠軍戰 臺北福林 vs 桃園龜山(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301062300 +0800" stop="20250301075600 +0800">
+    <title lang="zh">三花青少年逐夢盃邀請賽 第二回合(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301075600 +0800" stop="20250301103000 +0800">
+    <title lang="zh">113年全國中正盃柔道錦標賽 11/13賽程(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
@@ -24,18 +49,43 @@
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="335009" start="20250301120000 +0800" stop="20250301132000 +0800">
-    <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布A VS 臺北重慶(普)</title>
+  <programme channel="335009" start="20250301120000 +0800" stop="20250301125000 +0800">
+    <title lang="zh">112全國手球錦標賽 公開男子乙組 高市慢慢喝 vs 桃園市藍(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="335009" start="20250301132000 +0800" stop="20250301151000 +0800">
+  <programme channel="335009" start="20250301125000 +0800" stop="20250301132000 +0800">
+    <title lang="zh">2023育創盃高中籃球邀請賽 冠軍賽 光復高中 vs 能仁家商(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301132000 +0800" stop="20250301140600 +0800">
     <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布B VS 臺北長安(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
-  <programme channel="335009" start="20250301151000 +0800" stop="20250301223000 +0800">
+  <programme channel="335009" start="20250301140600 +0800" stop="20250301151000 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301151000 +0800" stop="20250301160600 +0800">
     <title lang="zh">2024年全國幼獅盃三對三籃球鬥牛賽(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301160600 +0800" stop="20250301182300 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 少棒冠軍戰 臺北福林 vs 桃園龜山(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301182300 +0800" stop="20250301195600 +0800">
+    <title lang="zh">三花青少年逐夢盃邀請賽 第二回合(普)</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="335009" start="20250301195600 +0800" stop="20250301223000 +0800">
+    <title lang="zh">113年全國中正盃柔道錦標賽 11/13賽程(普)</title>
     <desc />
     <date>2025-03-01</date>
   </programme>
@@ -45,7 +95,7 @@
     <date>2025-03-01</date>
   </programme>
   <programme channel="335009" start="20250302000000 +0800" stop="20250302005000 +0800">
-    <title lang="zh">112全國手球錦標賽 公開男子乙組 高市慢慢喝 vs 桃園市藍(普)</title>
+    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/13賽程(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -54,13 +104,28 @@
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302020600 +0800" stop="20250302040600 +0800">
+  <programme channel="335009" start="20250302020600 +0800" stop="20250302031500 +0800">
     <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302040600 +0800" stop="20250302062300 +0800">
+  <programme channel="335009" start="20250302031500 +0800" stop="20250302040600 +0800">
+    <title lang="zh">2024長耀盃 高男循環賽 南山高中 vs 美國亞特蘭大(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302040600 +0800" stop="20250302044800 +0800">
     <title lang="zh">2024桃園盃國際棒球錦標賽 少棒冠軍戰 臺北福林 vs 桃園龜山(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302044800 +0800" stop="20250302060100 +0800">
+    <title lang="zh">2024長耀盃 高女循環賽 北一女中 vs 日本昭和學院(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302060100 +0800" stop="20250302062300 +0800">
+    <title lang="zh">2024三花TPGA錦標賽第三回合(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -69,13 +134,23 @@
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302075600 +0800" stop="20250302120000 +0800">
+  <programme channel="335009" start="20250302075600 +0800" stop="20250302084400 +0800">
     <title lang="zh">113年全國中正盃柔道錦標賽 11/13賽程(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
+  <programme channel="335009" start="20250302084400 +0800" stop="20250302104900 +0800">
+    <title lang="zh">2024陽明山盃青棒組決賽 臺北大理 vs 新北穀保(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302104900 +0800" stop="20250302120000 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 中午賽程(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
   <programme channel="335009" start="20250302120000 +0800" stop="20250302125000 +0800">
-    <title lang="zh">112全國手球錦標賽 公開男子乙組 高市慢慢喝 vs 桃園市藍(普)</title>
+    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/13賽程(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -84,13 +159,28 @@
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302140600 +0800" stop="20250302160600 +0800">
+  <programme channel="335009" start="20250302140600 +0800" stop="20250302151500 +0800">
     <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302160600 +0800" stop="20250302182300 +0800">
+  <programme channel="335009" start="20250302151500 +0800" stop="20250302160600 +0800">
+    <title lang="zh">2024長耀盃 高男循環賽 南山高中 vs 美國亞特蘭大(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302160600 +0800" stop="20250302164800 +0800">
     <title lang="zh">2024桃園盃國際棒球錦標賽 少棒冠軍戰 臺北福林 vs 桃園龜山(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302164800 +0800" stop="20250302180100 +0800">
+    <title lang="zh">2024長耀盃 高女循環賽 北一女中 vs 日本昭和學院(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302180100 +0800" stop="20250302182300 +0800">
+    <title lang="zh">2024三花TPGA錦標賽第三回合(普)</title>
     <desc />
     <date>2025-03-02</date>
   </programme>
@@ -99,9 +189,24 @@
     <desc />
     <date>2025-03-02</date>
   </programme>
-  <programme channel="335009" start="20250302195600 +0800" stop="20250303000000 +0800">
+  <programme channel="335009" start="20250302195600 +0800" stop="20250302204400 +0800">
     <title lang="zh">113年全國中正盃柔道錦標賽 11/13賽程(普)</title>
     <desc />
     <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302204400 +0800" stop="20250302224900 +0800">
+    <title lang="zh">2024陽明山盃青棒組決賽 臺北大理 vs 新北穀保(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250302224900 +0800" stop="20250303000000 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 中午賽程(普)</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="335009" start="20250303000000 +0800" stop="20250304000000 +0800">
+    <title lang="zh">冠軍之路-臺中市國際帕拉桌球公開賽 馬麟(普)</title>
+    <desc />
+    <date>2025-03-03</date>
   </programme>
 </tv>
