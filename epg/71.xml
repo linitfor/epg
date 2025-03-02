@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250303023459 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250303.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250303&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250303052340 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250303.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250303&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250303010500 +0800" stop="20250303030900 +0800">
+    <title lang="zh">Kingsman: The Secret Service</title>
+    <desc>When he is hired as a secret agent in an investigative agency to hunt for an ecological terrorist, a street-wise finds himself engulfed in chaos.</desc>
+    <date>2025-03-03</date>
+  </programme>
+  <programme channel="404197" start="20250303030900 +0800" stop="20250303053000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-03</date>
+  </programme>
+  <programme channel="404197" start="20250303053000 +0800" stop="20250303083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-03</date>
+  </programme>
+  <programme channel="404197" start="20250303083000 +0800" stop="20250303113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-03</date>
+  </programme>
+  <programme channel="404197" start="20250303113000 +0800" stop="20250304000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-03</date>
+  </programme>
 </tv>
