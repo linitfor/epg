@@ -1,32 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250302212647 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250302.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250302&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250303003010 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250303.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250303&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="404197" start="20250302003500 +0800" stop="20250302023000 +0800">
-    <title lang="zh">Titanic</title>
-    <desc>People of various social strata board the RMS Titanic, a British passenger liner, unaware of what destiny has in store for them.</desc>
-    <date>2025-03-02</date>
-  </programme>
-  <programme channel="404197" start="20250302023000 +0800" stop="20250302053000 +0800">
-    <title lang="zh">Movie</title>
-    <desc />
-    <date>2025-03-02</date>
-  </programme>
-  <programme channel="404197" start="20250302053000 +0800" stop="20250302083000 +0800">
-    <title lang="zh">Movie</title>
-    <desc />
-    <date>2025-03-02</date>
-  </programme>
-  <programme channel="404197" start="20250302083000 +0800" stop="20250302113000 +0800">
-    <title lang="zh">Movie</title>
-    <desc />
-    <date>2025-03-02</date>
-  </programme>
-  <programme channel="404197" start="20250302113000 +0800" stop="20250303000000 +0800">
-    <title lang="zh">Movie</title>
-    <desc />
-    <date>2025-03-02</date>
-  </programme>
 </tv>
