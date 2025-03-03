@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250304032054 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250304053144 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335106">
     <display-name lang="Taiwan">DAZN 2</display-name>
     <icon src="" />
@@ -25,7 +25,7 @@
     <date>2025-03-04</date>
   </programme>
   <programme channel="335106" start="20250304035500 +0800" stop="20250304060000 +0800">
-    <title lang="zh">LIVE 西甲 比利亞雷亞爾 vs 皇家西班牙人(3/4/25)(普)</title>
+    <title lang="zh">LIVE 西甲 比利亞雷亞爾 vs 皇家西班牙人 (3/4/25)(普)</title>
     <desc />
     <date>2025-03-04</date>
   </programme>
@@ -54,8 +54,13 @@
     <desc />
     <date>2025-03-04</date>
   </programme>
-  <programme channel="335106" start="20250304150000 +0800" stop="20250304165800 +0800">
-    <title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (2/15/25)(普)</title>
+  <programme channel="335106" start="20250304150000 +0800" stop="20250304160000 +0800">
+    <title lang="zh">2025第五屆健身工廠盃少年足球菁英邀請賽 U10 (3/2/25)(普)</title>
+    <desc />
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="335106" start="20250304160000 +0800" stop="20250304165800 +0800">
+    <title lang="zh">2025第五屆健身工廠盃少年足球菁英邀請賽 U11 (3/2/25)(普)</title>
     <desc />
     <date>2025-03-04</date>
   </programme>
@@ -65,7 +70,7 @@
     <date>2025-03-04</date>
   </programme>
   <programme channel="335106" start="20250304200000 +0800" stop="20250304203000 +0800">
-    <title lang="zh">(首)鍵盤球探 EP43(普)</title>
+    <title lang="zh">(首)鍵盤球探 EP43 振翅的雄鷹狀元 曾子祐訪談 上(普)</title>
     <desc />
     <date>2025-03-04</date>
   </programme>
