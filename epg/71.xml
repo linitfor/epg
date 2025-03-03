@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250304003237 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250304032110 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250304020200 +0800" stop="20250304022600 +0800">
+    <title lang="zh">Oscars Red Carpet 2025</title>
+    <desc>This is TV Show - Events/Festivals Category.</desc>
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="404197" start="20250304022600 +0800" stop="20250304040900 +0800">
+    <title lang="zh">Ratatouille</title>
+    <desc>Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.</desc>
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="404197" start="20250304040900 +0800" stop="20250304043300 +0800">
+    <title lang="zh">Movie In Focus</title>
+    <desc>A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="404197" start="20250304043300 +0800" stop="20250304083000 +0800">
+    <title lang="zh">Mutant Python</title>
+    <desc>In a secluded mountain village, a bride and groom celebrate their wedding. However, a monstrous python turns their dream day into a nightmare before terrorising the rest of the community.</desc>
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="404197" start="20250304083000 +0800" stop="20250304113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-04</date>
+  </programme>
+  <programme channel="404197" start="20250304113000 +0800" stop="20250305000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-04</date>
+  </programme>
 </tv>
