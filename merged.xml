@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250305023535 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250305052420 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1689,6 +1689,10 @@
 <date>2025-03-06</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250305000000 +0800" stop="20250305010000 +0800">
 <date>2025-03-05</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2381,6 +2385,10 @@
 <date>2025-03-06</date>
 <desc /><title lang="zh">全球大視野</title>
 </programme>
+<programme channel="370177" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250305013000 +0800" stop="20250305020000 +0800">
 <date>2025-03-05</date>
 <desc /><title lang="zh">元氣加油站【普】(E2856)</title>
@@ -2876,6 +2884,10 @@
 <programme channel="370141" start="20250306230000 +0800" stop="20250307000000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
 </programme>
 <programme channel="368922" start="20250305000000 +0800" stop="20250305010000 +0800">
 <date>2025-03-05</date>
@@ -4099,6 +4111,10 @@
 <programme channel="370149" start="20250306233000 +0800" stop="20250307000000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">體壇最前線 3/6(第65集) (普)</title>
+</programme>
+<programme channel="370149" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">醫師好辣(第332集) (普)</title>
 </programme>
 <programme channel="369284" start="20250305000000 +0800" stop="20250305003000 +0800">
 <date>2025-03-05</date>
@@ -6470,6 +6486,10 @@
 <programme channel="370222" start="20250306234200 +0800" stop="20250307000000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">野人追夢 02 裸身滑沙挑戰</title>
+</programme>
+<programme channel="370222" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">地球的慶典03 阿美族豐年祭(上)</title>
 </programme>
 <programme channel="369271" start="20250305000000 +0800" stop="20250305010000 +0800">
 <date>2025-03-05</date>
@@ -8880,9 +8900,13 @@
 <date>2025-03-06</date>
 <desc /><title lang="zh">00948 Swimwear Fashion Exposed INDAH SwimMiami Collections 2016 150904 PMNB</title>
 </programme>
+<programme channel="370209" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
+</programme>
 <programme channel="335009" start="20250305000000 +0800" stop="20250305030000 +0800">
 <date>2025-03-05</date>
-<desc /><title lang="zh">113學年度全國青少年藤球錦標賽 雙人賽(普)</title>
+<desc /><title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
 </programme>
 <programme channel="335009" start="20250305030000 +0800" stop="20250305055000 +0800">
 <date>2025-03-05</date>
@@ -8902,7 +8926,7 @@
 </programme>
 <programme channel="335009" start="20250305093500 +0800" stop="20250305110300 +0800">
 <date>2025-03-05</date>
-<desc /><title lang="zh">2024肇喜登峰巡迴賽 老爺逐夢公開賽 第四回合(普)</title>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
 </programme>
 <programme channel="335009" start="20250305110300 +0800" stop="20250305120000 +0800">
 <date>2025-03-05</date>
@@ -8910,7 +8934,7 @@
 </programme>
 <programme channel="335009" start="20250305120000 +0800" stop="20250305150000 +0800">
 <date>2025-03-05</date>
-<desc /><title lang="zh">113學年度全國青少年藤球錦標賽 雙人賽(普)</title>
+<desc /><title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
 </programme>
 <programme channel="335009" start="20250305150000 +0800" stop="20250305175000 +0800">
 <date>2025-03-05</date>
@@ -8930,7 +8954,7 @@
 </programme>
 <programme channel="335009" start="20250305213500 +0800" stop="20250305230300 +0800">
 <date>2025-03-05</date>
-<desc /><title lang="zh">2024肇喜登峰巡迴賽 老爺逐夢公開賽 第四回合(普)</title>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
 </programme>
 <programme channel="335009" start="20250305230300 +0800" stop="20250306000000 +0800">
 <date>2025-03-05</date>
@@ -8938,39 +8962,79 @@
 </programme>
 <programme channel="335009" start="20250306000000 +0800" stop="20250306030000 +0800">
 <date>2025-03-06</date>
-<desc /><title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
+<desc /><title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306030000 +0800" stop="20250306072000 +0800">
+<programme channel="335009" start="20250306030000 +0800" stop="20250306040000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306072000 +0800" stop="20250306093500 +0800">
+<programme channel="335009" start="20250306040000 +0800" stop="20250306064300 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+</programme>
+<programme channel="335009" start="20250306064300 +0800" stop="20250306072000 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024全國少年籃球錦標賽 U11女子冠軍戰 新北永平 vs 臺中東興(普)</title>
+</programme>
+<programme channel="335009" start="20250306072000 +0800" stop="20250306074100 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">113年自由盃桌球錦標賽 4/15下午賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306093500 +0800" stop="20250306120000 +0800">
+<programme channel="335009" start="20250306074100 +0800" stop="20250306084300 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
+</programme>
+<programme channel="335009" start="20250306084300 +0800" stop="20250306093500 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024諸羅山盃 高年級組 冠軍戰 北市福林藍 VS 高雄中正(普)</title>
+</programme>
+<programme channel="335009" start="20250306093500 +0800" stop="20250306101300 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
+</programme>
+<programme channel="335009" start="20250306101300 +0800" stop="20250306120000 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">113學年高中鋁棒組 冠軍戰 高苑工商 vs 穀保家商(普)</title>
 </programme>
 <programme channel="335009" start="20250306120000 +0800" stop="20250306150000 +0800">
 <date>2025-03-06</date>
-<desc /><title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
+<desc /><title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306150000 +0800" stop="20250306192000 +0800">
+<programme channel="335009" start="20250306150000 +0800" stop="20250306160000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306192000 +0800" stop="20250306213500 +0800">
+<programme channel="335009" start="20250306160000 +0800" stop="20250306184300 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+</programme>
+<programme channel="335009" start="20250306184300 +0800" stop="20250306192000 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024全國少年籃球錦標賽 U11女子冠軍戰 新北永平 vs 臺中東興(普)</title>
+</programme>
+<programme channel="335009" start="20250306192000 +0800" stop="20250306194100 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">113年自由盃桌球錦標賽 4/15下午賽程(普)</title>
 </programme>
-<programme channel="335009" start="20250306213500 +0800" stop="20250307000000 +0800">
+<programme channel="335009" start="20250306194100 +0800" stop="20250306204300 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
+</programme>
+<programme channel="335009" start="20250306204300 +0800" stop="20250306213500 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">2024諸羅山盃 高年級組 冠軍戰 北市福林藍 VS 高雄中正(普)</title>
+</programme>
+<programme channel="335009" start="20250306213500 +0800" stop="20250306221300 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
 </programme>
+<programme channel="335009" start="20250306221300 +0800" stop="20250307000000 +0800">
+<date>2025-03-06</date>
+<desc /><title lang="zh">113學年高中鋁棒組 冠軍戰 高苑工商 vs 穀保家商(普)</title>
+</programme>
 <programme channel="335009" start="20250307000000 +0800" stop="20250308000000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
+<desc /><title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
 </programme>
 <programme channel="334895" start="20250305000000 +0800" stop="20250305002000 +0800">
 <date>2025-03-05</date>
@@ -13223,6 +13287,41 @@
 <desc>身為工地現場的領班、刑警出身的瑞俊為了拿回家人和同事被騙取的30億韓元，開始追查電話詐騙集團的行跡。後來瑞俊終於成功潛入詐騙集團位於中國的詐騙基地，這裡不僅掌握許多人的個資，有籌劃詐騙劇本的企劃室，還能與車手進行交涉、處理換錢等作業，是十分大型的詐騙基地！</desc>
 <title lang="zh">攔截聲命線</title>
 </programme>
+<programme channel="404197" start="20250305005700 +0800" stop="20250305025500 +0800">
+<date>2025-03-05</date>
+<desc>Alita, a battle cyborg, is resurrected by Ido, a doctor, who finds out that she has the soul of a teenager. Later, she sets out to uncover her past and find her true identity.</desc>
+<title lang="zh">Alita: Battle Angel</title>
+</programme>
+<programme channel="404197" start="20250305025500 +0800" stop="20250305053000 +0800">
+<date>2025-03-05</date>
+<desc>After returning from Shaolin school, Fang decides to lead a normal life but gets dragged into a corruption case. Later, he along with Lei Tingting fight against the authorities to restore justice.</desc>
+<title lang="zh">Unbending Mr. Fang</title>
+</programme>
+<programme channel="404197" start="20250305053000 +0800" stop="20250305071500 +0800">
+<date>2025-03-05</date>
+<desc>In a world where humans and monsters are at odds with each other, a baby has the potential to bring the two factions together. However, its parents are forced to protect it from dangerous threats.</desc>
+<title lang="zh">Monster Hunt</title>
+</programme>
+<programme channel="404197" start="20250305071500 +0800" stop="20250305084500 +0800">
+<date>2025-03-05</date>
+<desc>Shan, a beautiful mermaid, attempts to kill Xuan, a businessman, by seducing him first but ends up falling in love with him.</desc>
+<title lang="zh">The Mermaid</title>
+</programme>
+<programme channel="404197" start="20250305084500 +0800" stop="20250305101500 +0800">
+<date>2025-03-05</date>
+<desc>Beowulf, a fierce warrior, protects the Danes from Grendel, a hideous monster, by mortally wounding him. When Grendel&apos;s mother learns of this, she swears vengeance.</desc>
+<title lang="zh">Beowulf</title>
+</programme>
+<programme channel="404197" start="20250305101500 +0800" stop="20250305114500 +0800">
+<date>2025-03-05</date>
+<desc>Ralph is tired of playing the role of a bad guy and embarks on a journey to become a video game hero. But Ralph accidentally lets loose a deadly enemy that threatens the entire arcade.</desc>
+<title lang="zh">Wreck-It Ralph</title>
+</programme>
+<programme channel="404197" start="20250305114500 +0800" stop="20250306000000 +0800">
+<date>2025-03-05</date>
+<desc>Maleficent alienates herself from Aurora when she opposes her engagement with Prince Phillip. Unknown to them, an enemy lurks, waiting to capitalise on their discord and destroy all that they love.</desc>
+<title lang="zh">Maleficent: Mistress of Evil</title>
+</programme>
 <programme channel="370167" start="20250305000000 +0800" stop="20250305002100 +0800">
 <date>2025-03-05</date>
 <desc /><title lang="zh">做菜ABC S2 EP24 (花生)</title>
@@ -13798,6 +13897,10 @@
 <programme channel="370167" start="20250306234300 +0800" stop="20250307000000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">做菜ABCS1 EP23 (野菇燉飯)</title>
+</programme>
+<programme channel="370167" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">動物大明星 S3 EP06 鴕鳥</title>
 </programme>
 <programme channel="370162" start="20250305002000 +0800" stop="20250305004500 +0800">
 <date>2025-03-05</date>
@@ -17412,6 +17515,10 @@
 <date>2025-03-06</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250305011000 +0800" stop="20250305030500 +0800">
 <date>2025-03-05</date>
 <desc>大唐時代，太平盛世，國泰民安，社會富庶，當時的青樓事業大行其道，同業之間競爭日趨劇烈，其中之一個青樓「嚐樂坊」老闆娘仁武姑娘遂請設計木匠的師父重新粉飾其店，希望憑獨特的淫樂房間及器具，獨領…</desc>
@@ -17713,5 +17820,9 @@
 <programme channel="370144" start="20250306230000 +0800" stop="20250307000000 +0800">
 <date>2025-03-06</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250307000000 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>

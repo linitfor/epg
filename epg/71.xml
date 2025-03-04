@@ -1,7 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250305023607 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250305052602 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250305005700 +0800" stop="20250305025500 +0800">
+    <title lang="zh">Alita: Battle Angel</title>
+    <desc>Alita, a battle cyborg, is resurrected by Ido, a doctor, who finds out that she has the soul of a teenager. Later, she sets out to uncover her past and find her true identity.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305025500 +0800" stop="20250305053000 +0800">
+    <title lang="zh">Unbending Mr. Fang</title>
+    <desc>After returning from Shaolin school, Fang decides to lead a normal life but gets dragged into a corruption case. Later, he along with Lei Tingting fight against the authorities to restore justice.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305053000 +0800" stop="20250305071500 +0800">
+    <title lang="zh">Monster Hunt</title>
+    <desc>In a world where humans and monsters are at odds with each other, a baby has the potential to bring the two factions together. However, its parents are forced to protect it from dangerous threats.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305071500 +0800" stop="20250305084500 +0800">
+    <title lang="zh">The Mermaid</title>
+    <desc>Shan, a beautiful mermaid, attempts to kill Xuan, a businessman, by seducing him first but ends up falling in love with him.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305084500 +0800" stop="20250305101500 +0800">
+    <title lang="zh">Beowulf</title>
+    <desc>Beowulf, a fierce warrior, protects the Danes from Grendel, a hideous monster, by mortally wounding him. When Grendel's mother learns of this, she swears vengeance.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305101500 +0800" stop="20250305114500 +0800">
+    <title lang="zh">Wreck-It Ralph</title>
+    <desc>Ralph is tired of playing the role of a bad guy and embarks on a journey to become a video game hero. But Ralph accidentally lets loose a deadly enemy that threatens the entire arcade.</desc>
+    <date>2025-03-05</date>
+  </programme>
+  <programme channel="404197" start="20250305114500 +0800" stop="20250306000000 +0800">
+    <title lang="zh">Maleficent: Mistress of Evil</title>
+    <desc>Maleficent alienates herself from Aurora when she opposes her engagement with Prince Phillip. Unknown to them, an enemy lurks, waiting to capitalise on their discord and destroy all that they love.</desc>
+    <date>2025-03-05</date>
+  </programme>
 </tv>

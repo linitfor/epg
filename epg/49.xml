@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250305023557 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250305052553 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="335009" start="20250305000000 +0800" stop="20250305030000 +0800">
-    <title lang="zh">113學年度全國青少年藤球錦標賽 雙人賽(普)</title>
+    <title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
     <desc />
     <date>2025-03-05</date>
   </programme>
@@ -30,7 +30,7 @@
     <date>2025-03-05</date>
   </programme>
   <programme channel="335009" start="20250305093500 +0800" stop="20250305110300 +0800">
-    <title lang="zh">2024肇喜登峰巡迴賽 老爺逐夢公開賽 第四回合(普)</title>
+    <title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-03-05</date>
   </programme>
@@ -40,7 +40,7 @@
     <date>2025-03-05</date>
   </programme>
   <programme channel="335009" start="20250305120000 +0800" stop="20250305150000 +0800">
-    <title lang="zh">113學年度全國青少年藤球錦標賽 雙人賽(普)</title>
+    <title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
     <desc />
     <date>2025-03-05</date>
   </programme>
@@ -65,7 +65,7 @@
     <date>2025-03-05</date>
   </programme>
   <programme channel="335009" start="20250305213500 +0800" stop="20250305230300 +0800">
-    <title lang="zh">2024肇喜登峰巡迴賽 老爺逐夢公開賽 第四回合(普)</title>
+    <title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-03-05</date>
   </programme>
@@ -75,47 +75,97 @@
     <date>2025-03-05</date>
   </programme>
   <programme channel="335009" start="20250306000000 +0800" stop="20250306030000 +0800">
-    <title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
+    <title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306030000 +0800" stop="20250306072000 +0800">
+  <programme channel="335009" start="20250306030000 +0800" stop="20250306040000 +0800">
     <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306072000 +0800" stop="20250306093500 +0800">
+  <programme channel="335009" start="20250306040000 +0800" stop="20250306064300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306064300 +0800" stop="20250306072000 +0800">
+    <title lang="zh">2024全國少年籃球錦標賽 U11女子冠軍戰 新北永平 vs 臺中東興(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306072000 +0800" stop="20250306074100 +0800">
     <title lang="zh">113年自由盃桌球錦標賽 4/15下午賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306093500 +0800" stop="20250306120000 +0800">
+  <programme channel="335009" start="20250306074100 +0800" stop="20250306084300 +0800">
+    <title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306084300 +0800" stop="20250306093500 +0800">
+    <title lang="zh">2024諸羅山盃 高年級組 冠軍戰 北市福林藍 VS 高雄中正(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306093500 +0800" stop="20250306101300 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306101300 +0800" stop="20250306120000 +0800">
+    <title lang="zh">113學年高中鋁棒組 冠軍戰 高苑工商 vs 穀保家商(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
   <programme channel="335009" start="20250306120000 +0800" stop="20250306150000 +0800">
-    <title lang="zh">113年全國散打搏擊錦標賽 4/13下午賽程(普)</title>
+    <title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306150000 +0800" stop="20250306192000 +0800">
+  <programme channel="335009" start="20250306150000 +0800" stop="20250306160000 +0800">
     <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306192000 +0800" stop="20250306213500 +0800">
+  <programme channel="335009" start="20250306160000 +0800" stop="20250306184300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽冠軍戰 台北海洋雲豹 VS 嘉義市天晴(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306184300 +0800" stop="20250306192000 +0800">
+    <title lang="zh">2024全國少年籃球錦標賽 U11女子冠軍戰 新北永平 vs 臺中東興(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306192000 +0800" stop="20250306194100 +0800">
     <title lang="zh">113年自由盃桌球錦標賽 4/15下午賽程(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
-  <programme channel="335009" start="20250306213500 +0800" stop="20250307000000 +0800">
+  <programme channel="335009" start="20250306194100 +0800" stop="20250306204300 +0800">
+    <title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306204300 +0800" stop="20250306213500 +0800">
+    <title lang="zh">2024諸羅山盃 高年級組 冠軍戰 北市福林藍 VS 高雄中正(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="335009" start="20250306213500 +0800" stop="20250306221300 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
     <desc />
     <date>2025-03-06</date>
   </programme>
+  <programme channel="335009" start="20250306221300 +0800" stop="20250307000000 +0800">
+    <title lang="zh">113學年高中鋁棒組 冠軍戰 高苑工商 vs 穀保家商(普)</title>
+    <desc />
+    <date>2025-03-06</date>
+  </programme>
   <programme channel="335009" start="20250307000000 +0800" stop="20250308000000 +0800">
-    <title lang="zh">113年中正盃柔道錦標賽 6/04賽程(普)</title>
+    <title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
     <desc />
     <date>2025-03-07</date>
   </programme>
