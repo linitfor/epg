@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250304222718 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250305003340 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250304000000 +0800" stop="20250304013000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(4)RUI vs MAT</title>
-    <desc>2024美國公開賽 第一天 截點(4)RUI vs MAT</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304013000 +0800" stop="20250304040000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304040000 +0800" stop="20250304060000 +0800">
-    <title lang="zh">2023歐洲公開賽 第3天(3)SHAvsJAM</title>
-    <desc>2023歐洲公開賽 第3天(3)SHAvsJAM</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304060000 +0800" stop="20250304073000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(4)RUI vs MAT</title>
-    <desc>2024美國公開賽 第一天 截點(4)RUI vs MAT</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304073000 +0800" stop="20250304100000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304100000 +0800" stop="20250304120000 +0800">
-    <title lang="zh">2023歐洲公開賽 第3天(3)SHAvsJAM</title>
-    <desc>2023歐洲公開賽 第3天(3)SHAvsJAM</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304120000 +0800" stop="20250304133000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(4)RUI vs MAT</title>
-    <desc>2024美國公開賽 第一天 截點(4)RUI vs MAT</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304133000 +0800" stop="20250304160000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 4強 WIL vs UN-N</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304160000 +0800" stop="20250304180000 +0800">
-    <title lang="zh">2023歐洲公開賽 第3天(3)SHAvsJAM</title>
-    <desc>2023歐洲公開賽 第3天(3)SHAvsJAM</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304180000 +0800" stop="20250304193000 +0800">
-    <title lang="zh">2024美國公開賽 第二天 截點(1)ALN vs BAU</title>
-    <desc>2024美國公開賽 第二天 截點(1)ALN vs BAU</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304193000 +0800" stop="20250304223000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 決賽 WIL vs O'CON</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 決賽 WIL vs O'CON</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369229" start="20250304223000 +0800" stop="20250305000000 +0800">
-    <title lang="zh">2023歐洲公開賽第3天(4)NIEvsANT</title>
-    <desc>2023歐洲公開賽第3天(4)NIEvsANT</desc>
-    <date>2025-03-04</date>
-  </programme>
   <programme channel="369229" start="20250305000000 +0800" stop="20250305013000 +0800">
     <title lang="zh">2024美國公開賽 第二天 截點(1)ALN vs BAU</title>
     <desc>2024美國公開賽 第二天 截點(1)ALN vs BAU</desc>
@@ -124,9 +64,79 @@
     <desc>2023歐洲公開賽第3天(5)CHRvsMIK</desc>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="369229" start="20250306000000 +0800" stop="20250307000000 +0800">
+  <programme channel="369229" start="20250306000000 +0800" stop="20250306020000 +0800">
     <title lang="zh">2024美國公開賽 第二天 截點(5)LO vs HOL</title>
     <desc>2024美國公開賽 第二天 截點(5)LO vs HOL</desc>
     <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306020000 +0800" stop="20250306043000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</title>
+    <desc>2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306043000 +0800" stop="20250306060000 +0800">
+    <title lang="zh">2023歐洲公開賽第3天(5)CHRvsMIK</title>
+    <desc>2023歐洲公開賽第3天(5)CHRvsMIK</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306060000 +0800" stop="20250306080000 +0800">
+    <title lang="zh">2024美國公開賽 第二天 截點(5)LO vs HOL</title>
+    <desc>2024美國公開賽 第二天 截點(5)LO vs HOL</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306080000 +0800" stop="20250306103000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</title>
+    <desc>2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306103000 +0800" stop="20250306120000 +0800">
+    <title lang="zh">2023歐洲公開賽第3天(5)CHRvsMIK</title>
+    <desc>2023歐洲公開賽第3天(5)CHRvsMIK</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306120000 +0800" stop="20250306140000 +0800">
+    <title lang="zh">2024美國公開賽 第二天 截點(5)LO vs HOL</title>
+    <desc>2024美國公開賽 第二天 截點(5)LO vs HOL</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306140000 +0800" stop="20250306163000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</title>
+    <desc>2022-23司諾克賽季 英格蘭公開賽 第一輪 TRU vs PAG</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306163000 +0800" stop="20250306180000 +0800">
+    <title lang="zh">2023歐洲公開賽第3天(5)CHRvsMIK</title>
+    <desc>2023歐洲公開賽第3天(5)CHRvsMIK</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306180000 +0800" stop="20250306190000 +0800">
+    <title lang="zh">2024美國公開賽 第二天 截點(2)SOU vs GOL</title>
+    <desc>2024美國公開賽 第二天 截點(2)SOU vs GOL</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306190000 +0800" stop="20250306200000 +0800">
+    <title lang="zh">2024美國公開賽 第二天 截點(4)HET vs HEA</title>
+    <desc>2024美國公開賽 第二天 截點(4)HET vs HEA</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306200000 +0800" stop="20250306210000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英格蘭公開賽 第一輪 ROB vs PAG</title>
+    <desc>2022-23司諾克賽季 英格蘭公開賽 第一輪 ROB vs PAG</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306210000 +0800" stop="20250306223000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英格蘭公開賽 第二輪 O'SUL vs MER</title>
+    <desc>2022-23司諾克賽季 英格蘭公開賽 第二輪 O'SUL vs MER</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250306223000 +0800" stop="20250307000000 +0800">
+    <title lang="zh">2023歐洲公開賽第4天(1)KOvsGEO</title>
+    <desc>2023歐洲公開賽第4天(1)KOvsGEO</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369229" start="20250307000000 +0800" stop="20250308000000 +0800">
+    <title lang="zh">2024美國公開賽 第二天 截點(2)SOU vs GOL</title>
+    <desc>2024美國公開賽 第二天 截點(2)SOU vs GOL</desc>
+    <date>2025-03-07</date>
   </programme>
 </tv>

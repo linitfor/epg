@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250304222725 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250304.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250304&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250305003347 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250305.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250305&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250304000000 +0800" stop="20250304020000 +0800">
-    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
-    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304020000 +0800" stop="20250304040000 +0800">
-    <title lang="zh">2025德雷海灘男網賽八強NORvsMIC</title>
-    <desc>2025德雷海灘男網賽八強NORvsMIC</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304040000 +0800" stop="20250304070000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</title>
-    <desc>2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304070000 +0800" stop="20250304090000 +0800">
-    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
-    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304090000 +0800" stop="20250304110000 +0800">
-    <title lang="zh">2025德雷海灘男網賽八強NORvsMIC</title>
-    <desc>2025德雷海灘男網賽八強NORvsMIC</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304110000 +0800" stop="20250304140000 +0800">
-    <title lang="zh">2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</title>
-    <desc>2025澳洲網球公開賽女雙決賽SIN/TOWvs謝淑薇/OST</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304140000 +0800" stop="20250304160000 +0800">
-    <title lang="zh">2025鹿特丹男網賽十六強MARvsRUN</title>
-    <desc>2025鹿特丹男網賽十六強MARvsRUN</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304160000 +0800" stop="20250304180000 +0800">
-    <title lang="zh">2025德雷海灘男網賽八強NORvsMIC</title>
-    <desc>2025德雷海灘男網賽八強NORvsMIC</desc>
-    <date>2025-03-04</date>
-  </programme>
-  <programme channel="369216" start="20250304180000 +0800" stop="20250305000000 +0800">
-    <title lang="zh">LIVE2025杜拜男網賽第一天</title>
-    <desc>LIVE2025杜拜男網賽第一天</desc>
-    <date>2025-03-04</date>
-  </programme>
   <programme channel="369216" start="20250305023000 +0800" stop="20250305043000 +0800">
     <title lang="zh">2025卡達男網賽十六強ALCvsNAR</title>
     <desc>2025卡達男網賽十六強ALCvsNAR</desc>
@@ -83,5 +38,40 @@
     <title lang="zh">LIVE2025杜拜男網賽第二天</title>
     <desc>LIVE2025杜拜男網賽第二天</desc>
     <date>2025-03-05</date>
+  </programme>
+  <programme channel="369216" start="20250306023000 +0800" stop="20250306043000 +0800">
+    <title lang="zh">2025卡達男網賽十六強BERvsMED</title>
+    <desc>2025卡達男網賽十六強BERvsMED</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306043000 +0800" stop="20250306063000 +0800">
+    <title lang="zh">2025德雷海灘男網賽決賽FOKvsKEC</title>
+    <desc>2025德雷海灘男網賽決賽FOKvsKEC</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306063000 +0800" stop="20250306080000 +0800">
+    <title lang="zh">2025鹿特丹男網賽八強ALCvsMAR</title>
+    <desc>2025鹿特丹男網賽八強ALCvsMAR</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306080000 +0800" stop="20250306100000 +0800">
+    <title lang="zh">2025卡達男網賽十六強BERvsMED</title>
+    <desc>2025卡達男網賽十六強BERvsMED</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306100000 +0800" stop="20250306120000 +0800">
+    <title lang="zh">2025德雷海灘男網賽決賽FOKvsKEC</title>
+    <desc>2025德雷海灘男網賽決賽FOKvsKEC</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306120000 +0800" stop="20250306180000 +0800">
+    <title lang="zh">首播2025杜拜男網賽第二天</title>
+    <desc>首播2025杜拜男網賽第二天</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="369216" start="20250306180000 +0800" stop="20250307000000 +0800">
+    <title lang="zh">LIVE2025杜拜男網賽十六強</title>
+    <desc>LIVE2025杜拜男網賽十六強</desc>
+    <date>2025-03-06</date>
   </programme>
 </tv>
