@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250306213312 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368948/20250306.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368948&amp;date=20250306&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250307003308 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368948/20250307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368948&amp;date=20250307&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368948">
     <display-name lang="Taiwan">動物星球</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611150636495223_75.jpg" />
   </channel>
-  <programme channel="368948" start="20250306000000 +0800" stop="20250306010000 +0800">
-    <title lang="zh">布朗克斯動物園:8</title>
-    <desc>布朗克斯動物園:再訪非洲</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306010000 +0800" stop="20250306020000 +0800">
-    <title lang="zh">神秘動物大追蹤:1</title>
-    <desc>神秘動物大追蹤:暗夜訪客-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306020000 +0800" stop="20250306030000 +0800">
-    <title lang="zh">炙熱非洲:4</title>
-    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306030000 +0800" stop="20250306040000 +0800">
-    <title lang="zh">生命不受限:1</title>
-    <desc>生命不受限:潮濕與乾旱</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306040000 +0800" stop="20250306050000 +0800">
-    <title lang="zh">無光的深海</title>
-    <desc>無光的深海</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306050000 +0800" stop="20250306060000 +0800">
-    <title lang="zh">布朗克斯動物園:8</title>
-    <desc>布朗克斯動物園:再訪非洲</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306060000 +0800" stop="20250306070000 +0800">
-    <title lang="zh">神秘動物大追蹤:1</title>
-    <desc>神秘動物大追蹤:暗夜訪客-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306070000 +0800" stop="20250306080000 +0800">
-    <title lang="zh">生命不受限:1</title>
-    <desc>生命不受限:潮濕與乾旱</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306080000 +0800" stop="20250306090000 +0800">
-    <title lang="zh">德州保育戰第7季:13</title>
-    <desc>德州保育戰第7季:邊界走私</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306090000 +0800" stop="20250306100000 +0800">
-    <title lang="zh">炙熱非洲:4</title>
-    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306100000 +0800" stop="20250306110000 +0800">
-    <title lang="zh">無光的深海</title>
-    <desc>無光的深海</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306110000 +0800" stop="20250306120000 +0800">
-    <title lang="zh">神秘動物大追蹤:2</title>
-    <desc>神秘動物大追蹤:鱷魚巫術-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306120000 +0800" stop="20250306130000 +0800">
-    <title lang="zh">生命不受限:2</title>
-    <desc>生命不受限:炎熱與寒冷</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306130000 +0800" stop="20250306140000 +0800">
-    <title lang="zh">布朗克斯動物園第2季:1</title>
-    <desc>布朗克斯動物園第2季:奇蹟小雪豹</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306140000 +0800" stop="20250306150000 +0800">
-    <title lang="zh">炙熱非洲:4</title>
-    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306150000 +0800" stop="20250306160000 +0800">
-    <title lang="zh">聖地牙哥動物園第2季</title>
-    <desc>聖地牙哥動物園第2季:非洲野豬泥巴浴</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306160000 +0800" stop="20250306170000 +0800">
-    <title lang="zh">動物求生策略:1</title>
-    <desc>動物求生策略:擇偶競賽</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306170000 +0800" stop="20250306180000 +0800">
-    <title lang="zh">神秘動物大追蹤:2</title>
-    <desc>神秘動物大追蹤:鱷魚巫術-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306180000 +0800" stop="20250306190000 +0800">
-    <title lang="zh">生命不受限:2</title>
-    <desc>生命不受限:炎熱與寒冷</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306190000 +0800" stop="20250306200000 +0800">
-    <title lang="zh">布朗克斯動物園第2季:1</title>
-    <desc>布朗克斯動物園第2季:奇蹟小雪豹</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306200000 +0800" stop="20250306210000 +0800">
-    <title lang="zh">炙熱非洲:5</title>
-    <desc>炙熱非洲-獰貓叢林之火</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306210000 +0800" stop="20250306220000 +0800">
-    <title lang="zh">動物求生策略:2</title>
-    <desc>動物求生策略:求偶行為</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306220000 +0800" stop="20250306230000 +0800">
-    <title lang="zh">聖地牙哥動物園第2季</title>
-    <desc>聖地牙哥動物園第2季:狐?換菜色</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="368948" start="20250306230000 +0800" stop="20250307000000 +0800">
-    <title lang="zh">野性拉丁美洲:6</title>
-    <desc>野性拉丁美洲:第6集</desc>
-    <date>2025-03-06</date>
-  </programme>
   <programme channel="368948" start="20250307000000 +0800" stop="20250307010000 +0800">
     <title lang="zh">布朗克斯動物園第2季:1</title>
     <desc>布朗克斯動物園第2季:奇蹟小雪豹</desc>
@@ -244,9 +124,139 @@
     <desc>野性拉丁美洲:第7集</desc>
     <date>2025-03-07</date>
   </programme>
-  <programme channel="368948" start="20250308000000 +0800" stop="20250309000000 +0800">
+  <programme channel="368948" start="20250308000000 +0800" stop="20250308010000 +0800">
     <title lang="zh">布朗克斯動物園第2季:2</title>
     <desc>布朗克斯動物園第2季:都會北極熊</desc>
     <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308010000 +0800" stop="20250308020000 +0800">
+    <title lang="zh">神秘動物大追蹤:3</title>
+    <desc>神秘動物大追蹤:奇藍湖怪-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308020000 +0800" stop="20250308030000 +0800">
+    <title lang="zh">動物百分百第2季:1</title>
+    <desc>動物百分百第2季:猴子</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308030000 +0800" stop="20250308040000 +0800">
+    <title lang="zh">生命不受限:3</title>
+    <desc>生命不受限:高與低</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308040000 +0800" stop="20250308050000 +0800">
+    <title lang="zh">大貓日誌新篇章</title>
+    <desc>大貓日誌新篇章:暗影間的面孔</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308050000 +0800" stop="20250308060000 +0800">
+    <title lang="zh">布朗克斯動物園第2季:2</title>
+    <desc>布朗克斯動物園第2季:都會北極熊</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308060000 +0800" stop="20250308070000 +0800">
+    <title lang="zh">神秘動物大追蹤:3</title>
+    <desc>神秘動物大追蹤:奇藍湖怪-佛瑞斯特葛蘭特和團隊走遍全球，探索致命動物/人類衝突中的神祕生物。每次揭開神秘面紗後，佛瑞斯特就將注意力放到解決衝突上，挽救人類與動物的性命。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308070000 +0800" stop="20250308080000 +0800">
+    <title lang="zh">生命不受限:3</title>
+    <desc>生命不受限:高與低</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308080000 +0800" stop="20250308090000 +0800">
+    <title lang="zh">愛心動物農場:3</title>
+    <desc>愛心動物農場:火災救援</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308090000 +0800" stop="20250308100000 +0800">
+    <title lang="zh">動物百分百第2季:1</title>
+    <desc>動物百分百第2季:猴子</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308100000 +0800" stop="20250308110000 +0800">
+    <title lang="zh">炙熱非洲:4</title>
+    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308110000 +0800" stop="20250308113000 +0800">
+    <title lang="zh">珍奇大自然</title>
+    <desc>珍奇大自然:防禦</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308113000 +0800" stop="20250308120000 +0800">
+    <title lang="zh">珍奇大自然</title>
+    <desc>珍奇大自然:保護</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308120000 +0800" stop="20250308130000 +0800">
+    <title lang="zh">滅絕動物大追蹤第2季:4</title>
+    <desc>滅絕動物大追蹤第2季:阿帕波里斯凱門鱷</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308130000 +0800" stop="20250308140000 +0800">
+    <title lang="zh">無光的深海</title>
+    <desc>無光的深海</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308140000 +0800" stop="20250308150000 +0800">
+    <title lang="zh">聖地牙哥動物園第2季</title>
+    <desc>聖地牙哥動物園第2季:狐?換菜色</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308150000 +0800" stop="20250308160000 +0800">
+    <title lang="zh">炙熱非洲:4</title>
+    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308160000 +0800" stop="20250308170000 +0800">
+    <title lang="zh">動物百分百第2季:1</title>
+    <desc>動物百分百第2季:猴子</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308170000 +0800" stop="20250308180000 +0800">
+    <title lang="zh">動物求生策略:2</title>
+    <desc>動物求生策略:求偶行為</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308180000 +0800" stop="20250308190000 +0800">
+    <title lang="zh">德州保育戰第7季:13</title>
+    <desc>德州保育戰第7季:邊界走私</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308190000 +0800" stop="20250308193000 +0800">
+    <title lang="zh">珍奇大自然</title>
+    <desc>珍奇大自然:防禦</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308193000 +0800" stop="20250308200000 +0800">
+    <title lang="zh">珍奇大自然</title>
+    <desc>珍奇大自然:保護</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308200000 +0800" stop="20250308210000 +0800">
+    <title lang="zh">大自然的奇幻時刻</title>
+    <desc>大自然的奇幻時刻  不管是白天還是黑夜，無論是北半球還是南半球，在甚麼樣的季節或地點，這個星球上的自然世界隨時都在發生令人感到神奇的時刻。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308210000 +0800" stop="20250308220000 +0800">
+    <title lang="zh">炙熱非洲:4</title>
+    <desc>炙熱非洲:豺犬-艱苦的大地</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308220000 +0800" stop="20250308230000 +0800">
+    <title lang="zh">滅絕動物大追蹤第2季:4</title>
+    <desc>滅絕動物大追蹤第2季:阿帕波里斯凱門鱷</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250308230000 +0800" stop="20250309000000 +0800">
+    <title lang="zh">對決黑鮪魚:4</title>
+    <desc>對決黑鮪魚:雙方拉鋸</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="368948" start="20250309000000 +0800" stop="20250310000000 +0800">
+    <title lang="zh">大貓日誌新篇章</title>
+    <desc>大貓日誌新篇章:暗影間的面孔</desc>
+    <date>2025-03-09</date>
   </programme>
 </tv>

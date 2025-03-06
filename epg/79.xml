@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250306213345 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410282/20250306.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410282&amp;date=20250306&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250307003321 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410282/20250307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410282&amp;date=20250307&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="410282">
     <display-name lang="Hong Kong">HBO Signature</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128121206693611_15" />
   </channel>
-  <programme channel="410282" start="20250306004000 +0800" stop="20250306024500 +0800">
-    <title lang="zh">驕陽似我</title>
-    <desc>20歲的數學天才威爾面對未來人生的抉擇，必須接受治療和處理自己的情感問題。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306024500 +0800" stop="20250306031500 +0800">
-    <title lang="zh">催命嬌娃 第1季第5集 </title>
-    <desc>阿拉貝拉再次考慮和贊恩發生關係，並在一場文學活動上脫稿演出。關米向警方尋求協助。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306031500 +0800" stop="20250306035000 +0800">
-    <title lang="zh">催命嬌娃 第1季第6集 </title>
-    <desc>阿拉貝拉參加了高中同學緹歐所主持的支援團體。回到2004年，聰明不安的年輕緹歐意圖扭轉一段原本兩情相願的性行為，卻出現意外轉折的經歷。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306035000 +0800" stop="20250306053000 +0800">
-    <title lang="zh">醉爆伴郎團2</title>
-    <desc>準備好進行第二回合的終極大狂歡嗎？在本續集中，菲爾、史都、亞倫和道格來到充滿異國風情的泰國參加史都婚禮。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306053000 +0800" stop="20250306062500 +0800">
-    <title lang="zh">與佩洛西一起看看真實的美國</title>
-    <desc>本片導演亞歷山德拉佩洛西跨越全美與各地美國人對談，希望藉此闡明讓今日美國社會產生分裂的各種議題。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306062500 +0800" stop="20250306081500 +0800">
-    <title lang="zh">星星的孩子</title>
-    <desc>本片改編自真人真事.劇中人物譚波博士自小被歸類為高功能亞斯伯格症患者,成長和求學過程中飽受不少歧視，幸好在親友不離不棄鼓勵下，憑著自己能理解動物語言的專長成為畜牧業權威</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306081500 +0800" stop="20250306105000 +0800">
-    <title lang="zh">殺謎藏</title>
-    <desc>本片由斷背山男主角傑克葛倫霍主演,名導大衛芬奇成功重現這個令60年代的舊金山陷入恐怖疑雲的真實案件。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306105000 +0800" stop="20250306123500 +0800">
-    <title lang="zh">愛你，唐娜．夏默</title>
-    <desc>本片為HBO原創紀錄片，帶觀眾深入了解著名歌手唐娜桑默，與她劃時代的經典音樂。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306123500 +0800" stop="20250306140500 +0800">
-    <title lang="zh">雙重人生</title>
-    <desc>一名寡婦與亡夫的情婦同心協力，揭開丈夫被殺的真相。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306140500 +0800" stop="20250306153500 +0800">
-    <title lang="zh">Donyale Luna︰超模傳奇</title>
-    <desc>本紀錄片探索模特兒兼演員唐雅爾露娜令人難以置信的生活與職業生涯，她是1960年代第一批登上歐洲時尚雜誌封面的非裔美國模特兒之一。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306153500 +0800" stop="20250306171000 +0800">
-    <title lang="zh">地下判官</title>
-    <desc>這部扣人心弦的電視電影劇情描述一名憤怒的警察決定親手來執行正義。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306171000 +0800" stop="20250306190000 +0800">
-    <title lang="zh">時光旅的戀人</title>
-    <desc>藝術家克萊兒和英俊的圖書館員亨利之間有著深刻的感情，而亨利卻不自主地具有穿越時空的能力。知道他們隨時都會因此而分開，兩人珍惜著相處的每一刻，時間侷限了他們的關係，唯有真愛才能加以釋放。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306190000 +0800" stop="20250306200000 +0800">
-    <title lang="zh">與佩洛西一起看看真實的美國</title>
-    <desc>本片導演亞歷山德拉佩洛西跨越全美與各地美國人對談，希望藉此闡明讓今日美國社會產生分裂的各種議題。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306200000 +0800" stop="20250306220000 +0800">
-    <title lang="zh">我的超豪男友</title>
-    <desc>瑞秋因為要和尼克的家人見面而緊張不已。她在毫無心理準備的情況下，得知尼克不僅僅是這個國家豪門的後代，還是最炙手可熱的黃金單身漢。</desc>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="410282" start="20250306220000 +0800" stop="20250307000000 +0800">
-    <title lang="zh">對抗性侵犯</title>
-    <desc>必須獨力撫養兩個小孩的單親媽媽裘絲在礦場這種極度惡劣的工作環境下，挺身而出，為她和其他女礦工受到的可怕待遇發出不平之鳴</desc>
-    <date>2025-03-06</date>
-  </programme>
   <programme channel="410282" start="20250307001000 +0800" stop="20250307020000 +0800">
     <title lang="zh">圈套</title>
     <desc>一對父女一同參加演唱會，卻發現自己陷入一場黑暗又邪惡的風暴之中。</desc>
@@ -153,5 +78,80 @@
     <title lang="zh">星夢情深</title>
     <desc>這齣全新製作的愛情悲劇描寫資深音樂人傑克森梅因發掘了努力奮鬥的音樂新秀艾莉，並愛上她。</desc>
     <date>2025-03-07</date>
+  </programme>
+  <programme channel="410282" start="20250308001000 +0800" stop="20250308011000 +0800">
+    <title lang="zh">白蓮會 第3季第3集</title>
+    <desc>這部社會諷刺劇設定在一個高檔的泰國渡假村，講述了客人和員工在一週內的種種經歷。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308011000 +0800" stop="20250308025500 +0800">
+    <title lang="zh">What Happens Later</title>
+    <desc>曾有一段情的比爾和薇拉因大雪必須一起在機場過夜，且起飛時間遙遙無期。薇拉相信凡事能靠信念達成，比爾則生性悲觀，兩人發現自己仍像數十年前一樣對彼此又愛又恨。但在解開兩人共同生活時的一些誤會，並將現在的生活和當年兩人共同編織的夢想比對後，他們不禁開始思考，究竟這次重聚是純粹的巧合，或是有什麼更深的意涵呢？</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308025500 +0800" stop="20250308032500 +0800">
+    <title lang="zh">催命嬌娃 第1季第9集 </title>
+    <desc>任性自信的倫敦客艾拉貝拉在遭遇約會強暴後，質疑並努力重建生活裡的一切。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308032500 +0800" stop="20250308040000 +0800">
+    <title lang="zh">催命嬌娃 第1季第10集 </title>
+    <desc>任性自信的倫敦客艾拉貝拉在遭遇約會強暴後，質疑並努力重建生活裡的一切。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308040000 +0800" stop="20250308060500 +0800">
+    <title lang="zh">社交網絡</title>
+    <desc>2003年秋天，哈佛電腦天才馬克祖克柏決定把腦海裡的念頭付諸實行，沒多久就在他臥室裡孕育出轟動全世界的社群網路。六年後，共有兩百萬名網友到此註冊，他成為史上最年輕的億萬富翁。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308060500 +0800" stop="20250308080000 +0800">
+    <title lang="zh">海軍忠犬麥斯</title>
+    <desc>一名叛逆少年在他哥哥的軍犬身上找到慰藉與陪伴，他哥哥是美國陸戰隊隊員，在阿富汗戰爭前線喪生。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308080000 +0800" stop="20250308095000 +0800">
+    <title lang="zh">好戲登場</title>
+    <desc>凱莉萊卡特在這部生動有趣的藝術和手工藝電影中描繪了一位準備舉辦新展覽的雕塑家，她必須在自己的創作與家庭和朋友的日常瑣事之間取得平衡。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308095000 +0800" stop="20250308113500 +0800">
+    <title lang="zh">說出她的名字：桑德拉布蘭德的生與死</title>
+    <desc>本片探索28歲非裔美籍的政治活動份子珊卓拉布蘭的命案。珊卓拉在一個德州小鎮因交通違規被逮捕，入獄三天後在牢房上吊死亡</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308113500 +0800" stop="20250308120500 +0800">
+    <title lang="zh">荷里活現場 第1季第1105集</title>
+    <desc>每個星期，「荷里活現場」為觀眾揭露三部強檔電影的幕後，為您捕捉拍攝時的鏡頭，同時訪問演員和製片。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308120500 +0800" stop="20250308142000 +0800">
+    <title lang="zh">星夢情深</title>
+    <desc>這齣全新製作的愛情悲劇描寫資深音樂人傑克森梅因發掘了努力奮鬥的音樂新秀艾莉，並愛上她。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308142000 +0800" stop="20250308163000 +0800">
+    <title lang="zh">雨果的巴黎奇幻歷險</title>
+    <desc>故事背景為1930年代的巴黎，住在火車站高牆內的孤兒陷入了已過世父親與機器人的謎團中。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308163000 +0800" stop="20250308180500 +0800">
+    <title lang="zh">半條命</title>
+    <desc>在遭受致命放射線感染後，一名男子偷了鈽239並逃到莫斯科。眼見所剩之日不多，親愛的妻小又必須活命，他因故結識非法買賣核子武器的黑道，賣掉手上的鈽239，但此舉卻為全世界帶來極大的致命危險。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308180500 +0800" stop="20250308201000 +0800">
+    <title lang="zh">棒壇雙雄</title>
+    <desc>1961年夏天，兩名棒球選手兼摯友爭相挑戰打敗1927年貝比魯斯創下得全壘打紀錄。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308201000 +0800" stop="20250308220000 +0800">
+    <title lang="zh">罪孽</title>
+    <desc>小組完成了任務 – 而任務是否真的被完成了？橫跨兩個不同的時空，這個疑點一直存在，而過程充滿意想不到的行動與驚人的真相。</desc>
+    <date>2025-03-08</date>
+  </programme>
+  <programme channel="410282" start="20250308220000 +0800" stop="20250309000000 +0800">
+    <title lang="zh">Respect</title>
+    <desc>本片記錄了樂壇傳奇歌手艾瑞莎弗蘭克林的一生。</desc>
+    <date>2025-03-08</date>
   </programme>
 </tv>
