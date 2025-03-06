@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250307023438 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250307&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250307052416 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250307&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1723,6 +1723,10 @@
 <date>2025-03-08</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">台灣大代誌</title>
+</programme>
 <programme channel="369307" start="20250307000000 +0800" stop="20250307010000 +0800">
 <date>2025-03-07</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2420,6 +2424,10 @@
 <date>2025-03-08</date>
 <desc /><title lang="zh">琴謙天下事</title>
 </programme>
+<programme channel="370177" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250307013000 +0800" stop="20250307020000 +0800">
 <date>2025-03-07</date>
 <desc /><title lang="zh">元氣加油站【普】(E2829)</title>
@@ -2859,6 +2867,10 @@
 <programme channel="370141" start="20250308220000 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
 <desc /><title lang="zh">綜藝玩很大(普)</title>
+</programme>
+<programme channel="370141" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">飢餓遊戲(普)</title>
 </programme>
 <programme channel="368922" start="20250307000000 +0800" stop="20250307010000 +0800">
 <date>2025-03-07</date>
@@ -4017,6 +4029,10 @@
 <programme channel="370149" start="20250308233000 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
 <desc /><title lang="zh">體壇最前線 3/8(第67集) (普)</title>
+</programme>
+<programme channel="370149" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">醫師好辣(第338集) (普)</title>
 </programme>
 <programme channel="369284" start="20250307000000 +0800" stop="20250307003000 +0800">
 <date>2025-03-07</date>
@@ -6243,6 +6259,10 @@
 <programme channel="370222" start="20250308232400 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
 <desc /><title lang="zh">野人追夢 06 和澳洲原住民交朋友囉</title>
+</programme>
+<programme channel="370222" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">地球的慶典09 鹽水蜂炮</title>
 </programme>
 <programme channel="369271" start="20250307000000 +0800" stop="20250307010000 +0800">
 <date>2025-03-07</date>
@@ -8737,6 +8757,10 @@
 <date>2025-03-08</date>
 <desc /><title lang="zh">00948 Swimwear Fashion Exposed INDAH SwimMiami Collections 2016 150904 PMNB</title>
 </programme>
+<programme channel="370209" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
+</programme>
 <programme channel="335009" start="20250307000000 +0800" stop="20250307035700 +0800">
 <date>2025-03-07</date>
 <desc /><title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
@@ -8923,7 +8947,7 @@
 </programme>
 <programme channel="334895" start="20250307000000 +0800" stop="20250307002000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S10(1018)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S10(1019)(普)</title>
 </programme>
 <programme channel="334895" start="20250307002000 +0800" stop="20250307003000 +0800">
 <date>2025-03-07</date>
@@ -8931,383 +8955,383 @@
 </programme>
 <programme channel="334895" start="20250307003000 +0800" stop="20250307005500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(205)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(206)(普)</title>
 </programme>
 <programme channel="334895" start="20250307005500 +0800" stop="20250307011500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">DoraS2(209)(普)</title>
+<desc /><title lang="zh">DoraS2(210)(普)</title>
 </programme>
 <programme channel="334895" start="20250307011500 +0800" stop="20250307014000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(217)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
 </programme>
 <programme channel="334895" start="20250307014000 +0800" stop="20250307020000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">哈姆王國的倉鼠S1(110)(普)</title>
+<desc /><title lang="zh">哈姆王國的倉鼠S1(111)(普)</title>
 </programme>
 <programme channel="334895" start="20250307020000 +0800" stop="20250307022500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(707)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
 </programme>
 <programme channel="334895" start="20250307022500 +0800" stop="20250307024500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S4(408)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S4(407)(普)</title>
 </programme>
 <programme channel="334895" start="20250307024500 +0800" stop="20250307031000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S4(406)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(409)(普)</title>
 </programme>
 <programme channel="334895" start="20250307031000 +0800" stop="20250307033000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S4(408)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(411)(普)</title>
 </programme>
 <programme channel="334895" start="20250307033000 +0800" stop="20250307034000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S2(225)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S3(301)(普)</title>
 </programme>
 <programme channel="334895" start="20250307034000 +0800" stop="20250307040500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(118)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307040500 +0800" stop="20250307043000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(121)(普)</title>
 </programme>
 <programme channel="334895" start="20250307043000 +0800" stop="20250307045000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">DoraS1(109)(普)</title>
+<desc /><title lang="zh">DoraS1(110)(普)</title>
 </programme>
 <programme channel="334895" start="20250307045000 +0800" stop="20250307051000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250307051000 +0800" stop="20250307052000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
 </programme>
 <programme channel="334895" start="20250307052000 +0800" stop="20250307052500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(203)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(206)(普)</title>
 </programme>
 <programme channel="334895" start="20250307052500 +0800" stop="20250307053500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(204)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(207)(普)</title>
 </programme>
 <programme channel="334895" start="20250307053500 +0800" stop="20250307054000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(110)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(117)(普)</title>
 </programme>
 <programme channel="334895" start="20250307054000 +0800" stop="20250307054500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(111)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(118)(普)</title>
 </programme>
 <programme channel="334895" start="20250307054500 +0800" stop="20250307055000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(112)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(119)(普)</title>
 </programme>
 <programme channel="334895" start="20250307055000 +0800" stop="20250307055500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(113)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307055500 +0800" stop="20250307061500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S1(101)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(102)(普)</title>
 </programme>
 <programme channel="334895" start="20250307061500 +0800" stop="20250307064000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(216)(普)</title>
 </programme>
 <programme channel="334895" start="20250307064000 +0800" stop="20250307070000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(215)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(217)(普)</title>
 </programme>
 <programme channel="334895" start="20250307070000 +0800" stop="20250307072500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(710)(普)</title>
 </programme>
 <programme channel="334895" start="20250307072500 +0800" stop="20250307075000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(709)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(711)(普)</title>
 </programme>
 <programme channel="334895" start="20250307075000 +0800" stop="20250307081000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S11(1108)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(102)(普)</title>
 </programme>
 <programme channel="334895" start="20250307081000 +0800" stop="20250307083000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S1(101)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250307083000 +0800" stop="20250307085500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(124)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(125)(普)</title>
 </programme>
 <programme channel="334895" start="20250307085500 +0800" stop="20250307091500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(214)(普)</title>
 </programme>
 <programme channel="334895" start="20250307091500 +0800" stop="20250307094000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(308)(普)</title>
+<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(309)(普)</title>
 </programme>
 <programme channel="334895" start="20250307094000 +0800" stop="20250307100000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(118)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
 </programme>
 <programme channel="334895" start="20250307100000 +0800" stop="20250307102500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">DoraS1(104)(普)</title>
+<desc /><title lang="zh">DoraS1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250307102500 +0800" stop="20250307104500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S8(808)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S8(809)(普)</title>
 </programme>
 <programme channel="334895" start="20250307104500 +0800" stop="20250307110500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S1(104)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250307110500 +0800" stop="20250307111500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(117)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307111500 +0800" stop="20250307112000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(118)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(201)(普)</title>
 </programme>
 <programme channel="334895" start="20250307112000 +0800" stop="20250307113000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(119)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
 </programme>
 <programme channel="334895" start="20250307113000 +0800" stop="20250307115000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(212)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
 </programme>
 <programme channel="334895" start="20250307115000 +0800" stop="20250307120000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(214)(普)</title>
 </programme>
 <programme channel="334895" start="20250307120000 +0800" stop="20250307122000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S10(1019)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S10(1020)(普)</title>
 </programme>
 <programme channel="334895" start="20250307122000 +0800" stop="20250307123000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S6(622)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S6(623)(普)</title>
 </programme>
 <programme channel="334895" start="20250307123000 +0800" stop="20250307125500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(206)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(207)(普)</title>
 </programme>
 <programme channel="334895" start="20250307125500 +0800" stop="20250307130000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S2(204)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S2(205)(普)</title>
 </programme>
 <programme channel="334895" start="20250307130000 +0800" stop="20250307130500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(107)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(114)(普)</title>
 </programme>
 <programme channel="334895" start="20250307130500 +0800" stop="20250307131000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(108)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(115)(普)</title>
 </programme>
 <programme channel="334895" start="20250307131000 +0800" stop="20250307131500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(109)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(116)(普)</title>
 </programme>
 <programme channel="334895" start="20250307131500 +0800" stop="20250307132000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">安娜與朋友們S1(106)(普)</title>
+<desc /><title lang="zh">安娜與朋友們S1(108)(普)</title>
 </programme>
 <programme channel="334895" start="20250307132000 +0800" stop="20250307133000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">安娜與朋友們S1(107)(普)</title>
+<desc /><title lang="zh">安娜與朋友們S1(109)(普)</title>
 </programme>
 <programme channel="334895" start="20250307133000 +0800" stop="20250307135000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S2(209)(普)</title>
+<desc /><title lang="zh">小小神廚秀S2(210)(普)</title>
 </programme>
 <programme channel="334895" start="20250307135000 +0800" stop="20250307140000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S1(104)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250307140000 +0800" stop="20250307142500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(707)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
 </programme>
 <programme channel="334895" start="20250307142500 +0800" stop="20250307144500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">哈姆王國的倉鼠S1(118)(普)</title>
+<desc /><title lang="zh">哈姆王國的倉鼠S1(119)(普)</title>
 </programme>
 <programme channel="334895" start="20250307144500 +0800" stop="20250307151000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S4(406)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(409)(普)</title>
 </programme>
 <programme channel="334895" start="20250307151000 +0800" stop="20250307153000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S4(408)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(411)(普)</title>
 </programme>
 <programme channel="334895" start="20250307153000 +0800" stop="20250307154000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S2(225)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S3(301)(普)</title>
 </programme>
 <programme channel="334895" start="20250307154000 +0800" stop="20250307160500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(118)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307160500 +0800" stop="20250307163000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(121)(普)</title>
 </programme>
 <programme channel="334895" start="20250307163000 +0800" stop="20250307165000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">DoraS1(109)(普)</title>
+<desc /><title lang="zh">DoraS1(110)(普)</title>
 </programme>
 <programme channel="334895" start="20250307165000 +0800" stop="20250307171000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250307171000 +0800" stop="20250307172000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
 </programme>
 <programme channel="334895" start="20250307172000 +0800" stop="20250307172500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(203)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(206)(普)</title>
 </programme>
 <programme channel="334895" start="20250307172500 +0800" stop="20250307173500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(204)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(207)(普)</title>
 </programme>
 <programme channel="334895" start="20250307173500 +0800" stop="20250307174000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(110)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(117)(普)</title>
 </programme>
 <programme channel="334895" start="20250307174000 +0800" stop="20250307174500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(111)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(118)(普)</title>
 </programme>
 <programme channel="334895" start="20250307174500 +0800" stop="20250307175000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(112)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(119)(普)</title>
 </programme>
 <programme channel="334895" start="20250307175000 +0800" stop="20250307175500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">粉紅豬小妹S1(113)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307175500 +0800" stop="20250307181500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S1(101)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(102)(普)</title>
 </programme>
 <programme channel="334895" start="20250307181500 +0800" stop="20250307184000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(216)(普)</title>
 </programme>
 <programme channel="334895" start="20250307184000 +0800" stop="20250307190000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(215)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(217)(普)</title>
 </programme>
 <programme channel="334895" start="20250307190000 +0800" stop="20250307192500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(710)(普)</title>
 </programme>
 <programme channel="334895" start="20250307192500 +0800" stop="20250307195000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S7(709)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(711)(普)</title>
 </programme>
 <programme channel="334895" start="20250307195000 +0800" stop="20250307201000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S11(1108)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(102)(普)</title>
 </programme>
 <programme channel="334895" start="20250307201000 +0800" stop="20250307203000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊立大功S1(101)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250307203000 +0800" stop="20250307205500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(124)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(125)(普)</title>
 </programme>
 <programme channel="334895" start="20250307205500 +0800" stop="20250307211500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(214)(普)</title>
 </programme>
 <programme channel="334895" start="20250307211500 +0800" stop="20250307214000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(308)(普)</title>
+<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(309)(普)</title>
 </programme>
 <programme channel="334895" start="20250307214000 +0800" stop="20250307220000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(118)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
 </programme>
 <programme channel="334895" start="20250307220000 +0800" stop="20250307222500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">DoraS1(104)(普)</title>
+<desc /><title lang="zh">DoraS1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250307222500 +0800" stop="20250307224500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">旋風戰車隊S8(808)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S8(809)(普)</title>
 </programme>
 <programme channel="334895" start="20250307224500 +0800" stop="20250307230500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">小小神廚秀S1(104)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250307230500 +0800" stop="20250307231500 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(117)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250307231500 +0800" stop="20250307232000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(118)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(201)(普)</title>
 </programme>
 <programme channel="334895" start="20250307232000 +0800" stop="20250307233000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(119)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
 </programme>
 <programme channel="334895" start="20250307233000 +0800" stop="20250307235000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(212)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
 </programme>
 <programme channel="334895" start="20250307235000 +0800" stop="20250308000000 +0800">
 <date>2025-03-07</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(214)(普)</title>
 </programme>
 <programme channel="334895" start="20250308000000 +0800" stop="20250308002000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S10(1019)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S10(1020)(普)</title>
 </programme>
 <programme channel="334895" start="20250308002000 +0800" stop="20250308003000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S6(622)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S6(623)(普)</title>
 </programme>
 <programme channel="334895" start="20250308003000 +0800" stop="20250308005500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(206)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(207)(普)</title>
 </programme>
 <programme channel="334895" start="20250308005500 +0800" stop="20250308011500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">DoraS2(210)(普)</title>
+<desc /><title lang="zh">DoraS2(211)(普)</title>
 </programme>
 <programme channel="334895" start="20250308011500 +0800" stop="20250308014000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S1(124)(普)</title>
 </programme>
 <programme channel="334895" start="20250308014000 +0800" stop="20250308020000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">哈姆王國的倉鼠S1(111)(普)</title>
+<desc /><title lang="zh">哈姆王國的倉鼠S1(112)(普)</title>
 </programme>
 <programme channel="334895" start="20250308020000 +0800" stop="20250308022500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(709)(普)</title>
 </programme>
 <programme channel="334895" start="20250308022500 +0800" stop="20250308024500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S4(407)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S4(406)(普)</title>
 </programme>
 <programme channel="334895" start="20250308024500 +0800" stop="20250308031000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S4(409)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(414)(普)</title>
 </programme>
 <programme channel="334895" start="20250308031000 +0800" stop="20250308033000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S4(411)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(415)(普)</title>
 </programme>
 <programme channel="334895" start="20250308033000 +0800" stop="20250308034000 +0800">
 <date>2025-03-08</date>
@@ -9315,127 +9339,127 @@
 </programme>
 <programme channel="334895" start="20250308034000 +0800" stop="20250308040500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(122)(普)</title>
 </programme>
 <programme channel="334895" start="20250308040500 +0800" stop="20250308043000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(121)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(123)(普)</title>
 </programme>
 <programme channel="334895" start="20250308043000 +0800" stop="20250308045000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">DoraS1(110)(普)</title>
+<desc /><title lang="zh">DoraS1(111)(普)</title>
 </programme>
 <programme channel="334895" start="20250308045000 +0800" stop="20250308051000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(216)(普)</title>
 </programme>
 <programme channel="334895" start="20250308051000 +0800" stop="20250308052000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(208)(普)</title>
 </programme>
 <programme channel="334895" start="20250308052000 +0800" stop="20250308052500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(206)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(209)(普)</title>
 </programme>
 <programme channel="334895" start="20250308052500 +0800" stop="20250308053500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(207)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(210)(普)</title>
 </programme>
 <programme channel="334895" start="20250308053500 +0800" stop="20250308054000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(117)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(124)(普)</title>
 </programme>
 <programme channel="334895" start="20250308054000 +0800" stop="20250308054500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(118)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(125)(普)</title>
 </programme>
 <programme channel="334895" start="20250308054500 +0800" stop="20250308055000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(119)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(127)(普)</title>
 </programme>
 <programme channel="334895" start="20250308055000 +0800" stop="20250308055500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(120)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(128)(普)</title>
 </programme>
 <programme channel="334895" start="20250308055500 +0800" stop="20250308061500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">小小神廚秀S1(102)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250308061500 +0800" stop="20250308064000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(216)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
 </programme>
 <programme channel="334895" start="20250308064000 +0800" stop="20250308070000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(217)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S1(101)(普)</title>
 </programme>
 <programme channel="334895" start="20250308070000 +0800" stop="20250308072500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(710)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(712)(普)</title>
 </programme>
 <programme channel="334895" start="20250308072500 +0800" stop="20250308075000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(711)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(713)(普)</title>
 </programme>
 <programme channel="334895" start="20250308075000 +0800" stop="20250308081000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S1(102)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(104)(普)</title>
 </programme>
 <programme channel="334895" start="20250308081000 +0800" stop="20250308083000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S1(103)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250308083000 +0800" stop="20250308085500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(125)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(126)(普)</title>
 </programme>
 <programme channel="334895" start="20250308085500 +0800" stop="20250308091500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(214)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250308091500 +0800" stop="20250308094000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(309)(普)</title>
+<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(310)(普)</title>
 </programme>
 <programme channel="334895" start="20250308094000 +0800" stop="20250308100000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250308100000 +0800" stop="20250308102500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">DoraS1(105)(普)</title>
+<desc /><title lang="zh">DoraS1(106)(普)</title>
 </programme>
 <programme channel="334895" start="20250308102500 +0800" stop="20250308104500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S8(809)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250308104500 +0800" stop="20250308110500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">小小神廚秀S1(105)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(106)(普)</title>
 </programme>
 <programme channel="334895" start="20250308110500 +0800" stop="20250308111500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(120)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(203)(普)</title>
 </programme>
 <programme channel="334895" start="20250308111500 +0800" stop="20250308112000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(201)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(204)(普)</title>
 </programme>
 <programme channel="334895" start="20250308112000 +0800" stop="20250308113000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
 </programme>
 <programme channel="334895" start="20250308113000 +0800" stop="20250308115000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250308115000 +0800" stop="20250308120000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(214)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250308120000 +0800" stop="20250308122000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S10(1020)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S10(1021)(普)</title>
 </programme>
 <programme channel="334895" start="20250308122000 +0800" stop="20250308123000 +0800">
 <date>2025-03-08</date>
@@ -9443,35 +9467,35 @@
 </programme>
 <programme channel="334895" start="20250308123000 +0800" stop="20250308125500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(207)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S2(208)(普)</title>
 </programme>
 <programme channel="334895" start="20250308125500 +0800" stop="20250308130000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S2(205)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S2(206)(普)</title>
 </programme>
 <programme channel="334895" start="20250308130000 +0800" stop="20250308130500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(114)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(121)(普)</title>
 </programme>
 <programme channel="334895" start="20250308130500 +0800" stop="20250308131000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(115)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(122)(普)</title>
 </programme>
 <programme channel="334895" start="20250308131000 +0800" stop="20250308131500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(116)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(123)(普)</title>
 </programme>
 <programme channel="334895" start="20250308131500 +0800" stop="20250308132000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">安娜與朋友們S1(108)(普)</title>
+<desc /><title lang="zh">安娜與朋友們S1(110)(普)</title>
 </programme>
 <programme channel="334895" start="20250308132000 +0800" stop="20250308133000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">安娜與朋友們S1(109)(普)</title>
+<desc /><title lang="zh">安娜與朋友們S1(111)(普)</title>
 </programme>
 <programme channel="334895" start="20250308133000 +0800" stop="20250308135000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">小小神廚秀S2(210)(普)</title>
+<desc /><title lang="zh">小小神廚秀S2(211)(普)</title>
 </programme>
 <programme channel="334895" start="20250308135000 +0800" stop="20250308140000 +0800">
 <date>2025-03-08</date>
@@ -9479,19 +9503,19 @@
 </programme>
 <programme channel="334895" start="20250308140000 +0800" stop="20250308142500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(708)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(709)(普)</title>
 </programme>
 <programme channel="334895" start="20250308142500 +0800" stop="20250308144500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">哈姆王國的倉鼠S1(119)(普)</title>
+<desc /><title lang="zh">哈姆王國的倉鼠S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250308144500 +0800" stop="20250308151000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S4(409)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(414)(普)</title>
 </programme>
 <programme channel="334895" start="20250308151000 +0800" stop="20250308153000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S4(411)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S4(415)(普)</title>
 </programme>
 <programme channel="334895" start="20250308153000 +0800" stop="20250308154000 +0800">
 <date>2025-03-08</date>
@@ -9499,127 +9523,127 @@
 </programme>
 <programme channel="334895" start="20250308154000 +0800" stop="20250308160500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(122)(普)</title>
 </programme>
 <programme channel="334895" start="20250308160500 +0800" stop="20250308163000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(121)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(123)(普)</title>
 </programme>
 <programme channel="334895" start="20250308163000 +0800" stop="20250308165000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">DoraS1(110)(普)</title>
+<desc /><title lang="zh">DoraS1(111)(普)</title>
 </programme>
 <programme channel="334895" start="20250308165000 +0800" stop="20250308171000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(216)(普)</title>
 </programme>
 <programme channel="334895" start="20250308171000 +0800" stop="20250308172000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(208)(普)</title>
 </programme>
 <programme channel="334895" start="20250308172000 +0800" stop="20250308172500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(206)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(209)(普)</title>
 </programme>
 <programme channel="334895" start="20250308172500 +0800" stop="20250308173500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(207)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(210)(普)</title>
 </programme>
 <programme channel="334895" start="20250308173500 +0800" stop="20250308174000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(117)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(124)(普)</title>
 </programme>
 <programme channel="334895" start="20250308174000 +0800" stop="20250308174500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(118)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(125)(普)</title>
 </programme>
 <programme channel="334895" start="20250308174500 +0800" stop="20250308175000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(119)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(127)(普)</title>
 </programme>
 <programme channel="334895" start="20250308175000 +0800" stop="20250308175500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">粉紅豬小妹S1(120)(普)</title>
+<desc /><title lang="zh">粉紅豬小妹S1(128)(普)</title>
 </programme>
 <programme channel="334895" start="20250308175500 +0800" stop="20250308181500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">小小神廚秀S1(102)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250308181500 +0800" stop="20250308184000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(216)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(218)(普)</title>
 </programme>
 <programme channel="334895" start="20250308184000 +0800" stop="20250308190000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(217)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S1(101)(普)</title>
 </programme>
 <programme channel="334895" start="20250308190000 +0800" stop="20250308192500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(710)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(712)(普)</title>
 </programme>
 <programme channel="334895" start="20250308192500 +0800" stop="20250308195000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S7(711)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S7(713)(普)</title>
 </programme>
 <programme channel="334895" start="20250308195000 +0800" stop="20250308201000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S1(102)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(104)(普)</title>
 </programme>
 <programme channel="334895" start="20250308201000 +0800" stop="20250308203000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊立大功S1(103)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S1(105)(普)</title>
 </programme>
 <programme channel="334895" start="20250308203000 +0800" stop="20250308205500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(125)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S1(126)(普)</title>
 </programme>
 <programme channel="334895" start="20250308205500 +0800" stop="20250308211500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">泡泡先生一家S2(214)(普)</title>
+<desc /><title lang="zh">泡泡先生一家S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250308211500 +0800" stop="20250308214000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(309)(普)</title>
+<desc /><title lang="zh">柏靈頓：熊熊歷險記S3(310)(普)</title>
 </programme>
 <programme channel="334895" start="20250308214000 +0800" stop="20250308220000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(119)(普)</title>
+<desc /><title lang="zh">汪汪隊之小礫與工程家族S1(120)(普)</title>
 </programme>
 <programme channel="334895" start="20250308220000 +0800" stop="20250308222500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">DoraS1(105)(普)</title>
+<desc /><title lang="zh">DoraS1(106)(普)</title>
 </programme>
 <programme channel="334895" start="20250308222500 +0800" stop="20250308224500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">旋風戰車隊S8(809)(普)</title>
+<desc /><title lang="zh">旋風戰車隊S1(103)(普)</title>
 </programme>
 <programme channel="334895" start="20250308224500 +0800" stop="20250308230500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">小小神廚秀S1(105)(普)</title>
+<desc /><title lang="zh">小小神廚秀S1(106)(普)</title>
 </programme>
 <programme channel="334895" start="20250308230500 +0800" stop="20250308231500 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S1(120)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(203)(普)</title>
 </programme>
 <programme channel="334895" start="20250308231500 +0800" stop="20250308232000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(201)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(204)(普)</title>
 </programme>
 <programme channel="334895" start="20250308232000 +0800" stop="20250308233000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">最愛鯊魚狗S2(202)(普)</title>
+<desc /><title lang="zh">最愛鯊魚狗S2(205)(普)</title>
 </programme>
 <programme channel="334895" start="20250308233000 +0800" stop="20250308235000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(213)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250308235000 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
-<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(214)(普)</title>
+<desc /><title lang="zh">鯊魚寶寶海洋歡樂秀S2(215)(普)</title>
 </programme>
 <programme channel="334895" start="20250309000000 +0800" stop="20250310000000 +0800">
 <date>2025-03-09</date>
-<desc /><title lang="zh">汪汪隊立大功S10(1020)(普)</title>
+<desc /><title lang="zh">汪汪隊立大功S10(1021)(普)</title>
 </programme>
 <programme channel="271829" start="20250307000000 +0800" stop="20250307010000 +0800">
 <date>2025-03-07</date>
@@ -13042,6 +13066,36 @@
 <desc>以痛快制裁惡人成為韓國動作片經典，續作【犯罪都市2】劇情描述，掃蕩加里峰洞任務後過了四年，衿川刑警隊前往越南引渡逃走的嫌犯。「怪物刑警」馬錫道（馬東石 飾）和全日萬組長（崔貴華 飾）發現在當地的嫌犯十分可疑，得知其背後有個凶惡殘暴的主使者姜海相（孫錫求 飾）。馬錫道和衿川刑警隊奔走於韓國和越南兩地，開始緝捕史上最壞的傢伙姜海相，展開最激烈的追捕行動！</desc>
 <title lang="zh">犯罪都市2</title>
 </programme>
+<programme channel="404197" start="20250307005300 +0800" stop="20250307030000 +0800">
+<date>2025-03-07</date>
+<desc>Gerry, a former United Nations employee, unexpectedly finds himself in a race against time as he investigates a threatening virus that turns humans into zombies.</desc>
+<title lang="zh">World War Z</title>
+</programme>
+<programme channel="404197" start="20250307030000 +0800" stop="20250307060000 +0800">
+<date>2025-03-07</date>
+<desc>Aboard an international flight, when a terror attack threatens to transpire, havoc wreaks on the plane. The cabin crew must strive to save their passengers and themselves.</desc>
+<title lang="zh">Emergency Declaration</title>
+</programme>
+<programme channel="404197" start="20250307060000 +0800" stop="20250307080000 +0800">
+<date>2025-03-07</date>
+<desc>A Chinese special forces unit must rescue their fellow citizens in the country of Yewaire on the Arabian Peninsula amidst violent coup and threats from a terrorist group.</desc>
+<title lang="zh">Operation Red Sea</title>
+</programme>
+<programme channel="404197" start="20250307080000 +0800" stop="20250307094500 +0800">
+<date>2025-03-07</date>
+<desc>A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+<title lang="zh">Sword Master</title>
+</programme>
+<programme channel="404197" start="20250307094500 +0800" stop="20250307114500 +0800">
+<date>2025-03-07</date>
+<desc>An enchantress, disguised as an old beggar, curses a selfish prince to live as a beast. To break her spell, he must learn to love and be loved before the last petal of the rose falls.</desc>
+<title lang="zh">Beauty and the Beast</title>
+</programme>
+<programme channel="404197" start="20250307114500 +0800" stop="20250308000000 +0800">
+<date>2025-03-07</date>
+<desc>Clark learns about the source of his abilities and his real home when he enters a Kryptonian ship in the Artic. However, an old enemy follows him to Earth in search of a codex and brings destruction.</desc>
+<title lang="zh">Man of Steel</title>
+</programme>
 <programme channel="370167" start="20250307000000 +0800" stop="20250307002200 +0800">
 <date>2025-03-07</date>
 <desc /><title lang="zh">動物大明星 S3 EP06 鴕鳥</title>
@@ -13617,6 +13671,10 @@
 <programme channel="370167" start="20250308234300 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
 <desc /><title lang="zh">ABC故事屋EP05</title>
+</programme>
+<programme channel="370167" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">動物大明星 S3 EP05 甲蟲</title>
 </programme>
 <programme channel="370162" start="20250307002000 +0800" stop="20250307004500 +0800">
 <date>2025-03-07</date>
@@ -17329,6 +17387,10 @@
 <date>2025-03-08</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250307010000 +0800" stop="20250307030000 +0800">
 <date>2025-03-07</date>
 <desc>警察鬥小偷</desc>
@@ -17593,5 +17655,9 @@
 <programme channel="370144" start="20250308220000 +0800" stop="20250309000000 +0800">
 <date>2025-03-08</date>
 <desc /><title lang="zh">綜藝玩很大安可場(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250309000000 +0800" stop="20250310000000 +0800">
+<date>2025-03-09</date>
+<desc /><title lang="zh">週四愛玩客(普)(N)</title>
 </programme>
 </tv>
