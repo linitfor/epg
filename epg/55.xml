@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250307205049 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250307&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250308003236 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250308.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250308&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250307023000 +0800" stop="20250307053000 +0800">
-    <title lang="zh">2025卡達男網賽十六強BERvsGRI</title>
-    <desc>2025卡達男網賽十六強BERvsGRI</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307053000 +0800" stop="20250307070000 +0800">
-    <title lang="zh">2025鹿特丹男網賽八強TSIvsBEL</title>
-    <desc>2025鹿特丹男網賽八強TSIvsBEL</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307070000 +0800" stop="20250307090000 +0800">
-    <title lang="zh">2025蒙彼利埃男網賽八強GRIvsJON</title>
-    <desc>2025蒙彼利埃男網賽八強GRIvsJON</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307090000 +0800" stop="20250307120000 +0800">
-    <title lang="zh">2025卡達男網賽十六強BERvsGRI</title>
-    <desc>2025卡達男網賽十六強BERvsGRI</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307120000 +0800" stop="20250307180000 +0800">
-    <title lang="zh">首播2025杜拜男網賽十六強</title>
-    <desc>首播2025杜拜男網賽十六強</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307180000 +0800" stop="20250307220000 +0800">
-    <title lang="zh">LIVE2025杜拜男網賽八強</title>
-    <desc>LIVE2025杜拜男網賽八強</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307220000 +0800" stop="20250307230000 +0800">
-    <title lang="zh">2025鹿特丹男網賽精華</title>
-    <desc>2025鹿特丹男網賽精華</desc>
-    <date>2025-03-07</date>
-  </programme>
-  <programme channel="369216" start="20250307230000 +0800" stop="20250308000000 +0800">
-    <title lang="zh">LIVE2025杜拜男網賽八強</title>
-    <desc>LIVE2025杜拜男網賽八強</desc>
-    <date>2025-03-07</date>
-  </programme>
   <programme channel="369216" start="20250308030000 +0800" stop="20250308053000 +0800">
     <title lang="zh">2025卡達男網賽八強ALCvsLEH</title>
     <desc>2025卡達男網賽八強ALCvsLEH</desc>
@@ -73,5 +33,35 @@
     <title lang="zh">LIVE2025杜拜男網賽四強</title>
     <desc>LIVE2025杜拜男網賽四強</desc>
     <date>2025-03-08</date>
+  </programme>
+  <programme channel="369216" start="20250309010000 +0800" stop="20250309033000 +0800">
+    <title lang="zh">2025卡達男網賽八強BERvsDRA</title>
+    <desc>2025卡達男網賽八強BERvsDRA</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="369216" start="20250309033000 +0800" stop="20250309050000 +0800">
+    <title lang="zh">2025蒙彼利埃男網賽八強BUvsALI</title>
+    <desc>2025蒙彼利埃男網賽八強BUvsALI</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="369216" start="20250309050000 +0800" stop="20250309140000 +0800">
+    <title lang="zh">2025鹿特丹男網賽八強ALTvsMIN</title>
+    <desc>2025鹿特丹男網賽八強ALTvsMIN</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="369216" start="20250309140000 +0800" stop="20250309170000 +0800">
+    <title lang="zh">2025卡達男網賽八強RUBvsMIN</title>
+    <desc>2025卡達男網賽八強RUBvsMIN</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="369216" start="20250309170000 +0800" stop="20250309190000 +0800">
+    <title lang="zh">2025墨西哥男網賽八強</title>
+    <desc>2025墨西哥男網賽八強</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="369216" start="20250309190000 +0800" stop="20250310000000 +0800">
+    <title lang="zh">首播2025印地安泉大師賽第四天</title>
+    <desc>首播2025印地安泉大師賽第四天</desc>
+    <date>2025-03-09</date>
   </programme>
 </tv>
