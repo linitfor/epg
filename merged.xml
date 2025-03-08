@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250309022619 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250309.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250309&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250309052012 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250309.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250309&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -2880,6 +2880,10 @@
 <date>2025-03-10</date>
 <desc /><title lang="zh">中視新聞(普)</title>
 </programme>
+<programme channel="370141" start="20250311000000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
+</programme>
 <programme channel="368922" start="20250309001000 +0800" stop="20250309021000 +0800">
 <date>2025-03-09</date>
 <desc>全新型態與組合的旅遊綜藝實境節目:逗趣大叔-許效舜+熱血青年-廖威廉~兩人逍遙環島、瘋玩台灣。這是一段見證男人友誼的旅行,帶著簡單行囊 ~騎上熱血摩托車~欣賞每個城鎮獨有的歷史人文,探索體驗每個地方的特色美食與生活,分享彼此人生故事,更彌足珍貴的是~知己談心為彼此充電,有別其他旅遊美食節目的樂趣和放鬆</desc>
@@ -4017,6 +4021,10 @@
 <programme channel="370149" start="20250310233000 +0800" stop="20250311000000 +0800">
 <date>2025-03-10</date>
 <desc /><title lang="zh">體壇最前線 3/10(第69集) (普)</title>
+</programme>
+<programme channel="370149" start="20250311000000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">醫師好辣(第344集) (普)</title>
 </programme>
 <programme channel="369284" start="20250309005000 +0800" stop="20250309015000 +0800">
 <date>2025-03-09</date>
@@ -6227,6 +6235,10 @@
 <programme channel="370222" start="20250310232400 +0800" stop="20250311000000 +0800">
 <date>2025-03-10</date>
 <desc /><title lang="zh">野人追夢 10 野人拋竿 雨林騎馬</title>
+</programme>
+<programme channel="370222" start="20250311000000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">地球的慶典14 熊本秋季例大祭(上)</title>
 </programme>
 <programme channel="369271" start="20250309000000 +0800" stop="20250309010000 +0800">
 <date>2025-03-09</date>
@@ -8735,6 +8747,10 @@
 <programme channel="370209" start="20250310235600 +0800" stop="20250311000000 +0800">
 <date>2025-03-10</date>
 <desc /><title lang="zh">00948 Swimwear Fashion Exposed INDAH SwimMiami Collections 2016 150904 PMNB</title>
+</programme>
+<programme channel="370209" start="20250311000000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
 </programme>
 <programme channel="335009" start="20250309000000 +0800" stop="20250309023400 +0800">
 <date>2025-03-09</date>
@@ -17406,5 +17422,9 @@
 <programme channel="370144" start="20250310230000 +0800" stop="20250311000000 +0800">
 <date>2025-03-10</date>
 <desc /><title lang="zh">阿姐萬歲(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250311000000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
