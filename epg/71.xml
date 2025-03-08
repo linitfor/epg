@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250309022655 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250309.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250309&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250309062124 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250309.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250309&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250309005700 +0800" stop="20250309023000 +0800">
+    <title lang="zh">Fall</title>
+    <desc>Two best friends Becky and Hunter decide to climb a 2000-foot-tall, abandoned tower. Soon, they find themselves stranded on it after the corroded ladder breaks.</desc>
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="404197" start="20250309023000 +0800" stop="20250309053000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="404197" start="20250309053000 +0800" stop="20250309083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="404197" start="20250309083000 +0800" stop="20250309113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-09</date>
+  </programme>
+  <programme channel="404197" start="20250309113000 +0800" stop="20250310000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-09</date>
+  </programme>
 </tv>
