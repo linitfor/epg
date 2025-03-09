@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250310022638 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250310.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250310&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250310052128 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250310.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250310&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250310001000 +0800" stop="20250310013000 +0800">
+    <title lang="zh">Crawl</title>
+    <desc>Florida residents Haley and her father get trapped in a massive hurricane and struggle to escape. But things get worse when they realise that the floodwater is the least of their fears.</desc>
+    <date>2025-03-10</date>
+  </programme>
+  <programme channel="404197" start="20250310013000 +0800" stop="20250310023000 +0800">
+    <title lang="zh">The 97Th Annual Academy Awards International - 2025</title>
+    <desc>This is TV Show - Events/Festivals Category.</desc>
+    <date>2025-03-10</date>
+  </programme>
+  <programme channel="404197" start="20250310023000 +0800" stop="20250310053000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-10</date>
+  </programme>
+  <programme channel="404197" start="20250310053000 +0800" stop="20250310083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-10</date>
+  </programme>
+  <programme channel="404197" start="20250310083000 +0800" stop="20250310113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-10</date>
+  </programme>
+  <programme channel="404197" start="20250310113000 +0800" stop="20250311000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-10</date>
+  </programme>
 </tv>
