@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250311023413 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250311062644 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335106">
     <display-name lang="Taiwan">DAZN 2</display-name>
     <icon src="" />
@@ -44,8 +44,13 @@
     <desc />
     <date>2025-03-11</date>
   </programme>
-  <programme channel="335106" start="20250311090000 +0800" stop="20250311115700 +0800">
+  <programme channel="335106" start="20250311090000 +0800" stop="20250311114000 +0800">
     <title lang="zh">2025日本職棒熱身賽 歐力士 vs 橫濱 (3/9/25)(普)</title>
+    <desc />
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="335106" start="20250311114000 +0800" stop="20250311115700 +0800">
+    <title lang="zh">中職35精彩好球 EP14(普)</title>
     <desc />
     <date>2025-03-11</date>
   </programme>
@@ -119,8 +124,13 @@
     <desc />
     <date>2025-03-12</date>
   </programme>
-  <programme channel="335106" start="20250312030000 +0800" stop="20250312060000 +0800">
+  <programme channel="335106" start="20250312030000 +0800" stop="20250312054500 +0800">
     <title lang="zh">2025日本職棒熱身賽 歐力士 vs 橫濱 (3/9/25)(普)</title>
+    <desc />
+    <date>2025-03-12</date>
+  </programme>
+  <programme channel="335106" start="20250312054500 +0800" stop="20250312060000 +0800">
+    <title lang="zh">中職35精彩好球 EP14(普)</title>
     <desc />
     <date>2025-03-12</date>
   </programme>
@@ -155,12 +165,12 @@
     <date>2025-03-12</date>
   </programme>
   <programme channel="335106" start="20250312165700 +0800" stop="20250312200000 +0800">
-    <title lang="zh">LIVE 2025日本職棒熱身賽 軟銀 vs 巨人 (3/12/25)(普)</title>
+    <title lang="zh">2025日本職棒熱身賽 軟銀 vs 巨人 (3/12/25)(普)</title>
     <desc />
     <date>2025-03-12</date>
   </programme>
   <programme channel="335106" start="20250312200000 +0800" stop="20250312203000 +0800">
-    <title lang="zh">(首)鍵盤球探 EP44 振翅的雄鷹狀元 曾子祐訪談 下(普)</title>
+    <title lang="zh">鍵盤球探 EP44 振翅的雄鷹狀元 曾子祐訪談 下(普)</title>
     <desc />
     <date>2025-03-12</date>
   </programme>
@@ -175,7 +185,7 @@
     <date>2025-03-12</date>
   </programme>
   <programme channel="335106" start="20250312220000 +0800" stop="20250313000000 +0800">
-    <title lang="zh">西甲 巴塞隆納 vs 奧薩蘇納 (3/9/25)(普)</title>
+    <title lang="zh">西甲 巴塞隆納 vs 皇家社會 (3/2/25)(普)</title>
     <desc />
     <date>2025-03-12</date>
   </programme>
