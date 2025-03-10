@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250311023353 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250311052516 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1664,6 +1664,10 @@
 <date>2025-03-12</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250311000000 +0800" stop="20250311010000 +0800">
 <date>2025-03-11</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2851,6 +2855,10 @@
 <programme channel="370141" start="20250312230000 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
 </programme>
 <programme channel="368922" start="20250311000000 +0800" stop="20250311010000 +0800">
 <date>2025-03-11</date>
@@ -4069,6 +4077,10 @@
 <programme channel="370149" start="20250312233000 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">體壇最前線 3/12(第71集) (普)</title>
+</programme>
+<programme channel="370149" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">醫師好辣(第350集) (普)</title>
 </programme>
 <programme channel="369284" start="20250311000000 +0800" stop="20250311003000 +0800">
 <date>2025-03-11</date>
@@ -5749,7 +5761,7 @@
 </programme>
 <programme channel="272025" start="20250311030000 +0800" stop="20250311040000 +0800">
 <date>2025-03-11</date>
-<desc /><title lang="zh">今晚開讚吧</title>
+<desc /><title lang="zh">后宮歐買尬</title>
 </programme>
 <programme channel="272025" start="20250311040000 +0800" stop="20250311050000 +0800">
 <date>2025-03-11</date>
@@ -5841,7 +5853,7 @@
 </programme>
 <programme channel="272025" start="20250312030000 +0800" stop="20250312040000 +0800">
 <date>2025-03-12</date>
-<desc /><title lang="zh">今晚開讚吧</title>
+<desc /><title lang="zh">后宮歐買尬</title>
 </programme>
 <programme channel="272025" start="20250312040000 +0800" stop="20250312050000 +0800">
 <date>2025-03-12</date>
@@ -6455,6 +6467,10 @@
 <programme channel="370222" start="20250312234400 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">野人追夢 13 野人露營Party</title>
+</programme>
+<programme channel="370222" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
 </programme>
 <programme channel="369271" start="20250311000000 +0800" stop="20250311010000 +0800">
 <date>2025-03-11</date>
@@ -8915,6 +8931,10 @@
 <programme channel="370209" start="20250312235600 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">00948 Swimwear Fashion Exposed INDAH SwimMiami Collections 2016 150904 PMNB</title>
+</programme>
+<programme channel="370209" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
 </programme>
 <programme channel="335009" start="20250311000000 +0800" stop="20250311021000 +0800">
 <date>2025-03-11</date>
@@ -13429,6 +13449,34 @@
 <desc>一眉道長所在的村落中有一座殘舊的教堂，修女瑪利亞前往重開教堂，剛巧村裡無水可用，村長找一眉道長勘察地理來尋找問題的源頭，發現是村中突然多出大量蝙蝠，並棲身於此教堂裡。</desc>
 <title lang="zh">一眉道人</title>
 </programme>
+<programme channel="404197" start="20250311010300 +0800" stop="20250311024500 +0800">
+<date>2025-03-11</date>
+<desc>After years of working as a mutant mercenary, Logan lives a quiet life with his girlfriend, Kayla. However, a figure from his past brutally assassinates Kayla, compelling Logan to seek vengeance.</desc>
+<title lang="zh">X-Men Origins: Wolverine</title>
+</programme>
+<programme channel="404197" start="20250311024500 +0800" stop="20250311042400 +0800">
+<date>2025-03-11</date>
+<desc>A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+<title lang="zh">Sword Master</title>
+</programme>
+<programme channel="404197" start="20250311042400 +0800" stop="20250311044000 +0800">
+<date>2025-03-11</date>
+<desc>A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+<title lang="zh">Movie In Focus</title>
+</programme>
+<programme channel="404197" start="20250311044000 +0800" stop="20250311073000 +0800">
+<date>2025-03-11</date>
+<desc>After the Kunlun gatekeeper is betrayed and ruined by his own people, his son joins forces with a shark man to fight their way back into Kunlun and avenge his father.</desc>
+<title lang="zh">KunLun Battle</title>
+</programme>
+<programme channel="404197" start="20250311073000 +0800" stop="20250311113000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
+<programme channel="404197" start="20250311113000 +0800" stop="20250312000000 +0800">
+<date>2025-03-11</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
 <programme channel="370167" start="20250311000000 +0800" stop="20250311002100 +0800">
 <date>2025-03-11</date>
 <desc /><title lang="zh">動物大明星 S4 EP04 蠶寶寶</title>
@@ -14004,6 +14052,10 @@
 <programme channel="370167" start="20250312234300 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">做菜ABCS1 EP03 (堅果沙拉)</title>
+</programme>
+<programme channel="370167" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">一起玩編織 EP03</title>
 </programme>
 <programme channel="370162" start="20250311002000 +0800" stop="20250311004500 +0800">
 <date>2025-03-11</date>
@@ -17479,6 +17531,10 @@
 <date>2025-03-12</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250311011500 +0800" stop="20250311031000 +0800">
 <date>2025-03-11</date>
 <desc>唐恩原是受頒十字勳章的英雄,卻在一次任務中不小心導致長官致命.在被送往囚營的途中,他被不知名的黑羊小組所截,只有加入他們的恐怖行動,才能免於貝送回死亡監獄.........…</desc>
@@ -17775,5 +17831,9 @@
 <programme channel="370144" start="20250312230000 +0800" stop="20250313000000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250313000000 +0800" stop="20250314000000 +0800">
+<date>2025-03-13</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>

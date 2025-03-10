@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250311023408 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250311052530 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
@@ -363,5 +363,10 @@
     <title lang="zh">野人追夢 13 野人露營Party</title>
     <desc />
     <date>2025-03-12</date>
+  </programme>
+  <programme channel="370222" start="20250313000000 +0800" stop="20250314000000 +0800">
+    <title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
+    <desc />
+    <date>2025-03-13</date>
   </programme>
 </tv>

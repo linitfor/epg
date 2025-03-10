@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250311023429 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250311052552 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250311.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250311&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250311010300 +0800" stop="20250311024500 +0800">
+    <title lang="zh">X-Men Origins: Wolverine</title>
+    <desc>After years of working as a mutant mercenary, Logan lives a quiet life with his girlfriend, Kayla. However, a figure from his past brutally assassinates Kayla, compelling Logan to seek vengeance.</desc>
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="404197" start="20250311024500 +0800" stop="20250311042400 +0800">
+    <title lang="zh">Sword Master</title>
+    <desc>A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="404197" start="20250311042400 +0800" stop="20250311044000 +0800">
+    <title lang="zh">Movie In Focus</title>
+    <desc>A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="404197" start="20250311044000 +0800" stop="20250311073000 +0800">
+    <title lang="zh">KunLun Battle</title>
+    <desc>After the Kunlun gatekeeper is betrayed and ruined by his own people, his son joins forces with a shark man to fight their way back into Kunlun and avenge his father.</desc>
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="404197" start="20250311073000 +0800" stop="20250311113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-11</date>
+  </programme>
+  <programme channel="404197" start="20250311113000 +0800" stop="20250312000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-11</date>
+  </programme>
 </tv>
