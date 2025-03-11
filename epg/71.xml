@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250312023645 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250312.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250312&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250312052042 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404197/20250312.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404197&amp;date=20250312&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="404197">
     <display-name lang="India">STAR MOVIES HD</display-name>
     <icon src="" />
   </channel>
+  <programme channel="404197" start="20250312015900 +0800" stop="20250312023000 +0800">
+    <title lang="zh">The Conjuring 2</title>
+    <desc>Peggy, a single mother of four children, seeks the help of occult investigators Ed and Lorraine Warren when she and her children witness strange, paranormal events in their house.</desc>
+    <date>2025-03-12</date>
+  </programme>
+  <programme channel="404197" start="20250312023000 +0800" stop="20250312053000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-12</date>
+  </programme>
+  <programme channel="404197" start="20250312053000 +0800" stop="20250312083000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-12</date>
+  </programme>
+  <programme channel="404197" start="20250312083000 +0800" stop="20250312113000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-12</date>
+  </programme>
+  <programme channel="404197" start="20250312113000 +0800" stop="20250313000000 +0800">
+    <title lang="zh">Movie</title>
+    <desc />
+    <date>2025-03-12</date>
+  </programme>
 </tv>

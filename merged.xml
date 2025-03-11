@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250312023611 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250312.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250312&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250312052003 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250312.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250312&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1660,6 +1660,10 @@
 <date>2025-03-13</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250312000000 +0800" stop="20250312010000 +0800">
 <date>2025-03-12</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2352,6 +2356,10 @@
 <date>2025-03-13</date>
 <desc /><title lang="zh">全球大視野</title>
 </programme>
+<programme channel="370177" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250312013000 +0800" stop="20250312020000 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">元氣加油站【普】(E2931)</title>
@@ -2847,6 +2855,10 @@
 <programme channel="370141" start="20250313230000 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
 </programme>
 <programme channel="368922" start="20250312000000 +0800" stop="20250312010000 +0800">
 <date>2025-03-12</date>
@@ -4070,6 +4082,10 @@
 <programme channel="370149" start="20250313233000 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">體壇最前線 3/13(第72集) (普)</title>
+</programme>
+<programme channel="370149" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">醫師好辣(第353集) (普)</title>
 </programme>
 <programme channel="369284" start="20250312000500 +0800" stop="20250312003500 +0800">
 <date>2025-03-12</date>
@@ -6467,6 +6483,10 @@
 <programme channel="370222" start="20250313233600 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">環遊世界800天 第一季 03 名聲</title>
+</programme>
+<programme channel="370222" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">地球的慶典22 馬祖擺暝慶元宵(上)</title>
 </programme>
 <programme channel="369271" start="20250312000000 +0800" stop="20250312010000 +0800">
 <date>2025-03-12</date>
@@ -8880,6 +8900,10 @@
 <programme channel="370209" start="20250313235400 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
+</programme>
+<programme channel="370209" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
 <programme channel="335009" start="20250312000000 +0800" stop="20250312041800 +0800">
 <date>2025-03-12</date>
@@ -13336,6 +13360,27 @@
 <desc>香港版《麻雀變鳳凰》，由劉德華扮演厭惡上流社會的富家公子，張敏是窮人家女兒，個性率直單純。陰錯陽差下，張敏將劉德華誤認為偷渡客，而展開一段好笑又浪漫的愛情故事。</desc>
 <title lang="zh">與龍共舞</title>
 </programme>
+<programme channel="404197" start="20250312015900 +0800" stop="20250312023000 +0800">
+<date>2025-03-12</date>
+<desc>Peggy, a single mother of four children, seeks the help of occult investigators Ed and Lorraine Warren when she and her children witness strange, paranormal events in their house.</desc>
+<title lang="zh">The Conjuring 2</title>
+</programme>
+<programme channel="404197" start="20250312023000 +0800" stop="20250312053000 +0800">
+<date>2025-03-12</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
+<programme channel="404197" start="20250312053000 +0800" stop="20250312083000 +0800">
+<date>2025-03-12</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
+<programme channel="404197" start="20250312083000 +0800" stop="20250312113000 +0800">
+<date>2025-03-12</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
+<programme channel="404197" start="20250312113000 +0800" stop="20250313000000 +0800">
+<date>2025-03-12</date>
+<desc /><title lang="zh">Movie</title>
+</programme>
 <programme channel="370167" start="20250312000000 +0800" stop="20250312002100 +0800">
 <date>2025-03-12</date>
 <desc /><title lang="zh">動物大明星 S4 EP10 大象</title>
@@ -13911,6 +13956,10 @@
 <programme channel="370167" start="20250313234400 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">做菜ABCS1 EP09 (清蒸魚)</title>
+</programme>
+<programme channel="370167" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">一起玩編織 EP09</title>
 </programme>
 <programme channel="370162" start="20250312002000 +0800" stop="20250312004500 +0800">
 <date>2025-03-12</date>
@@ -17456,6 +17505,10 @@
 <date>2025-03-13</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250312014000 +0800" stop="20250312041000 +0800">
 <date>2025-03-12</date>
 <desc>重案組李滄東要剛出獄的細鬼當警方的?人，混入大盜巴閉的集團，調查巴閉的行動，細鬼為了妹妹的醫藥費，只好答應；而之前擔任李滄東?人的廢歙，因遭李滄東上司的出賣，而落得抓狂發瘋、精神錯亂，道盡?人身份的悲哀...</desc>
@@ -17747,5 +17800,9 @@
 <programme channel="370144" start="20250313230000 +0800" stop="20250314000000 +0800">
 <date>2025-03-13</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250314000000 +0800" stop="20250315000000 +0800">
+<date>2025-03-14</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
