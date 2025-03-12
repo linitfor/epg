@@ -1,154 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250312232915 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250312.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250312&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250313003425 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250313.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250313&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370141">
     <display-name lang="Taiwan">中視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" />
   </channel>
-  <programme channel="370141" start="20250312000000 +0800" stop="20250312010000 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312010000 +0800" stop="20250312020000 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312020000 +0800" stop="20250312030000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312030000 +0800" stop="20250312033000 +0800">
-    <title lang="zh">台灣味道4(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312033000 +0800" stop="20250312040000 +0800">
-    <title lang="zh">台灣味道4(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312040000 +0800" stop="20250312050000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312050000 +0800" stop="20250312060000 +0800">
-    <title lang="zh">大陸尋奇(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312060000 +0800" stop="20250312070000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312070000 +0800" stop="20250312080000 +0800">
-    <title lang="zh">中視早安新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312080000 +0800" stop="20250312083000 +0800">
-    <title lang="zh">財經早點名(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312083000 +0800" stop="20250312090000 +0800">
-    <title lang="zh">股市貴公子(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312090000 +0800" stop="20250312100000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312100000 +0800" stop="20250312110000 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312110000 +0800" stop="20250312115800 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312115800 +0800" stop="20250312130000 +0800">
-    <title lang="zh">中視午間新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312130000 +0800" stop="20250312140000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312140000 +0800" stop="20250312143000 +0800">
-    <title lang="zh">股林高手(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312143000 +0800" stop="20250312150000 +0800">
-    <title lang="zh">超越巔峰(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312150000 +0800" stop="20250312153000 +0800">
-    <title lang="zh">價值型投資(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312153000 +0800" stop="20250312160000 +0800">
-    <title lang="zh">金融鬼谷子(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312160000 +0800" stop="20250312170000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312170000 +0800" stop="20250312172800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312172800 +0800" stop="20250312175800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312175800 +0800" stop="20250312185800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312185800 +0800" stop="20250312200000 +0800">
-    <title lang="zh">中視新聞全球報導(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312200000 +0800" stop="20250312210000 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312210000 +0800" stop="20250312220000 +0800">
-    <title lang="zh">這些年那些事(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312220000 +0800" stop="20250312230000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
-  <programme channel="370141" start="20250312230000 +0800" stop="20250313000000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-03-12</date>
-  </programme>
   <programme channel="370141" start="20250313000000 +0800" stop="20250313010000 +0800">
     <title lang="zh">這些年那些事(普)</title>
     <desc />
@@ -294,8 +149,148 @@
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="370141" start="20250314000000 +0800" stop="20250315000000 +0800">
+  <programme channel="370141" start="20250314000000 +0800" stop="20250314010000 +0800">
     <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314010000 +0800" stop="20250314020000 +0800">
+    <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314020000 +0800" stop="20250314030000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314030000 +0800" stop="20250314033000 +0800">
+    <title lang="zh">台灣味道4(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314033000 +0800" stop="20250314040000 +0800">
+    <title lang="zh">台灣味道4(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314040000 +0800" stop="20250314050000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314050000 +0800" stop="20250314060000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314060000 +0800" stop="20250314070000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314070000 +0800" stop="20250314080000 +0800">
+    <title lang="zh">中視早安新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314080000 +0800" stop="20250314083000 +0800">
+    <title lang="zh">財經早點名(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314083000 +0800" stop="20250314090000 +0800">
+    <title lang="zh">股市貴公子(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314090000 +0800" stop="20250314100000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314100000 +0800" stop="20250314110000 +0800">
+    <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314110000 +0800" stop="20250314115800 +0800">
+    <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314115800 +0800" stop="20250314130000 +0800">
+    <title lang="zh">中視午間新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314130000 +0800" stop="20250314140000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314140000 +0800" stop="20250314143000 +0800">
+    <title lang="zh">股林高手(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314143000 +0800" stop="20250314150000 +0800">
+    <title lang="zh">超越巔峰(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314150000 +0800" stop="20250314153000 +0800">
+    <title lang="zh">價值型投資(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314153000 +0800" stop="20250314160000 +0800">
+    <title lang="zh">金融鬼谷子(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314160000 +0800" stop="20250314170000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314170000 +0800" stop="20250314172800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314172800 +0800" stop="20250314175800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314175800 +0800" stop="20250314185800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314185800 +0800" stop="20250314200000 +0800">
+    <title lang="zh">中視新聞全球報導(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314200000 +0800" stop="20250314210000 +0800">
+    <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314210000 +0800" stop="20250314220000 +0800">
+    <title lang="zh">這些年那些事(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314220000 +0800" stop="20250314230000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="370141" start="20250314230000 +0800" stop="20250315000000 +0800">
+    <title lang="zh">中視新聞(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
