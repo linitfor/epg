@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250313023603 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250313.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250313&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250313052458 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250313.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250313&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250313000000 +0800" stop="20250313043500 +0800">
-    <title lang="zh">113年自由盃國小組團體桌球錦標賽 5/12賽程(普)</title>
+  <programme channel="335009" start="20250313000000 +0800" stop="20250313023800 +0800">
+    <title lang="zh">2024全國地板滾球錦標賽 7/06下午賽程(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313023800 +0800" stop="20250313041400 +0800">
+    <title lang="zh">2024新北市議長盃全國撞球公開賽 學生組冠軍賽 林媺玟 vs 洪欣妤(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313041400 +0800" stop="20250313043500 +0800">
+    <title lang="zh">112學年度國中硬式組 四強賽 新北二重 vs 臺南民德(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
@@ -14,13 +24,23 @@
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313054100 +0800" stop="20250313064300 +0800">
+  <programme channel="335009" start="20250313054100 +0800" stop="20250313062200 +0800">
     <title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313064300 +0800" stop="20250313075300 +0800">
+  <programme channel="335009" start="20250313062200 +0800" stop="20250313064300 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 大戶人家公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313064300 +0800" stop="20250313072400 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313072400 +0800" stop="20250313075300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽 嘉義市天晴 vs 台北海洋雲豹(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
@@ -29,8 +49,23 @@
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313090000 +0800" stop="20250313163000 +0800">
-    <title lang="zh">[Live] 113學年度國中棒球硬式組 16強賽(普)</title>
+  <programme channel="335009" start="20250313090000 +0800" stop="20250313133000 +0800">
+    <title lang="zh">[Live] 113學年度國中棒球硬式組 八強賽(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313133000 +0800" stop="20250313143800 +0800">
+    <title lang="zh">2024全國地板滾球錦標賽 7/06下午賽程(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313143800 +0800" stop="20250313161400 +0800">
+    <title lang="zh">2024新北市議長盃全國撞球公開賽 學生組冠軍賽 林媺玟 vs 洪欣妤(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313161400 +0800" stop="20250313163000 +0800">
+    <title lang="zh">112學年度國中硬式組 四強賽 新北二重 vs 臺南民德(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
@@ -39,13 +74,23 @@
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313174100 +0800" stop="20250313184300 +0800">
+  <programme channel="335009" start="20250313174100 +0800" stop="20250313182200 +0800">
     <title lang="zh">2024全國少年籃球錦標賽 U11男子冠軍戰 臺北天母 vs 新北網溪(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313184300 +0800" stop="20250313195300 +0800">
+  <programme channel="335009" start="20250313182200 +0800" stop="20250313184300 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 大戶人家公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313184300 +0800" stop="20250313192400 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313192400 +0800" stop="20250313195300 +0800">
+    <title lang="zh">2023 FS1 中華五人制足球聯賽 嘉義市天晴 vs 台北海洋雲豹(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
@@ -55,32 +100,57 @@
     <date>2025-03-13</date>
   </programme>
   <programme channel="335009" start="20250313210000 +0800" stop="20250313215800 +0800">
-    <title lang="zh">2024 TARO CUP U12國際少年籃球邀請賽 男子組季軍戰 馬來西亞 vs 新加坡(普)</title>
+    <title lang="zh">112年全國運動會 橄欖球項目(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313215800 +0800" stop="20250313231800 +0800">
+  <programme channel="335009" start="20250313215800 +0800" stop="20250313221000 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第四回合(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250313231800 +0800" stop="20250314000000 +0800">
+  <programme channel="335009" start="20250313221000 +0800" stop="20250313231800 +0800">
+    <title lang="zh">2023育創盃高中籃球邀請賽 冠軍賽 光復高中 vs 能仁家商(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250313231800 +0800" stop="20250313232600 +0800">
     <title lang="zh">第一屆臺灣美式躲避球錦標賽 男子季軍賽 臺北市 vs 宜蘭縣(普)</title>
     <desc />
     <date>2025-03-13</date>
   </programme>
-  <programme channel="335009" start="20250314000000 +0800" stop="20250314023800 +0800">
-    <title lang="zh">2024全國地板滾球錦標賽 7/06下午賽程(普)</title>
+  <programme channel="335009" start="20250313232600 +0800" stop="20250314000000 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 伍珈萱 vs 王永玠(普)</title>
+    <desc />
+    <date>2025-03-13</date>
+  </programme>
+  <programme channel="335009" start="20250314000000 +0800" stop="20250314011300 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 黃瑜祥 vs 蔡易辰(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314023800 +0800" stop="20250314041400 +0800">
+  <programme channel="335009" start="20250314011300 +0800" stop="20250314023800 +0800">
+    <title lang="zh">112學年度國中硬式組 四強賽 臺中中山 vs 桃園新明(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314023800 +0800" stop="20250314024800 +0800">
     <title lang="zh">2024新北市議長盃全國撞球公開賽 學生組冠軍賽 林媺玟 vs 洪欣妤(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314041400 +0800" stop="20250314062200 +0800">
+  <programme channel="335009" start="20250314024800 +0800" stop="20250314041400 +0800">
+    <title lang="zh">2024高南盃全國羽球分級錦標賽(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314041400 +0800" stop="20250314054600 +0800">
     <title lang="zh">112學年度國中硬式組 四強賽 新北二重 vs 臺南民德(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314054600 +0800" stop="20250314062200 +0800">
+    <title lang="zh">2024台灣名人賽暨第38屆三商杯第二回合(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
@@ -89,28 +159,43 @@
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314072400 +0800" stop="20250314090000 +0800">
+  <programme channel="335009" start="20250314072400 +0800" stop="20250314083000 +0800">
     <title lang="zh">2023 FS1 中華五人制足球聯賽 嘉義市天晴 vs 台北海洋雲豹(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
+  <programme channel="335009" start="20250314083000 +0800" stop="20250314090000 +0800">
+    <title lang="zh">第22屆踢拳全國錦標賽 極限武術(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
   <programme channel="335009" start="20250314090000 +0800" stop="20250314133000 +0800">
-    <title lang="zh">[Live] 113學年度國中棒球硬式組 八強賽(普)</title>
+    <title lang="zh">[Live] 113學年度國中棒球硬式組 四強賽(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
   <programme channel="335009" start="20250314133000 +0800" stop="20250314143800 +0800">
-    <title lang="zh">2024全國地板滾球錦標賽 7/06下午賽程(普)</title>
+    <title lang="zh">112學年度國中硬式組 四強賽 臺中中山 vs 桃園新明(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314143800 +0800" stop="20250314161400 +0800">
+  <programme channel="335009" start="20250314143800 +0800" stop="20250314144800 +0800">
     <title lang="zh">2024新北市議長盃全國撞球公開賽 學生組冠軍賽 林媺玟 vs 洪欣妤(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314161400 +0800" stop="20250314182200 +0800">
+  <programme channel="335009" start="20250314144800 +0800" stop="20250314161400 +0800">
+    <title lang="zh">2024高南盃全國羽球分級錦標賽(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314161400 +0800" stop="20250314174600 +0800">
     <title lang="zh">112學年度國中硬式組 四強賽 新北二重 vs 臺南民德(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314174600 +0800" stop="20250314182200 +0800">
+    <title lang="zh">2024台灣名人賽暨第38屆三商杯第二回合(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
@@ -119,18 +204,28 @@
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314192400 +0800" stop="20250314210000 +0800">
+  <programme channel="335009" start="20250314192400 +0800" stop="20250314203000 +0800">
     <title lang="zh">2023 FS1 中華五人制足球聯賽 嘉義市天晴 vs 台北海洋雲豹(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314210000 +0800" stop="20250314221000 +0800">
-    <title lang="zh">112年全國運動會 橄欖球項目(普)</title>
+  <programme channel="335009" start="20250314203000 +0800" stop="20250314210000 +0800">
+    <title lang="zh">第22屆踢拳全國錦標賽 極限武術(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
-  <programme channel="335009" start="20250314221000 +0800" stop="20250314232600 +0800">
+  <programme channel="335009" start="20250314210000 +0800" stop="20250314221000 +0800">
+    <title lang="zh">2024登峰造極排球 高女組 內湖高中 vs 中山工商(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314221000 +0800" stop="20250314223000 +0800">
     <title lang="zh">2023育創盃高中籃球邀請賽 冠軍賽 光復高中 vs 能仁家商(普)</title>
+    <desc />
+    <date>2025-03-14</date>
+  </programme>
+  <programme channel="335009" start="20250314223000 +0800" stop="20250314232600 +0800">
+    <title lang="zh">2024登峰造極排球 高男組 福誠高中 vs 豐原高商(普)</title>
     <desc />
     <date>2025-03-14</date>
   </programme>
@@ -140,7 +235,7 @@
     <date>2025-03-14</date>
   </programme>
   <programme channel="335009" start="20250315000000 +0800" stop="20250316000000 +0800">
-    <title lang="zh">113年臺灣盃全國撞球錦標賽 黃瑜祥 vs 蔡易辰(普)</title>
+    <title lang="zh">2024佛光盃大學籃球 男子A組預賽 政治大學 vs Brian Kerle籃球學院(普)</title>
     <desc />
     <date>2025-03-15</date>
   </programme>
