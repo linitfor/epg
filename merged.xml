@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250316052416 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250316.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250316&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250316100411 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250316.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250316&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -7683,7 +7683,7 @@
 </programme>
 <programme channel="335106" start="20250316035500 +0800" stop="20250316060000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">LIVE 西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 吉羅納 vs 瓦倫西亞 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316060000 +0800" stop="20250316070000 +0800">
 <date>2025-03-16</date>
@@ -7691,11 +7691,15 @@
 </programme>
 <programme channel="335106" start="20250316070000 +0800" stop="20250316090000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 義力營造 vs 臺北鯨華 (10/26/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 季後賽 連莊 vs 桃園臺灣產險 (3/8/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250316090000 +0800" stop="20250316115800 +0800">
+<programme channel="335106" start="20250316090000 +0800" stop="20250316115700 +0800">
 <date>2025-03-16</date>
 <desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/15/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250316115700 +0800" stop="20250316115800 +0800">
+<date>2025-03-16</date>
+<desc /><title lang="zh">LIVE 2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316115800 +0800" stop="20250316120000 +0800">
 <date>2025-03-16</date>
@@ -7711,7 +7715,7 @@
 </programme>
 <programme channel="335106" start="20250316150000 +0800" stop="20250316153000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 臺北鯨華 (1/18/25)(普)</title>
+<desc /><title lang="zh">鍵盤球探 EP44 振翅的雄鷹狀元 曾子祐訪談 下(普)</title>
 </programme>
 <programme channel="335106" start="20250316153000 +0800" stop="20250316160000 +0800">
 <date>2025-03-16</date>
@@ -7723,7 +7727,7 @@
 </programme>
 <programme channel="335106" start="20250316170000 +0800" stop="20250316193000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
+<desc /><title lang="zh">LIVE 24-25 PLG 鋼鐵人 vs 勇士 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316193000 +0800" stop="20250316200000 +0800">
 <date>2025-03-16</date>
@@ -7731,11 +7735,11 @@
 </programme>
 <programme channel="335106" start="20250316200000 +0800" stop="20250316220000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 季後賽 連莊 vs 桃園臺灣產險 (3/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316220000 +0800" stop="20250316221500 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP22(普)</title>
 </programme>
 <programme channel="335106" start="20250316221500 +0800" stop="20250316231000 +0800">
 <date>2025-03-16</date>
@@ -7743,7 +7747,7 @@
 </programme>
 <programme channel="335106" start="20250316231000 +0800" stop="20250317000000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 畢爾包競技(3/16/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 畢爾包競技 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317000000 +0800" stop="20250317010000 +0800">
 <date>2025-03-17</date>
@@ -7775,23 +7779,23 @@
 </programme>
 <programme channel="335106" start="20250317060000 +0800" stop="20250317070000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">麻將大師 第六季 EP37(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP36(護)</title>
 </programme>
 <programme channel="335106" start="20250317070000 +0800" stop="20250317090000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 屏東台電 (10/27/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 義力營造 vs 臺北鯨華 (10/26/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250317090000 +0800" stop="20250317120000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/15/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317120000 +0800" stop="20250317130000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">麻將大師 第六季 EP44(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP43(護)</title>
 </programme>
 <programme channel="335106" start="20250317130000 +0800" stop="20250317133000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
+<desc /><title lang="zh">西甲 皇家瓦拉多利德 vs 塞爾塔維戈 (3/15/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317133000 +0800" stop="20250317135700 +0800">
 <date>2025-03-17</date>
@@ -7803,7 +7807,7 @@
 </programme>
 <programme channel="335106" start="20250317150000 +0800" stop="20250317165700 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 連莊 (1/25/25)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 臺北鯨華 (1/18/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317165700 +0800" stop="20250317170000 +0800">
 <date>2025-03-17</date>
@@ -7811,7 +7815,7 @@
 </programme>
 <programme channel="335106" start="20250317170000 +0800" stop="20250317173000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">(首)鍵盤球探 EP45 進擊的新人王 曾子祐訪談 上(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317173000 +0800" stop="20250317180000 +0800">
 <date>2025-03-17</date>
@@ -7831,7 +7835,7 @@
 </programme>
 <programme channel="335106" start="20250317200000 +0800" stop="20250317203000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">(首)鍵盤球探 EP45 進擊的新人王 曾子祐訪談 上(普)</title>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250317203000 +0800" stop="20250317210000 +0800">
 <date>2025-03-17</date>
@@ -7843,11 +7847,11 @@
 </programme>
 <programme channel="335106" start="20250317220000 +0800" stop="20250318000000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">西甲 塞維利亞 vs 畢爾包競技 (3/16/25)(普)</title>
+<desc /><title lang="zh">西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318000000 +0800" stop="20250319000000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">麻將大師 第七季 EP2(護)</title>
+<desc /><title lang="zh">麻將大師 第七季 EP1(護)</title>
 </programme>
 <programme channel="369235" start="20250316000000 +0800" stop="20250316020000 +0800">
 <date>2025-03-16</date>
@@ -10696,7 +10700,7 @@
 </programme>
 <programme channel="335106" start="20250316035500 +0800" stop="20250316060000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">LIVE 西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 吉羅納 vs 瓦倫西亞 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316060000 +0800" stop="20250316070000 +0800">
 <date>2025-03-16</date>
@@ -10704,11 +10708,15 @@
 </programme>
 <programme channel="335106" start="20250316070000 +0800" stop="20250316090000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 義力營造 vs 臺北鯨華 (10/26/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 季後賽 連莊 vs 桃園臺灣產險 (3/8/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250316090000 +0800" stop="20250316115800 +0800">
+<programme channel="335106" start="20250316090000 +0800" stop="20250316115700 +0800">
 <date>2025-03-16</date>
 <desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/15/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250316115700 +0800" stop="20250316115800 +0800">
+<date>2025-03-16</date>
+<desc /><title lang="zh">LIVE 2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316115800 +0800" stop="20250316120000 +0800">
 <date>2025-03-16</date>
@@ -10724,7 +10732,7 @@
 </programme>
 <programme channel="335106" start="20250316150000 +0800" stop="20250316153000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 臺北鯨華 (1/18/25)(普)</title>
+<desc /><title lang="zh">鍵盤球探 EP44 振翅的雄鷹狀元 曾子祐訪談 下(普)</title>
 </programme>
 <programme channel="335106" start="20250316153000 +0800" stop="20250316160000 +0800">
 <date>2025-03-16</date>
@@ -10736,7 +10744,7 @@
 </programme>
 <programme channel="335106" start="20250316170000 +0800" stop="20250316193000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
+<desc /><title lang="zh">LIVE 24-25 PLG 鋼鐵人 vs 勇士 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316193000 +0800" stop="20250316200000 +0800">
 <date>2025-03-16</date>
@@ -10744,11 +10752,11 @@
 </programme>
 <programme channel="335106" start="20250316200000 +0800" stop="20250316220000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 季後賽 連莊 vs 桃園臺灣產險 (3/8/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250316220000 +0800" stop="20250316221500 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
+<desc /><title lang="zh">都是排球咖 S2 EP22(普)</title>
 </programme>
 <programme channel="335106" start="20250316221500 +0800" stop="20250316231000 +0800">
 <date>2025-03-16</date>
@@ -10756,7 +10764,7 @@
 </programme>
 <programme channel="335106" start="20250316231000 +0800" stop="20250317000000 +0800">
 <date>2025-03-16</date>
-<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 畢爾包競技(3/16/25)(普)</title>
+<desc /><title lang="zh">LIVE 西甲 塞維利亞 vs 畢爾包競技 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317000000 +0800" stop="20250317010000 +0800">
 <date>2025-03-17</date>
@@ -10788,23 +10796,23 @@
 </programme>
 <programme channel="335106" start="20250317060000 +0800" stop="20250317070000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">麻將大師 第六季 EP37(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP36(護)</title>
 </programme>
 <programme channel="335106" start="20250317070000 +0800" stop="20250317090000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 屏東台電 (10/27/24)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 義力營造 vs 臺北鯨華 (10/26/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250317090000 +0800" stop="20250317120000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/15/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317120000 +0800" stop="20250317130000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">麻將大師 第六季 EP44(護)</title>
+<desc /><title lang="zh">麻將大師 第六季 EP43(護)</title>
 </programme>
 <programme channel="335106" start="20250317130000 +0800" stop="20250317133000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">鍵盤球探 EP39 一個王牌的誕生 古林睿煬訪談 上(普)</title>
+<desc /><title lang="zh">西甲 皇家瓦拉多利德 vs 塞爾塔維戈 (3/15/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317133000 +0800" stop="20250317135700 +0800">
 <date>2025-03-17</date>
@@ -10816,7 +10824,7 @@
 </programme>
 <programme channel="335106" start="20250317150000 +0800" stop="20250317165700 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 連莊 (1/25/25)(普)</title>
+<desc /><title lang="zh">企業排球聯賽 新北中纖 vs 臺北鯨華 (1/18/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317165700 +0800" stop="20250317170000 +0800">
 <date>2025-03-17</date>
@@ -10824,7 +10832,7 @@
 </programme>
 <programme channel="335106" start="20250317170000 +0800" stop="20250317173000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">(首)鍵盤球探 EP45 進擊的新人王 曾子祐訪談 上(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 軟銀 vs 火腿 (3/16/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250317173000 +0800" stop="20250317180000 +0800">
 <date>2025-03-17</date>
@@ -10844,7 +10852,7 @@
 </programme>
 <programme channel="335106" start="20250317200000 +0800" stop="20250317203000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">(首)鍵盤球探 EP45 進擊的新人王 曾子祐訪談 上(普)</title>
+<desc /><title lang="zh">企業排球聯賽 臺北鯨華 vs 高雄台電 (11/2/24)(普)</title>
 </programme>
 <programme channel="335106" start="20250317203000 +0800" stop="20250317210000 +0800">
 <date>2025-03-17</date>
@@ -10856,11 +10864,11 @@
 </programme>
 <programme channel="335106" start="20250317220000 +0800" stop="20250318000000 +0800">
 <date>2025-03-17</date>
-<desc /><title lang="zh">西甲 塞維利亞 vs 畢爾包競技 (3/16/25)(普)</title>
+<desc /><title lang="zh">西甲 馬德里競技 vs 巴塞隆納 (3/17/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318000000 +0800" stop="20250319000000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">麻將大師 第七季 EP2(護)</title>
+<desc /><title lang="zh">麻將大師 第七季 EP1(護)</title>
 </programme>
 <programme channel="369216" start="20250316030000 +0800" stop="20250316140000 +0800">
 <date>2025-03-16</date>
