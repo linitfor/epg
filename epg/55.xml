@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250316204644 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250316.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250316&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250317002945 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250317.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250317&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250316030000 +0800" stop="20250316140000 +0800">
-    <title lang="zh">LIVE2025印地安泉大師賽第三天</title>
-    <desc>LIVE2025印地安泉大師賽第三天</desc>
-    <date>2025-03-16</date>
-  </programme>
-  <programme channel="369216" start="20250316140000 +0800" stop="20250316143000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-03-16</date>
-  </programme>
-  <programme channel="369216" start="20250316143000 +0800" stop="20250316160000 +0800">
-    <title lang="zh">2025卡達男網賽十六強BERvsMED</title>
-    <desc>2025卡達男網賽十六強BERvsMED</desc>
-    <date>2025-03-16</date>
-  </programme>
-  <programme channel="369216" start="20250316160000 +0800" stop="20250316180000 +0800">
-    <title lang="zh">2025杜拜男網賽八強</title>
-    <desc>2025杜拜男網賽八強</desc>
-    <date>2025-03-16</date>
-  </programme>
-  <programme channel="369216" start="20250316180000 +0800" stop="20250316190000 +0800">
-    <title lang="zh">2025鹿特丹男網賽精華</title>
-    <desc>2025鹿特丹男網賽精華</desc>
-    <date>2025-03-16</date>
-  </programme>
-  <programme channel="369216" start="20250316190000 +0800" stop="20250317000000 +0800">
-    <title lang="zh">首播2025印地安泉大師賽四強</title>
-    <desc>首播2025印地安泉大師賽四強</desc>
-    <date>2025-03-16</date>
-  </programme>
   <programme channel="369216" start="20250317000000 +0800" stop="20250317013000 +0800">
     <title lang="zh">2025杜拜男網賽十六強GRIvsHUM</title>
     <desc>2025杜拜男網賽十六強GRIvsHUM</desc>
@@ -93,5 +63,30 @@
     <title lang="zh">2025杜拜男網賽十六強TSIvsKHA</title>
     <desc>2025杜拜男網賽十六強TSIvsKHA</desc>
     <date>2025-03-17</date>
+  </programme>
+  <programme channel="369216" start="20250318020000 +0800" stop="20250318130000 +0800">
+    <title lang="zh">LIVE2025印地安泉大師賽第五天</title>
+    <desc>LIVE2025印地安泉大師賽第五天</desc>
+    <date>2025-03-18</date>
+  </programme>
+  <programme channel="369216" start="20250318130000 +0800" stop="20250318143000 +0800">
+    <title lang="zh">2025墨西哥男網賽八強FOKvsMEN</title>
+    <desc>2025墨西哥男網賽八強FOKvsMEN</desc>
+    <date>2025-03-18</date>
+  </programme>
+  <programme channel="369216" start="20250318143000 +0800" stop="20250318163000 +0800">
+    <title lang="zh">2025杜拜男網賽八強TSIvsBER</title>
+    <desc>2025杜拜男網賽八強TSIvsBER</desc>
+    <date>2025-03-18</date>
+  </programme>
+  <programme channel="369216" start="20250318163000 +0800" stop="20250318190000 +0800">
+    <title lang="zh">2025卡達男網賽八強BERvsDRA</title>
+    <desc>2025卡達男網賽八強BERvsDRA</desc>
+    <date>2025-03-18</date>
+  </programme>
+  <programme channel="369216" start="20250318190000 +0800" stop="20250319000000 +0800">
+    <title lang="zh">首播2025印地安泉大師賽第五天</title>
+    <desc>首播2025印地安泉大師賽第五天</desc>
+    <date>2025-03-18</date>
   </programme>
 </tv>
