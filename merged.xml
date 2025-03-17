@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250318042808 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250318.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250318&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250318072437 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250318.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250318&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -2356,6 +2356,10 @@
 <date>2025-03-19</date>
 <desc /><title lang="zh">全球大視野</title>
 </programme>
+<programme channel="370177" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250318013000 +0800" stop="20250318020000 +0800">
 <date>2025-03-18</date>
 <desc /><title lang="zh">元氣加油站【普】(E2931)</title>
@@ -2847,6 +2851,10 @@
 <programme channel="370141" start="20250319230000 +0800" stop="20250320000000 +0800">
 <date>2025-03-19</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">這些年那些事(普)</title>
 </programme>
 <programme channel="368922" start="20250318000000 +0800" stop="20250318010000 +0800">
 <date>2025-03-18</date>
@@ -4065,6 +4073,10 @@
 <programme channel="370149" start="20250319233000 +0800" stop="20250320000000 +0800">
 <date>2025-03-19</date>
 <desc /><title lang="zh">體壇最前線 3/19(第78集) (普)</title>
+</programme>
+<programme channel="370149" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">美麗不妥協(第10集) (護)</title>
 </programme>
 <programme channel="369284" start="20250318003000 +0800" stop="20250318013000 +0800">
 <date>2025-03-18</date>
@@ -6454,6 +6466,10 @@
 <date>2025-03-19</date>
 <desc /><title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
 </programme>
+<programme channel="370222" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">地球的慶典40 溫州旅遊季</title>
+</programme>
 <programme channel="369271" start="20250318000000 +0800" stop="20250318010000 +0800">
 <date>2025-03-18</date>
 <desc>延續第一季「冒險驚奇」的精神，節目內容繼續以主持人尋找稀奇、不可思議的事物及特殊的冒險故事路線為主軸，除了一般著名的景點介紹之外，將更著重於各地的傳聞、奇景、傳說故事的秘境探險！</desc>
@@ -7906,7 +7922,7 @@
 </programme>
 <programme channel="335106" start="20250318180000 +0800" stop="20250318183000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">鍵盤球探 EP41 府城金孫邁向世界舞台 古林睿煬訪談 上(普)</title>
+<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 連莊 (1/25/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318183000 +0800" stop="20250318190000 +0800">
 <date>2025-03-18</date>
@@ -7916,13 +7932,17 @@
 <date>2025-03-18</date>
 <desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/18/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250318200000 +0800" stop="20250318210000 +0800">
+<programme channel="335106" start="20250318200000 +0800" stop="20250318203000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">企業排球聯賽 高雄台電 vs 臺北鯨華 (11/3/24)(普)</title>
+<desc /><title lang="zh">鍵盤球探 EP41 府城金孫邁向世界舞台 古林睿煬訪談 上(普)</title>
+</programme>
+<programme channel="335106" start="20250318203000 +0800" stop="20250318210000 +0800">
+<date>2025-03-18</date>
+<desc /><title lang="zh">鍵盤球探 EP42 府城金孫邁向世界舞台 古林睿煬訪談 下(普)</title>
 </programme>
 <programme channel="335106" start="20250318210000 +0800" stop="20250318220000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/19/25)(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/18/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318220000 +0800" stop="20250319000000 +0800">
 <date>2025-03-18</date>
@@ -8911,6 +8931,10 @@
 <programme channel="370209" start="20250319235400 +0800" stop="20250320000000 +0800">
 <date>2025-03-19</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
+</programme>
+<programme channel="370209" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
 <programme channel="335009" start="20250318000000 +0800" stop="20250318040000 +0800">
 <date>2025-03-18</date>
@@ -10960,7 +10984,7 @@
 </programme>
 <programme channel="335106" start="20250318180000 +0800" stop="20250318183000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">鍵盤球探 EP41 府城金孫邁向世界舞台 古林睿煬訪談 上(普)</title>
+<desc /><title lang="zh">企業排球聯賽 桃園臺灣產險 vs 連莊 (1/25/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318183000 +0800" stop="20250318190000 +0800">
 <date>2025-03-18</date>
@@ -10970,13 +10994,17 @@
 <date>2025-03-18</date>
 <desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/18/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250318200000 +0800" stop="20250318210000 +0800">
+<programme channel="335106" start="20250318200000 +0800" stop="20250318203000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">企業排球聯賽 高雄台電 vs 臺北鯨華 (11/3/24)(普)</title>
+<desc /><title lang="zh">鍵盤球探 EP41 府城金孫邁向世界舞台 古林睿煬訪談 上(普)</title>
+</programme>
+<programme channel="335106" start="20250318203000 +0800" stop="20250318210000 +0800">
+<date>2025-03-18</date>
+<desc /><title lang="zh">鍵盤球探 EP42 府城金孫邁向世界舞台 古林睿煬訪談 下(普)</title>
 </programme>
 <programme channel="335106" start="20250318210000 +0800" stop="20250318220000 +0800">
 <date>2025-03-18</date>
-<desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/19/25)(普)</title>
+<desc /><title lang="zh">2025日本職棒熱身賽 火腿 vs 巨人 (3/18/25)(普)</title>
 </programme>
 <programme channel="335106" start="20250318220000 +0800" stop="20250319000000 +0800">
 <date>2025-03-18</date>
@@ -13948,6 +13976,10 @@
 <programme channel="370167" start="20250319234400 +0800" stop="20250320000000 +0800">
 <date>2025-03-19</date>
 <desc /><title lang="zh">ABC故事屋EP15</title>
+</programme>
+<programme channel="370167" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">一起摺氣球 EP015</title>
 </programme>
 <programme channel="370162" start="20250318002000 +0800" stop="20250318004500 +0800">
 <date>2025-03-18</date>
@@ -17416,6 +17448,10 @@
 <date>2025-03-19</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250318011500 +0800" stop="20250318034000 +0800">
 <date>2025-03-18</date>
 <desc>吳宇森及周潤發第三度攜手合作。職業殺手小莊(周潤發)因受聘殺害黑社會頭子而被捲入權力鬥爭的風暴並成為被狙擊的對象；與此同時，小莊與探員李鷹(李修賢)及老曾(曾江)多番交手後，從敵對中建立深…</desc>
@@ -17707,5 +17743,9 @@
 <programme channel="370144" start="20250319230000 +0800" stop="20250320000000 +0800">
 <date>2025-03-19</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250320000000 +0800" stop="20250321000000 +0800">
+<date>2025-03-20</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
