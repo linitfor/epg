@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250319232849 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250319.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250319&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250320003342 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250320.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250320&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
   </channel>
-  <programme channel="369248" start="20250319000000 +0800" stop="20250319010000 +0800">
-    <title lang="zh">東森夜線新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319010000 +0800" stop="20250319020000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319020000 +0800" stop="20250319030000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319030000 +0800" stop="20250319040000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319040000 +0800" stop="20250319050000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319050000 +0800" stop="20250319060000 +0800">
-    <title lang="zh">東森夜線新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319060000 +0800" stop="20250319090000 +0800">
-    <title lang="zh">Hello台灣</title>
-    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319090000 +0800" stop="20250319100000 +0800">
-    <title lang="zh">東森新聞</title>
-    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319100000 +0800" stop="20250319110000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319110000 +0800" stop="20250319120000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319120000 +0800" stop="20250319130000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319130000 +0800" stop="20250319140000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319140000 +0800" stop="20250319150000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319150000 +0800" stop="20250319160000 +0800">
-    <title lang="zh">東森大社會</title>
-    <desc>介紹台灣社會重大案件與名人佚事的始末</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319160000 +0800" stop="20250319170000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319170000 +0800" stop="20250319180000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319180000 +0800" stop="20250319190000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319190000 +0800" stop="20250319200000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319200000 +0800" stop="20250319210000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319210000 +0800" stop="20250319220000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319220000 +0800" stop="20250319230000 +0800">
-    <title lang="zh">關鍵時刻</title>
-    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
-    <date>2025-03-19</date>
-  </programme>
-  <programme channel="369248" start="20250319230000 +0800" stop="20250320000000 +0800">
-    <title lang="zh">關鍵時刻</title>
-    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
-    <date>2025-03-19</date>
-  </programme>
   <programme channel="369248" start="20250320000000 +0800" stop="20250320010000 +0800">
     <title lang="zh">東森夜線新聞</title>
     <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
@@ -224,9 +114,119 @@
     <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
     <date>2025-03-20</date>
   </programme>
-  <programme channel="369248" start="20250321000000 +0800" stop="20250322000000 +0800">
+  <programme channel="369248" start="20250321000000 +0800" stop="20250321010000 +0800">
     <title lang="zh">東森夜線新聞</title>
     <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
     <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321010000 +0800" stop="20250321020000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321020000 +0800" stop="20250321030000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321030000 +0800" stop="20250321040000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321040000 +0800" stop="20250321050000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321050000 +0800" stop="20250321060000 +0800">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321060000 +0800" stop="20250321090000 +0800">
+    <title lang="zh">Hello台灣</title>
+    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321090000 +0800" stop="20250321100000 +0800">
+    <title lang="zh">東森新聞</title>
+    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321100000 +0800" stop="20250321110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321110000 +0800" stop="20250321120000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321120000 +0800" stop="20250321130000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321130000 +0800" stop="20250321140000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321140000 +0800" stop="20250321150000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321150000 +0800" stop="20250321160000 +0800">
+    <title lang="zh">東森大社會</title>
+    <desc>介紹台灣社會重大案件與名人佚事的始末</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321160000 +0800" stop="20250321170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321170000 +0800" stop="20250321180000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321180000 +0800" stop="20250321190000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321190000 +0800" stop="20250321200000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321200000 +0800" stop="20250321210000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321210000 +0800" stop="20250321220000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321220000 +0800" stop="20250321230000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250321230000 +0800" stop="20250322000000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
+    <date>2025-03-21</date>
+  </programme>
+  <programme channel="369248" start="20250322000000 +0800" stop="20250323000000 +0800">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-03-22</date>
   </programme>
 </tv>
