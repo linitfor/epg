@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250322212725 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250322.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250322&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250323003045 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250323.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250323&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250322020000 +0800" stop="20250322060000 +0800">
-    <title lang="zh">LIVE2025印地安泉大師賽八強</title>
-    <desc>LIVE2025印地安泉大師賽八強</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322060000 +0800" stop="20250322063000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322063000 +0800" stop="20250322080000 +0800">
-    <title lang="zh">2025杜拜男網賽四強GRIvsTSI</title>
-    <desc>2025杜拜男網賽四強GRIvsTSI</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322080000 +0800" stop="20250322120000 +0800">
-    <title lang="zh">LIVE2025印地安泉大師賽八強</title>
-    <desc>LIVE2025印地安泉大師賽八強</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322120000 +0800" stop="20250322123000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322123000 +0800" stop="20250322140000 +0800">
-    <title lang="zh">2025杜拜男網賽四強GRIvsTSI</title>
-    <desc>2025杜拜男網賽四強GRIvsTSI</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322140000 +0800" stop="20250322163000 +0800">
-    <title lang="zh">2025墨西哥男網賽決賽MACvsFOK</title>
-    <desc>2025墨西哥男網賽決賽MACvsFOK</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322163000 +0800" stop="20250322190000 +0800">
-    <title lang="zh">2025卡達男網賽決賽DRAvsRUB</title>
-    <desc>2025卡達男網賽決賽DRAvsRUB</desc>
-    <date>2025-03-22</date>
-  </programme>
-  <programme channel="369216" start="20250322190000 +0800" stop="20250323000000 +0800">
-    <title lang="zh">首播2025印地安泉大師賽八強</title>
-    <desc>首播2025印地安泉大師賽八強</desc>
-    <date>2025-03-22</date>
-  </programme>
   <programme channel="369216" start="20250323030000 +0800" stop="20250323053000 +0800">
     <title lang="zh">2025杜拜男網賽決賽TSIvsAUG</title>
     <desc>2025杜拜男網賽決賽TSIvsAUG</desc>
@@ -103,5 +58,30 @@
     <title lang="zh">LIVE2025邁阿密大師賽第五天</title>
     <desc>LIVE2025邁阿密大師賽第五天</desc>
     <date>2025-03-23</date>
+  </programme>
+  <programme channel="369216" start="20250324103000 +0800" stop="20250324130000 +0800">
+    <title lang="zh">2025杜拜男網賽決賽TSIvsAUG</title>
+    <desc>2025杜拜男網賽決賽TSIvsAUG</desc>
+    <date>2025-03-24</date>
+  </programme>
+  <programme channel="369216" start="20250324130000 +0800" stop="20250324153000 +0800">
+    <title lang="zh">2025鹿特丹男網賽決賽ALCvsMIN</title>
+    <desc>2025鹿特丹男網賽決賽ALCvsMIN</desc>
+    <date>2025-03-24</date>
+  </programme>
+  <programme channel="369216" start="20250324153000 +0800" stop="20250324170000 +0800">
+    <title lang="zh">2025印地安泉大師賽十六強</title>
+    <desc>2025印地安泉大師賽十六強</desc>
+    <date>2025-03-24</date>
+  </programme>
+  <programme channel="369216" start="20250324170000 +0800" stop="20250324230000 +0800">
+    <title lang="zh">首播2025邁阿密大師賽第五天</title>
+    <desc>首播2025邁阿密大師賽第五天</desc>
+    <date>2025-03-24</date>
+  </programme>
+  <programme channel="369216" start="20250324230000 +0800" stop="20250325000000 +0800">
+    <title lang="zh">2025鹿特丹男網賽八強ALCvsMAR</title>
+    <desc>2025鹿特丹男網賽八強ALCvsMAR</desc>
+    <date>2025-03-24</date>
   </programme>
 </tv>
