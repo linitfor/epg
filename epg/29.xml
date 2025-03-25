@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250326023603 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250326.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250326&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250326052414 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250326.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250326&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
@@ -378,5 +378,10 @@
     <title lang="zh">環遊世界800天 第一季 03 名聲</title>
     <desc />
     <date>2025-03-27</date>
+  </programme>
+  <programme channel="370222" start="20250328000000 +0800" stop="20250329000000 +0800">
+    <title lang="zh">地球的慶典65 比利時布魯日聖血大遊行</title>
+    <desc />
+    <date>2025-03-28</date>
   </programme>
 </tv>
