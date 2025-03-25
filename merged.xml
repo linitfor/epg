@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250326023550 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250326.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250326&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250326072442 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250326.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250326&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1656,6 +1656,10 @@
 <date>2025-03-27</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250326000000 +0800" stop="20250326010000 +0800">
 <date>2025-03-26</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2348,6 +2352,10 @@
 <date>2025-03-27</date>
 <desc /><title lang="zh">全球大視野</title>
 </programme>
+<programme channel="370177" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250326013000 +0800" stop="20250326020000 +0800">
 <date>2025-03-26</date>
 <desc /><title lang="zh">元氣加油站【普】(E2905)</title>
@@ -2851,6 +2859,10 @@
 <programme channel="370141" start="20250327230000 +0800" stop="20250328000000 +0800">
 <date>2025-03-27</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">多桑@純萃年代(普)</title>
 </programme>
 <programme channel="368922" start="20250326000000 +0800" stop="20250326030000 +0800">
 <date>2025-03-26</date>
@@ -4039,6 +4051,10 @@
 <programme channel="370149" start="20250327233000 +0800" stop="20250328000000 +0800">
 <date>2025-03-27</date>
 <desc /><title lang="zh">體壇最前線 3/27(第86集) (普)</title>
+</programme>
+<programme channel="370149" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">美麗不妥協(第34集) (護)</title>
 </programme>
 <programme channel="369284" start="20250326003000 +0800" stop="20250326020000 +0800">
 <date>2025-03-26</date>
@@ -6422,6 +6438,10 @@
 <programme channel="370222" start="20250327233400 +0800" stop="20250328000000 +0800">
 <date>2025-03-27</date>
 <desc /><title lang="zh">環遊世界800天 第一季 03 名聲</title>
+</programme>
+<programme channel="370222" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">地球的慶典65 比利時布魯日聖血大遊行</title>
 </programme>
 <programme channel="369271" start="20250326000000 +0800" stop="20250326010000 +0800">
 <date>2025-03-26</date>
@@ -14045,6 +14065,10 @@
 <date>2025-03-27</date>
 <desc /><title lang="zh">ABC故事屋EP07</title>
 </programme>
+<programme channel="370167" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">做菜ABC S2 EP13 (豆子)</title>
+</programme>
 <programme channel="370162" start="20250326002000 +0800" stop="20250326004500 +0800">
 <date>2025-03-26</date>
 <desc /><title lang="zh">馴龍高手:博克龍騎士(普)</title>
@@ -17827,5 +17851,9 @@
 <programme channel="370144" start="20250327230000 +0800" stop="20250328000000 +0800">
 <date>2025-03-27</date>
 <desc /><title lang="zh">國光幫幫忙之大哥是對的(護)(N)</title>
+</programme>
+<programme channel="370144" start="20250328000000 +0800" stop="20250329000000 +0800">
+<date>2025-03-28</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
