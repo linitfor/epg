@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250330052310 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370175/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370175&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250330023333 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370175/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370175&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370175">
     <display-name lang="Taiwan">東森財經新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110856176677_36.png" />
@@ -228,10 +228,5 @@
     <title lang="zh">夢想街57號-預約你的夢想</title>
     <desc />
     <date>2025-03-31</date>
-  </programme>
-  <programme channel="370175" start="20250401000000 +0800" stop="20250402000000 +0800">
-    <title lang="zh">理財達人秀</title>
-    <desc />
-    <date>2025-04-01</date>
   </programme>
 </tv>
