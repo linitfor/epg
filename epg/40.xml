@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250329232636 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250329.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250329&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250330003210 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250329000000 +0800" stop="20250329030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON</title>
-    <desc>2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329030000 +0800" stop="20250329060000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 球員錦標賽 四強 0300-0600</title>
-    <desc>LIVE 2024-25司諾克賽季 球員錦標賽 四強 0300-0600</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329060000 +0800" stop="20250329090000 +0800">
-    <title lang="zh">2023-24司諾克賽季 司諾克大師賽 16強 WIL vs CAR</title>
-    <desc>2023-24司諾克賽季 司諾克大師賽 16強 WIL vs CAR</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329090000 +0800" stop="20250329120000 +0800">
-    <title lang="zh">2023-24司諾克賽季 英國錦標賽 16強 FOR vs DIN</title>
-    <desc>2023-24司諾克賽季 英國錦標賽 16強 FOR vs DIN</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329120000 +0800" stop="20250329150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON</title>
-    <desc>2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329150000 +0800" stop="20250329180000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 球員錦標賽 八強</title>
-    <desc>首播 2024-25司諾克賽季 球員錦標賽 八強</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329180000 +0800" stop="20250329210000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 球員錦標賽 八強 2100-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 球員錦標賽 八強 2100-0000</desc>
-    <date>2025-03-29</date>
-  </programme>
-  <programme channel="369235" start="20250329210000 +0800" stop="20250330000000 +0800">
-    <title lang="zh">2023-24司諾克賽季 英國錦標賽 16強 WIL vs CLA</title>
-    <desc>2023-24司諾克賽季 英國錦標賽 16強 WIL vs CLA</desc>
-    <date>2025-03-29</date>
-  </programme>
   <programme channel="369235" start="20250330000000 +0800" stop="20250330013000 +0800">
     <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 O'SUL vs HE</title>
     <desc>2024-25司諾克賽季 國際錦標賽 第一輪 O'SUL vs HE</desc>
@@ -94,9 +54,49 @@
     <desc>LIVE 2024-25司諾克賽季 球員錦標賽 決賽 2100-0000</desc>
     <date>2025-03-30</date>
   </programme>
-  <programme channel="369235" start="20250331000000 +0800" stop="20250401000000 +0800">
+  <programme channel="369235" start="20250331000000 +0800" stop="20250331030000 +0800">
     <title lang="zh">2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</title>
     <desc>2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</desc>
     <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331030000 +0800" stop="20250331060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 ALL vs SI</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 16強 ALL vs SI</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331060000 +0800" stop="20250331090000 +0800">
+    <title lang="zh">2023-24司諾克賽季 巡迴錦標賽 16強 ALL vs HIG</title>
+    <desc>2023-24司諾克賽季 巡迴錦標賽 16強 ALL vs HIG</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331090000 +0800" stop="20250331120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</title>
+    <desc>2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331120000 +0800" stop="20250331150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 ALL vs SI</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 16強 ALL vs SI</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331150000 +0800" stop="20250331180000 +0800">
+    <title lang="zh">2023-24司諾克賽季 巡迴錦標賽 16強 ALL vs HIG</title>
+    <desc>2023-24司諾克賽季 巡迴錦標賽 16強 ALL vs HIG</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331180000 +0800" stop="20250331210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250331210000 +0800" stop="20250401000000 +0800">
+    <title lang="zh">2023-24司諾克賽季 巡迴錦標賽 16強 CAR vs HAW</title>
+    <desc>2023-24司諾克賽季 巡迴錦標賽 16強 CAR vs HAW</desc>
+    <date>2025-03-31</date>
+  </programme>
+  <programme channel="369235" start="20250401000000 +0800" stop="20250402000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA</title>
+    <desc>2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA</desc>
+    <date>2025-04-01</date>
   </programme>
 </tv>
