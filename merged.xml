@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250330023329 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250330072427 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1753,6 +1753,10 @@
 <date>2025-03-31</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250330000000 +0800" stop="20250330003000 +0800">
 <date>2025-03-30</date>
 <desc>節目將邀請來自各個醫療領域的專家，透過專業知識和實際案例，幫助觀眾建立正確的健康觀念</desc>
@@ -2883,6 +2887,10 @@
 <programme channel="370141" start="20250331230000 +0800" stop="20250401000000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">中視新聞(普)</title>
+</programme>
+<programme channel="370141" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">多桑@純萃年代(普)</title>
 </programme>
 <programme channel="368922" start="20250330001000 +0800" stop="20250330021000 +0800">
 <date>2025-03-30</date>
@@ -5589,7 +5597,7 @@
 </programme>
 <programme channel="272025" start="20250330140000 +0800" stop="20250330150000 +0800">
 <date>2025-03-30</date>
-<desc /><title lang="zh">健康老實說</title>
+<desc /><title lang="zh">生活大小事 機智生活家</title>
 </programme>
 <programme channel="272025" start="20250330150000 +0800" stop="20250330170000 +0800">
 <date>2025-03-30</date>
@@ -6257,6 +6265,10 @@
 <programme channel="370222" start="20250331233300 +0800" stop="20250401000000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">環遊世界800天 第一季 14 精彩合輯</title>
+</programme>
+<programme channel="370222" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">地球的慶典77 羅騰堡童話季</title>
 </programme>
 <programme channel="369271" start="20250330000000 +0800" stop="20250330010000 +0800">
 <date>2025-03-30</date>
@@ -7639,21 +7651,37 @@
 <date>2025-03-30</date>
 <desc /><title lang="zh">世界最強壯的男人 S4 EP5(普)</title>
 </programme>
-<programme channel="335106" start="20250330160000 +0800" stop="20250330170000 +0800">
+<programme channel="335106" start="20250330160000 +0800" stop="20250330165500 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">企業排球聯賽 冠軍賽 高雄台電 vs 臺北鯨華 G3(普)</title>
 </programme>
-<programme channel="335106" start="20250330170000 +0800" stop="20250330173000 +0800">
+<programme channel="335106" start="20250330165500 +0800" stop="20250330170000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">鍵盤球探 EP46 進擊的新人王 曾子祐訪談 下(普)</title>
 </programme>
-<programme channel="335106" start="20250330173000 +0800" stop="20250330180000 +0800">
+<programme channel="335106" start="20250330170000 +0800" stop="20250330172500 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">鍵盤球探 EP46 進擊的新人王 曾子祐訪談 下(普)</title>
+</programme>
+<programme channel="335106" start="20250330172500 +0800" stop="20250330173000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">誰是灌籃高手 第三季 EP5(普)</title>
 </programme>
-<programme channel="335106" start="20250330180000 +0800" stop="20250330194000 +0800">
+<programme channel="335106" start="20250330173000 +0800" stop="20250330175500 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">誰是灌籃高手 第三季 EP5(普)</title>
+</programme>
+<programme channel="335106" start="20250330175500 +0800" stop="20250330180000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 四強賽1(普)</title>
+</programme>
+<programme channel="335106" start="20250330180000 +0800" stop="20250330193600 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 四強賽1(普)</title>
+</programme>
+<programme channel="335106" start="20250330193600 +0800" stop="20250330194000 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 季軍賽(普)</title>
 </programme>
 <programme channel="335106" start="20250330194000 +0800" stop="20250330200000 +0800">
 <date>2025-03-30</date>
@@ -7663,7 +7691,11 @@
 <date>2025-03-30</date>
 <desc /><title lang="zh">世界最強壯的男人 S4 EP6(普)</title>
 </programme>
-<programme channel="335106" start="20250330203000 +0800" stop="20250330210000 +0800">
+<programme channel="335106" start="20250330203000 +0800" stop="20250330203600 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 冠軍賽(普)</title>
+</programme>
+<programme channel="335106" start="20250330203600 +0800" stop="20250330210000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 冠軍賽(普)</title>
 </programme>
@@ -7673,9 +7705,13 @@
 </programme>
 <programme channel="335106" start="20250330220000 +0800" stop="20250331000000 +0800">
 <date>2025-03-30</date>
-<desc /><title lang="zh">(首)24-25 PLG 勇士 vs 領航猿 (3/30/25)(普)</title>
+<desc /><title lang="zh">(首)24-25 PLG 勇士 vs 領航猿  (3/30/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250331002500 +0800" stop="20250331023000 +0800">
+<programme channel="335106" start="20250331002500 +0800" stop="20250331003000 +0800">
+<date>2025-03-31</date>
+<desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 奧薩蘇納 (3/31/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250331003000 +0800" stop="20250331023000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 奧薩蘇納 (3/31/25)(普)</title>
 </programme>
@@ -7713,15 +7749,15 @@
 </programme>
 <programme channel="335106" start="20250331150000 +0800" stop="20250331160000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽1(普)</title>
+<desc /><title lang="zh">(首 )2025 FIBA 3對3 亞洲盃 八強賽1(普)</title>
 </programme>
 <programme channel="335106" start="20250331160000 +0800" stop="20250331173000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽2(普)</title>
+<desc /><title lang="zh">(首) 2025 FIBA 3對3 亞洲盃 八強賽2(普)</title>
 </programme>
 <programme channel="335106" start="20250331173000 +0800" stop="20250331190000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽3(普)</title>
+<desc /><title lang="zh">(首) 2025 FIBA 3對3 亞洲盃 八強賽3(普)</title>
 </programme>
 <programme channel="335106" start="20250331190000 +0800" stop="20250331220000 +0800">
 <date>2025-03-31</date>
@@ -8652,6 +8688,10 @@
 <programme channel="370209" start="20250331235400 +0800" stop="20250401000000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
+</programme>
+<programme channel="370209" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
 </programme>
 <programme channel="335009" start="20250330000000 +0800" stop="20250330013500 +0800">
 <date>2025-03-30</date>
@@ -10649,21 +10689,37 @@
 <date>2025-03-30</date>
 <desc /><title lang="zh">世界最強壯的男人 S4 EP5(普)</title>
 </programme>
-<programme channel="335106" start="20250330160000 +0800" stop="20250330170000 +0800">
+<programme channel="335106" start="20250330160000 +0800" stop="20250330165500 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">企業排球聯賽 冠軍賽 高雄台電 vs 臺北鯨華 G3(普)</title>
 </programme>
-<programme channel="335106" start="20250330170000 +0800" stop="20250330173000 +0800">
+<programme channel="335106" start="20250330165500 +0800" stop="20250330170000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">鍵盤球探 EP46 進擊的新人王 曾子祐訪談 下(普)</title>
 </programme>
-<programme channel="335106" start="20250330173000 +0800" stop="20250330180000 +0800">
+<programme channel="335106" start="20250330170000 +0800" stop="20250330172500 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">鍵盤球探 EP46 進擊的新人王 曾子祐訪談 下(普)</title>
+</programme>
+<programme channel="335106" start="20250330172500 +0800" stop="20250330173000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">誰是灌籃高手 第三季 EP5(普)</title>
 </programme>
-<programme channel="335106" start="20250330180000 +0800" stop="20250330194000 +0800">
+<programme channel="335106" start="20250330173000 +0800" stop="20250330175500 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">誰是灌籃高手 第三季 EP5(普)</title>
+</programme>
+<programme channel="335106" start="20250330175500 +0800" stop="20250330180000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 四強賽1(普)</title>
+</programme>
+<programme channel="335106" start="20250330180000 +0800" stop="20250330193600 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 四強賽1(普)</title>
+</programme>
+<programme channel="335106" start="20250330193600 +0800" stop="20250330194000 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 季軍賽(普)</title>
 </programme>
 <programme channel="335106" start="20250330194000 +0800" stop="20250330200000 +0800">
 <date>2025-03-30</date>
@@ -10673,7 +10729,11 @@
 <date>2025-03-30</date>
 <desc /><title lang="zh">世界最強壯的男人 S4 EP6(普)</title>
 </programme>
-<programme channel="335106" start="20250330203000 +0800" stop="20250330210000 +0800">
+<programme channel="335106" start="20250330203000 +0800" stop="20250330203600 +0800">
+<date>2025-03-30</date>
+<desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 冠軍賽(普)</title>
+</programme>
+<programme channel="335106" start="20250330203600 +0800" stop="20250330210000 +0800">
 <date>2025-03-30</date>
 <desc /><title lang="zh">LIVE 2025 FIBA 3對3 亞洲盃 冠軍賽(普)</title>
 </programme>
@@ -10683,9 +10743,13 @@
 </programme>
 <programme channel="335106" start="20250330220000 +0800" stop="20250331000000 +0800">
 <date>2025-03-30</date>
-<desc /><title lang="zh">(首)24-25 PLG 勇士 vs 領航猿 (3/30/25)(普)</title>
+<desc /><title lang="zh">(首)24-25 PLG 勇士 vs 領航猿  (3/30/25)(普)</title>
 </programme>
-<programme channel="335106" start="20250331002500 +0800" stop="20250331023000 +0800">
+<programme channel="335106" start="20250331002500 +0800" stop="20250331003000 +0800">
+<date>2025-03-31</date>
+<desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 奧薩蘇納 (3/31/25)(普)</title>
+</programme>
+<programme channel="335106" start="20250331003000 +0800" stop="20250331023000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">LIVE 西甲 畢爾包競技 vs 奧薩蘇納 (3/31/25)(普)</title>
 </programme>
@@ -10723,15 +10787,15 @@
 </programme>
 <programme channel="335106" start="20250331150000 +0800" stop="20250331160000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽1(普)</title>
+<desc /><title lang="zh">(首 )2025 FIBA 3對3 亞洲盃 八強賽1(普)</title>
 </programme>
 <programme channel="335106" start="20250331160000 +0800" stop="20250331173000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽2(普)</title>
+<desc /><title lang="zh">(首) 2025 FIBA 3對3 亞洲盃 八強賽2(普)</title>
 </programme>
 <programme channel="335106" start="20250331173000 +0800" stop="20250331190000 +0800">
 <date>2025-03-31</date>
-<desc /><title lang="zh">(首)2025 FIBA 3對3 亞洲盃 八強賽3(普)</title>
+<desc /><title lang="zh">(首) 2025 FIBA 3對3 亞洲盃 八強賽3(普)</title>
 </programme>
 <programme channel="335106" start="20250331190000 +0800" stop="20250331220000 +0800">
 <date>2025-03-31</date>
@@ -16964,6 +17028,10 @@
 <date>2025-03-31</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">關我什麼事(重)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250330015000 +0800" stop="20250330042500 +0800">
 <date>2025-03-30</date>
 <desc>以日本恐怖分子赤虎為首的神秘軍事組織，把香港當作其亞太區走私重型軍火的中心基地，使全體市民的生命受到嚴重的威脅。他們不但利用先進科技的威脅，更配以不依章法的政治攻勢，使特區當局束手無策</desc>
@@ -17227,5 +17295,9 @@
 <programme channel="370144" start="20250331230000 +0800" stop="20250401000000 +0800">
 <date>2025-03-31</date>
 <desc /><title lang="zh">阿姐萬歲(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250401000000 +0800" stop="20250402000000 +0800">
+<date>2025-04-01</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
