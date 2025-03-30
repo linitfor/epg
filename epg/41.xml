@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250330232613 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250330.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250330&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250331003121 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250331.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250331&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250330000000 +0800" stop="20250330020000 +0800">
-    <title lang="zh">2024河內公開賽決賽截點JOH vs KO(台灣)</title>
-    <desc>2024河內公開賽決賽截點JOH vs KO(台灣)</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330020000 +0800" stop="20250330040000 +0800">
-    <title lang="zh">2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</title>
-    <desc>2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330040000 +0800" stop="20250330060000 +0800">
-    <title lang="zh">2023英國公開賽16強(2)FIL vs ROM</title>
-    <desc>2023英國公開賽16強(2)FIL vs ROM</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330060000 +0800" stop="20250330080000 +0800">
-    <title lang="zh">2024河內公開賽決賽截點JOH vs KO(台灣)</title>
-    <desc>2024河內公開賽決賽截點JOH vs KO(台灣)</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330080000 +0800" stop="20250330100000 +0800">
-    <title lang="zh">2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</title>
-    <desc>2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330100000 +0800" stop="20250330103000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330103000 +0800" stop="20250330120000 +0800">
-    <title lang="zh">2023英國公開賽16強(2)FIL vs ROM</title>
-    <desc>2023英國公開賽16強(2)FIL vs ROM</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330120000 +0800" stop="20250330140000 +0800">
-    <title lang="zh">2024河內公開賽決賽截點JOH vs KO(台灣)</title>
-    <desc>2024河內公開賽決賽截點JOH vs KO(台灣)</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330140000 +0800" stop="20250330160000 +0800">
-    <title lang="zh">2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</title>
-    <desc>2022-23司諾克賽季 香港大師賽 4強 HIG vs FU</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330160000 +0800" stop="20250330180000 +0800">
-    <title lang="zh">2023英國公開賽16強(2)FIL vs ROM</title>
-    <desc>2023英國公開賽16強(2)FIL vs ROM</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330180000 +0800" stop="20250330200000 +0800">
-    <title lang="zh">2024世界撞球大師賽16強(1)FIL vs KAC</title>
-    <desc>2024世界撞球大師賽16強(1)FIL vs KAC</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330200000 +0800" stop="20250330223000 +0800">
-    <title lang="zh">2022-23司諾克賽季 香港大師賽 4強 O'SUL vs ROB</title>
-    <desc>2022-23司諾克賽季 香港大師賽 4強 O'SUL vs ROB</desc>
-    <date>2025-03-30</date>
-  </programme>
-  <programme channel="369229" start="20250330223000 +0800" stop="20250331000000 +0800">
-    <title lang="zh">2023英國公開賽8強(1)RUI vs WOO</title>
-    <desc>2023英國公開賽8強(1)RUI vs WOO</desc>
-    <date>2025-03-30</date>
-  </programme>
   <programme channel="369229" start="20250331000000 +0800" stop="20250331013000 +0800">
     <title lang="zh">2024世界撞球大師賽8強(3)GOR vs QUS</title>
     <desc>2024世界撞球大師賽8強(3)GOR vs QUS</desc>
@@ -134,9 +69,74 @@
     <desc>2023世界撞球雙打賽第1輪(4)GREvsQAT</desc>
     <date>2025-03-31</date>
   </programme>
-  <programme channel="369229" start="20250401000000 +0800" stop="20250402000000 +0800">
+  <programme channel="369229" start="20250401000000 +0800" stop="20250401020000 +0800">
     <title lang="zh">2024世界撞球大師賽16強(2)OUS vs LEC</title>
     <desc>2024世界撞球大師賽16強(2)OUS vs LEC</desc>
     <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401020000 +0800" stop="20250401040000 +0800">
+    <title lang="zh">2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</title>
+    <desc>2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401040000 +0800" stop="20250401060000 +0800">
+    <title lang="zh">2023英國公開賽8強(2)KAC vs KO</title>
+    <desc>2023英國公開賽8強(2)KAC vs KO</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401060000 +0800" stop="20250401080000 +0800">
+    <title lang="zh">2024世界撞球大師賽16強(2)OUS vs LEC</title>
+    <desc>2024世界撞球大師賽16強(2)OUS vs LEC</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401080000 +0800" stop="20250401100000 +0800">
+    <title lang="zh">2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</title>
+    <desc>2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401100000 +0800" stop="20250401120000 +0800">
+    <title lang="zh">2023英國公開賽8強(2)KAC vs KO</title>
+    <desc>2023英國公開賽8強(2)KAC vs KO</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401120000 +0800" stop="20250401140000 +0800">
+    <title lang="zh">2024世界撞球大師賽16強(2)OUS vs LEC</title>
+    <desc>2024世界撞球大師賽16強(2)OUS vs LEC</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401140000 +0800" stop="20250401160000 +0800">
+    <title lang="zh">2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</title>
+    <desc>2022-23司諾克賽季 香港大師賽 決賽 O'SUL vs FU</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401160000 +0800" stop="20250401180000 +0800">
+    <title lang="zh">2023英國公開賽8強(2)KAC vs KO</title>
+    <desc>2023英國公開賽8強(2)KAC vs KO</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401180000 +0800" stop="20250401190000 +0800">
+    <title lang="zh">2024世界撞球大師賽16強(3.)SHA vs YAP</title>
+    <desc>2024世界撞球大師賽16強(3.)SHA vs YAP</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401190000 +0800" stop="20250401203000 +0800">
+    <title lang="zh">2024世界撞球大師賽16強(5)GOR vs HE</title>
+    <desc>2024世界撞球大師賽16強(5)GOR vs HE</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401203000 +0800" stop="20250401220000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國公開賽 第一輪 O'SUL vs URS</title>
+    <desc>2022-23司諾克賽季 英國公開賽 第一輪 O'SUL vs URS</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250401220000 +0800" stop="20250402000000 +0800">
+    <title lang="zh">2023英國公開賽4強 JOSvsPIN</title>
+    <desc>2023英國公開賽4強 JOSvsPIN</desc>
+    <date>2025-04-01</date>
+  </programme>
+  <programme channel="369229" start="20250402000000 +0800" stop="20250403000000 +0800">
+    <title lang="zh">2024世界撞球大師賽16強(3.)SHA vs YAP</title>
+    <desc>2024世界撞球大師賽16強(3.)SHA vs YAP</desc>
+    <date>2025-04-02</date>
   </programme>
 </tv>
