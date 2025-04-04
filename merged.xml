@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250405023512 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250405.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250405&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250405052426 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250405.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250405&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1788,6 +1788,10 @@
 <date>2025-04-06</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">台灣大代誌</title>
+</programme>
 <programme channel="369307" start="20250405000000 +0800" stop="20250405010000 +0800">
 <date>2025-04-05</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2867,6 +2871,10 @@
 <programme channel="370141" start="20250406220000 +0800" stop="20250407000000 +0800">
 <date>2025-04-06</date>
 <desc /><title lang="zh">萬秀大勝利(普)</title>
+</programme>
+<programme channel="370141" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
 </programme>
 <programme channel="368922" start="20250405000000 +0800" stop="20250405010000 +0800">
 <date>2025-04-05</date>
@@ -3955,6 +3963,10 @@
 <programme channel="370149" start="20250406233000 +0800" stop="20250407000000 +0800">
 <date>2025-04-06</date>
 <desc /><title lang="zh">體壇最前線 4/6(第96集) (普)</title>
+</programme>
+<programme channel="370149" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">美麗不妥協(第64集) (護)</title>
 </programme>
 <programme channel="369284" start="20250405000000 +0800" stop="20250405003000 +0800">
 <date>2025-04-05</date>
@@ -6093,6 +6105,10 @@
 <programme channel="370222" start="20250406233000 +0800" stop="20250407000000 +0800">
 <date>2025-04-06</date>
 <desc /><title lang="zh">野人追夢 06 和澳洲原住民交朋友囉</title>
+</programme>
+<programme channel="370222" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">主廚大聯盟 05</title>
 </programme>
 <programme channel="369271" start="20250405000000 +0800" stop="20250405010000 +0800">
 <date>2025-04-05</date>
@@ -8475,6 +8491,10 @@
 <programme channel="370209" start="20250406235600 +0800" stop="20250407000000 +0800">
 <date>2025-04-06</date>
 <desc /><title lang="zh">00948 Swimwear Fashion Exposed INDAH SwimMiami Collections 2016 150904 PMNB</title>
+</programme>
+<programme channel="370209" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
 </programme>
 <programme channel="335009" start="20250405000000 +0800" stop="20250405020000 +0800">
 <date>2025-04-05</date>
@@ -13234,6 +13254,10 @@
 <date>2025-04-06</date>
 <desc /><title lang="zh">ABC故事屋EP06</title>
 </programme>
+<programme channel="370167" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">一起玩編織 EP12</title>
+</programme>
 <programme channel="370162" start="20250405002000 +0800" stop="20250405004500 +0800">
 <date>2025-04-05</date>
 <desc /><title lang="zh">馴龍高手:博克龍騎士(普)</title>
@@ -16652,6 +16676,10 @@
 <date>2025-04-06</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250405022000 +0800" stop="20250405042000 +0800">
 <date>2025-04-05</date>
 <desc>經營非法紅油的黑道油王霍青松因一次油車爆炸意外成為香港警方及國內公安眼中釘，此時要面對獨生子被綁架的他顯得心焦如焚</desc>
@@ -16888,5 +16916,9 @@
 <programme channel="370144" start="20250406230000 +0800" stop="20250407000000 +0800">
 <date>2025-04-06</date>
 <desc /><title lang="zh">旅行東西軍(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250407000000 +0800" stop="20250408000000 +0800">
+<date>2025-04-07</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
