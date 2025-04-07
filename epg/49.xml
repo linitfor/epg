@@ -1,16 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250408023629 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250408.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250408&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250408052527 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250408.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250408&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250408000000 +0800" stop="20250408033800 +0800">
-    <title lang="zh">113年夏季踢拳菁英賽 K1(普)</title>
+  <programme channel="335009" start="20250408000000 +0800" stop="20250408015000 +0800">
+    <title lang="zh">2024年福爾摩沙盃 青少棒組 八強賽 臺北興福 VS 臺北重慶(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408033800 +0800" stop="20250408055300 +0800">
+  <programme channel="335009" start="20250408015000 +0800" stop="20250408033800 +0800">
+    <title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408033800 +0800" stop="20250408055000 +0800">
     <title lang="zh">113年花蓮能高盃 季軍戰 臺北興富 vs 花蓮化仁(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408055000 +0800" stop="20250408055300 +0800">
+    <title lang="zh">2024佛光盃大學籃球 男子A組預賽 筑波大學 vs政治大學(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
@@ -19,18 +29,38 @@
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408073500 +0800" stop="20250408083000 +0800">
+  <programme channel="335009" start="20250408073500 +0800" stop="20250408073800 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第三回合(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408083000 +0800" stop="20250408104200 +0800">
+  <programme channel="335009" start="20250408073800 +0800" stop="20250408082700 +0800">
+    <title lang="zh">2023高雄高球公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408082700 +0800" stop="20250408083000 +0800">
+    <title lang="zh">2024佛光盃大學籃球 男子B組預賽 紐西蘭國家隊 vs光明大學(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408083000 +0800" stop="20250408102200 +0800">
     <title lang="zh">2024勝求盃少棒 冠軍戰 高雄金潭 vs 桃園龜山(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408104200 +0800" stop="20250408120000 +0800">
+  <programme channel="335009" start="20250408102200 +0800" stop="20250408104200 +0800">
+    <title lang="zh">2023高雄高球公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408104200 +0800" stop="20250408110000 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408110000 +0800" stop="20250408120000 +0800">
+    <title lang="zh">[Live] 自由盃國小個人桌球錦標賽 4/09賽程(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
@@ -39,13 +69,23 @@
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408143000 +0800" stop="20250408153800 +0800">
+  <programme channel="335009" start="20250408143000 +0800" stop="20250408150000 +0800">
     <title lang="zh">[Live] 自由盃國小個人桌球錦標賽 4/08賽程(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408153800 +0800" stop="20250408175300 +0800">
+  <programme channel="335009" start="20250408150000 +0800" stop="20250408153800 +0800">
+    <title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408153800 +0800" stop="20250408175000 +0800">
     <title lang="zh">113年花蓮能高盃 季軍戰 臺北興富 vs 花蓮化仁(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408175000 +0800" stop="20250408175300 +0800">
+    <title lang="zh">2024佛光盃大學籃球 男子A組預賽 筑波大學 vs政治大學(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
@@ -59,28 +99,58 @@
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408193500 +0800" stop="20250408203000 +0800">
+  <programme channel="335009" start="20250408193500 +0800" stop="20250408193800 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第三回合(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408203000 +0800" stop="20250408224200 +0800">
+  <programme channel="335009" start="20250408193800 +0800" stop="20250408202700 +0800">
+    <title lang="zh">2023高雄高球公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408202700 +0800" stop="20250408203000 +0800">
+    <title lang="zh">2024佛光盃大學籃球 男子B組預賽 紐西蘭國家隊 vs光明大學(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408203000 +0800" stop="20250408222200 +0800">
     <title lang="zh">2024勝求盃少棒 冠軍戰 高雄金潭 vs 桃園龜山(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250408224200 +0800" stop="20250409000000 +0800">
+  <programme channel="335009" start="20250408222200 +0800" stop="20250408224200 +0800">
+    <title lang="zh">2023高雄高球公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250408224200 +0800" stop="20250408233000 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第四回合(普)</title>
     <desc />
     <date>2025-04-08</date>
   </programme>
-  <programme channel="335009" start="20250409000000 +0800" stop="20250409015000 +0800">
-    <title lang="zh">2024年福爾摩沙盃 青少棒組 八強賽 臺北興福 VS 臺北重慶(普)</title>
+  <programme channel="335009" start="20250408233000 +0800" stop="20250409000000 +0800">
+    <title lang="zh">第22屆踢拳全國錦標賽 極限武術(普)</title>
+    <desc />
+    <date>2025-04-08</date>
+  </programme>
+  <programme channel="335009" start="20250409000000 +0800" stop="20250409012000 +0800">
+    <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布A VS 臺北重慶(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
-  <programme channel="335009" start="20250409015000 +0800" stop="20250409055000 +0800">
+  <programme channel="335009" start="20250409012000 +0800" stop="20250409015000 +0800">
+    <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布B VS 臺北長安(普)</title>
+    <desc />
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="335009" start="20250409015000 +0800" stop="20250409031000 +0800">
     <title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
+    <desc />
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="335009" start="20250409031000 +0800" stop="20250409055000 +0800">
+    <title lang="zh">2024年全國幼獅盃三對三籃球鬥牛賽(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
@@ -99,13 +169,18 @@
     <desc />
     <date>2025-04-09</date>
   </programme>
-  <programme channel="335009" start="20250409102200 +0800" stop="20250409110000 +0800">
+  <programme channel="335009" start="20250409102200 +0800" stop="20250409103000 +0800">
     <title lang="zh">2023高雄高球公開賽 第四回合(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
+  <programme channel="335009" start="20250409103000 +0800" stop="20250409110000 +0800">
+    <title lang="zh">2024登峰造極排球 高女組 內湖高中 vs 中山工商(普)</title>
+    <desc />
+    <date>2025-04-09</date>
+  </programme>
   <programme channel="335009" start="20250409110000 +0800" stop="20250409113000 +0800">
-    <title lang="zh">[Live] 自由盃國小個人桌球錦標賽 4/09賽程(普)</title>
+    <title lang="zh">[Live] 自由盃國小個人桌球錦標賽 4/10賽程(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
@@ -124,8 +199,13 @@
     <desc />
     <date>2025-04-09</date>
   </programme>
-  <programme channel="335009" start="20250409150000 +0800" stop="20250409175000 +0800">
+  <programme channel="335009" start="20250409150000 +0800" stop="20250409153000 +0800">
     <title lang="zh">2024年Taiwan羽球團體錦標賽(普)</title>
+    <desc />
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="335009" start="20250409153000 +0800" stop="20250409175000 +0800">
+    <title lang="zh">2024年全國幼獅盃三對三籃球鬥牛賽(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
@@ -144,8 +224,13 @@
     <desc />
     <date>2025-04-09</date>
   </programme>
-  <programme channel="335009" start="20250409222200 +0800" stop="20250409233000 +0800">
+  <programme channel="335009" start="20250409222200 +0800" stop="20250409223000 +0800">
     <title lang="zh">2023高雄高球公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="335009" start="20250409223000 +0800" stop="20250409233000 +0800">
+    <title lang="zh">2024登峰造極排球 高女組 內湖高中 vs 中山工商(普)</title>
     <desc />
     <date>2025-04-09</date>
   </programme>
@@ -155,7 +240,7 @@
     <date>2025-04-09</date>
   </programme>
   <programme channel="335009" start="20250410000000 +0800" stop="20250411000000 +0800">
-    <title lang="zh">2024年福爾摩沙盃 青少棒組 四強賽 日本調布A VS 臺北重慶(普)</title>
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 上午賽程(普)</title>
     <desc />
     <date>2025-04-10</date>
   </programme>
