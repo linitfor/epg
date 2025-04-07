@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250407232924 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250407.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250407&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250408003303 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250408.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250408&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250407000000 +0800" stop="20250407013000 +0800">
-    <title lang="zh">2024英國公開賽第一天(4)SOU vs HEN</title>
-    <desc>2024英國公開賽第一天(4)SOU vs HEN</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407013000 +0800" stop="20250407040000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</title>
-    <desc>2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407040000 +0800" stop="20250407050000 +0800">
-    <title lang="zh">2023世界撞球雙打賽第1輪(15)JAPvsLTA</title>
-    <desc>2023世界撞球雙打賽第1輪(15)JAPvsLTA</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407050000 +0800" stop="20250407060000 +0800">
-    <title lang="zh">2023世界撞球雙打賽16強(1)USAvsSOU</title>
-    <desc>2023世界撞球雙打賽16強(1)USAvsSOU</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407060000 +0800" stop="20250407073000 +0800">
-    <title lang="zh">2024英國公開賽第一天(4)SOU vs HEN</title>
-    <desc>2024英國公開賽第一天(4)SOU vs HEN</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407073000 +0800" stop="20250407100000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</title>
-    <desc>2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407100000 +0800" stop="20250407110000 +0800">
-    <title lang="zh">2023世界撞球雙打賽第1輪(15)JAPvsLTA</title>
-    <desc>2023世界撞球雙打賽第1輪(15)JAPvsLTA</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407110000 +0800" stop="20250407120000 +0800">
-    <title lang="zh">2023世界撞球雙打賽16強(1)USAvsSOU</title>
-    <desc>2023世界撞球雙打賽16強(1)USAvsSOU</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407120000 +0800" stop="20250407133000 +0800">
-    <title lang="zh">2024英國公開賽第一天(4)SOU vs HEN</title>
-    <desc>2024英國公開賽第一天(4)SOU vs HEN</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407133000 +0800" stop="20250407160000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</title>
-    <desc>2022-23司諾克賽季 英國公開賽 16強 TRU vs ALL</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407160000 +0800" stop="20250407170000 +0800">
-    <title lang="zh">2023世界撞球雙打賽第1輪(15)JAPvsLTA</title>
-    <desc>2023世界撞球雙打賽第1輪(15)JAPvsLTA</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407170000 +0800" stop="20250407180000 +0800">
-    <title lang="zh">2023世界撞球雙打賽16強(1)USAvsSOU</title>
-    <desc>2023世界撞球雙打賽16強(1)USAvsSOU</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407180000 +0800" stop="20250407190000 +0800">
-    <title lang="zh">2024英國公開賽第二天(1)BIN vs PAT</title>
-    <desc>2024英國公開賽第二天(1)BIN vs PAT</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407190000 +0800" stop="20250407200000 +0800">
-    <title lang="zh">2024英國公開賽第二天(2)BIA vs CAP</title>
-    <desc>2024英國公開賽第二天(2)BIA vs CAP</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407200000 +0800" stop="20250407213000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國公開賽 16強 SEL vs LIS</title>
-    <desc>2022-23司諾克賽季 英國公開賽 16強 SEL vs LIS</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407213000 +0800" stop="20250407230000 +0800">
-    <title lang="zh">2023世界撞球雙打賽16強(2)POLvsAL</title>
-    <desc>2023世界撞球雙打賽16強(2)POLvsAL</desc>
-    <date>2025-04-07</date>
-  </programme>
-  <programme channel="369229" start="20250407230000 +0800" stop="20250408000000 +0800">
-    <title lang="zh">2023世界撞球雙打賽16強(3)AUSvsBOS</title>
-    <desc>2023世界撞球雙打賽16強(3)AUSvsBOS</desc>
-    <date>2025-04-07</date>
-  </programme>
   <programme channel="369229" start="20250408000000 +0800" stop="20250408013000 +0800">
     <title lang="zh">2024世界撞球大師賽8強(1)KO(台灣選手) vs FIL</title>
     <desc>2024世界撞球大師賽8強(1)KO(台灣選手) vs FIL</desc>
@@ -169,9 +84,84 @@
     <desc>2023世界撞球雙打賽第1輪(5)ALBvsPER</desc>
     <date>2025-04-08</date>
   </programme>
-  <programme channel="369229" start="20250409000000 +0800" stop="20250410000000 +0800">
+  <programme channel="369229" start="20250409000000 +0800" stop="20250409020000 +0800">
     <title lang="zh">2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</title>
     <desc>2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</desc>
     <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409020000 +0800" stop="20250409033000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</title>
+    <desc>2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409033000 +0800" stop="20250409050000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(1)SPAvsPHI</title>
+    <desc>2023世界撞球雙打賽第1輪(1)SPAvsPHI</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409050000 +0800" stop="20250409060000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(5)ALBvsPER</title>
+    <desc>2023世界撞球雙打賽第1輪(5)ALBvsPER</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409060000 +0800" stop="20250409080000 +0800">
+    <title lang="zh">2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</title>
+    <desc>2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409080000 +0800" stop="20250409093000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</title>
+    <desc>2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409093000 +0800" stop="20250409110000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(1)SPAvsPHI</title>
+    <desc>2023世界撞球雙打賽第1輪(1)SPAvsPHI</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409110000 +0800" stop="20250409120000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(5)ALBvsPER</title>
+    <desc>2023世界撞球雙打賽第1輪(5)ALBvsPER</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409120000 +0800" stop="20250409140000 +0800">
+    <title lang="zh">2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</title>
+    <desc>2024世界撞球大師賽4強(1)FIL vs KO(台灣選手)</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409140000 +0800" stop="20250409153000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</title>
+    <desc>2022-23司諾克賽季 英國公開賽 第二輪 ZHA vs BIN</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409153000 +0800" stop="20250409170000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(1)SPAvsPHI</title>
+    <desc>2023世界撞球雙打賽第1輪(1)SPAvsPHI</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409170000 +0800" stop="20250409180000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(5)ALBvsPER</title>
+    <desc>2023世界撞球雙打賽第1輪(5)ALBvsPER</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409180000 +0800" stop="20250409200000 +0800">
+    <title lang="zh">2024世界撞球大師賽4強(2)GOR vs SHA</title>
+    <desc>2024世界撞球大師賽4強(2)GOR vs SHA</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409200000 +0800" stop="20250409220000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國公開賽 第三輪 LIS vs LU</title>
+    <desc>2022-23司諾克賽季 英國公開賽 第三輪 LIS vs LU</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250409220000 +0800" stop="20250410000000 +0800">
+    <title lang="zh">2023世界撞球雙打賽第1輪(6)AUSvsAUS</title>
+    <desc>2023世界撞球雙打賽第1輪(6)AUSvsAUS</desc>
+    <date>2025-04-09</date>
+  </programme>
+  <programme channel="369229" start="20250410000000 +0800" stop="20250411000000 +0800">
+    <title lang="zh">2024世界撞球大師賽4強(2)GOR vs SHA</title>
+    <desc>2024世界撞球大師賽4強(2)GOR vs SHA</desc>
+    <date>2025-04-10</date>
   </programme>
 </tv>
