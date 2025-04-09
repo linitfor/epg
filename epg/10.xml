@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250409205440 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250409.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250409&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250410003440 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250410.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250410&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
   </channel>
-  <programme channel="369324" start="20250409000000 +0800" stop="20250409010000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409010000 +0800" stop="20250409020000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409020000 +0800" stop="20250409030000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409030000 +0800" stop="20250409040000 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409040000 +0800" stop="20250409050000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409050000 +0800" stop="20250409060000 +0800">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409060000 +0800" stop="20250409070000 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409070000 +0800" stop="20250409080000 +0800">
-    <title lang="zh">中視早安新聞</title>
-    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409080000 +0800" stop="20250409090000 +0800">
-    <title lang="zh">整點新聞</title>
-    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409090000 +0800" stop="20250409100000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409100000 +0800" stop="20250409110000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409110000 +0800" stop="20250409115800 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409115800 +0800" stop="20250409130000 +0800">
-    <title lang="zh">中視午間新聞</title>
-    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409130000 +0800" stop="20250409140000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409140000 +0800" stop="20250409150000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409150000 +0800" stop="20250409160000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409160000 +0800" stop="20250409170000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409170000 +0800" stop="20250409180000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409180000 +0800" stop="20250409185800 +0800">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409185800 +0800" stop="20250409200000 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409200000 +0800" stop="20250409210000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409210000 +0800" stop="20250409220000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409220000 +0800" stop="20250409230000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369324" start="20250409230000 +0800" stop="20250410000000 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-04-09</date>
-  </programme>
   <programme channel="369324" start="20250410000000 +0800" stop="20250410010000 +0800">
     <title lang="zh">即時新聞現場</title>
     <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
@@ -244,9 +124,129 @@
     <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
     <date>2025-04-10</date>
   </programme>
-  <programme channel="369324" start="20250411000000 +0800" stop="20250412000000 +0800">
+  <programme channel="369324" start="20250411000000 +0800" stop="20250411010000 +0800">
     <title lang="zh">即時新聞現場</title>
     <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
     <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411010000 +0800" stop="20250411020000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411020000 +0800" stop="20250411030000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411030000 +0800" stop="20250411040000 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411040000 +0800" stop="20250411050000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411050000 +0800" stop="20250411060000 +0800">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411060000 +0800" stop="20250411070000 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411070000 +0800" stop="20250411080000 +0800">
+    <title lang="zh">中視早安新聞</title>
+    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411080000 +0800" stop="20250411090000 +0800">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411090000 +0800" stop="20250411100000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411100000 +0800" stop="20250411110000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411110000 +0800" stop="20250411115800 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411115800 +0800" stop="20250411130000 +0800">
+    <title lang="zh">中視午間新聞</title>
+    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411130000 +0800" stop="20250411140000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411140000 +0800" stop="20250411150000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411150000 +0800" stop="20250411160000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411160000 +0800" stop="20250411170000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411170000 +0800" stop="20250411180000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411180000 +0800" stop="20250411185800 +0800">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411185800 +0800" stop="20250411200000 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411200000 +0800" stop="20250411210000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411210000 +0800" stop="20250411220000 +0800">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411220000 +0800" stop="20250411230000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250411230000 +0800" stop="20250412000000 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369324" start="20250412000000 +0800" stop="20250413000000 +0800">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-04-12</date>
   </programme>
 </tv>

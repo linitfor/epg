@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250409205506 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250409.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250409&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250410003507 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250410.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250410&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369213">
     <display-name lang="Taiwan">博斯高球2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155209866861_10.jpg" />
   </channel>
-  <programme channel="369213" start="20250409000000 +0800" stop="20250409050000 +0800">
-    <title lang="zh">2025 LPGA本田泰國賽第二天</title>
-    <desc>2025 LPGA本田泰國賽第二天</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369213" start="20250409050000 +0800" stop="20250409090000 +0800">
-    <title lang="zh">2024 TLPGA台灣大哥大女子公開賽最終回合</title>
-    <desc>2024 TLPGA台灣大哥大女子公開賽最終回合</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369213" start="20250409090000 +0800" stop="20250409130000 +0800">
-    <title lang="zh">2025 亞巡澳門國際亞巡賽第二天</title>
-    <desc>2025 亞巡澳門國際亞巡賽第二天</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369213" start="20250409130000 +0800" stop="20250409140000 +0800">
-    <title lang="zh">2025 TSPGA南寶南區熱血傳承賽精華</title>
-    <desc>2025 TSPGA南寶南區熱血傳承賽精華</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369213" start="20250409140000 +0800" stop="20250409180000 +0800">
-    <title lang="zh">2025 亞巡紐西蘭公開賽第四天</title>
-    <desc>2025 亞巡紐西蘭公開賽第四天</desc>
-    <date>2025-04-09</date>
-  </programme>
-  <programme channel="369213" start="20250409180000 +0800" stop="20250410000000 +0800">
-    <title lang="zh">2024 TLPGA緯創女子公開賽第二回合</title>
-    <desc>2024 TLPGA緯創女子公開賽第二回合</desc>
-    <date>2025-04-09</date>
-  </programme>
   <programme channel="369213" start="20250410000000 +0800" stop="20250410050000 +0800">
     <title lang="zh">2025 LPGA本田泰國賽第三天</title>
     <desc>2025 LPGA本田泰國賽第三天</desc>
@@ -69,9 +39,44 @@
     <desc>2024 TLPGA緯創女子公開賽第三回合</desc>
     <date>2025-04-10</date>
   </programme>
-  <programme channel="369213" start="20250411000000 +0800" stop="20250412000000 +0800">
+  <programme channel="369213" start="20250411000000 +0800" stop="20250411050000 +0800">
     <title lang="zh">2025 LPGA本田泰國賽第四天</title>
     <desc>2025 LPGA本田泰國賽第四天</desc>
     <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411050000 +0800" stop="20250411060000 +0800">
+    <title lang="zh">2025 亞巡菲律賓公開賽精華</title>
+    <desc>2025 亞巡菲律賓公開賽精華</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411060000 +0800" stop="20250411090000 +0800">
+    <title lang="zh">LIVE2025 LPGA拉斯維加斯比洞賽第二天</title>
+    <desc>LIVE2025 LPGA拉斯維加斯比洞賽第二天</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411090000 +0800" stop="20250411130000 +0800">
+    <title lang="zh">2025 亞巡澳門國際亞巡賽第四天</title>
+    <desc>2025 亞巡澳門國際亞巡賽第四天</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411130000 +0800" stop="20250411160000 +0800">
+    <title lang="zh">首播2025 LPGA拉斯維加斯比洞賽第二天</title>
+    <desc>首播2025 LPGA拉斯維加斯比洞賽第二天</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411160000 +0800" stop="20250411183000 +0800">
+    <title lang="zh">2025 LPGA福特錦標賽第二天</title>
+    <desc>2025 LPGA福特錦標賽第二天</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250411183000 +0800" stop="20250412000000 +0800">
+    <title lang="zh">2024 TLPGA緯創女子公開賽最終回合</title>
+    <desc>2024 TLPGA緯創女子公開賽最終回合</desc>
+    <date>2025-04-11</date>
+  </programme>
+  <programme channel="369213" start="20250412000000 +0800" stop="20250413000000 +0800">
+    <title lang="zh">克里斯高球診斷室</title>
+    <desc>克里斯高球診斷室</desc>
+    <date>2025-04-12</date>
   </programme>
 </tv>
