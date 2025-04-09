@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250410023756 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20250410.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20250410&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250410052444 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20250410.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20250410&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370167">
     <display-name lang="Taiwan">MOMO親子台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110802687808_97.png" />
@@ -723,5 +723,10 @@
     <title lang="zh">做菜ABCS1 EP10 (日式咖哩飯)</title>
     <desc />
     <date>2025-04-11</date>
+  </programme>
+  <programme channel="370167" start="20250412000000 +0800" stop="20250413000000 +0800">
+    <title lang="zh">一起摺氣球 EP012</title>
+    <desc />
+    <date>2025-04-12</date>
   </programme>
 </tv>
