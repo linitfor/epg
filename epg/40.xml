@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250410222944 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250410.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250410&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250411003456 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250411.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250411&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250410020000 +0800" stop="20250410050000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 0200-0500</title>
-    <desc>LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 0200-0500</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410050000 +0800" stop="20250410080000 +0800">
-    <title lang="zh">2023-24司諾克賽季 巡迴錦標賽 8強 TRU vs WIL</title>
-    <desc>2023-24司諾克賽季 巡迴錦標賽 8強 TRU vs WIL</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410080000 +0800" stop="20250410110000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</title>
-    <desc>2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410110000 +0800" stop="20250410140000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 WIL vs DIN</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 WIL vs DIN</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410140000 +0800" stop="20250410170000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 巡迴錦標賽 八強</title>
-    <desc>首播 2024-25司諾克賽季 巡迴錦標賽 八強</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410170000 +0800" stop="20250410200000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 0300-0600</title>
-    <desc>LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 0300-0600</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410200000 +0800" stop="20250410230000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 2000-2300</title>
-    <desc>LIVE 2024-25司諾克賽季 巡迴錦標賽 八強 2000-2300</desc>
-    <date>2025-04-10</date>
-  </programme>
-  <programme channel="369235" start="20250410230000 +0800" stop="20250411000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(2)MUR vs DIN</title>
-    <desc>2024-25司諾克賽季 世界公開賽 16強(2)MUR vs DIN</desc>
-    <date>2025-04-10</date>
-  </programme>
   <programme channel="369235" start="20250411003000 +0800" stop="20250411020000 +0800">
     <title lang="zh">2024-25司諾克賽季 世界公開賽 8強(1)HIG vs PAN</title>
     <desc>2024-25司諾克賽季 世界公開賽 8強(1)HIG vs PAN</desc>
@@ -93,5 +53,65 @@
     <title lang="zh">2024-25司諾克賽季 世界公開賽 4強(1)HIG vs SUR</title>
     <desc>2024-25司諾克賽季 世界公開賽 4強(1)HIG vs SUR</desc>
     <date>2025-04-11</date>
+  </programme>
+  <programme channel="369235" start="20250412020000 +0800" stop="20250412050000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 巡迴錦標賽 四強 0200-0500</title>
+    <desc>LIVE 2024-25司諾克賽季 巡迴錦標賽 四強 0200-0500</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412050000 +0800" stop="20250412060000 +0800">
+    <title lang="zh">2023-24司諾克賽季 巡迴錦標賽 4強 O'SUL vs WIL</title>
+    <desc>2023-24司諾克賽季 巡迴錦標賽 4強 O'SUL vs WIL</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412060000 +0800" stop="20250412090000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 BRE vs GIL</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 BRE vs GIL</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412090000 +0800" stop="20250412103000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 ALL vs HE</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 ALL vs HE</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412103000 +0800" stop="20250412120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 BIN vs ROB</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 BIN vs ROB</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412120000 +0800" stop="20250412133000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第一輪 LUC vs STU</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第一輪 LUC vs STU</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412133000 +0800" stop="20250412150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第一輪 RYA vs BEN</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第一輪 RYA vs BEN</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412150000 +0800" stop="20250412180000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 BRE vs GIL</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 BRE vs GIL</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412180000 +0800" stop="20250412193000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第一輪 SEL vs PLN</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第一輪 SEL vs PLN</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412193000 +0800" stop="20250412210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第一輪 SHA vs HAI</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第一輪 SHA vs HAI</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250412210000 +0800" stop="20250413000000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 CAR vs MAG</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 CAR vs MAG</desc>
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="369235" start="20250413000000 +0800" stop="20250414000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</desc>
+    <date>2025-04-13</date>
   </programme>
 </tv>
