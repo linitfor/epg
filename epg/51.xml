@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250412023756 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250412062909 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/271829/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=271829&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="271829">
     <display-name lang="Taiwan">東森幼幼台</display-name>
     <icon src="" />
@@ -159,8 +159,13 @@
     <desc />
     <date>2025-04-12</date>
   </programme>
-  <programme channel="271829" start="20250412213000 +0800" stop="20250412232500 +0800">
-    <title lang="zh">獅子王</title>
+  <programme channel="271829" start="20250412213000 +0800" stop="20250412230000 +0800">
+    <title lang="zh">我們這一家--電影版</title>
+    <desc />
+    <date>2025-04-12</date>
+  </programme>
+  <programme channel="271829" start="20250412230000 +0800" stop="20250412232500 +0800">
+    <title lang="zh">櫻桃小丸子HD</title>
     <desc />
     <date>2025-04-12</date>
   </programme>
@@ -174,7 +179,17 @@
     <desc />
     <date>2025-04-12</date>
   </programme>
-  <programme channel="271829" start="20250413002500 +0800" stop="20250413010000 +0800">
+  <programme channel="271829" start="20250413000000 +0800" stop="20250413002500 +0800">
+    <title lang="zh">新我們這一家</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="271829" start="20250413002500 +0800" stop="20250413003000 +0800">
+    <title lang="zh">我們這一家</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="271829" start="20250413003000 +0800" stop="20250413010000 +0800">
     <title lang="zh">我們這一家</title>
     <desc />
     <date>2025-04-13</date>

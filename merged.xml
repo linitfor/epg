@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250412023728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250412062845 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1788,6 +1788,10 @@
 <date>2025-04-13</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">台灣大代誌</title>
+</programme>
 <programme channel="369307" start="20250412000000 +0800" stop="20250412010000 +0800">
 <date>2025-04-12</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2500,6 +2504,10 @@
 <date>2025-04-13</date>
 <desc /><title lang="zh">琴謙天下事</title>
 </programme>
+<programme channel="370177" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">18中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250412013000 +0800" stop="20250412020000 +0800">
 <date>2025-04-12</date>
 <desc /><title lang="zh">元氣加油站【普】(E2856)</title>
@@ -2867,6 +2875,10 @@
 <programme channel="370141" start="20250413220000 +0800" stop="20250414000000 +0800">
 <date>2025-04-13</date>
 <desc /><title lang="zh">萬秀大勝利(普)</title>
+</programme>
+<programme channel="370141" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
 </programme>
 <programme channel="368922" start="20250412000000 +0800" stop="20250412010000 +0800">
 <date>2025-04-12</date>
@@ -3955,6 +3967,10 @@
 <programme channel="370149" start="20250413233000 +0800" stop="20250414000000 +0800">
 <date>2025-04-13</date>
 <desc /><title lang="zh">體壇最前線 4/13(第103集) (普)</title>
+</programme>
+<programme channel="370149" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">美麗不妥協(第85集) (護)</title>
 </programme>
 <programme channel="369284" start="20250412000000 +0800" stop="20250412003000 +0800">
 <date>2025-04-12</date>
@@ -6150,6 +6166,10 @@
 <programme channel="370222" start="20250413233500 +0800" stop="20250414000000 +0800">
 <date>2025-04-13</date>
 <desc /><title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
+</programme>
+<programme channel="370222" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">主廚大聯盟 12</title>
 </programme>
 <programme channel="369271" start="20250412000000 +0800" stop="20250412010000 +0800">
 <date>2025-04-12</date>
@@ -9553,9 +9573,13 @@
 <date>2025-04-12</date>
 <desc /><title lang="zh">蠟筆小新--我的超時空新娘</title>
 </programme>
-<programme channel="271829" start="20250412213000 +0800" stop="20250412232500 +0800">
+<programme channel="271829" start="20250412213000 +0800" stop="20250412230000 +0800">
 <date>2025-04-12</date>
-<desc /><title lang="zh">獅子王</title>
+<desc /><title lang="zh">我們這一家--電影版</title>
+</programme>
+<programme channel="271829" start="20250412230000 +0800" stop="20250412232500 +0800">
+<date>2025-04-12</date>
+<desc /><title lang="zh">櫻桃小丸子HD</title>
 </programme>
 <programme channel="271829" start="20250412232500 +0800" stop="20250412235500 +0800">
 <date>2025-04-12</date>
@@ -9565,7 +9589,15 @@
 <date>2025-04-12</date>
 <desc /><title lang="zh">新我們這一家</title>
 </programme>
-<programme channel="271829" start="20250413002500 +0800" stop="20250413010000 +0800">
+<programme channel="271829" start="20250413000000 +0800" stop="20250413002500 +0800">
+<date>2025-04-13</date>
+<desc /><title lang="zh">新我們這一家</title>
+</programme>
+<programme channel="271829" start="20250413002500 +0800" stop="20250413003000 +0800">
+<date>2025-04-13</date>
+<desc /><title lang="zh">我們這一家</title>
+</programme>
+<programme channel="271829" start="20250413003000 +0800" stop="20250413010000 +0800">
 <date>2025-04-13</date>
 <desc /><title lang="zh">我們這一家</title>
 </programme>
@@ -16872,6 +16904,10 @@
 <date>2025-04-13</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250412011000 +0800" stop="20250412032500 +0800">
 <date>2025-04-12</date>
 <desc>任達華、劉青雲主演。利比亞恐怖分子來港進行活動，第一次行動是把美國駐港領事的兒子炸死，香港警方派出雷勇領導的特工隊偵查此案，目的是消滅此批恐怖分子。由於此案交政治部負責，令到重案組高級督察…</desc>
@@ -17108,5 +17144,9 @@
 <programme channel="370144" start="20250413230000 +0800" stop="20250414000000 +0800">
 <date>2025-04-13</date>
 <desc /><title lang="zh">旅行東西軍(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250414000000 +0800" stop="20250415000000 +0800">
+<date>2025-04-14</date>
+<desc /><title lang="zh">寶島漁很大(普)(N)</title>
 </programme>
 </tv>
