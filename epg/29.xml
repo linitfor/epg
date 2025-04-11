@@ -1,209 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250411232931 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250411.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250411&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250412003549 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
   </channel>
-  <programme channel="370222" start="20250411000200 +0800" stop="20250411005300 +0800">
-    <title lang="zh">主廚大聯盟 09</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411005300 +0800" stop="20250411013900 +0800">
-    <title lang="zh">網路很忙 17</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411013900 +0800" stop="20250411022700 +0800">
-    <title lang="zh">網路很忙 18</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411022700 +0800" stop="20250411031100 +0800">
-    <title lang="zh">地球的慶典16 艋舺青山王祭</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411031100 +0800" stop="20250411035900 +0800">
-    <title lang="zh">地球的慶典17 平溪天燈節</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411035900 +0800" stop="20250411042700 +0800">
-    <title lang="zh">週遊列國 17 義大利經典母狼</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411042700 +0800" stop="20250411045300 +0800">
-    <title lang="zh">週遊列國 18 印度</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411045300 +0800" stop="20250411051500 +0800">
-    <title lang="zh">環遊世界800天 第一季 04 單戀的愛</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411051500 +0800" stop="20250411053700 +0800">
-    <title lang="zh">環遊世界800天 第一季 05 劍橋</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411053700 +0800" stop="20250411060200 +0800">
-    <title lang="zh">環遊世界800天 第一季 06 菁英</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411060200 +0800" stop="20250411065200 +0800">
-    <title lang="zh">主廚大聯盟 09</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411065200 +0800" stop="20250411073800 +0800">
-    <title lang="zh">網路很忙 17</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411073800 +0800" stop="20250411082600 +0800">
-    <title lang="zh">網路很忙 18</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411082600 +0800" stop="20250411091000 +0800">
-    <title lang="zh">地球的慶典16 艋舺青山王祭</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411091000 +0800" stop="20250411095900 +0800">
-    <title lang="zh">地球的慶典17 平溪天燈節</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411095900 +0800" stop="20250411102600 +0800">
-    <title lang="zh">週遊列國 17 義大利經典母狼</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411102600 +0800" stop="20250411105200 +0800">
-    <title lang="zh">週遊列國 18 印度</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411105200 +0800" stop="20250411111400 +0800">
-    <title lang="zh">環遊世界800天 第一季 04 單戀的愛</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411111400 +0800" stop="20250411113600 +0800">
-    <title lang="zh">環遊世界800天 第一季 05 劍橋</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411113600 +0800" stop="20250411120100 +0800">
-    <title lang="zh">環遊世界800天 第一季 06 菁英</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411120100 +0800" stop="20250411125200 +0800">
-    <title lang="zh">主廚大聯盟 09</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411125200 +0800" stop="20250411133800 +0800">
-    <title lang="zh">網路很忙 17</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411133800 +0800" stop="20250411142500 +0800">
-    <title lang="zh">網路很忙 18</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411142500 +0800" stop="20250411151000 +0800">
-    <title lang="zh">地球的慶典16 艋舺青山王祭</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411151000 +0800" stop="20250411155800 +0800">
-    <title lang="zh">地球的慶典17 平溪天燈節</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411155800 +0800" stop="20250411162600 +0800">
-    <title lang="zh">週遊列國 17 義大利經典母狼</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411162600 +0800" stop="20250411165100 +0800">
-    <title lang="zh">週遊列國 18 印度</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411165100 +0800" stop="20250411171400 +0800">
-    <title lang="zh">環遊世界800天 第一季 04 單戀的愛</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411171400 +0800" stop="20250411173600 +0800">
-    <title lang="zh">環遊世界800天 第一季 05 劍橋</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411173600 +0800" stop="20250411180000 +0800">
-    <title lang="zh">環遊世界800天 第一季 06 菁英</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411180000 +0800" stop="20250411185100 +0800">
-    <title lang="zh">主廚大聯盟 09</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411185100 +0800" stop="20250411193700 +0800">
-    <title lang="zh">網路很忙 17</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411193700 +0800" stop="20250411202500 +0800">
-    <title lang="zh">網路很忙 18</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411202500 +0800" stop="20250411210900 +0800">
-    <title lang="zh">地球的慶典16 艋舺青山王祭</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411210900 +0800" stop="20250411215700 +0800">
-    <title lang="zh">地球的慶典17 平溪天燈節</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411215700 +0800" stop="20250411222500 +0800">
-    <title lang="zh">週遊列國 17 義大利經典母狼</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411222500 +0800" stop="20250411225100 +0800">
-    <title lang="zh">週遊列國 18 印度</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411225100 +0800" stop="20250411231300 +0800">
-    <title lang="zh">環遊世界800天 第一季 04 單戀的愛</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411231300 +0800" stop="20250411233500 +0800">
-    <title lang="zh">環遊世界800天 第一季 05 劍橋</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
-  <programme channel="370222" start="20250411233500 +0800" stop="20250412000000 +0800">
-    <title lang="zh">環遊世界800天 第一季 06 菁英</title>
-    <desc />
-    <date>2025-04-11</date>
-  </programme>
   <programme channel="370222" start="20250412000000 +0800" stop="20250412005000 +0800">
     <title lang="zh">主廚大聯盟 10</title>
     <desc />
@@ -404,8 +204,203 @@
     <desc />
     <date>2025-04-12</date>
   </programme>
-  <programme channel="370222" start="20250413000000 +0800" stop="20250414000000 +0800">
+  <programme channel="370222" start="20250413000000 +0800" stop="20250413004900 +0800">
     <title lang="zh">主廚大聯盟 11</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413004900 +0800" stop="20250413013500 +0800">
+    <title lang="zh">網路很忙 21</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413013500 +0800" stop="20250413022100 +0800">
+    <title lang="zh">網路很忙 22</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413022100 +0800" stop="20250413030900 +0800">
+    <title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413030900 +0800" stop="20250413035600 +0800">
+    <title lang="zh">地球的慶典21 九州宮崎神宮大祭(下)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413035600 +0800" stop="20250413042100 +0800">
+    <title lang="zh">週遊列國 21 美國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413042100 +0800" stop="20250413044700 +0800">
+    <title lang="zh">週遊列國 22 歐洲</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413044700 +0800" stop="20250413051200 +0800">
+    <title lang="zh">環遊世界800天 第一季 10 貝爾法斯特</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413051200 +0800" stop="20250413053500 +0800">
+    <title lang="zh">環遊世界800天 第一季 11 另一個世界</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413053500 +0800" stop="20250413060100 +0800">
+    <title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413060100 +0800" stop="20250413065000 +0800">
+    <title lang="zh">主廚大聯盟 11</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413065000 +0800" stop="20250413073700 +0800">
+    <title lang="zh">網路很忙 21</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413073700 +0800" stop="20250413082300 +0800">
+    <title lang="zh">網路很忙 22</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413082300 +0800" stop="20250413091100 +0800">
+    <title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413091100 +0800" stop="20250413095800 +0800">
+    <title lang="zh">地球的慶典21 九州宮崎神宮大祭(下)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413095800 +0800" stop="20250413102300 +0800">
+    <title lang="zh">週遊列國 21 美國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413102300 +0800" stop="20250413104800 +0800">
+    <title lang="zh">週遊列國 22 歐洲</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413104800 +0800" stop="20250413111300 +0800">
+    <title lang="zh">環遊世界800天 第一季 10 貝爾法斯特</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413111300 +0800" stop="20250413113700 +0800">
+    <title lang="zh">環遊世界800天 第一季 11 另一個世界</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413113700 +0800" stop="20250413120100 +0800">
+    <title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413120100 +0800" stop="20250413124900 +0800">
+    <title lang="zh">主廚大聯盟 11</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413124900 +0800" stop="20250413133600 +0800">
+    <title lang="zh">網路很忙 21</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413133600 +0800" stop="20250413142200 +0800">
+    <title lang="zh">網路很忙 22</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413142200 +0800" stop="20250413151000 +0800">
+    <title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413151000 +0800" stop="20250413155700 +0800">
+    <title lang="zh">地球的慶典21 九州宮崎神宮大祭(下)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413155700 +0800" stop="20250413162200 +0800">
+    <title lang="zh">週遊列國 21 美國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413162200 +0800" stop="20250413164700 +0800">
+    <title lang="zh">週遊列國 22 歐洲</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413164700 +0800" stop="20250413171200 +0800">
+    <title lang="zh">環遊世界800天 第一季 10 貝爾法斯特</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413171200 +0800" stop="20250413173600 +0800">
+    <title lang="zh">環遊世界800天 第一季 11 另一個世界</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413173600 +0800" stop="20250413180000 +0800">
+    <title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413180000 +0800" stop="20250413184800 +0800">
+    <title lang="zh">主廚大聯盟 11</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413184800 +0800" stop="20250413193500 +0800">
+    <title lang="zh">網路很忙 21</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413193500 +0800" stop="20250413202100 +0800">
+    <title lang="zh">網路很忙 22</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413202100 +0800" stop="20250413210900 +0800">
+    <title lang="zh">地球的慶典20 九州宮崎神宮大祭(上)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413210900 +0800" stop="20250413215600 +0800">
+    <title lang="zh">地球的慶典21 九州宮崎神宮大祭(下)</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413215600 +0800" stop="20250413222100 +0800">
+    <title lang="zh">週遊列國 21 美國</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413222100 +0800" stop="20250413224700 +0800">
+    <title lang="zh">週遊列國 22 歐洲</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413224700 +0800" stop="20250413231200 +0800">
+    <title lang="zh">環遊世界800天 第一季 10 貝爾法斯特</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413231200 +0800" stop="20250413233500 +0800">
+    <title lang="zh">環遊世界800天 第一季 11 另一個世界</title>
+    <desc />
+    <date>2025-04-13</date>
+  </programme>
+  <programme channel="370222" start="20250413233500 +0800" stop="20250414000000 +0800">
+    <title lang="zh">環遊世界800天 第一季 12 日不落帝國</title>
     <desc />
     <date>2025-04-13</date>
   </programme>
