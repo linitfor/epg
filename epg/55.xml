@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250412232558 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250412&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250413003050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250413.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250413&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250412010000 +0800" stop="20250412033000 +0800">
-    <title lang="zh">LIVE2025休士頓男網賽八強</title>
-    <desc>LIVE2025休士頓男網賽八強</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412033000 +0800" stop="20250412053000 +0800">
-    <title lang="zh">2025印地安泉大師賽四強RUNvsMED</title>
-    <desc>2025印地安泉大師賽四強RUNvsMED</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412053000 +0800" stop="20250412060000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412060000 +0800" stop="20250412083000 +0800">
-    <title lang="zh">2025杜拜男網賽八強NARvsHAL</title>
-    <desc>2025杜拜男網賽八強NARvsHAL</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412083000 +0800" stop="20250412110000 +0800">
-    <title lang="zh">2025邁阿密大師賽決賽MENvsDJO</title>
-    <desc>2025邁阿密大師賽決賽MENvsDJO</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412110000 +0800" stop="20250412120000 +0800">
-    <title lang="zh">2025邁阿密大師賽精華</title>
-    <desc>2025邁阿密大師賽精華</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412120000 +0800" stop="20250412193000 +0800">
-    <title lang="zh">首播2025蒙地卡羅大師賽八強</title>
-    <desc>首播2025蒙地卡羅大師賽八強</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412193000 +0800" stop="20250412233000 +0800">
-    <title lang="zh">LIVE2025蒙地卡羅大師賽四強</title>
-    <desc>LIVE2025蒙地卡羅大師賽四強</desc>
-    <date>2025-04-12</date>
-  </programme>
-  <programme channel="369216" start="20250412233000 +0800" stop="20250413000000 +0800">
-    <title lang="zh">2025印地安泉大師賽四強DRAvsALC</title>
-    <desc>2025印地安泉大師賽四強DRAvsALC</desc>
-    <date>2025-04-12</date>
-  </programme>
   <programme channel="369216" start="20250413013000 +0800" stop="20250413040000 +0800">
     <title lang="zh">2025杜拜男網賽四強HALvsAUG</title>
     <desc>2025杜拜男網賽四強HALvsAUG</desc>
@@ -108,5 +63,55 @@
     <title lang="zh">2025印地安泉大師賽決賽RUNvsDRA</title>
     <desc>2025印地安泉大師賽決賽RUNvsDRA</desc>
     <date>2025-04-13</date>
+  </programme>
+  <programme channel="369216" start="20250414010000 +0800" stop="20250414023000 +0800">
+    <title lang="zh">2025杜拜男網賽四強GRIvsTSI</title>
+    <desc>2025杜拜男網賽四強GRIvsTSI</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414023000 +0800" stop="20250414043000 +0800">
+    <title lang="zh">2025休士頓男網賽八強</title>
+    <desc>2025休士頓男網賽八強</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414043000 +0800" stop="20250414063000 +0800">
+    <title lang="zh">2025印地安泉大師賽決賽RUNvsDRA</title>
+    <desc>2025印地安泉大師賽決賽RUNvsDRA</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414063000 +0800" stop="20250414080000 +0800">
+    <title lang="zh">2025杜拜男網賽四強GRIvsTSI</title>
+    <desc>2025杜拜男網賽四強GRIvsTSI</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414080000 +0800" stop="20250414100000 +0800">
+    <title lang="zh">2025休士頓男網賽八強</title>
+    <desc>2025休士頓男網賽八強</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414100000 +0800" stop="20250414120000 +0800">
+    <title lang="zh">2025印地安泉大師賽決賽RUNvsDRA</title>
+    <desc>2025印地安泉大師賽決賽RUNvsDRA</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414120000 +0800" stop="20250414143000 +0800">
+    <title lang="zh">首播2025蒙地卡羅大師賽決賽</title>
+    <desc>首播2025蒙地卡羅大師賽決賽</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414143000 +0800" stop="20250414150000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414150000 +0800" stop="20250414170000 +0800">
+    <title lang="zh">2025休士頓男網賽八強</title>
+    <desc>2025休士頓男網賽八強</desc>
+    <date>2025-04-14</date>
+  </programme>
+  <programme channel="369216" start="20250414170000 +0800" stop="20250415000000 +0800">
+    <title lang="zh">LIVE2025巴塞隆納男網賽第一天</title>
+    <desc>LIVE2025巴塞隆納男網賽第一天</desc>
+    <date>2025-04-14</date>
   </programme>
 </tv>
