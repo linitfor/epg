@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250414042755 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250414.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250414&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250414072613 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250414.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250414&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="335009" start="20250414000000 +0800" stop="20250414021900 +0800">
-    <title lang="zh">113學年度高中木棒 第二階段 崇義高中 vs 東石高中(普)</title>
+    <title lang="zh">113學年度高中木棒 第二階段 中興高中 vs 崇義高中(普)</title>
     <desc />
     <date>2025-04-14</date>
   </programme>
@@ -109,8 +109,13 @@
     <desc />
     <date>2025-04-14</date>
   </programme>
-  <programme channel="335009" start="20250415000000 +0800" stop="20250415021900 +0800">
-    <title lang="zh">113學年度高中木棒 第二階段 中興高中 vs 崇義高中(普)</title>
+  <programme channel="335009" start="20250415000000 +0800" stop="20250415021700 +0800">
+    <title lang="zh">[首播] 113學年度高中木棒 第二階段 三民高中 vs 普門中學(普)</title>
+    <desc />
+    <date>2025-04-15</date>
+  </programme>
+  <programme channel="335009" start="20250415021700 +0800" stop="20250415021900 +0800">
+    <title lang="zh">[首播] 第61屆莒光盃排球賽 3/11冠軍賽賽程(普)</title>
     <desc />
     <date>2025-04-15</date>
   </programme>
@@ -124,8 +129,13 @@
     <desc />
     <date>2025-04-15</date>
   </programme>
-  <programme channel="335009" start="20250415091600 +0800" stop="20250415101300 +0800">
+  <programme channel="335009" start="20250415091600 +0800" stop="20250415100700 +0800">
     <title lang="zh">2023肇喜登峰巡迴賽 南寳公開賽第三回合(普)</title>
+    <desc />
+    <date>2025-04-15</date>
+  </programme>
+  <programme channel="335009" start="20250415100700 +0800" stop="20250415101300 +0800">
+    <title lang="zh">[首播] 113學年度高中木棒 第二階段 麥寮高中 vs 臺東體中(普)</title>
     <desc />
     <date>2025-04-15</date>
   </programme>
@@ -134,8 +144,13 @@
     <desc />
     <date>2025-04-15</date>
   </programme>
-  <programme channel="335009" start="20250415120000 +0800" stop="20250415141900 +0800">
-    <title lang="zh">113學年度高中木棒 第二階段 中興高中 vs 崇義高中(普)</title>
+  <programme channel="335009" start="20250415120000 +0800" stop="20250415141700 +0800">
+    <title lang="zh">113學年度高中木棒 第二階段 三民高中 vs 普門中學(普)</title>
+    <desc />
+    <date>2025-04-15</date>
+  </programme>
+  <programme channel="335009" start="20250415141700 +0800" stop="20250415141900 +0800">
+    <title lang="zh">第61屆莒光盃排球賽 3/11冠軍賽賽程(普)</title>
     <desc />
     <date>2025-04-15</date>
   </programme>
@@ -149,8 +164,13 @@
     <desc />
     <date>2025-04-15</date>
   </programme>
-  <programme channel="335009" start="20250415211600 +0800" stop="20250415221300 +0800">
+  <programme channel="335009" start="20250415211600 +0800" stop="20250415220700 +0800">
     <title lang="zh">2023肇喜登峰巡迴賽 南寳公開賽第三回合(普)</title>
+    <desc />
+    <date>2025-04-15</date>
+  </programme>
+  <programme channel="335009" start="20250415220700 +0800" stop="20250415221300 +0800">
+    <title lang="zh">113學年度高中木棒 第二階段 麥寮高中 vs 臺東體中(普)</title>
     <desc />
     <date>2025-04-15</date>
   </programme>
@@ -160,7 +180,7 @@
     <date>2025-04-15</date>
   </programme>
   <programme channel="335009" start="20250416000000 +0800" stop="20250417000000 +0800">
-    <title lang="zh">[首播] 113學年度高中木棒 第二階段 三民高中 vs 普門中學(普)</title>
+    <title lang="zh">2025少年籃球 U12女子國際發展組 澳門培正 vs 竹市高峰(普)</title>
     <desc />
     <date>2025-04-16</date>
   </programme>
