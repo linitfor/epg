@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250415023650 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250415.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250415&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250415052525 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250415.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250415&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
@@ -403,5 +403,10 @@
     <title lang="zh">環遊世界800天 第二季 05 懷念的那些人</title>
     <desc />
     <date>2025-04-16</date>
+  </programme>
+  <programme channel="370222" start="20250417000000 +0800" stop="20250418000000 +0800">
+    <title lang="zh">主廚大聯盟 15</title>
+    <desc />
+    <date>2025-04-17</date>
   </programme>
 </tv>
