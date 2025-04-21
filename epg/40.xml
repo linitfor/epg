@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250421232945 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250421.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250421&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250422003516 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250422.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250422&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250421013000 +0800" stop="20250421020000 +0800">
-    <title lang="zh">北愛爾蘭公開賽 精華</title>
-    <desc>北愛爾蘭公開賽 精華</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421020000 +0800" stop="20250421053000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 0200-0530</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 0200-0530</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421053000 +0800" stop="20250421083000 +0800">
-    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 決賽 SEL vs MAG</title>
-    <desc>2024-25司諾克賽季 威爾斯公開賽 決賽 SEL vs MAG</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421083000 +0800" stop="20250421120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421120000 +0800" stop="20250421170000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 世界錦標賽 第一輪 主桌</title>
-    <desc>首播 2024-25司諾克賽季 世界錦標賽 第一輪 主桌</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421170000 +0800" stop="20250421210000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 1700-2100</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 1700-2100</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421210000 +0800" stop="20250421213000 +0800">
-    <title lang="zh">北愛爾蘭公開賽 精華</title>
-    <desc>北愛爾蘭公開賽 精華</desc>
-    <date>2025-04-21</date>
-  </programme>
-  <programme channel="369235" start="20250421213000 +0800" stop="20250422000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 2130-0130</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 主桌 2130-0130</desc>
-    <date>2025-04-21</date>
-  </programme>
   <programme channel="369235" start="20250422000000 +0800" stop="20250422023000 +0800">
     <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第二輪 HAW vs HIG</title>
     <desc>2024-25司諾克賽季 蘇格蘭公開賽 第二輪 HAW vs HIG</desc>
@@ -99,9 +59,59 @@
     <desc>2023-24司諾克賽季 世界錦標賽 第一輪 MIL vs PAN</desc>
     <date>2025-04-22</date>
   </programme>
-  <programme channel="369235" start="20250423000000 +0800" stop="20250424000000 +0800">
+  <programme channel="369235" start="20250423000000 +0800" stop="20250423023000 +0800">
     <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第二輪 SEL vs SAE</title>
     <desc>2024-25司諾克賽季 蘇格蘭公開賽 第二輪 SEL vs SAE</desc>
     <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423023000 +0800" stop="20250423053000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423053000 +0800" stop="20250423083000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 MIL vs PAN</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 MIL vs PAN</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423083000 +0800" stop="20250423110000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第二輪 SEL vs SAE</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第二輪 SEL vs SAE</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423110000 +0800" stop="20250423140000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423140000 +0800" stop="20250423170000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 MIL vs PAN</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 MIL vs PAN</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423170000 +0800" stop="20250423180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 限時挑戰賽 16強8強4強決賽</title>
+    <desc>2024-25司諾克賽季 限時挑戰賽 16強8強4強決賽</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423180000 +0800" stop="20250423193000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423193000 +0800" stop="20250423210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250423210000 +0800" stop="20250424000000 +0800">
+    <title lang="zh">2023-24司諾克賽季 世界錦標賽 第一輪 ALL vs WIL</title>
+    <desc>2023-24司諾克賽季 世界錦標賽 第一輪 ALL vs WIL</desc>
+    <date>2025-04-23</date>
+  </programme>
+  <programme channel="369235" start="20250424000000 +0800" stop="20250425000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第二輪 WIL vs MAG</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第二輪 WIL vs MAG</desc>
+    <date>2025-04-24</date>
   </programme>
 </tv>
