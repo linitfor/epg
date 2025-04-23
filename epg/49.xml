@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250424023848 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250424.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250424&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250424052720 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250424.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250424&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="335009" start="20250424000000 +0800" stop="20250424023200 +0800">
-    <title lang="zh">113學年度高中木棒 16強 西苑高中 vs 臺南海事(普)</title>
+    <title lang="zh">113學年度高中木棒 第三階段 東石高中 vs 中興高中(普)</title>
     <desc />
     <date>2025-04-24</date>
   </programme>
@@ -45,12 +45,12 @@
     <date>2025-04-24</date>
   </programme>
   <programme channel="335009" start="20250424080000 +0800" stop="20250424160000 +0800">
-    <title lang="zh">[Live] 113學年國小棒球軟式組 16強賽(普)</title>
+    <title lang="zh">[Live] 113學年國小棒球軟式組 32強賽(普)</title>
     <desc />
     <date>2025-04-24</date>
   </programme>
   <programme channel="335009" start="20250424160000 +0800" stop="20250424183200 +0800">
-    <title lang="zh">113學年度高中木棒 16強 西苑高中 vs 臺南海事(普)</title>
+    <title lang="zh">113學年度高中木棒 第三階段 東石高中 vs 中興高中(普)</title>
     <desc />
     <date>2025-04-24</date>
   </programme>
@@ -90,7 +90,7 @@
     <date>2025-04-24</date>
   </programme>
   <programme channel="335009" start="20250425000000 +0800" stop="20250425012800 +0800">
-    <title lang="zh">113國小棒球軟式女子 四強戰 南投中正 vs 新北德音(普)</title>
+    <title lang="zh">113學年度高中木棒 16強 西苑高中 vs 臺南海事(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
@@ -100,17 +100,27 @@
     <date>2025-04-25</date>
   </programme>
   <programme channel="335009" start="20250425023200 +0800" stop="20250425032800 +0800">
-    <title lang="zh">2025少年籃球 U12女子組 冠軍戰 雲林土庫 vs 臺中東興(普)</title>
+    <title lang="zh">113學年度高中木棒 八強戰 臺南海事 vs 穀保家商(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
-  <programme channel="335009" start="20250425032800 +0800" stop="20250425062800 +0800">
+  <programme channel="335009" start="20250425032800 +0800" stop="20250425043700 +0800">
     <title lang="zh">114年度臺灣盃全國羽球錦標賽 3/15賽程(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
-  <programme channel="335009" start="20250425062800 +0800" stop="20250425072300 +0800">
+  <programme channel="335009" start="20250425043700 +0800" stop="20250425062800 +0800">
+    <title lang="zh">113學年度高中木棒 八強戰 鶯歌工商 vs 臺東體中(普)</title>
+    <desc />
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="335009" start="20250425062800 +0800" stop="20250425065300 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="335009" start="20250425065300 +0800" stop="20250425072300 +0800">
+    <title lang="zh">2025少年籃球 U12女子組 季軍戰 臺北南港 vs 雲林麥寮(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
@@ -120,12 +130,12 @@
     <date>2025-04-25</date>
   </programme>
   <programme channel="335009" start="20250425080000 +0800" stop="20250425160000 +0800">
-    <title lang="zh">[Live] 113學年國小棒球軟式組 八強、四強賽(普)</title>
+    <title lang="zh">[Live] 113學年國小棒球軟式組 16強賽(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
   <programme channel="335009" start="20250425160000 +0800" stop="20250425172800 +0800">
-    <title lang="zh">113國小棒球軟式女子 四強戰 南投中正 vs 新北德音(普)</title>
+    <title lang="zh">113學年度高中木棒 16強 西苑高中 vs 臺南海事(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
@@ -135,17 +145,27 @@
     <date>2025-04-25</date>
   </programme>
   <programme channel="335009" start="20250425183200 +0800" stop="20250425192800 +0800">
-    <title lang="zh">2025少年籃球 U12女子組 冠軍戰 雲林土庫 vs 臺中東興(普)</title>
+    <title lang="zh">113學年度高中木棒 八強戰 臺南海事 vs 穀保家商(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
-  <programme channel="335009" start="20250425192800 +0800" stop="20250425222800 +0800">
+  <programme channel="335009" start="20250425192800 +0800" stop="20250425203700 +0800">
     <title lang="zh">114年度臺灣盃全國羽球錦標賽 3/15賽程(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
-  <programme channel="335009" start="20250425222800 +0800" stop="20250425232300 +0800">
+  <programme channel="335009" start="20250425203700 +0800" stop="20250425222800 +0800">
+    <title lang="zh">113學年度高中木棒 八強戰 鶯歌工商 vs 臺東體中(普)</title>
+    <desc />
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="335009" start="20250425222800 +0800" stop="20250425225300 +0800">
     <title lang="zh">2024肇喜登峰巡迴賽 美津濃公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="335009" start="20250425225300 +0800" stop="20250425232300 +0800">
+    <title lang="zh">2025少年籃球 U12女子組 季軍戰 臺北南港 vs 雲林麥寮(普)</title>
     <desc />
     <date>2025-04-25</date>
   </programme>
@@ -155,7 +175,7 @@
     <date>2025-04-25</date>
   </programme>
   <programme channel="335009" start="20250426000000 +0800" stop="20250427000000 +0800">
-    <title lang="zh">[首播] 113學年度高中木棒 16強 臺東體中 vs 大理高中(普)</title>
+    <title lang="zh">113國小棒球軟式女子 四強戰 南投中正 vs 新北德音(普)</title>
     <desc />
     <date>2025-04-26</date>
   </programme>
