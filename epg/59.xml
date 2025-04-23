@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250423233101 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250423.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250423&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250424003555 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250424.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250424&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369213">
     <display-name lang="Taiwan">博斯高球2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155209866861_10.jpg" />
   </channel>
-  <programme channel="369213" start="20250423000000 +0800" stop="20250423050000 +0800">
-    <title lang="zh">2025 LPGA藍灣公開賽第二天</title>
-    <desc>2025 LPGA藍灣公開賽第二天</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423050000 +0800" stop="20250423090000 +0800">
-    <title lang="zh">2024 TLPGA大亞集團女子公開賽第二回合</title>
-    <desc>2024 TLPGA大亞集團女子公開賽第二回合</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423090000 +0800" stop="20250423100000 +0800">
-    <title lang="zh">2024 TLPGA法國巴黎銀行財富管理TLPGA傳承賽 精華</title>
-    <desc>2024 TLPGA法國巴黎銀行財富管理TLPGA傳承賽 精華</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423100000 +0800" stop="20250423123000 +0800">
-    <title lang="zh">2025 LPGA拉斯維加斯比洞賽第四天</title>
-    <desc>2025 LPGA拉斯維加斯比洞賽第四天</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423123000 +0800" stop="20250423130000 +0800">
-    <title lang="zh">2024雪蘭莪名人賽 精華</title>
-    <desc>2024雪蘭莪名人賽 精華</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423130000 +0800" stop="20250423200000 +0800">
-    <title lang="zh">2024 LPGA英國女子公開賽第二天</title>
-    <desc>2024 LPGA英國女子公開賽第二天</desc>
-    <date>2025-04-23</date>
-  </programme>
-  <programme channel="369213" start="20250423200000 +0800" stop="20250424000000 +0800">
-    <title lang="zh">2024 亞巡泰國國際亞巡賽第三天</title>
-    <desc>2024 亞巡泰國國際亞巡賽第三天</desc>
-    <date>2025-04-23</date>
-  </programme>
   <programme channel="369213" start="20250424000000 +0800" stop="20250424050000 +0800">
     <title lang="zh">2025 LPGA藍灣公開賽第三天</title>
     <desc>2025 LPGA藍灣公開賽第三天</desc>
@@ -69,9 +34,39 @@
     <desc>2024 亞巡泰國國際亞巡賽第四天</desc>
     <date>2025-04-24</date>
   </programme>
-  <programme channel="369213" start="20250425000000 +0800" stop="20250426000000 +0800">
+  <programme channel="369213" start="20250425000000 +0800" stop="20250425050000 +0800">
     <title lang="zh">2025 LPGA藍灣公開賽第四天</title>
     <desc>2025 LPGA藍灣公開賽第四天</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425050000 +0800" stop="20250425060000 +0800">
+    <title lang="zh">2025 TSPGA南寶南區熱血傳承賽精華</title>
+    <desc>2025 TSPGA南寶南區熱血傳承賽精華</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425060000 +0800" stop="20250425090000 +0800">
+    <title lang="zh">LIVE2025 LPGA洛杉磯錦標賽第一天</title>
+    <desc>LIVE2025 LPGA洛杉磯錦標賽第一天</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425090000 +0800" stop="20250425113000 +0800">
+    <title lang="zh">2024台玻台豐公開賽第三回合</title>
+    <desc>2024台玻台豐公開賽第三回合</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425113000 +0800" stop="20250425183000 +0800">
+    <title lang="zh">2024 LPGA英國女子公開賽第四天</title>
+    <desc>2024 LPGA英國女子公開賽第四天</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425183000 +0800" stop="20250425213000 +0800">
+    <title lang="zh">首播2025 LPGA洛杉磯錦標賽第一天</title>
+    <desc>首播2025 LPGA洛杉磯錦標賽第一天</desc>
+    <date>2025-04-25</date>
+  </programme>
+  <programme channel="369213" start="20250425213000 +0800" stop="20250426000000 +0800">
+    <title lang="zh">2024 LPGA索罕盃第一天</title>
+    <desc>2024 LPGA索罕盃第一天</desc>
     <date>2025-04-25</date>
   </programme>
 </tv>
