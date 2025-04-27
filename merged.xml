@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250428023336 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250428.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250428&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250428052347 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250428.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250428&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1679,6 +1679,10 @@
 <date>2025-04-29</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20250430000000 +0800" stop="20250501000000 +0800">
+<date>2025-04-30</date>
+<desc /><title lang="zh">理財達人秀</title>
+</programme>
 <programme channel="369307" start="20250428000000 +0800" stop="20250428003000 +0800">
 <date>2025-04-28</date>
 <desc>社會中每一個小人物，都有著觸動人心的故事！我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事</desc>
@@ -2365,6 +2369,10 @@
 <programme channel="370177" start="20250429230000 +0800" stop="20250430000000 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">23全球大視野</title>
+</programme>
+<programme channel="370177" start="20250430000000 +0800" stop="20250501000000 +0800">
+<date>2025-04-30</date>
+<desc /><title lang="zh">18中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20250428013000 +0800" stop="20250428023000 +0800">
 <date>2025-04-28</date>
@@ -4054,6 +4062,10 @@
 <programme channel="370149" start="20250429233000 +0800" stop="20250430000000 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">體壇最前線 4/29(第119集) (普)</title>
+</programme>
+<programme channel="370149" start="20250430000000 +0800" stop="20250501000000 +0800">
+<date>2025-04-30</date>
+<desc /><title lang="zh">地球的慶典(第29集) (普)</title>
 </programme>
 <programme channel="369284" start="20250428000000 +0800" stop="20250428024000 +0800">
 <date>2025-04-28</date>
@@ -8743,29 +8755,61 @@
 <date>2025-04-29</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
 </programme>
-<programme channel="335009" start="20250428000000 +0800" stop="20250428032500 +0800">
-<date>2025-04-28</date>
-<desc /><title lang="zh">114學年全國中學跆拳道品勢暨競技錦標賽 3/15賽程(普)</title>
+<programme channel="370209" start="20250430000000 +0800" stop="20250501000000 +0800">
+<date>2025-04-30</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
-<programme channel="335009" start="20250428032500 +0800" stop="20250428045900 +0800">
+<programme channel="335009" start="20250428000000 +0800" stop="20250428021100 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">[首播] 113學年度高中木棒 八強 東石高中 vs 北科附工(普)</title>
+</programme>
+<programme channel="335009" start="20250428021100 +0800" stop="20250428032500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">[首播] 113學年度高中木棒 八強 稻江商職 vs 平鎮高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428032500 +0800" stop="20250428033600 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">113國小棒球軟式女子 季軍戰 南投中正 vs 竹縣上館(普)</title>
 </programme>
-<programme channel="335009" start="20250428045900 +0800" stop="20250428063000 +0800">
+<programme channel="335009" start="20250428033600 +0800" stop="20250428045900 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">113年全國中正盃柔道錦標賽 11/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250428045900 +0800" stop="20250428051100 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">113國小棒球軟式女子 冠軍戰 新北德音 vs 南投埔里(普)</title>
 </programme>
-<programme channel="335009" start="20250428063000 +0800" stop="20250428073500 +0800">
+<programme channel="335009" start="20250428051100 +0800" stop="20250428055500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14冠軍戰(普)</title>
+</programme>
+<programme channel="335009" start="20250428055500 +0800" stop="20250428063000 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15冠軍戰(普)</title>
+</programme>
+<programme channel="335009" start="20250428063000 +0800" stop="20250428063100 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">2023肇喜登峰高球巡迴賽 環台公開賽 第三回合(普)</title>
 </programme>
-<programme channel="335009" start="20250428073500 +0800" stop="20250428082300 +0800">
+<programme channel="335009" start="20250428063100 +0800" stop="20250428073500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">2024長耀盃 高男循環賽 美國亞特蘭大 vs 東泰高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428073500 +0800" stop="20250428080800 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">2025少年籃球 U12女子國際發展組 竹市高峰 vs 澳門培正(普)</title>
 </programme>
-<programme channel="335009" start="20250428082300 +0800" stop="20250428101800 +0800">
+<programme channel="335009" start="20250428080800 +0800" stop="20250428082300 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">[首播] 2025肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
+</programme>
+<programme channel="335009" start="20250428082300 +0800" stop="20250428100800 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">第61屆莒光盃排球賽 高女冠軍賽 東山高中 vs 枋寮高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428100800 +0800" stop="20250428101800 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">113學年度高中木棒 四強戰 臺東體中 vs 穀保家商(普)</title>
 </programme>
 <programme channel="335009" start="20250428101800 +0800" stop="20250428112000 +0800">
 <date>2025-04-28</date>
@@ -8775,29 +8819,57 @@
 <date>2025-04-28</date>
 <desc /><title lang="zh">第一屆臺灣美式躲避球錦標賽 男子冠軍賽 香港隊A vs 香港隊B(普)</title>
 </programme>
-<programme channel="335009" start="20250428120000 +0800" stop="20250428152500 +0800">
+<programme channel="335009" start="20250428120000 +0800" stop="20250428141100 +0800">
 <date>2025-04-28</date>
-<desc /><title lang="zh">114學年全國中學跆拳道品勢暨競技錦標賽 3/15賽程(普)</title>
+<desc /><title lang="zh">113學年度高中木棒 八強 東石高中 vs 北科附工(普)</title>
 </programme>
-<programme channel="335009" start="20250428152500 +0800" stop="20250428165900 +0800">
+<programme channel="335009" start="20250428141100 +0800" stop="20250428152500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">113學年度高中木棒 八強 稻江商職 vs 平鎮高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428152500 +0800" stop="20250428153600 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">113國小棒球軟式女子 季軍戰 南投中正 vs 竹縣上館(普)</title>
 </programme>
-<programme channel="335009" start="20250428165900 +0800" stop="20250428183000 +0800">
+<programme channel="335009" start="20250428153600 +0800" stop="20250428165900 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">113年全國中正盃柔道錦標賽 11/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250428165900 +0800" stop="20250428171100 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">113國小棒球軟式女子 冠軍戰 新北德音 vs 南投埔里(普)</title>
 </programme>
-<programme channel="335009" start="20250428183000 +0800" stop="20250428193500 +0800">
+<programme channel="335009" start="20250428171100 +0800" stop="20250428175500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14冠軍戰(普)</title>
+</programme>
+<programme channel="335009" start="20250428175500 +0800" stop="20250428183000 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15冠軍戰(普)</title>
+</programme>
+<programme channel="335009" start="20250428183000 +0800" stop="20250428183100 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">2023肇喜登峰高球巡迴賽 環台公開賽 第三回合(普)</title>
 </programme>
-<programme channel="335009" start="20250428193500 +0800" stop="20250428202300 +0800">
+<programme channel="335009" start="20250428183100 +0800" stop="20250428193500 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">2024長耀盃 高男循環賽 美國亞特蘭大 vs 東泰高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428193500 +0800" stop="20250428200800 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">2025少年籃球 U12女子國際發展組 竹市高峰 vs 澳門培正(普)</title>
 </programme>
-<programme channel="335009" start="20250428202300 +0800" stop="20250428221800 +0800">
+<programme channel="335009" start="20250428200800 +0800" stop="20250428202300 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
+</programme>
+<programme channel="335009" start="20250428202300 +0800" stop="20250428220800 +0800">
 <date>2025-04-28</date>
 <desc /><title lang="zh">第61屆莒光盃排球賽 高女冠軍賽 東山高中 vs 枋寮高中(普)</title>
+</programme>
+<programme channel="335009" start="20250428220800 +0800" stop="20250428221800 +0800">
+<date>2025-04-28</date>
+<desc /><title lang="zh">113學年度高中木棒 四強戰 臺東體中 vs 穀保家商(普)</title>
 </programme>
 <programme channel="335009" start="20250428221800 +0800" stop="20250428232000 +0800">
 <date>2025-04-28</date>
@@ -8809,15 +8881,23 @@
 </programme>
 <programme channel="335009" start="20250429000000 +0800" stop="20250429021100 +0800">
 <date>2025-04-29</date>
-<desc /><title lang="zh">[首播] 113學年度高中木棒 八強 東石高中 vs 北科附工(普)</title>
+<desc /><title lang="zh">第22屆踢拳全國錦標賽 輕接觸(普)</title>
 </programme>
-<programme channel="335009" start="20250429021100 +0800" stop="20250429033600 +0800">
+<programme channel="335009" start="20250429021100 +0800" stop="20250429023500 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">[首播] 113學年度高中木棒 八強 稻江商職 vs 平鎮高中(普)</title>
 </programme>
-<programme channel="335009" start="20250429033600 +0800" stop="20250429051100 +0800">
+<programme channel="335009" start="20250429023500 +0800" stop="20250429033600 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">[首播] 113學年度高中木棒 排名賽 臺南海事 vs 鶯歌工商(普)</title>
+</programme>
+<programme channel="335009" start="20250429033600 +0800" stop="20250429041100 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">113年全國中正盃柔道錦標賽 11/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250429041100 +0800" stop="20250429051100 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">[首播] 113學年度高中木棒 排名賽 稻江商職 vs 北科附工(普)</title>
 </programme>
 <programme channel="335009" start="20250429051100 +0800" stop="20250429055500 +0800">
 <date>2025-04-29</date>
@@ -8827,29 +8907,53 @@
 <date>2025-04-29</date>
 <desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15冠軍戰(普)</title>
 </programme>
-<programme channel="335009" start="20250429063100 +0800" stop="20250429080800 +0800">
+<programme channel="335009" start="20250429063100 +0800" stop="20250429063200 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">2024長耀盃 高男循環賽 美國亞特蘭大 vs 東泰高中(普)</title>
 </programme>
-<programme channel="335009" start="20250429080800 +0800" stop="20250429100800 +0800">
+<programme channel="335009" start="20250429063200 +0800" stop="20250429071700 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">第一屆臺灣美式躲避球錦標賽 女子冠軍賽 香港隊A vs 臺北市A(普)</title>
+</programme>
+<programme channel="335009" start="20250429071700 +0800" stop="20250429080800 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第三回合(普)</title>
+</programme>
+<programme channel="335009" start="20250429080800 +0800" stop="20250429082600 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">[首播] 2025肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
 </programme>
-<programme channel="335009" start="20250429100800 +0800" stop="20250429120000 +0800">
+<programme channel="335009" start="20250429082600 +0800" stop="20250429100800 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">113國中棒球硬式 32強 臺東桃源 vs 桃園青溪(普)</title>
+</programme>
+<programme channel="335009" start="20250429100800 +0800" stop="20250429103700 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">113學年度高中木棒 四強戰 臺東體中 vs 穀保家商(普)</title>
 </programme>
+<programme channel="335009" start="20250429103700 +0800" stop="20250429120000 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第四回合(普)</title>
+</programme>
 <programme channel="335009" start="20250429120000 +0800" stop="20250429141100 +0800">
 <date>2025-04-29</date>
-<desc /><title lang="zh">113學年度高中木棒 八強 東石高中 vs 北科附工(普)</title>
+<desc /><title lang="zh">第22屆踢拳全國錦標賽 輕接觸(普)</title>
 </programme>
-<programme channel="335009" start="20250429141100 +0800" stop="20250429153600 +0800">
+<programme channel="335009" start="20250429141100 +0800" stop="20250429143500 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">113學年度高中木棒 八強 稻江商職 vs 平鎮高中(普)</title>
 </programme>
-<programme channel="335009" start="20250429153600 +0800" stop="20250429171100 +0800">
+<programme channel="335009" start="20250429143500 +0800" stop="20250429153600 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">113學年度高中木棒 排名賽 臺南海事 vs 鶯歌工商(普)</title>
+</programme>
+<programme channel="335009" start="20250429153600 +0800" stop="20250429161100 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">113年全國中正盃柔道錦標賽 11/14賽程(普)</title>
+</programme>
+<programme channel="335009" start="20250429161100 +0800" stop="20250429171100 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">113學年度高中木棒 排名賽 稻江商職 vs 北科附工(普)</title>
 </programme>
 <programme channel="335009" start="20250429171100 +0800" stop="20250429175500 +0800">
 <date>2025-04-29</date>
@@ -8859,21 +8963,37 @@
 <date>2025-04-29</date>
 <desc /><title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15冠軍戰(普)</title>
 </programme>
-<programme channel="335009" start="20250429183100 +0800" stop="20250429200800 +0800">
+<programme channel="335009" start="20250429183100 +0800" stop="20250429183200 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">2024長耀盃 高男循環賽 美國亞特蘭大 vs 東泰高中(普)</title>
 </programme>
-<programme channel="335009" start="20250429200800 +0800" stop="20250429220800 +0800">
+<programme channel="335009" start="20250429183200 +0800" stop="20250429191700 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">第一屆臺灣美式躲避球錦標賽 女子冠軍賽 香港隊A vs 臺北市A(普)</title>
+</programme>
+<programme channel="335009" start="20250429191700 +0800" stop="20250429200800 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第三回合(普)</title>
+</programme>
+<programme channel="335009" start="20250429200800 +0800" stop="20250429202600 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
 </programme>
-<programme channel="335009" start="20250429220800 +0800" stop="20250430000000 +0800">
+<programme channel="335009" start="20250429202600 +0800" stop="20250429220800 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">113國中棒球硬式 32強 臺東桃源 vs 桃園青溪(普)</title>
+</programme>
+<programme channel="335009" start="20250429220800 +0800" stop="20250429223700 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">113學年度高中木棒 四強戰 臺東體中 vs 穀保家商(普)</title>
 </programme>
+<programme channel="335009" start="20250429223700 +0800" stop="20250430000000 +0800">
+<date>2025-04-29</date>
+<desc /><title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第四回合(普)</title>
+</programme>
 <programme channel="335009" start="20250430000000 +0800" stop="20250501000000 +0800">
 <date>2025-04-30</date>
-<desc /><title lang="zh">第22屆踢拳全國錦標賽 輕接觸(普)</title>
+<desc /><title lang="zh">2024登峰造極排球 高女組 鶯歌工商 vs 北港高中(普)</title>
 </programme>
 <programme channel="334895" start="20250428002000 +0800" stop="20250428004000 +0800">
 <date>2025-04-28</date>
@@ -13823,6 +13943,10 @@
 <programme channel="370167" start="20250429234400 +0800" stop="20250430000000 +0800">
 <date>2025-04-29</date>
 <desc /><title lang="zh">ABC故事屋EP02</title>
+</programme>
+<programme channel="370167" start="20250430000000 +0800" stop="20250501000000 +0800">
+<date>2025-04-30</date>
+<desc /><title lang="zh">一起摺氣球 EP014</title>
 </programme>
 <programme channel="370162" start="20250428002000 +0800" stop="20250428004500 +0800">
 <date>2025-04-28</date>
