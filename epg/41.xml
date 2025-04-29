@@ -1,64 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250429205929 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250429.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250429&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250430003438 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250430.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250430&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250429013000 +0800" stop="20250429020000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429020000 +0800" stop="20250429053000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 0200-0530</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 0200-0530</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429053000 +0800" stop="20250429070000 +0800">
-    <title lang="zh">2023歐洲公開賽第2天(1)DUOvsCON</title>
-    <desc>2023歐洲公開賽第2天(1)DUOvsCON</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429070000 +0800" stop="20250429093000 +0800">
-    <title lang="zh">2024英國公開賽4強(2)LAB vs CAP</title>
-    <desc>2024英國公開賽4強(2)LAB vs CAP</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429093000 +0800" stop="20250429113000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 16強 O'SUL vs JUN</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 16強 O'SUL vs JUN</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429113000 +0800" stop="20250429130000 +0800">
-    <title lang="zh">2023歐洲公開賽第2天(1)DUOvsCON</title>
-    <desc>2023歐洲公開賽第2天(1)DUOvsCON</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429130000 +0800" stop="20250429153000 +0800">
-    <title lang="zh">2024英國公開賽4強(2)LAB vs CAP</title>
-    <desc>2024英國公開賽4強(2)LAB vs CAP</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429153000 +0800" stop="20250429170000 +0800">
-    <title lang="zh">2023歐洲公開賽第2天(1)DUOvsCON</title>
-    <desc>2023歐洲公開賽第2天(1)DUOvsCON</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429170000 +0800" stop="20250429210000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 1700-2100</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 1700-2100</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429210000 +0800" stop="20250429213000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-04-29</date>
-  </programme>
-  <programme channel="369229" start="20250429213000 +0800" stop="20250430000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 2130-0130</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 2130-0130</desc>
-    <date>2025-04-29</date>
-  </programme>
   <programme channel="369229" start="20250430013000 +0800" stop="20250430020000 +0800">
     <title lang="zh">電玩宅速配</title>
     <desc>電玩宅速配</desc>
@@ -113,5 +58,65 @@
     <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 2130-0130</title>
     <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 2130-0130</desc>
     <date>2025-04-30</date>
+  </programme>
+  <programme channel="369229" start="20250501013000 +0800" stop="20250501020000 +0800">
+    <title lang="zh">巴哈姆特電玩瘋</title>
+    <desc>巴哈姆特電玩瘋</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501020000 +0800" stop="20250501053000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 0200-0530</title>
+    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 第一輪 副桌 0200-0530</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501053000 +0800" stop="20250501060000 +0800">
+    <title lang="zh">巴哈姆特電玩瘋</title>
+    <desc>巴哈姆特電玩瘋</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501060000 +0800" stop="20250501080000 +0800">
+    <title lang="zh">2024卡達十號球世界盃 64強 SHA vs ALO</title>
+    <desc>2024卡達十號球世界盃 64強 SHA vs ALO</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501080000 +0800" stop="20250501100000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501100000 +0800" stop="20250501120000 +0800">
+    <title lang="zh">2023歐洲公開賽第2天(3)MARvsOLI</title>
+    <desc>2023歐洲公開賽第2天(3)MARvsOLI</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501120000 +0800" stop="20250501140000 +0800">
+    <title lang="zh">2024卡達十號球世界盃 64強 SHA vs ALO</title>
+    <desc>2024卡達十號球世界盃 64強 SHA vs ALO</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501140000 +0800" stop="20250501160000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501160000 +0800" stop="20250501180000 +0800">
+    <title lang="zh">2023歐洲公開賽第2天(3)MARvsOLI</title>
+    <desc>2023歐洲公開賽第2天(3)MARvsOLI</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501180000 +0800" stop="20250501200000 +0800">
+    <title lang="zh">2024卡達十號球世界盃 32強 JOH vs AME</title>
+    <desc>2024卡達十號球世界盃 32強 JOH vs AME</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250501200000 +0800" stop="20250502000000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 十六強 副桌 2000-0000</title>
+    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 十六強 副桌 2000-0000</desc>
+    <date>2025-05-01</date>
+  </programme>
+  <programme channel="369229" start="20250502000000 +0800" stop="20250503000000 +0800">
+    <title lang="zh">2024卡達十號球世界盃 32強 JOH vs AME</title>
+    <desc>2024卡達十號球世界盃 32強 JOH vs AME</desc>
+    <date>2025-05-02</date>
   </programme>
 </tv>
