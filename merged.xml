@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250430023601 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250430.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250430&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250430052525 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250430.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250430&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -2364,6 +2364,10 @@
 <date>2025-05-01</date>
 <desc /><title lang="zh">23全球大視野</title>
 </programme>
+<programme channel="370177" start="20250502000000 +0800" stop="20250503000000 +0800">
+<date>2025-05-02</date>
+<desc /><title lang="zh">18中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250430013000 +0800" stop="20250430020000 +0800">
 <date>2025-04-30</date>
 <desc /><title lang="zh">元氣加油站【普】(E2672)</title>
@@ -2851,6 +2855,10 @@
 <programme channel="370141" start="20250501230000 +0800" stop="20250502000000 +0800">
 <date>2025-05-01</date>
 <desc /><title lang="zh">大陸尋奇(普)</title>
+</programme>
+<programme channel="370141" start="20250502000000 +0800" stop="20250503000000 +0800">
+<date>2025-05-02</date>
+<desc /><title lang="zh">多桑@純萃年代(普)</title>
 </programme>
 <programme channel="368922" start="20250430000000 +0800" stop="20250430010000 +0800">
 <date>2025-04-30</date>
@@ -4074,6 +4082,10 @@
 <programme channel="370149" start="20250501233000 +0800" stop="20250502000000 +0800">
 <date>2025-05-01</date>
 <desc /><title lang="zh">體壇最前線 5/1(第121集) (普)</title>
+</programme>
+<programme channel="370149" start="20250502000000 +0800" stop="20250503000000 +0800">
+<date>2025-05-02</date>
+<desc /><title lang="zh">地球的慶典(第35集) (普)</title>
 </programme>
 <programme channel="369284" start="20250430002500 +0800" stop="20250430003000 +0800">
 <date>2025-04-30</date>
@@ -6482,6 +6494,10 @@
 <programme channel="370222" start="20250501232300 +0800" stop="20250502000000 +0800">
 <date>2025-05-01</date>
 <desc /><title lang="zh">野人追夢 01 序章之與前女友的相遇</title>
+</programme>
+<programme channel="370222" start="20250502000000 +0800" stop="20250503000000 +0800">
+<date>2025-05-02</date>
+<desc /><title lang="zh">主廚大聯盟 10</title>
 </programme>
 <programme channel="369271" start="20250430000000 +0800" stop="20250430010000 +0800">
 <date>2025-04-30</date>
@@ -14090,6 +14106,10 @@
 <programme channel="370167" start="20250501234300 +0800" stop="20250502000000 +0800">
 <date>2025-05-01</date>
 <desc /><title lang="zh">ABC故事屋EP14</title>
+</programme>
+<programme channel="370167" start="20250502000000 +0800" stop="20250503000000 +0800">
+<date>2025-05-02</date>
+<desc /><title lang="zh">紙箱做玩具 EP06</title>
 </programme>
 <programme channel="370162" start="20250430002000 +0800" stop="20250430004500 +0800">
 <date>2025-04-30</date>
