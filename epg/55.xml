@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250430205346 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250430.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250430&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250501003505 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250501.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250501&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250430003000 +0800" stop="20250430030000 +0800">
-    <title lang="zh">2025印地安泉大師賽十六強GIRvsFIL</title>
-    <desc>2025印地安泉大師賽十六強GIRvsFIL</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430030000 +0800" stop="20250430060000 +0800">
-    <title lang="zh">2025蒙地卡羅大師賽四強MUSvsMIN</title>
-    <desc>2025蒙地卡羅大師賽四強MUSvsMIN</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430060000 +0800" stop="20250430083000 +0800">
-    <title lang="zh">2025邁阿密大師賽決賽MENvsDJO</title>
-    <desc>2025邁阿密大師賽決賽MENvsDJO</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430083000 +0800" stop="20250430110000 +0800">
-    <title lang="zh">2025印地安泉大師賽十六強GIRvsFIL</title>
-    <desc>2025印地安泉大師賽十六強GIRvsFIL</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430110000 +0800" stop="20250430140000 +0800">
-    <title lang="zh">2025蒙地卡羅大師賽四強MUSvsMIN</title>
-    <desc>2025蒙地卡羅大師賽四強MUSvsMIN</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430140000 +0800" stop="20250430163000 +0800">
-    <title lang="zh">2025邁阿密大師賽決賽MENvsDJO</title>
-    <desc>2025邁阿密大師賽決賽MENvsDJO</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430163000 +0800" stop="20250430170000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-04-30</date>
-  </programme>
-  <programme channel="369216" start="20250430170000 +0800" stop="20250501000000 +0800">
-    <title lang="zh">LIVE2025馬德里大師賽第一天</title>
-    <desc>LIVE2025馬德里大師賽第一天</desc>
-    <date>2025-04-30</date>
-  </programme>
   <programme channel="369216" start="20250501030000 +0800" stop="20250501053000 +0800">
     <title lang="zh">2025蒙地卡羅大師賽決賽MUSvsALC</title>
     <desc>2025蒙地卡羅大師賽決賽MUSvsALC</desc>
@@ -83,5 +43,35 @@
     <title lang="zh">LIVE2025馬德里大師賽第一天</title>
     <desc>LIVE2025馬德里大師賽第一天</desc>
     <date>2025-05-01</date>
+  </programme>
+  <programme channel="369216" start="20250502030000 +0800" stop="20250502053000 +0800">
+    <title lang="zh">2025蒙地卡羅大師賽決賽MUSvsALC</title>
+    <desc>2025蒙地卡羅大師賽決賽MUSvsALC</desc>
+    <date>2025-05-02</date>
+  </programme>
+  <programme channel="369216" start="20250502053000 +0800" stop="20250502073000 +0800">
+    <title lang="zh">2025印地安泉大師賽八強SHEvsDRA</title>
+    <desc>2025印地安泉大師賽八強SHEvsDRA</desc>
+    <date>2025-05-02</date>
+  </programme>
+  <programme channel="369216" start="20250502073000 +0800" stop="20250502093000 +0800">
+    <title lang="zh">2025巴塞隆納男網賽十六強DAVvsRUB</title>
+    <desc>2025巴塞隆納男網賽十六強DAVvsRUB</desc>
+    <date>2025-05-02</date>
+  </programme>
+  <programme channel="369216" start="20250502093000 +0800" stop="20250502120000 +0800">
+    <title lang="zh">2025蒙地卡羅大師賽決賽MUSvsALC</title>
+    <desc>2025蒙地卡羅大師賽決賽MUSvsALC</desc>
+    <date>2025-05-02</date>
+  </programme>
+  <programme channel="369216" start="20250502120000 +0800" stop="20250502170000 +0800">
+    <title lang="zh">首播2025馬德里大師賽第一天</title>
+    <desc>首播2025馬德里大師賽第一天</desc>
+    <date>2025-05-02</date>
+  </programme>
+  <programme channel="369216" start="20250502170000 +0800" stop="20250503000000 +0800">
+    <title lang="zh">LIVE2025馬德里大師賽第二天</title>
+    <desc>LIVE2025馬德里大師賽第二天</desc>
+    <date>2025-05-02</date>
   </programme>
 </tv>
