@@ -1,134 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250501205233 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250501.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250501&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250502003418 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250502.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250502&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370141">
     <display-name lang="Taiwan">中視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" />
   </channel>
-  <programme channel="370141" start="20250501000000 +0800" stop="20250501010000 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501010000 +0800" stop="20250501020000 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501020000 +0800" stop="20250501030000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501030000 +0800" stop="20250501033000 +0800">
-    <title lang="zh">台灣味道6(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501033000 +0800" stop="20250501040000 +0800">
-    <title lang="zh">台灣味道7(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501040000 +0800" stop="20250501050000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501050000 +0800" stop="20250501060000 +0800">
-    <title lang="zh">大陸尋奇(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501060000 +0800" stop="20250501070000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501070000 +0800" stop="20250501080000 +0800">
-    <title lang="zh">中視早安新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501080000 +0800" stop="20250501090000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501090000 +0800" stop="20250501100000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501100000 +0800" stop="20250501110000 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501110000 +0800" stop="20250501115800 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501115800 +0800" stop="20250501130000 +0800">
-    <title lang="zh">中視午間新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501130000 +0800" stop="20250501140000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501140000 +0800" stop="20250501160000 +0800">
-    <title lang="zh">綜藝一級棒安美諾美白修護霜(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501160000 +0800" stop="20250501170000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501170000 +0800" stop="20250501172800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501172800 +0800" stop="20250501175800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501175800 +0800" stop="20250501185800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501185800 +0800" stop="20250501200000 +0800">
-    <title lang="zh">中視新聞全球報導(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501200000 +0800" stop="20250501210000 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501210000 +0800" stop="20250501220000 +0800">
-    <title lang="zh">多桑@純萃年代(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501220000 +0800" stop="20250501230000 +0800">
-    <title lang="zh">MIT台灣誌(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
-  <programme channel="370141" start="20250501230000 +0800" stop="20250502000000 +0800">
-    <title lang="zh">大陸尋奇(普)</title>
-    <desc />
-    <date>2025-05-01</date>
-  </programme>
   <programme channel="370141" start="20250502000000 +0800" stop="20250502010000 +0800">
     <title lang="zh">多桑@純萃年代(普)</title>
     <desc />
@@ -274,8 +149,103 @@
     <desc />
     <date>2025-05-02</date>
   </programme>
-  <programme channel="370141" start="20250503000000 +0800" stop="20250504000000 +0800">
+  <programme channel="370141" start="20250503000000 +0800" stop="20250503010000 +0800">
     <title lang="zh">多桑@純萃年代(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503010000 +0800" stop="20250503020000 +0800">
+    <title lang="zh">多桑@純萃年代(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503020000 +0800" stop="20250503030000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503030000 +0800" stop="20250503033000 +0800">
+    <title lang="zh">台灣味道7(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503033000 +0800" stop="20250503040000 +0800">
+    <title lang="zh">台灣味道7(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503040000 +0800" stop="20250503050000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503050000 +0800" stop="20250503070000 +0800">
+    <title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503070000 +0800" stop="20250503080000 +0800">
+    <title lang="zh">中視早安新聞(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503080000 +0800" stop="20250503090000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503090000 +0800" stop="20250503100000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503100000 +0800" stop="20250503110000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503110000 +0800" stop="20250503115800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503115800 +0800" stop="20250503130000 +0800">
+    <title lang="zh">中視午間新聞(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503130000 +0800" stop="20250503140000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503140000 +0800" stop="20250503150000 +0800">
+    <title lang="zh">60分鐘(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503150000 +0800" stop="20250503170000 +0800">
+    <title lang="zh">萬秀大勝利(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503170000 +0800" stop="20250503185700 +0800">
+    <title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503185700 +0800" stop="20250503200000 +0800">
+    <title lang="zh">中視新聞全球報導(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503200000 +0800" stop="20250503220000 +0800">
+    <title lang="zh">綜藝一級棒安美諾美白修護霜(普)</title>
+    <desc />
+    <date>2025-05-03</date>
+  </programme>
+  <programme channel="370141" start="20250503220000 +0800" stop="20250504000000 +0800">
+    <title lang="zh">綜藝玩很大愛妮雅化妝品 潔顏柔敏慕斯(普)</title>
     <desc />
     <date>2025-05-03</date>
   </programme>
