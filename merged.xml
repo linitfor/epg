@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250502023751 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250502.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250502&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250502062849 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250502.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250502&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -1718,6 +1718,10 @@
 <date>2025-05-03</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">台灣大代誌</title>
+</programme>
 <programme channel="369307" start="20250502000000 +0800" stop="20250502010000 +0800">
 <date>2025-05-02</date>
 <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -2415,6 +2419,10 @@
 <date>2025-05-03</date>
 <desc /><title lang="zh">cti talk網路論壇</title>
 </programme>
+<programme channel="370177" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">18中天辣晚報</title>
+</programme>
 <programme channel="370139" start="20250502013000 +0800" stop="20250502020000 +0800">
 <date>2025-05-02</date>
 <desc /><title lang="zh">元氣加油站【普】(E2818)</title>
@@ -2858,6 +2866,10 @@
 <programme channel="370141" start="20250503220000 +0800" stop="20250504000000 +0800">
 <date>2025-05-03</date>
 <desc /><title lang="zh">綜藝玩很大愛妮雅化妝品 潔顏柔敏慕斯(普)</title>
+</programme>
+<programme channel="370141" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">飢餓遊戲(普)</title>
 </programme>
 <programme channel="368922" start="20250502000000 +0800" stop="20250502010000 +0800">
 <date>2025-05-02</date>
@@ -4011,6 +4023,10 @@
 <programme channel="370149" start="20250503233000 +0800" stop="20250504000000 +0800">
 <date>2025-05-03</date>
 <desc /><title lang="zh">體壇最前線 5/3(第123集) (普)</title>
+</programme>
+<programme channel="370149" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">地球的慶典(第41集) (普)</title>
 </programme>
 <programme channel="369284" start="20250502000000 +0800" stop="20250502003000 +0800">
 <date>2025-05-02</date>
@@ -6333,6 +6349,10 @@
 <programme channel="370222" start="20250503233500 +0800" stop="20250504000000 +0800">
 <date>2025-05-03</date>
 <desc /><title lang="zh">野人追夢 06 和澳洲原住民交朋友囉</title>
+</programme>
+<programme channel="370222" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">主廚大聯盟 12</title>
 </programme>
 <programme channel="369271" start="20250502000000 +0800" stop="20250502010000 +0800">
 <date>2025-05-02</date>
@@ -8736,6 +8756,10 @@
 <programme channel="370209" start="20250503235400 +0800" stop="20250504000000 +0800">
 <date>2025-05-03</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
+</programme>
+<programme channel="370209" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
 <programme channel="335009" start="20250502000000 +0800" stop="20250502011200 +0800">
 <date>2025-05-02</date>
@@ -13672,6 +13696,10 @@
 <date>2025-05-03</date>
 <desc /><title lang="zh">ABC故事屋EP26</title>
 </programme>
+<programme channel="370167" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">紙箱做玩具 EP18</title>
+</programme>
 <programme channel="370162" start="20250502002000 +0800" stop="20250502004500 +0800">
 <date>2025-05-02</date>
 <desc /><title lang="zh">馴龍高手: 捍衛博克島(普)</title>
@@ -16956,6 +16984,10 @@
 <date>2025-05-03</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="369265" start="20250502020000 +0800" stop="20250502040000 +0800">
 <date>2025-05-02</date>
 <desc>1998年澳門回歸前，那時的澳門治安混亂，搶?、綁架、勒索甚至謀殺等罪案每日上演，黑社會無法無天。其中，以標哥為首的澳門黑幫不只公然挑戰法律，為求目的，即使是警察及政府官員亦照殺不誤。在這個動盪的世代，出生於警察世家卻憤世嫉俗的反叛男生林奇偉，在班房裡遇上一個姓名讀音與他相同，從國內移居到澳門的插班生林琦瑋。平日我行我素的林奇偉眼見她被同學欺凌，竟為她挺身而出，命運的紅線把兩人從此拉上</desc>
@@ -17215,5 +17247,9 @@
 <programme channel="370144" start="20250503220000 +0800" stop="20250504000000 +0800">
 <date>2025-05-03</date>
 <desc /><title lang="zh">綜藝玩很大安可場(普)(N)</title>
+</programme>
+<programme channel="370144" start="20250504000000 +0800" stop="20250505000000 +0800">
+<date>2025-05-04</date>
+<desc /><title lang="zh">週四愛玩客(普)(N)</title>
 </programme>
 </tv>
