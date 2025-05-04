@@ -1,11 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250505023506 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250505.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250505&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250505052442 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250505.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250505&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250505000000 +0800" stop="20250505014800 +0800">
-    <title lang="zh">113國中棒球硬式 32強臺東泰源 vs 新北二重(普)</title>
+  <programme channel="335009" start="20250505000000 +0800" stop="20250505011100 +0800">
+    <title lang="zh">第61屆莒光盃排球賽 國男組 苑裡高中 vs 福誠高中(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505011100 +0800" stop="20250505014800 +0800">
+    <title lang="zh">休播(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
@@ -19,8 +24,13 @@
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505052500 +0800" stop="20250505062100 +0800">
+  <programme channel="335009" start="20250505052500 +0800" stop="20250505060000 +0800">
     <title lang="zh">2025少年籃球 U12男子國際發展組 季軍戰 苗栗大同 vs 苗栗公館(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505060000 +0800" stop="20250505062100 +0800">
+    <title lang="zh">113學年國中棒球硬式組 16強賽 澎湖馬公 vs 桃園新明(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
@@ -29,28 +39,68 @@
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505071400 +0800" stop="20250505081900 +0800">
+  <programme channel="335009" start="20250505071400 +0800" stop="20250505072800 +0800">
     <title lang="zh">2025少年籃球 U12男子國際發展組 冠軍戰 KHPS vs TKO(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505081900 +0800" stop="20250505120000 +0800">
+  <programme channel="335009" start="20250505072800 +0800" stop="20250505081700 +0800">
+    <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505081700 +0800" stop="20250505081900 +0800">
+    <title lang="zh">[首播] 2025新北市親子棒球 小聯盟組 WHB魔法師 vs 三峽社區(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505081900 +0800" stop="20250505103600 +0800">
     <title lang="zh">第22屆踢拳全國錦標賽 輕踢 上午賽程(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505120000 +0800" stop="20250505134800 +0800">
+  <programme channel="335009" start="20250505103600 +0800" stop="20250505115900 +0800">
+    <title lang="zh">[首播] 2025新北市親子棒球 小聯盟組 火焰勇士 vs 親子勇士(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505115900 +0800" stop="20250505120000 +0800">
+    <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505120000 +0800" stop="20250505131000 +0800">
     <title lang="zh">113國中棒球硬式 32強臺東泰源 vs 新北二重(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505134800 +0800" stop="20250505162500 +0800">
+  <programme channel="335009" start="20250505131000 +0800" stop="20250505134800 +0800">
+    <title lang="zh">第61屆莒光盃排球賽 高男冠軍賽 豐原高商 vs 龍津高中(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505134800 +0800" stop="20250505150000 +0800">
     <title lang="zh">113國中棒球硬式 32強 宜蘭內城 vs 臺中西苑(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505162500 +0800" stop="20250505172500 +0800">
+  <programme channel="335009" start="20250505150000 +0800" stop="20250505162500 +0800">
+    <title lang="zh">113學年國中棒球硬式組 16強賽 澎湖馬公 vs 桃園新明(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505162500 +0800" stop="20250505162800 +0800">
     <title lang="zh">2025少年籃球 U12女子國際發展組 澳門培正 vs 北市美國Tigress(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505162800 +0800" stop="20250505171700 +0800">
+    <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505171700 +0800" stop="20250505172500 +0800">
+    <title lang="zh">2025新北市親子棒球 小聯盟組 WHB魔法師 vs 三峽社區(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
@@ -64,28 +114,53 @@
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505191400 +0800" stop="20250505201900 +0800">
+  <programme channel="335009" start="20250505191400 +0800" stop="20250505193600 +0800">
     <title lang="zh">2025少年籃球 U12男子國際發展組 冠軍戰 KHPS vs TKO(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="335009" start="20250505201900 +0800" stop="20250506000000 +0800">
+  <programme channel="335009" start="20250505193600 +0800" stop="20250505201900 +0800">
+    <title lang="zh">2025新北市親子棒球 小聯盟組 火焰勇士 vs 親子勇士(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505201900 +0800" stop="20250505205900 +0800">
     <title lang="zh">第22屆踢拳全國錦標賽 輕踢 上午賽程(普)</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
+  <programme channel="335009" start="20250505205900 +0800" stop="20250505221000 +0800">
+    <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="335009" start="20250505221000 +0800" stop="20250506000000 +0800">
+    <title lang="zh">第61屆莒光盃排球賽 高男冠軍賽 豐原高商 vs 龍津高中(普)</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
   <programme channel="335009" start="20250506000000 +0800" stop="20250506011100 +0800">
-    <title lang="zh">第61屆莒光盃排球賽 國男組 苑裡高中 vs 福誠高中(普)</title>
+    <title lang="zh">第61屆莒光盃排球賽 高男組 福誠高中 vs 瑞芳高工(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506011100 +0800" stop="20250506060000 +0800">
+  <programme channel="335009" start="20250506011100 +0800" stop="20250506011500 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506060000 +0800" stop="20250506072800 +0800">
-    <title lang="zh">113學年國中棒球硬式組 16強賽 澎湖馬公 vs 桃園新明(普)</title>
+  <programme channel="335009" start="20250506011500 +0800" stop="20250506060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="335009" start="20250506060000 +0800" stop="20250506070000 +0800">
+    <title lang="zh">2025少年籃球 U12男子組 季軍戰 臺北南港 vs 新北忠義(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="335009" start="20250506070000 +0800" stop="20250506072800 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組 下午賽程(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
@@ -94,8 +169,13 @@
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506081700 +0800" stop="20250506103600 +0800">
+  <programme channel="335009" start="20250506081700 +0800" stop="20250506090000 +0800">
     <title lang="zh">[首播] 2025新北市親子棒球 小聯盟組 WHB魔法師 vs 三峽社區(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="335009" start="20250506090000 +0800" stop="20250506103600 +0800">
+    <title lang="zh">[Live] 113學年度國民小學籃球聯賽 5/07賽程(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
@@ -124,13 +204,23 @@
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506171700 +0800" stop="20250506193600 +0800">
+  <programme channel="335009" start="20250506171700 +0800" stop="20250506180000 +0800">
     <title lang="zh">2025新北市親子棒球 小聯盟組 WHB魔法師 vs 三峽社區(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506193600 +0800" stop="20250506205900 +0800">
+  <programme channel="335009" start="20250506180000 +0800" stop="20250506193600 +0800">
+    <title lang="zh">[首播] 2025新北市親子棒球 小聯盟季軍賽 三峽社區 vs 火焰勇士(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="335009" start="20250506193600 +0800" stop="20250506200000 +0800">
     <title lang="zh">2025新北市親子棒球 小聯盟組 火焰勇士 vs 親子勇士(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="335009" start="20250506200000 +0800" stop="20250506205900 +0800">
+    <title lang="zh">[首播] 2025新北市親子棒球 小聯盟冠軍賽 WHB魔法師 vs 親子勇士(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
@@ -139,13 +229,18 @@
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="335009" start="20250506221000 +0800" stop="20250507000000 +0800">
+  <programme channel="335009" start="20250506221000 +0800" stop="20250506223500 +0800">
     <title lang="zh">第61屆莒光盃排球賽 高男冠軍賽 豐原高商 vs 龍津高中(普)</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
+  <programme channel="335009" start="20250506223500 +0800" stop="20250507000000 +0800">
+    <title lang="zh">2024長耀盃 大專女循環賽 北市大學 vs 日本東北學院(普)</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
   <programme channel="335009" start="20250507000000 +0800" stop="20250508000000 +0800">
-    <title lang="zh">第61屆莒光盃排球賽 高男組 福誠高中 vs 瑞芳高工(普)</title>
+    <title lang="zh">113學年國小硬式棒球 32強 宜蘭竹林 vs 竹縣大同(普)</title>
     <desc />
     <date>2025-05-07</date>
   </programme>
