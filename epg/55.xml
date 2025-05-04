@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250504232733 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250504.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250504&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250505003204 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250505.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250505&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250504060000 +0800" stop="20250504063000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504063000 +0800" stop="20250504083000 +0800">
-    <title lang="zh">2025印地安泉大師賽八強CERvsALC</title>
-    <desc>2025印地安泉大師賽八強CERvsALC</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504083000 +0800" stop="20250504100000 +0800">
-    <title lang="zh">2025巴塞隆納男網賽十六強FEAvsDE</title>
-    <desc>2025巴塞隆納男網賽十六強FEAvsDE</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504100000 +0800" stop="20250504120000 +0800">
-    <title lang="zh">2025蒙地卡羅大師賽十六強BERvsMUS</title>
-    <desc>2025蒙地卡羅大師賽十六強BERvsMUS</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504120000 +0800" stop="20250504170000 +0800">
-    <title lang="zh">首播2025馬德里大師賽第三天</title>
-    <desc>首播2025馬德里大師賽第三天</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504170000 +0800" stop="20250504230000 +0800">
-    <title lang="zh">LIVE2025馬德里大師賽第四天</title>
-    <desc>LIVE2025馬德里大師賽第四天</desc>
-    <date>2025-05-04</date>
-  </programme>
-  <programme channel="369216" start="20250504230000 +0800" stop="20250505000000 +0800">
-    <title lang="zh">LIVE2025馬德里大師賽第四天</title>
-    <desc>LIVE2025馬德里大師賽第四天</desc>
-    <date>2025-05-04</date>
-  </programme>
   <programme channel="369216" start="20250505000000 +0800" stop="20250505003000 +0800">
     <title lang="zh">網球雜誌</title>
     <desc>網球雜誌</desc>
@@ -118,5 +83,40 @@
     <title lang="zh">2025邁阿密大師賽八強KORvsDJO</title>
     <desc>2025邁阿密大師賽八強KORvsDJO</desc>
     <date>2025-05-05</date>
+  </programme>
+  <programme channel="369216" start="20250506003000 +0800" stop="20250506080000 +0800">
+    <title lang="zh">2025印地安泉大師賽四強DRAvsALC</title>
+    <desc>2025印地安泉大師賽四強DRAvsALC</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506080000 +0800" stop="20250506100000 +0800">
+    <title lang="zh">2025巴塞隆納男網賽八強KHAvsFOK</title>
+    <desc>2025巴塞隆納男網賽八強KHAvsFOK</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506100000 +0800" stop="20250506113000 +0800">
+    <title lang="zh">2025蒙地卡羅大師賽八強DAVvsPOP</title>
+    <desc>2025蒙地卡羅大師賽八強DAVvsPOP</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506113000 +0800" stop="20250506120000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506120000 +0800" stop="20250506170000 +0800">
+    <title lang="zh">首播2025馬德里大師賽第五天</title>
+    <desc>首播2025馬德里大師賽第五天</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506170000 +0800" stop="20250506230000 +0800">
+    <title lang="zh">LIVE2025馬德里大師賽第六天</title>
+    <desc>LIVE2025馬德里大師賽第六天</desc>
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="369216" start="20250506230000 +0800" stop="20250507000000 +0800">
+    <title lang="zh">LIVE2025馬德里大師賽第六天</title>
+    <desc>LIVE2025馬德里大師賽第六天</desc>
+    <date>2025-05-06</date>
   </programme>
 </tv>
