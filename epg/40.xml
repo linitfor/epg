@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250505205534 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250505.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250505&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250506003556 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250506.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250506&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250505013000 +0800" stop="20250505020000 +0800">
-    <title lang="zh">北愛爾蘭公開賽 精華</title>
-    <desc>北愛爾蘭公開賽 精華</desc>
-    <date>2025-05-05</date>
-  </programme>
-  <programme channel="369235" start="20250505020000 +0800" stop="20250505053000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 決賽 0200-0530</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 決賽 0200-0530</desc>
-    <date>2025-05-05</date>
-  </programme>
-  <programme channel="369235" start="20250505053000 +0800" stop="20250505090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 8強 ROB vs YUA</title>
-    <desc>2024-25司諾克賽季 德國名人賽 8強 ROB vs YUA</desc>
-    <date>2025-05-05</date>
-  </programme>
-  <programme channel="369235" start="20250505090000 +0800" stop="20250505120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 G.WIL vs HOL</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 G.WIL vs HOL</desc>
-    <date>2025-05-05</date>
-  </programme>
-  <programme channel="369235" start="20250505120000 +0800" stop="20250505200000 +0800">
-    <title lang="zh">首播 2024-25司諾克賽季 世界錦標賽 十六強 主桌</title>
-    <desc>首播 2024-25司諾克賽季 世界錦標賽 十六強 主桌</desc>
-    <date>2025-05-05</date>
-  </programme>
-  <programme channel="369235" start="20250505200000 +0800" stop="20250506000000 +0800">
-    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 決賽 2000-0000</title>
-    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 決賽 2000-0000</desc>
-    <date>2025-05-05</date>
-  </programme>
   <programme channel="369235" start="20250506000000 +0800" stop="20250506020000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs MAG</title>
     <desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs MAG</desc>
@@ -73,5 +43,45 @@
     <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 2130-0130</title>
     <desc>LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 2130-0130</desc>
     <date>2025-05-06</date>
+  </programme>
+  <programme channel="369235" start="20250507013000 +0800" stop="20250507020000 +0800">
+    <title lang="zh">英國公開賽 精華</title>
+    <desc>英國公開賽 精華</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507020000 +0800" stop="20250507053000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 0200-0530</title>
+    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 0200-0530</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507053000 +0800" stop="20250507093000 +0800">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 決賽 DIN vs WAK</title>
+    <desc>2024-25司諾克賽季 國際錦標賽 決賽 DIN vs WAK</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507093000 +0800" stop="20250507120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507120000 +0800" stop="20250507170000 +0800">
+    <title lang="zh">首播 2024-25司諾克賽季 世界錦標賽 十六強 主桌</title>
+    <desc>首播 2024-25司諾克賽季 世界錦標賽 十六強 主桌</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507170000 +0800" stop="20250507210000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 1700-2100</title>
+    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 1700-2100</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507210000 +0800" stop="20250507213000 +0800">
+    <title lang="zh">北愛爾蘭公開賽 精華</title>
+    <desc>北愛爾蘭公開賽 精華</desc>
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="369235" start="20250507213000 +0800" stop="20250508000000 +0800">
+    <title lang="zh">LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 2130-0130</title>
+    <desc>LIVE 2024-25司諾克賽季 世界錦標賽 八強 主桌 2130-0130</desc>
+    <date>2025-05-07</date>
   </programme>
 </tv>
