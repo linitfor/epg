@@ -5,8 +5,8 @@ name: Combinate2
 # Controls when the action will run. 
 on:
   schedule:
-    #- cron: '59 4,8,12,16,20 * * *'
-    - cron: '5 0/1 * * *' 
+    #- cron: '59 0,12,16,20 * * *'
+    - cron: '5 0/12 * * *' 
     
   #pull_request:
   #  branches:
