@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20250606100958 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250606&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250606205545 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20250606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20250606&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="369218">
 <display-name lang="Taiwan">壹電視新聞台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151509295971_26.jpg" />
@@ -292,6 +292,10 @@
 <display-name lang="Taiwan">JStar極限台電影頻道</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" />
 </channel>
+<channel id="334957">
+<display-name lang="Taiwan">愛爾達影劇台HD</display-name>
+<icon src="" />
+</channel>
 <channel id="369267">
 <display-name lang="Taiwan">東森洋片台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151942953106_21.jpg" />
@@ -307,6 +311,10 @@
 <channel id="370144">
 <display-name lang="Taiwan">三立綜合台</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png" />
+</channel>
+<channel id="334704">
+<display-name lang="Taiwan">愛爾達綜合台HD</display-name>
+<icon src="" />
 </channel>
 <programme channel="369218" start="20250606000000 +0800" stop="20250606020000 +0800">
 <date>2025-06-06</date>
@@ -16775,6 +16783,230 @@
 <desc>[極限 JstarHD]西門慶攀上了花子虛的妻子李瓶兒，又趁春梅整理床鋪時，強姦了春梅。潘金蓮與春梅決定向西門慶報仇雪恨，一場西門慶與三個女人的故事才正要展開。</desc>
 <title lang="zh">金瓶梅2</title>
 </programme>
+<programme channel="334957" start="20250606003000 +0800" stop="20250606013000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">以美之名 (重)(16)(護)</title>
+</programme>
+<programme channel="334957" start="20250606013000 +0800" stop="20250606020000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">姊妹讚出來 (重)(50)(普)</title>
+</programme>
+<programme channel="334957" start="20250606020000 +0800" stop="20250606023000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (重)(92)(普)</title>
+</programme>
+<programme channel="334957" start="20250606023000 +0800" stop="20250606030000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (重)(91)(普)</title>
+</programme>
+<programme channel="334957" start="20250606030000 +0800" stop="20250606033000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (重)(93)(普)</title>
+</programme>
+<programme channel="334957" start="20250606033000 +0800" stop="20250606040000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">天下長河 (首)(11)(普)</title>
+</programme>
+<programme channel="334957" start="20250606040000 +0800" stop="20250606043000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">派遣女醫X (重)(3)(普)</title>
+</programme>
+<programme channel="334957" start="20250606043000 +0800" stop="20250606050000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">天下長河 (首)(12)(普)</title>
+</programme>
+<programme channel="334957" start="20250606050000 +0800" stop="20250606053000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">派遣女醫X (重)(4)(普)</title>
+</programme>
+<programme channel="334957" start="20250606053000 +0800" stop="20250606060000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">皮諾丘 (重)(11)(普)</title>
+</programme>
+<programme channel="334957" start="20250606060000 +0800" stop="20250606070000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">反英雄 Antihero (重)(2)(護)</title>
+</programme>
+<programme channel="334957" start="20250606070000 +0800" stop="20250606080000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大奉打更人 (重)(36)(普)</title>
+</programme>
+<programme channel="334957" start="20250606080000 +0800" stop="20250606090000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大奉打更人 (重)(37)(普)</title>
+</programme>
+<programme channel="334957" start="20250606090000 +0800" stop="20250606100000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大奉打更人 (重)(38)(普)</title>
+</programme>
+<programme channel="334957" start="20250606100000 +0800" stop="20250606110000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大奉打更人 (重)(39)(普)</title>
+</programme>
+<programme channel="334957" start="20250606110000 +0800" stop="20250606120000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大奉打更人(完) (重)(40)(普)</title>
+</programme>
+<programme channel="334957" start="20250606120000 +0800" stop="20250606130000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">派遣女醫X (首)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250606130000 +0800" stop="20250606140000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">派遣女醫X (首)(6)(普)</title>
+</programme>
+<programme channel="334957" start="20250606140000 +0800" stop="20250606150000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">反英雄 Antihero (首)(3)(護)</title>
+</programme>
+<programme channel="334957" start="20250606150000 +0800" stop="20250606160000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">琅琊榜 (首)(1)(普)</title>
+</programme>
+<programme channel="334957" start="20250606160000 +0800" stop="20250606170000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">琅琊榜 (首)(2)(普)</title>
+</programme>
+<programme channel="334957" start="20250606170000 +0800" stop="20250606180000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">琅琊榜 (首)(3)(普)</title>
+</programme>
+<programme channel="334957" start="20250606180000 +0800" stop="20250606190000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">琅琊榜 (首)(4)(普)</title>
+</programme>
+<programme channel="334957" start="20250606190000 +0800" stop="20250606200000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">琅琊榜 (首)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250606200000 +0800" stop="20250606210000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">小姐不熙娣 (首)(89)(普)</title>
+</programme>
+<programme channel="334957" start="20250606210000 +0800" stop="20250606220000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">大胃王來了S4 (首)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250606220000 +0800" stop="20250606230000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">一日三餐S5-竹窟島篇 (首)(9)(普)</title>
+</programme>
+<programme channel="334957" start="20250606230000 +0800" stop="20250606233000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">一日三餐S5-竹窟島篇 (首)(10)(普)</title>
+</programme>
+<programme channel="334957" start="20250606233000 +0800" stop="20250607000000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">以美之名 (重)(15)(護)</title>
+</programme>
+<programme channel="334957" start="20250607000000 +0800" stop="20250607003000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(4)(普)</title>
+</programme>
+<programme channel="334957" start="20250607003000 +0800" stop="20250607010000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">以美之名 (重)(16)(護)</title>
+</programme>
+<programme channel="334957" start="20250607010000 +0800" stop="20250607013000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250607013000 +0800" stop="20250607020000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">姊妹讚出來 (重)(50)(普)</title>
+</programme>
+<programme channel="334957" start="20250607020000 +0800" stop="20250607030000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">地球的慶典 (重)(94)(普)</title>
+</programme>
+<programme channel="334957" start="20250607030000 +0800" stop="20250607040000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">地球的慶典 (重)(95)(普)</title>
+</programme>
+<programme channel="334957" start="20250607040000 +0800" stop="20250607050000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">派遣女醫X (重)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250607050000 +0800" stop="20250607060000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">派遣女醫X (重)(6)(普)</title>
+</programme>
+<programme channel="334957" start="20250607060000 +0800" stop="20250607070000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">反英雄 Antihero (重)(3)(護)</title>
+</programme>
+<programme channel="334957" start="20250607070000 +0800" stop="20250607080000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(1)(普)</title>
+</programme>
+<programme channel="334957" start="20250607080000 +0800" stop="20250607090000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(2)(普)</title>
+</programme>
+<programme channel="334957" start="20250607090000 +0800" stop="20250607100000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(3)(普)</title>
+</programme>
+<programme channel="334957" start="20250607100000 +0800" stop="20250607110000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(4)(普)</title>
+</programme>
+<programme channel="334957" start="20250607110000 +0800" stop="20250607120000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250607120000 +0800" stop="20250607130000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">派遣女醫X (首)(7)(普)</title>
+</programme>
+<programme channel="334957" start="20250607130000 +0800" stop="20250607140000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">派遣女醫X(完) (首)(8)(普)</title>
+</programme>
+<programme channel="334957" start="20250607140000 +0800" stop="20250607150000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">反英雄 Antihero (首)(4)(護)</title>
+</programme>
+<programme channel="334957" start="20250607150000 +0800" stop="20250607160000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (重)(5)(普)</title>
+</programme>
+<programme channel="334957" start="20250607160000 +0800" stop="20250607170000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (首)(6)(普)</title>
+</programme>
+<programme channel="334957" start="20250607170000 +0800" stop="20250607180000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (首)(7)(普)</title>
+</programme>
+<programme channel="334957" start="20250607180000 +0800" stop="20250607190000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (首)(8)(普)</title>
+</programme>
+<programme channel="334957" start="20250607190000 +0800" stop="20250607200000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">琅琊榜 (首)(9)(普)</title>
+</programme>
+<programme channel="334957" start="20250607200000 +0800" stop="20250607210000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">小姐不熙娣 (首)(90)(普)</title>
+</programme>
+<programme channel="334957" start="20250607210000 +0800" stop="20250607220000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">大胃王來了S4 (首)(6)(普)</title>
+</programme>
+<programme channel="334957" start="20250607220000 +0800" stop="20250607230000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">一日三餐S5-竹窟島篇 (首)(11)(普)</title>
+</programme>
+<programme channel="334957" start="20250607230000 +0800" stop="20250608000000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">一日三餐S5-竹窟島篇 (首)(12)(普)</title>
+</programme>
+<programme channel="334957" start="20250608000000 +0800" stop="20250609000000 +0800">
+<date>2025-06-08</date>
+<desc /><title lang="zh">琅琊榜 (重)(8)(普)</title>
+</programme>
 <programme channel="369267" start="20250606014500 +0800" stop="20250606035500 +0800">
 <date>2025-06-06</date>
 <desc>為了在社群的直播影片上獲得關注，一群高中生踏進荒廢已久的公寓，卻喚醒了惡靈，將把他們拖下地獄…高中生潔西卡、班尼、迪安、艾瑞克和琳達，打算用手機拍攝他們的冒險經歷影片，只為了能在社群網站上獲得人氣。他們決定潛入一間有名的廢棄公寓，琳達說服管理員讓他們進去後，五人發現了一間被警用封鎖線圍起來的公寓，在好奇心驅使下他們闖入了公寓。</desc>
@@ -17323,5 +17555,229 @@
 <programme channel="370144" start="20250608000000 +0800" stop="20250609000000 +0800">
 <date>2025-06-08</date>
 <desc /><title lang="zh">週四愛玩客(普)(N)</title>
+</programme>
+<programme channel="334704" start="20250606000000 +0800" stop="20250606010000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">飛狐外傳 (首)(3)(普)</title>
+</programme>
+<programme channel="334704" start="20250606010000 +0800" stop="20250606020000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (首)(51)(普)</title>
+</programme>
+<programme channel="334704" start="20250606020000 +0800" stop="20250606030000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (首)(52)(普)</title>
+</programme>
+<programme channel="334704" start="20250606030000 +0800" stop="20250606040000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">地球的慶典 (首)(53)(普)</title>
+</programme>
+<programme channel="334704" start="20250606040000 +0800" stop="20250606043000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(39)(普)</title>
+</programme>
+<programme channel="334704" start="20250606043000 +0800" stop="20250606050000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">魔咒情人 (首)(8)(普)</title>
+</programme>
+<programme channel="334704" start="20250606050000 +0800" stop="20250606060000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(40)(普)</title>
+</programme>
+<programme channel="334704" start="20250606060000 +0800" stop="20250606070000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(41)(普)</title>
+</programme>
+<programme channel="334704" start="20250606070000 +0800" stop="20250606080000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(42)(普)</title>
+</programme>
+<programme channel="334704" start="20250606080000 +0800" stop="20250606083000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(394)(普)</title>
+</programme>
+<programme channel="334704" start="20250606083000 +0800" stop="20250606090000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(395)(普)</title>
+</programme>
+<programme channel="334704" start="20250606090000 +0800" stop="20250606100000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(38)(普)</title>
+</programme>
+<programme channel="334704" start="20250606100000 +0800" stop="20250606110000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(39)(普)</title>
+</programme>
+<programme channel="334704" start="20250606110000 +0800" stop="20250606120000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(40)(普)</title>
+</programme>
+<programme channel="334704" start="20250606120000 +0800" stop="20250606130000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(41)(普)</title>
+</programme>
+<programme channel="334704" start="20250606130000 +0800" stop="20250606140000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(42)(普)</title>
+</programme>
+<programme channel="334704" start="20250606140000 +0800" stop="20250606143000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(392)(普)</title>
+</programme>
+<programme channel="334704" start="20250606143000 +0800" stop="20250606150000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(393)(普)</title>
+</programme>
+<programme channel="334704" start="20250606150000 +0800" stop="20250606153000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(394)(普)</title>
+</programme>
+<programme channel="334704" start="20250606153000 +0800" stop="20250606160000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (重)(395)(普)</title>
+</programme>
+<programme channel="334704" start="20250606160000 +0800" stop="20250606170000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新大電影-爆睡！夢世界大作戰！ (首)(26)(普)</title>
+</programme>
+<programme channel="334704" start="20250606170000 +0800" stop="20250606180000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">知否知否應是綠肥紅瘦 (首)(30)(普)</title>
+</programme>
+<programme channel="334704" start="20250606180000 +0800" stop="20250606183000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(38)(普)</title>
+</programme>
+<programme channel="334704" start="20250606183000 +0800" stop="20250606190000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">蠟筆小新 (首)(367)(普)</title>
+</programme>
+<programme channel="334704" start="20250606190000 +0800" stop="20250606200000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(39)(普)</title>
+</programme>
+<programme channel="334704" start="20250606200000 +0800" stop="20250606210000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(40)(普)</title>
+</programme>
+<programme channel="334704" start="20250606210000 +0800" stop="20250606220000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(41)(普)</title>
+</programme>
+<programme channel="334704" start="20250606220000 +0800" stop="20250606230000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">延禧攻略 (重)(42)(普)</title>
+</programme>
+<programme channel="334704" start="20250606230000 +0800" stop="20250607000000 +0800">
+<date>2025-06-06</date>
+<desc /><title lang="zh">飛狐外傳 (首)(4)(普)</title>
+</programme>
+<programme channel="334704" start="20250607000000 +0800" stop="20250607010000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">飛狐外傳 (首)(5)(普)</title>
+</programme>
+<programme channel="334704" start="20250607010000 +0800" stop="20250607020000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">地球的慶典 (首)(54)(普)</title>
+</programme>
+<programme channel="334704" start="20250607020000 +0800" stop="20250607030000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">地球的慶典 (首)(55)(普)</title>
+</programme>
+<programme channel="334704" start="20250607030000 +0800" stop="20250607040000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">地球的慶典 (首)(56)(普)</title>
+</programme>
+<programme channel="334704" start="20250607040000 +0800" stop="20250607050000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(43)(普)</title>
+</programme>
+<programme channel="334704" start="20250607050000 +0800" stop="20250607060000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(44)(普)</title>
+</programme>
+<programme channel="334704" start="20250607060000 +0800" stop="20250607070000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(45)(普)</title>
+</programme>
+<programme channel="334704" start="20250607070000 +0800" stop="20250607080000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(46)(普)</title>
+</programme>
+<programme channel="334704" start="20250607080000 +0800" stop="20250607083000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(398)(普)</title>
+</programme>
+<programme channel="334704" start="20250607083000 +0800" stop="20250607090000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(399)(普)</title>
+</programme>
+<programme channel="334704" start="20250607090000 +0800" stop="20250607100000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(42)(普)</title>
+</programme>
+<programme channel="334704" start="20250607100000 +0800" stop="20250607110000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(43)(普)</title>
+</programme>
+<programme channel="334704" start="20250607110000 +0800" stop="20250607120000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(44)(普)</title>
+</programme>
+<programme channel="334704" start="20250607120000 +0800" stop="20250607130000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(45)(普)</title>
+</programme>
+<programme channel="334704" start="20250607130000 +0800" stop="20250607140000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(46)(普)</title>
+</programme>
+<programme channel="334704" start="20250607140000 +0800" stop="20250607143000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(396)(普)</title>
+</programme>
+<programme channel="334704" start="20250607143000 +0800" stop="20250607150000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(397)(普)</title>
+</programme>
+<programme channel="334704" start="20250607150000 +0800" stop="20250607153000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(398)(普)</title>
+</programme>
+<programme channel="334704" start="20250607153000 +0800" stop="20250607160000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新 (重)(399)(普)</title>
+</programme>
+<programme channel="334704" start="20250607160000 +0800" stop="20250607180000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">蠟筆小新大電影-宇宙人Pi力來襲!! (首)(2)(普)</title>
+</programme>
+<programme channel="334704" start="20250607180000 +0800" stop="20250607190000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(42)(普)</title>
+</programme>
+<programme channel="334704" start="20250607190000 +0800" stop="20250607200000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(43)(普)</title>
+</programme>
+<programme channel="334704" start="20250607200000 +0800" stop="20250607210000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(44)(普)</title>
+</programme>
+<programme channel="334704" start="20250607210000 +0800" stop="20250607220000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(45)(普)</title>
+</programme>
+<programme channel="334704" start="20250607220000 +0800" stop="20250607230000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">延禧攻略 (重)(46)(普)</title>
+</programme>
+<programme channel="334704" start="20250607230000 +0800" stop="20250608000000 +0800">
+<date>2025-06-07</date>
+<desc /><title lang="zh">飛狐外傳 (首)(6)(普)</title>
+</programme>
+<programme channel="334704" start="20250608000000 +0800" stop="20250609000000 +0800">
+<date>2025-06-08</date>
+<desc /><title lang="zh">花間令 (重)(17)(普)</title>
 </programme>
 </tv>
