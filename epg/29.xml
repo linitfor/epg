@@ -1,209 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250605205833 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250605.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250605&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250606101015 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250606&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
   </channel>
-  <programme channel="370222" start="20250605000000 +0800" stop="20250605004700 +0800">
-    <title lang="zh">地球的慶典62 荷蘭風車日</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605004700 +0800" stop="20250605013400 +0800">
-    <title lang="zh">地球的慶典63 比利時伊珀爾拋貓節(上)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605013400 +0800" stop="20250605022000 +0800">
-    <title lang="zh">地球的慶典64 比利時伊珀爾拋貓節(下)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605022000 +0800" stop="20250605024600 +0800">
-    <title lang="zh">週遊列國 43 歐洲(廚子市場+La Piola Taipei)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605024600 +0800" stop="20250605031200 +0800">
-    <title lang="zh">週遊列國 44 東南亞(越廚+One Restaurant Lounge)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605031200 +0800" stop="20250605035800 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605035800 +0800" stop="20250605044600 +0800">
-    <title lang="zh">主廚大聯盟 02</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605044600 +0800" stop="20250605050900 +0800">
-    <title lang="zh">環遊世界800天 第一季 01 音樂軌跡</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605050900 +0800" stop="20250605053400 +0800">
-    <title lang="zh">環遊世界800天 第一季 02 年輕的愛</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605053400 +0800" stop="20250605060100 +0800">
-    <title lang="zh">環遊世界800天 第一季 03 名聲</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605060100 +0800" stop="20250605064900 +0800">
-    <title lang="zh">地球的慶典62 荷蘭風車日</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605064900 +0800" stop="20250605073500 +0800">
-    <title lang="zh">地球的慶典63 比利時伊珀爾拋貓節(上)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605073500 +0800" stop="20250605082100 +0800">
-    <title lang="zh">地球的慶典64 比利時伊珀爾拋貓節(下)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605082100 +0800" stop="20250605084700 +0800">
-    <title lang="zh">週遊列國 43 歐洲(廚子市場+La Piola Taipei)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605084700 +0800" stop="20250605091300 +0800">
-    <title lang="zh">週遊列國 44 東南亞(越廚+One Restaurant Lounge)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605091300 +0800" stop="20250605095900 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605095900 +0800" stop="20250605104700 +0800">
-    <title lang="zh">主廚大聯盟 02</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605104700 +0800" stop="20250605111100 +0800">
-    <title lang="zh">環遊世界800天 第一季 01 音樂軌跡</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605111100 +0800" stop="20250605113600 +0800">
-    <title lang="zh">環遊世界800天 第一季 02 年輕的愛</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605113600 +0800" stop="20250605120000 +0800">
-    <title lang="zh">環遊世界800天 第一季 03 名聲</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605120000 +0800" stop="20250605124800 +0800">
-    <title lang="zh">地球的慶典62 荷蘭風車日</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605124800 +0800" stop="20250605133400 +0800">
-    <title lang="zh">地球的慶典63 比利時伊珀爾拋貓節(上)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605133400 +0800" stop="20250605142000 +0800">
-    <title lang="zh">地球的慶典64 比利時伊珀爾拋貓節(下)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605142000 +0800" stop="20250605144600 +0800">
-    <title lang="zh">週遊列國 43 歐洲(廚子市場+La Piola Taipei)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605144600 +0800" stop="20250605151200 +0800">
-    <title lang="zh">週遊列國 44 東南亞(越廚+One Restaurant Lounge)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605151200 +0800" stop="20250605155800 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605155800 +0800" stop="20250605164600 +0800">
-    <title lang="zh">主廚大聯盟 02</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605164600 +0800" stop="20250605171000 +0800">
-    <title lang="zh">環遊世界800天 第一季 01 音樂軌跡</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605171000 +0800" stop="20250605173500 +0800">
-    <title lang="zh">環遊世界800天 第一季 02 年輕的愛</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605173500 +0800" stop="20250605180000 +0800">
-    <title lang="zh">環遊世界800天 第一季 03 名聲</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605180000 +0800" stop="20250605184700 +0800">
-    <title lang="zh">地球的慶典62 荷蘭風車日</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605184700 +0800" stop="20250605193400 +0800">
-    <title lang="zh">地球的慶典63 比利時伊珀爾拋貓節(上)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605193400 +0800" stop="20250605201900 +0800">
-    <title lang="zh">地球的慶典64 比利時伊珀爾拋貓節(下)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605201900 +0800" stop="20250605204500 +0800">
-    <title lang="zh">週遊列國 43 歐洲(廚子市場+La Piola Taipei)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605204500 +0800" stop="20250605211200 +0800">
-    <title lang="zh">週遊列國 44 東南亞(越廚+One Restaurant Lounge)</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605211200 +0800" stop="20250605215800 +0800">
-    <title lang="zh">網路很忙 22</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605215800 +0800" stop="20250605224500 +0800">
-    <title lang="zh">主廚大聯盟 02</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605224500 +0800" stop="20250605230900 +0800">
-    <title lang="zh">環遊世界800天 第一季 01 音樂軌跡</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605230900 +0800" stop="20250605233400 +0800">
-    <title lang="zh">環遊世界800天 第一季 02 年輕的愛</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="370222" start="20250605233400 +0800" stop="20250606000000 +0800">
-    <title lang="zh">環遊世界800天 第一季 03 名聲</title>
-    <desc />
-    <date>2025-06-05</date>
-  </programme>
   <programme channel="370222" start="20250606000000 +0800" stop="20250606004600 +0800">
     <title lang="zh">地球的慶典65 比利時布魯日聖血大遊行</title>
     <desc />
@@ -404,9 +204,209 @@
     <desc />
     <date>2025-06-06</date>
   </programme>
-  <programme channel="370222" start="20250607000000 +0800" stop="20250608000000 +0800">
+  <programme channel="370222" start="20250607000000 +0800" stop="20250607004600 +0800">
     <title lang="zh">地球的慶典68 北投溫泉季</title>
     <desc />
     <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607004600 +0800" stop="20250607013200 +0800">
+    <title lang="zh">地球的慶典69 烏來櫻花藝術季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607013200 +0800" stop="20250607022000 +0800">
+    <title lang="zh">地球的慶典70 陽明山海芋季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607022000 +0800" stop="20250607024500 +0800">
+    <title lang="zh">週遊列國 47 香港(粵亮廣式料理+潮品集)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607024500 +0800" stop="20250607031000 +0800">
+    <title lang="zh">週遊列國 48 歐洲(ALLEZ BISTRO+家CASA)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607031000 +0800" stop="20250607035800 +0800">
+    <title lang="zh">網路很忙 24</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607035800 +0800" stop="20250607044800 +0800">
+    <title lang="zh">主廚大聯盟 04</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607044800 +0800" stop="20250607051000 +0800">
+    <title lang="zh">環遊世界800天 第一季 07 高原與低原</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607051000 +0800" stop="20250607053300 +0800">
+    <title lang="zh">環遊世界800天 第一季 08 英國皇室</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607053300 +0800" stop="20250607060000 +0800">
+    <title lang="zh">環遊世界800天 第一季 09 卡地夫</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607060000 +0800" stop="20250607064600 +0800">
+    <title lang="zh">地球的慶典68 北投溫泉季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607064600 +0800" stop="20250607073200 +0800">
+    <title lang="zh">地球的慶典69 烏來櫻花藝術季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607073200 +0800" stop="20250607082100 +0800">
+    <title lang="zh">地球的慶典70 陽明山海芋季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607082100 +0800" stop="20250607084500 +0800">
+    <title lang="zh">週遊列國 47 香港(粵亮廣式料理+潮品集)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607084500 +0800" stop="20250607091100 +0800">
+    <title lang="zh">週遊列國 48 歐洲(ALLEZ BISTRO+家CASA)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607091100 +0800" stop="20250607095800 +0800">
+    <title lang="zh">網路很忙 24</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607095800 +0800" stop="20250607104900 +0800">
+    <title lang="zh">主廚大聯盟 04</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607104900 +0800" stop="20250607111100 +0800">
+    <title lang="zh">環遊世界800天 第一季 07 高原與低原</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607111100 +0800" stop="20250607113300 +0800">
+    <title lang="zh">環遊世界800天 第一季 08 英國皇室</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607113300 +0800" stop="20250607120000 +0800">
+    <title lang="zh">環遊世界800天 第一季 09 卡地夫</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607120000 +0800" stop="20250607124600 +0800">
+    <title lang="zh">地球的慶典68 北投溫泉季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607124600 +0800" stop="20250607133300 +0800">
+    <title lang="zh">地球的慶典69 烏來櫻花藝術季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607133300 +0800" stop="20250607142100 +0800">
+    <title lang="zh">地球的慶典70 陽明山海芋季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607142100 +0800" stop="20250607144600 +0800">
+    <title lang="zh">週遊列國 47 香港(粵亮廣式料理+潮品集)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607144600 +0800" stop="20250607151100 +0800">
+    <title lang="zh">週遊列國 48 歐洲(ALLEZ BISTRO+家CASA)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607151100 +0800" stop="20250607155900 +0800">
+    <title lang="zh">網路很忙 24</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607155900 +0800" stop="20250607164900 +0800">
+    <title lang="zh">主廚大聯盟 04</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607164900 +0800" stop="20250607171100 +0800">
+    <title lang="zh">環遊世界800天 第一季 07 高原與低原</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607171100 +0800" stop="20250607173400 +0800">
+    <title lang="zh">環遊世界800天 第一季 08 英國皇室</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607173400 +0800" stop="20250607180100 +0800">
+    <title lang="zh">環遊世界800天 第一季 09 卡地夫</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607180100 +0800" stop="20250607184700 +0800">
+    <title lang="zh">地球的慶典68 北投溫泉季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607184700 +0800" stop="20250607193300 +0800">
+    <title lang="zh">地球的慶典69 烏來櫻花藝術季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607193300 +0800" stop="20250607202100 +0800">
+    <title lang="zh">地球的慶典70 陽明山海芋季</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607202100 +0800" stop="20250607204600 +0800">
+    <title lang="zh">週遊列國 47 香港(粵亮廣式料理+潮品集)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607204600 +0800" stop="20250607211100 +0800">
+    <title lang="zh">週遊列國 48 歐洲(ALLEZ BISTRO+家CASA)</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607211100 +0800" stop="20250607215900 +0800">
+    <title lang="zh">網路很忙 24</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607215900 +0800" stop="20250607224900 +0800">
+    <title lang="zh">主廚大聯盟 04</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607224900 +0800" stop="20250607231100 +0800">
+    <title lang="zh">環遊世界800天 第一季 07 高原與低原</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607231100 +0800" stop="20250607233400 +0800">
+    <title lang="zh">環遊世界800天 第一季 08 英國皇室</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250607233400 +0800" stop="20250608000000 +0800">
+    <title lang="zh">環遊世界800天 第一季 09 卡地夫</title>
+    <desc />
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="370222" start="20250608000000 +0800" stop="20250609000000 +0800">
+    <title lang="zh">地球的慶典71 南法薰衣草季(上)</title>
+    <desc />
+    <date>2025-06-08</date>
   </programme>
 </tv>
