@@ -434,7 +434,7 @@ set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&
 curl "$link" > ./epg/90.xml
 
 # 愛爾達影劇台HD (MOD)
-set tvg_id = "368793"
+set tvg_id = "334957"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/91.xml
 
@@ -469,6 +469,12 @@ curl "$link" > ./epg/96.xml
 set tvg_id = "370144"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/97.xml
+
+# 愛爾達綜合 (MOD)
+set tvg_id = "334704"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/98.xml
+
 
 
 ##############################################
