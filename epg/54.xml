@@ -1,141 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250609205905 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250609.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250609&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250610101917 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250610.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250610&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335106">
     <display-name lang="Taiwan">DAZN 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335106" start="20250609000000 +0800" stop="20250609002500 +0800">
-    <title lang="zh">麻將大師 第七季 EP6(護)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609002500 +0800" stop="20250609010000 +0800">
-    <title lang="zh">LIVE 西乙附加賽 桑坦德 vs 米蘭德斯 (6/9/2025)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609010000 +0800" stop="20250609023000 +0800">
-    <title lang="zh">西甲 巴塞隆納 vs 畢爾包競技 (8/25/24)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609023000 +0800" stop="20250609024500 +0800">
-    <title lang="zh">FIFA俱樂部世界盃 獎盃巡迴 EP4(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609024500 +0800" stop="20250609030000 +0800">
-    <title lang="zh">FIFA俱樂部世界盃 獎盃巡迴 EP5(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609030000 +0800" stop="20250609060000 +0800">
-    <title lang="zh">2025 日本職棒交流賽 火腿 vs 阪神 (6/3/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609060000 +0800" stop="20250609070000 +0800">
-    <title lang="zh">麻將大師 第七季 EP5(護)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609070000 +0800" stop="20250609090000 +0800">
-    <title lang="zh">企業排球聯賽 季後賽 連莊 vs 桃園臺灣產險 (3/8/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609090000 +0800" stop="20250609120000 +0800">
-    <title lang="zh">2025 日本職棒交流賽 巨人 vs 樂天 (6/7/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609120000 +0800" stop="20250609130000 +0800">
-    <title lang="zh">麻將大師 第六季 EP51(護)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609130000 +0800" stop="20250609143000 +0800">
-    <title lang="zh">2025中華企業射箭聯賽 協會青年2 vs 新北凱撒 (5/4/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609143000 +0800" stop="20250609170000 +0800">
-    <title lang="zh">24-25 PLG 季後賽 獵鷹 vs 勇士 G1 (4/24/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609170000 +0800" stop="20250609180000 +0800">
-    <title lang="zh">2025 日本職棒交流賽 巨人 vs 樂天 (6/6/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609180000 +0800" stop="20250609183000 +0800">
-    <title lang="zh">(首)鍵盤球探 EP57(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609183000 +0800" stop="20250609200000 +0800">
-    <title lang="zh">LIVE 2025中華職棒 味全 vs 樂天 (6/10/25)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609200000 +0800" stop="20250609213000 +0800">
-    <title lang="zh">射箭世界盃佛羅里達站 複合弓團體決賽(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609213000 +0800" stop="20250609220000 +0800">
-    <title lang="zh">鍵盤球探 EP56(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
-  <programme channel="335106" start="20250609220000 +0800" stop="20250610000000 +0800">
-    <title lang="zh">西甲 巴塞隆納 vs 皇家瓦拉多利德 (8/31/24)(普)</title>
-    <desc />
-    <date>2025-06-09</date>
-  </programme>
   <programme channel="335106" start="20250610000000 +0800" stop="20250610010000 +0800">
     <title lang="zh">麻將大師 第七季 EP6(護)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610010000 +0800" stop="20250610030000 +0800">
-    <title lang="zh">西甲 巴塞隆納 vs 畢爾包競技 (8/25/24)(普)</title>
+    <title lang="zh">西甲 巴列卡諾 vs 巴塞隆納 (8/28/24)(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610030000 +0800" stop="20250610060000 +0800">
-    <title lang="zh">2025 日本職棒交流賽 軟銀 vs 中日 (6/3/25)(普)</title>
+    <title lang="zh">2025 日本職棒交流賽 歐力士 vs 廣島 (6/4/25)(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610060000 +0800" stop="20250610070000 +0800">
-    <title lang="zh">麻將大師 第七季 EP6(護)</title>
+    <title lang="zh">麻將大師 第七季 EP7(護)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610070000 +0800" stop="20250610090000 +0800">
-    <title lang="zh">企業排球聯賽 冠軍賽 高雄台電 vs 臺北鯨華 G1(普)</title>
+    <title lang="zh">企業排球聯賽 冠軍賽 連莊 vs 雲林美津濃 G1(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610090000 +0800" stop="20250610120000 +0800">
-    <title lang="zh">2025 日本職棒交流賽 巨人 vs 樂天 (6/8/25)(普)</title>
+    <title lang="zh">(首)2025 日本職棒交流賽 軟銀 vs 巨人 (6/10/25)(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610120000 +0800" stop="20250610130000 +0800">
-    <title lang="zh">麻將大師 第七季 EP1(護)</title>
+    <title lang="zh">麻將大師 第七季 EP2(護)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610130000 +0800" stop="20250610143000 +0800">
-    <title lang="zh">2025中華企業射箭聯賽 新濠建設 vs 寒舍集團 (5/4/25)(普)</title>
+    <title lang="zh">2025中華企業射箭聯賽 新竹市愛山林 vs 彰化銀行 (5/4/25)(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610143000 +0800" stop="20250610165700 +0800">
-    <title lang="zh">24-25 PLG 季後賽 獵鷹 vs 勇士 G2 (4/25/25)(普)</title>
+    <title lang="zh">24-25 PLG 季後賽 勇士 vs 獵鷹 G3 (4/27/25)(普)</title>
     <desc />
     <date>2025-06-10</date>
   </programme>
@@ -170,8 +80,83 @@
     <date>2025-06-10</date>
   </programme>
   <programme channel="335106" start="20250610220000 +0800" stop="20250611000000 +0800">
-    <title lang="zh">(首)2025 日本職棒交流賽 火腿 vs 養樂多 (6/10/25)(普)</title>
+    <title lang="zh">西甲 吉羅納 vs 巴塞隆納 (9/15/24)(普)</title>
     <desc />
     <date>2025-06-10</date>
+  </programme>
+  <programme channel="335106" start="20250611000000 +0800" stop="20250611010000 +0800">
+    <title lang="zh">麻將大師 第七季 EP7(護)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611010000 +0800" stop="20250611025500 +0800">
+    <title lang="zh">西甲 巴塞隆納 vs 皇家瓦拉多利德 (8/31/24)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611025500 +0800" stop="20250611030000 +0800">
+    <title lang="zh">LIVE 西乙附加賽 皇家奧維耶多 vs 阿爾梅利亞 (6/12/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611030000 +0800" stop="20250611050000 +0800">
+    <title lang="zh">2025 日本職棒交流賽 歐力士 vs 廣島 (6/4/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611050000 +0800" stop="20250611060000 +0800">
+    <title lang="zh">西甲回顧 第三十七輪˙(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611060000 +0800" stop="20250611070000 +0800">
+    <title lang="zh">麻將大師 第七季 EP8(護)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611070000 +0800" stop="20250611090000 +0800">
+    <title lang="zh">企業排球聯賽 冠軍賽 臺北鯨華 vs 高雄台電 G2(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611090000 +0800" stop="20250611120000 +0800">
+    <title lang="zh">2025 日本職棒交流賽 火腿 vs 養樂多 (6/12/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611120000 +0800" stop="20250611130000 +0800">
+    <title lang="zh">麻將大師 第七季 EP3(護)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611130000 +0800" stop="20250611143000 +0800">
+    <title lang="zh">2025中華企業射箭聯賽 台中銀行 vs 協會青年1 (5/4/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611143000 +0800" stop="20250611165700 +0800">
+    <title lang="zh">24-25 PLG 季後賽 勇士 vs 獵鷹 G4 (4/28/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611165700 +0800" stop="20250611200000 +0800">
+    <title lang="zh">LIVE 2025 日本職棒交流賽 火腿 vs 養樂多 (6/12/25)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611200000 +0800" stop="20250611220000 +0800">
+    <title lang="zh">射箭世界盃土耳其站 複合弓個人決賽(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250611220000 +0800" stop="20250612000000 +0800">
+    <title lang="zh">西甲 比利亞雷亞爾 vs 巴塞隆納 (9/23/24)(普)</title>
+    <desc />
+    <date>2025-06-11</date>
+  </programme>
+  <programme channel="335106" start="20250612000000 +0800" stop="20250613000000 +0800">
+    <title lang="zh">麻將大師 第七季 EP8(護)</title>
+    <desc />
+    <date>2025-06-12</date>
   </programme>
 </tv>
