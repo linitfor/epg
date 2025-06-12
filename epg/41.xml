@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250611210301 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250611.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250611&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250612101702 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250612.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250612&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250611000000 +0800" stop="20250611010000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</title>
-    <desc>2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611010000 +0800" stop="20250611020000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</title>
-    <desc>2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611020000 +0800" stop="20250611033000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611033000 +0800" stop="20250611060000 +0800">
-    <title lang="zh">2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</title>
-    <desc>2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611060000 +0800" stop="20250611070000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</title>
-    <desc>2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611070000 +0800" stop="20250611080000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</title>
-    <desc>2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611080000 +0800" stop="20250611093000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611093000 +0800" stop="20250611120000 +0800">
-    <title lang="zh">2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</title>
-    <desc>2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611120000 +0800" stop="20250611130000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</title>
-    <desc>2023莫斯考尼盃第3天(1)SHA ALCvsWOO WOL</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611130000 +0800" stop="20250611140000 +0800">
-    <title lang="zh">2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</title>
-    <desc>2023莫斯考尼盃第3天(3)SAN SHAvsWOO GOR</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611140000 +0800" stop="20250611153000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第三天(2)JIN vs ALI</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611153000 +0800" stop="20250611180000 +0800">
-    <title lang="zh">2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</title>
-    <desc>2022-23司諾克賽季 世界大獎賽 8強 TRU vs XIA</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611180000 +0800" stop="20250611193000 +0800">
-    <title lang="zh">2023莫斯考尼盃第4天(3)ALC vs WOL</title>
-    <desc>2023莫斯考尼盃第4天(3)ALC vs WOL</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611193000 +0800" stop="20250611213000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</desc>
-    <date>2025-06-11</date>
-  </programme>
-  <programme channel="369229" start="20250611213000 +0800" stop="20250612000000 +0800">
-    <title lang="zh">2022-23司諾克賽季 世界大獎賽 4強 TRU vs MUR</title>
-    <desc>2022-23司諾克賽季 世界大獎賽 4強 TRU vs MUR</desc>
-    <date>2025-06-11</date>
-  </programme>
   <programme channel="369229" start="20250612000000 +0800" stop="20250612013000 +0800">
     <title lang="zh">2023莫斯考尼盃第4天(3)ALC vs WOL</title>
     <desc>2023莫斯考尼盃第4天(3)ALC vs WOL</desc>
@@ -144,9 +69,84 @@
     <desc>2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</desc>
     <date>2025-06-12</date>
   </programme>
-  <programme channel="369229" start="20250613000000 +0800" stop="20250614000000 +0800">
+  <programme channel="369229" start="20250613000000 +0800" stop="20250613010000 +0800">
     <title lang="zh">2023莫斯考尼盃第4天(1)FIL vs BOE</title>
     <desc>2023莫斯考尼盃第4天(1)FIL vs BOE</desc>
     <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613010000 +0800" stop="20250613020000 +0800">
+    <title lang="zh">2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</title>
+    <desc>2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613020000 +0800" stop="20250613030000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613030000 +0800" stop="20250613060000 +0800">
+    <title lang="zh">2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</title>
+    <desc>2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613060000 +0800" stop="20250613070000 +0800">
+    <title lang="zh">2023莫斯考尼盃第4天(1)FIL vs BOE</title>
+    <desc>2023莫斯考尼盃第4天(1)FIL vs BOE</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613070000 +0800" stop="20250613080000 +0800">
+    <title lang="zh">2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</title>
+    <desc>2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613080000 +0800" stop="20250613090000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613090000 +0800" stop="20250613120000 +0800">
+    <title lang="zh">2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</title>
+    <desc>2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613120000 +0800" stop="20250613130000 +0800">
+    <title lang="zh">2023莫斯考尼盃第4天(1)FIL vs BOE</title>
+    <desc>2023莫斯考尼盃第4天(1)FIL vs BOE</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613130000 +0800" stop="20250613140000 +0800">
+    <title lang="zh">2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</title>
+    <desc>2023莫斯考尼盃第4天(2)FIL OUS vs WOO STY</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613140000 +0800" stop="20250613150000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第三天(3)JIN vs RAG</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613150000 +0800" stop="20250613180000 +0800">
+    <title lang="zh">2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</title>
+    <desc>2022-23司諾克賽季 世界大獎賽 4強 ALL vs SAE</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613180000 +0800" stop="20250613200000 +0800">
+    <title lang="zh">2023美國公開賽第1天(1)DAVvsKEN</title>
+    <desc>2023美國公開賽第1天(1)DAVvsKEN</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613200000 +0800" stop="20250613213000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第四天(2)JIN vs CHA(台灣)</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第四天(2)JIN vs CHA(台灣)</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250613213000 +0800" stop="20250614000000 +0800">
+    <title lang="zh">2022-23司諾克賽季 世界大獎賽 決賽 TRU vs ALL</title>
+    <desc>2022-23司諾克賽季 世界大獎賽 決賽 TRU vs ALL</desc>
+    <date>2025-06-13</date>
+  </programme>
+  <programme channel="369229" start="20250614000000 +0800" stop="20250615000000 +0800">
+    <title lang="zh">2023美國公開賽第1天(1)DAVvsKEN</title>
+    <desc>2023美國公開賽第1天(1)DAVvsKEN</desc>
+    <date>2025-06-14</date>
   </programme>
 </tv>
