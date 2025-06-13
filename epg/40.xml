@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250612101702 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250612.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250612&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250613101835 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250613.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250613&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250612000000 +0800" stop="20250612030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 TRU vs ROB</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 TRU vs ROB</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="369235" start="20250612030000 +0800" stop="20250612060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="369235" start="20250612060000 +0800" stop="20250612120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 主桌 O'SUL vs JIA(完整)</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 8強 主桌 O'SUL vs JIA(完整)</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="369235" start="20250612120000 +0800" stop="20250612150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 TRU vs ROB</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 TRU vs ROB</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="369235" start="20250612150000 +0800" stop="20250612180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 BRE vs WAK</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="369235" start="20250612180000 +0800" stop="20250613000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 主桌 WAK vs XIN(完整)</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 8強 主桌 WAK vs XIN(完整)</desc>
-    <date>2025-06-12</date>
-  </programme>
   <programme channel="369235" start="20250613000000 +0800" stop="20250613030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</title>
     <desc>2024-25司諾克賽季 英國錦標賽 第一輪 WIL vs BIN</desc>
@@ -64,9 +34,39 @@
     <desc>2024-25司諾克賽季 世界錦標賽 8強 副桌 HIG vs WIL(少第一階段4段)</desc>
     <date>2025-06-13</date>
   </programme>
-  <programme channel="369235" start="20250614000000 +0800" stop="20250615000000 +0800">
+  <programme channel="369235" start="20250614000000 +0800" stop="20250614030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</title>
     <desc>2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</desc>
     <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250614030000 +0800" stop="20250614060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 SEL vs CAR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 16強 SEL vs CAR</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250614060000 +0800" stop="20250614120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 副桌 HIG vs WIL(少第一階段4段)</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 8強 副桌 HIG vs WIL(少第一階段4段)</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250614120000 +0800" stop="20250614150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 MUR vs ZHA</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250614150000 +0800" stop="20250614180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 SEL vs CAR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 16強 SEL vs CAR</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250614180000 +0800" stop="20250615000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 副桌 TRU vs BRE(完整)</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 8強 副桌 TRU vs BRE(完整)</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="369235" start="20250615000000 +0800" stop="20250616000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 第一輪 XIA vs GIL</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 第一輪 XIA vs GIL</desc>
+    <date>2025-06-15</date>
   </programme>
 </tv>
