@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250614205320 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250614.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250614&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250615102832 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250615.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250615&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250614000000 +0800" stop="20250614004500 +0800">
-    <title lang="zh">2024法網第12天精華</title>
-    <desc>2024法網第12天精華</desc>
-    <date>2025-06-14</date>
-  </programme>
-  <programme channel="369216" start="20250614004500 +0800" stop="20250614033000 +0800">
-    <title lang="zh">LIVE2025法國網球公開賽男單四強DAY13</title>
-    <desc>LIVE2025法國網球公開賽男單四強DAY13</desc>
-    <date>2025-06-14</date>
-  </programme>
-  <programme channel="369216" start="20250614033000 +0800" stop="20250614080000 +0800">
-    <title lang="zh">2025法國網球公開賽八強DAY11</title>
-    <desc>2025法國網球公開賽八強DAY11</desc>
-    <date>2025-06-14</date>
-  </programme>
-  <programme channel="369216" start="20250614080000 +0800" stop="20250614130000 +0800">
-    <title lang="zh">首播2025法國網球公開賽男單四強DAY13</title>
-    <desc>首播2025法國網球公開賽男單四強DAY13</desc>
-    <date>2025-06-14</date>
-  </programme>
-  <programme channel="369216" start="20250614130000 +0800" stop="20250614194500 +0800">
-    <title lang="zh">2025法國網球公開賽八強DAY11</title>
-    <desc>2025法國網球公開賽八強DAY11</desc>
-    <date>2025-06-14</date>
-  </programme>
-  <programme channel="369216" start="20250614194500 +0800" stop="20250615000000 +0800">
-    <title lang="zh">LIVE2025法國網球公開賽女單/男雙決賽DAY14</title>
-    <desc>LIVE2025法國網球公開賽女單/男雙決賽DAY14</desc>
-    <date>2025-06-14</date>
-  </programme>
   <programme channel="369216" start="20250615010000 +0800" stop="20250615080000 +0800">
     <title lang="zh">2025法國網球公開賽混雙決賽/女單四強DAY12</title>
     <desc>2025法國網球公開賽混雙決賽/女單四強DAY12</desc>
@@ -73,5 +43,55 @@
     <title lang="zh">2025馬德里大師賽四強CERvsRUU</title>
     <desc>2025馬德里大師賽四強CERvsRUU</desc>
     <date>2025-06-15</date>
+  </programme>
+  <programme channel="369216" start="20250616003000 +0800" stop="20250616023000 +0800">
+    <title lang="zh">2025漢堡男網賽十六強RUBvsENG</title>
+    <desc>2025漢堡男網賽十六強RUBvsENG</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616023000 +0800" stop="20250616043000 +0800">
+    <title lang="zh">2025羅馬大師賽八強DRAvsALC</title>
+    <desc>2025羅馬大師賽八強DRAvsALC</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616043000 +0800" stop="20250616063000 +0800">
+    <title lang="zh">2025法國網球公開賽第三輪SINvsLEH</title>
+    <desc>2025法國網球公開賽第三輪SINvsLEH</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616063000 +0800" stop="20250616073000 +0800">
+    <title lang="zh">2025法網第7天精華</title>
+    <desc>2025法網第7天精華</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616073000 +0800" stop="20250616100000 +0800">
+    <title lang="zh">2025馬德里大師賽四強CERvsRUU</title>
+    <desc>2025馬德里大師賽四強CERvsRUU</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616100000 +0800" stop="20250616120000 +0800">
+    <title lang="zh">2025漢堡男網賽十六強RUBvsENG</title>
+    <desc>2025漢堡男網賽十六強RUBvsENG</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616120000 +0800" stop="20250616143000 +0800">
+    <title lang="zh">首播2025斯圖加特男網賽決賽</title>
+    <desc>首播2025斯圖加特男網賽決賽</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616143000 +0800" stop="20250616163000 +0800">
+    <title lang="zh">2025法國網球公開賽第三輪SINvsLEH</title>
+    <desc>2025法國網球公開賽第三輪SINvsLEH</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616163000 +0800" stop="20250616173000 +0800">
+    <title lang="zh">2025法網第7天精華</title>
+    <desc>2025法網第7天精華</desc>
+    <date>2025-06-16</date>
+  </programme>
+  <programme channel="369216" start="20250616173000 +0800" stop="20250617000000 +0800">
+    <title lang="zh">LIVE2025哈雷草地男網賽第一天</title>
+    <desc>LIVE2025哈雷草地男網賽第一天</desc>
+    <date>2025-06-16</date>
   </programme>
 </tv>
