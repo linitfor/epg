@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250615205512 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250615.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250615&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250616102252 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250616.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250616&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250615000000 +0800" stop="20250615010000 +0800">
-    <title lang="zh">2023美國公開賽第1天(2)VANvsFIN</title>
-    <desc>2023美國公開賽第1天(2)VANvsFIN</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615010000 +0800" stop="20250615023000 +0800">
-    <title lang="zh">2023美國公開賽第1天(4)JOSvsJOH</title>
-    <desc>2023美國公開賽第1天(4)JOSvsJOH</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615023000 +0800" stop="20250615043000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615043000 +0800" stop="20250615060000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第二天 FOR vs UN-NOO</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 第二天 FOR vs UN-NOO</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615060000 +0800" stop="20250615070000 +0800">
-    <title lang="zh">2023美國公開賽第1天(2)VANvsFIN</title>
-    <desc>2023美國公開賽第1天(2)VANvsFIN</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615070000 +0800" stop="20250615083000 +0800">
-    <title lang="zh">2023美國公開賽第1天(4)JOSvsJOH</title>
-    <desc>2023美國公開賽第1天(4)JOSvsJOH</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615083000 +0800" stop="20250615103000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615103000 +0800" stop="20250615110000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615110000 +0800" stop="20250615123000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第二天 FOR vs UN-NOO</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 第二天 FOR vs UN-NOO</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615123000 +0800" stop="20250615133000 +0800">
-    <title lang="zh">2023美國公開賽第1天(2)VANvsFIN</title>
-    <desc>2023美國公開賽第1天(2)VANvsFIN</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615133000 +0800" stop="20250615150000 +0800">
-    <title lang="zh">2023美國公開賽第1天(4)JOSvsJOH</title>
-    <desc>2023美國公開賽第1天(4)JOSvsJOH</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615150000 +0800" stop="20250615170000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第四天(1)CHA(台灣) vs JEF</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615170000 +0800" stop="20250615180000 +0800">
-    <title lang="zh">2023美國公開賽第1天(2)VANvsFIN</title>
-    <desc>2023美國公開賽第1天(2)VANvsFIN</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615180000 +0800" stop="20250615200000 +0800">
-    <title lang="zh">2023美國公開賽第1天(3)KOvsCOR</title>
-    <desc>2023美國公開賽第1天(3)KOvsCOR</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615200000 +0800" stop="20250615210000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第五天(1)CHE vs CHO(台灣)</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第五天(1)CHE vs CHO(台灣)</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615210000 +0800" stop="20250615220000 +0800">
-    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第五天(2)JIN vs YU</title>
-    <desc>2024 ACBS十號球亞洲錦標賽 第五天(2)JIN vs YU</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615220000 +0800" stop="20250615230000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第二天 MAG vs NUT</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 第二天 MAG vs NUT</desc>
-    <date>2025-06-15</date>
-  </programme>
-  <programme channel="369229" start="20250615230000 +0800" stop="20250616000000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第二天 O'SUL vs ROB</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 第二天 O'SUL vs ROB</desc>
-    <date>2025-06-15</date>
-  </programme>
   <programme channel="369229" start="20250616000000 +0800" stop="20250616020000 +0800">
     <title lang="zh">2023美國公開賽第3天(3)SKYvsALE</title>
     <desc>2023美國公開賽第3天(3)SKYvsALE</desc>
@@ -169,9 +79,89 @@
     <desc>2022-23司諾克賽季 球員錦標賽 16強 TRU vs CAR</desc>
     <date>2025-06-16</date>
   </programme>
-  <programme channel="369229" start="20250617000000 +0800" stop="20250618000000 +0800">
+  <programme channel="369229" start="20250617000000 +0800" stop="20250617020000 +0800">
     <title lang="zh">2023美國公開賽第1天(5)JCHAvsANT</title>
     <desc>2023美國公開賽第1天(5)JCHAvsANT</desc>
     <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617020000 +0800" stop="20250617033000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617033000 +0800" stop="20250617050000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617050000 +0800" stop="20250617060000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617060000 +0800" stop="20250617080000 +0800">
+    <title lang="zh">2023美國公開賽第1天(5)JCHAvsANT</title>
+    <desc>2023美國公開賽第1天(5)JCHAvsANT</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617080000 +0800" stop="20250617093000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617093000 +0800" stop="20250617110000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617110000 +0800" stop="20250617120000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617120000 +0800" stop="20250617140000 +0800">
+    <title lang="zh">2023美國公開賽第1天(5)JCHAvsANT</title>
+    <desc>2023美國公開賽第1天(5)JCHAvsANT</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617140000 +0800" stop="20250617153000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第五天(4)AMI vs LIU</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617153000 +0800" stop="20250617170000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 O'SUL vs MOO</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617170000 +0800" stop="20250617180000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 第三天 YUE vs UN-NOOH</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617180000 +0800" stop="20250617190000 +0800">
+    <title lang="zh">2023美國公開賽第2天(1)WOOvsCHA</title>
+    <desc>2023美國公開賽第2天(1)WOOvsCHA</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617190000 +0800" stop="20250617200000 +0800">
+    <title lang="zh">2023美國公開賽第2天(2)RALvsEAR</title>
+    <desc>2023美國公開賽第2天(2)RALvsEAR</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617200000 +0800" stop="20250617213000 +0800">
+    <title lang="zh">2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</title>
+    <desc>2024 ACBS十號球亞洲錦標賽 第三天(1)ALI vs ARI</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250617213000 +0800" stop="20250618000000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 8強 TRU vs VAF</desc>
+    <date>2025-06-17</date>
+  </programme>
+  <programme channel="369229" start="20250618000000 +0800" stop="20250619000000 +0800">
+    <title lang="zh">2023美國公開賽第2天(1)WOOvsCHA</title>
+    <desc>2023美國公開賽第2天(1)WOOvsCHA</desc>
+    <date>2025-06-18</date>
   </programme>
 </tv>
