@@ -16,7 +16,7 @@ my @files = ('./epg/1.xml', './epg/2.xml', './epg/3.xml', './epg/4.xml', './epg/
 './epg/71.xml', './epg/72.xml', './epg/73.xml', './epg/74.xml', './epg/75.xml', './epg/76.xml', './epg/77.xml', './epg/78.xml', './epg/79.xml', './epg/80.xml',
 './epg/81.xml', './epg/82.xml', './epg/83.xml', './epg/84.xml', './epg/85.xml', './epg/86.xml', './epg/87.xml', './epg/88.xml', './epg/89.xml', './epg/90.xml',
 './epg/91.xml', './epg/92.xml', './epg/93.xml', './epg/94.xml', './epg/95.xml', './epg/96.xml', './epg/97.xml', './epg/98.xml', './epg/99.xml', './epg/100.xml',
-'./epg/101.xml', './epg/102.xml', './epg/103.xml', './epg/104.xml');
+'./epg/101.xml', './epg/102.xml', './epg/103.xml', './epg/104.xml', './epg/105.xml');
 
 my $output_file = 'merged.xml';
 
