@@ -161,7 +161,7 @@ set tvg_id = "368365"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/32.xml
 # CINEMAX
-set tvg_id = "334710"
+set tvg_id = "369290"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/33.xml
 # 好萊塢電影台
