@@ -200,12 +200,12 @@ curl "$link" > ./epg/41.xml
 set tvg_id = "370204"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/42.xml
-# 博斯運動
-set tvg_id = "370202"
+# 博斯運動1
+set tvg_id = "369230"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/43.xml
-# 博斯運動
-set tvg_id = "370205"
+# 博斯運動2
+set tvg_id = "369217"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/44.xml
 # 博斯高球一
