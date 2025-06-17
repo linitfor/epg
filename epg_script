@@ -513,6 +513,12 @@ set tvg_id = "370227"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/105.xml
 
+# 大愛電視 (TW)
+set tvg_id = "334822"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/106.xml
+
+
 
 ##############################################
 
