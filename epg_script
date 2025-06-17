@@ -498,7 +498,10 @@ set tvg_id = "334935"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/102.xml
 
-
+# 愛爾達體育4台 (TW)
+set tvg_id = "334772"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/103.xml
 
 ##############################################
 
