@@ -508,6 +508,11 @@ set tvg_id = "369222"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/104.xml
 
+# 民視影劇台 (TW)
+set tvg_id = "370227"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/105.xml
+
 
 ##############################################
 
