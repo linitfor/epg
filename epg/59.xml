@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250616210023 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250616.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250616&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250617101914 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250617.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250617&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369213">
     <display-name lang="Taiwan">博斯高球2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155209866861_10.jpg" />
   </channel>
-  <programme channel="369213" start="20250616000000 +0800" stop="20250616010000 +0800">
-    <title lang="zh">2025 TSPGA澄觀園超級長春公開賽精華</title>
-    <desc>2025 TSPGA澄觀園超級長春公開賽精華</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616010000 +0800" stop="20250616040000 +0800">
-    <title lang="zh">LIVE2025 LPGA梅爾菁英賽第四天</title>
-    <desc>LIVE2025 LPGA梅爾菁英賽第四天</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616040000 +0800" stop="20250616100000 +0800">
-    <title lang="zh">2024 LPGA美國女子PGA錦標賽第一天</title>
-    <desc>2024 LPGA美國女子PGA錦標賽第一天</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616100000 +0800" stop="20250616140000 +0800">
-    <title lang="zh">2025 亞巡印度國際亞巡賽第二天</title>
-    <desc>2025 亞巡印度國際亞巡賽第二天</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616140000 +0800" stop="20250616143000 +0800">
-    <title lang="zh">克里斯高球診斷室</title>
-    <desc>克里斯高球診斷室</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616143000 +0800" stop="20250616173000 +0800">
-    <title lang="zh">首播2025 LPGA梅爾菁英賽第四天</title>
-    <desc>首播2025 LPGA梅爾菁英賽第四天</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616173000 +0800" stop="20250616213000 +0800">
-    <title lang="zh">2025 亞巡南韓馬京公開賽第二天</title>
-    <desc>2025 亞巡南韓馬京公開賽第二天</desc>
-    <date>2025-06-16</date>
-  </programme>
-  <programme channel="369213" start="20250616213000 +0800" stop="20250617000000 +0800">
-    <title lang="zh">2025 LPGA洛杉磯錦標賽第二天</title>
-    <desc>2025 LPGA洛杉磯錦標賽第二天</desc>
-    <date>2025-06-16</date>
-  </programme>
   <programme channel="369213" start="20250617000000 +0800" stop="20250617030000 +0800">
     <title lang="zh">2025奧古斯塔女子業餘賽最終回合</title>
     <desc>2025奧古斯塔女子業餘賽最終回合</desc>
@@ -79,9 +39,34 @@
     <desc>2025 LPGA美洲公開賽第四天</desc>
     <date>2025-06-17</date>
   </programme>
-  <programme channel="369213" start="20250618000000 +0800" stop="20250619000000 +0800">
+  <programme channel="369213" start="20250618000000 +0800" stop="20250618040000 +0800">
     <title lang="zh">2025 亞巡澳門國際亞巡賽第三天</title>
     <desc>2025 亞巡澳門國際亞巡賽第三天</desc>
     <date>2025-06-18</date>
+  </programme>
+  <programme channel="369213" start="20250618040000 +0800" stop="20250618090000 +0800">
+    <title lang="zh">2025 LPGA本田泰國賽第三天</title>
+    <desc>2025 LPGA本田泰國賽第三天</desc>
+    <date>2025-06-18</date>
+  </programme>
+  <programme channel="369213" start="20250618090000 +0800" stop="20250618140000 +0800">
+    <title lang="zh">2025 TLPGA中國信託女子公開賽第一回合</title>
+    <desc>2025 TLPGA中國信託女子公開賽第一回合</desc>
+    <date>2025-06-18</date>
+  </programme>
+  <programme channel="369213" start="20250618140000 +0800" stop="20250618180000 +0800">
+    <title lang="zh">2025 亞巡紐西蘭公開賽第三天</title>
+    <desc>2025 亞巡紐西蘭公開賽第三天</desc>
+    <date>2025-06-18</date>
+  </programme>
+  <programme channel="369213" start="20250618180000 +0800" stop="20250619000000 +0800">
+    <title lang="zh">2024 TLPGA緯創女子公開賽第一回合</title>
+    <desc>2024 TLPGA緯創女子公開賽第一回合</desc>
+    <date>2025-06-18</date>
+  </programme>
+  <programme channel="369213" start="20250619000000 +0800" stop="20250620000000 +0800">
+    <title lang="zh">2025 亞巡澳門國際亞巡賽第四天</title>
+    <desc>2025 亞巡澳門國際亞巡賽第四天</desc>
+    <date>2025-06-19</date>
   </programme>
 </tv>
