@@ -45,7 +45,7 @@ set tvg_id = "369248"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/3.xml
 # 華視新聞
-set tvg_id = "368816"
+set tvg_id = "370171"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/4.xml
 # 民視新聞
