@@ -475,7 +475,10 @@ set tvg_id = "334704"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/98.xml
 
-
+# 愛奇藝 (馬來西亞)
+set tvg_id = "3290"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/99.xml
 
 ##############################################
 
