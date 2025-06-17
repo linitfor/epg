@@ -486,6 +486,12 @@ set tvg_id = "368920"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/100.xml
 
+
+# Warner TV (TW)
+set tvg_id = "369177"
+set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
+curl "$link" > ./epg/101.xml
+
 ##############################################
 
 ## 處理檔頭
