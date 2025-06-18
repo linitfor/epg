@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250617205849 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250617.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250617&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250618101735 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250618.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250618&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369244">
     <display-name lang="Taiwan">TVBS 新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
   </channel>
-  <programme channel="369244" start="20250617010000 +0800" stop="20250617020000 +0800">
-    <title lang="zh">十點不一樣</title>
-    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617020000 +0800" stop="20250617040000 +0800">
-    <title lang="zh">新聞夜視界</title>
-    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617040000 +0800" stop="20250617050000 +0800">
-    <title lang="zh">九點熱話題</title>
-    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617050000 +0800" stop="20250617060000 +0800">
-    <title lang="zh">十點不一樣</title>
-    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617060000 +0800" stop="20250617090000 +0800">
-    <title lang="zh">早安台灣</title>
-    <desc>播報最即時完整新聞。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617090000 +0800" stop="20250617100000 +0800">
-    <title lang="zh">上午9點新聞</title>
-    <desc>播報最即時完整新聞。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617100000 +0800" stop="20250617110000 +0800">
-    <title lang="zh">上午10點新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617110000 +0800" stop="20250617120000 +0800">
-    <title lang="zh">上午11點新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617120000 +0800" stop="20250617140000 +0800">
-    <title lang="zh">午間12.13新聞</title>
-    <desc>播報最即時完整新聞。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617140000 +0800" stop="20250617150000 +0800">
-    <title lang="zh">1400說新聞</title>
-    <desc>1400說新聞</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617150000 +0800" stop="20250617160000 +0800">
-    <title lang="zh">1500整點新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617160000 +0800" stop="20250617170000 +0800">
-    <title lang="zh">16整點新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617170000 +0800" stop="20250617180000 +0800">
-    <title lang="zh">17整點新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617180000 +0800" stop="20250617200000 +0800">
-    <title lang="zh">晩間6 7點新聞</title>
-    <desc>?間6 7點新聞</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617200000 +0800" stop="20250617210000 +0800">
-    <title lang="zh">最前線新聞</title>
-    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617210000 +0800" stop="20250617220000 +0800">
-    <title lang="zh">九點熱話題</title>
-    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617220000 +0800" stop="20250617230000 +0800">
-    <title lang="zh">十點不一樣</title>
-    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
-    <date>2025-06-17</date>
-  </programme>
-  <programme channel="369244" start="20250617230000 +0800" stop="20250618000000 +0800">
-    <title lang="zh">新聞夜視界</title>
-    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
-    <date>2025-06-17</date>
-  </programme>
   <programme channel="369244" start="20250618010000 +0800" stop="20250618020000 +0800">
     <title lang="zh">十點不一樣</title>
     <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
@@ -183,5 +93,95 @@
     <title lang="zh">新聞夜視界</title>
     <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
     <date>2025-06-18</date>
+  </programme>
+  <programme channel="369244" start="20250619010000 +0800" stop="20250619020000 +0800">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619020000 +0800" stop="20250619040000 +0800">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619040000 +0800" stop="20250619050000 +0800">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619050000 +0800" stop="20250619060000 +0800">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619060000 +0800" stop="20250619090000 +0800">
+    <title lang="zh">早安台灣</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619090000 +0800" stop="20250619100000 +0800">
+    <title lang="zh">上午9點新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619100000 +0800" stop="20250619110000 +0800">
+    <title lang="zh">上午10點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619110000 +0800" stop="20250619120000 +0800">
+    <title lang="zh">上午11點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619120000 +0800" stop="20250619140000 +0800">
+    <title lang="zh">午間12.13新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619140000 +0800" stop="20250619150000 +0800">
+    <title lang="zh">1400說新聞</title>
+    <desc>1400說新聞</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619150000 +0800" stop="20250619160000 +0800">
+    <title lang="zh">1500整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619160000 +0800" stop="20250619170000 +0800">
+    <title lang="zh">16整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619170000 +0800" stop="20250619180000 +0800">
+    <title lang="zh">17整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619180000 +0800" stop="20250619200000 +0800">
+    <title lang="zh">晩間6 7點新聞</title>
+    <desc>?間6 7點新聞</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619200000 +0800" stop="20250619210000 +0800">
+    <title lang="zh">最前線新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619210000 +0800" stop="20250619220000 +0800">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619220000 +0800" stop="20250619230000 +0800">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="369244" start="20250619230000 +0800" stop="20250620000000 +0800">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-19</date>
   </programme>
 </tv>
