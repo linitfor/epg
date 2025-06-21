@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250620205757 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250620.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250620&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250621100952 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250621.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250621&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250620000000 +0800" stop="20250620080000 +0800">
-    <title lang="zh">LIVE2025美國公開賽第一天</title>
-    <desc>LIVE2025美國公開賽第一天</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620080000 +0800" stop="20250620083000 +0800">
-    <title lang="zh">女壘週報</title>
-    <desc>女壘週報</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620083000 +0800" stop="20250620103000 +0800">
-    <title lang="zh">2025法國網球公開賽四強</title>
-    <desc>2025法國網球公開賽四強</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620103000 +0800" stop="20250620123000 +0800">
-    <title lang="zh">2025歐冠女排聯賽季後賽 LEG2義大利米蘭 vs 德國施威林</title>
-    <desc>2025歐冠女排聯賽季後賽 LEG2義大利米蘭 vs 德國施威林</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620123000 +0800" stop="20250620143000 +0800">
-    <title lang="zh">2025歐冠男排聯賽第四輪 LEG5盧布爾雅納 vs 德國柏林</title>
-    <desc>2025歐冠男排聯賽第四輪 LEG5盧布爾雅納 vs 德國柏林</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620143000 +0800" stop="20250620170000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第一周兆基穿山甲 vs臺北台產熊讚</title>
-    <desc>2025企業女子壘球聯賽第一周兆基穿山甲 vs臺北台產熊讚</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620170000 +0800" stop="20250620190000 +0800">
-    <title lang="zh">2025法國網球公開賽四強</title>
-    <desc>2025法國網球公開賽四強</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620190000 +0800" stop="20250620233000 +0800">
-    <title lang="zh">首播2025中華職棒場次128富邦悍將 vs 台鋼雄鷹</title>
-    <desc>首播2025中華職棒場次128富邦悍將 vs 台鋼雄鷹</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369230" start="20250620233000 +0800" stop="20250621000000 +0800">
-    <title lang="zh">女壘週報</title>
-    <desc>女壘週報</desc>
-    <date>2025-06-20</date>
-  </programme>
   <programme channel="369230" start="20250621000000 +0800" stop="20250621080000 +0800">
     <title lang="zh">LIVE2025美國公開賽第二天</title>
     <desc>LIVE2025美國公開賽第二天</desc>
@@ -89,9 +44,49 @@
     <desc>2025歐冠男排聯賽第四輪 LEG5法國肖蒙 vs 德國呂訥堡</desc>
     <date>2025-06-21</date>
   </programme>
-  <programme channel="369230" start="20250622000000 +0800" stop="20250623000000 +0800">
+  <programme channel="369230" start="20250622000000 +0800" stop="20250622080000 +0800">
     <title lang="zh">LIVE2025美國公開賽第三天</title>
     <desc>LIVE2025美國公開賽第三天</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622080000 +0800" stop="20250622083000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622083000 +0800" stop="20250622110000 +0800">
+    <title lang="zh">2025法國網球公開賽決賽</title>
+    <desc>2025法國網球公開賽決賽</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622110000 +0800" stop="20250622150000 +0800">
+    <title lang="zh">首播2025中華職棒場次134富邦悍將 vs 台鋼雄鷹</title>
+    <desc>首播2025中華職棒場次134富邦悍將 vs 台鋼雄鷹</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622150000 +0800" stop="20250622160000 +0800">
+    <title lang="zh">2024法網第14天精華</title>
+    <desc>2024法網第14天精華</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622160000 +0800" stop="20250622193000 +0800">
+    <title lang="zh">LIVE2025中華職棒場次163味全龍 vs 台鋼雄鷹</title>
+    <desc>LIVE2025中華職棒場次163味全龍 vs 台鋼雄鷹</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622193000 +0800" stop="20250622200000 +0800">
+    <title lang="zh">女壘週報</title>
+    <desc>女壘週報</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622200000 +0800" stop="20250622230000 +0800">
+    <title lang="zh">2025法國網球公開賽決賽</title>
+    <desc>2025法國網球公開賽決賽</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369230" start="20250622230000 +0800" stop="20250623000000 +0800">
+    <title lang="zh">LIVE2025美國公開賽第四天</title>
+    <desc>LIVE2025美國公開賽第四天</desc>
     <date>2025-06-22</date>
   </programme>
 </tv>

@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250620205750 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369313/20250620.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369313&amp;date=20250620&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250621100947 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369313/20250621.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369313&amp;date=20250621&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369313">
     <display-name lang="Taiwan">HBO HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154432045568_41.jpg" />
   </channel>
-  <programme channel="369313" start="20250620004000 +0800" stop="20250620023000 +0800">
-    <title lang="zh">喬的豪門宅邸</title>
-    <desc>本片是英國知名電視電影編導史蒂芬波利亞科夫製播的3部系列電視電影中的首部曲</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620023000 +0800" stop="20250620034500 +0800">
-    <title lang="zh">末世餘生第3季:8</title>
-    <desc>這齣HBO Original影集的最後一季描寫當140萬人離奇自地表消失後，其他人永遠不同以往的人生</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620034500 +0800" stop="20250620060000 +0800">
-    <title lang="zh">死亡醫生</title>
-    <desc>艾爾帕契諾以本片奪得金球獎電視電影最佳男主角.在這部HBO原創電影中，敘述密西根醫師傑克科瓦基恩發明一台自殺機器，以幫助慢性病患者有尊嚴地死去…</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620060000 +0800" stop="20250620074000 +0800">
-    <title lang="zh">情同姊妹</title>
-    <desc>HBO原創自製電影，訴說菸草繼承人桃瑞絲和她的愛爾蘭裔僕人拉弗第間背後的故事，展現兩人在嚴謹的主僕關係之外又加入的一些更深層的東西</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620074000 +0800" stop="20250620093000 +0800">
-    <title lang="zh">新婚"奧"客</title>
-    <desc>新郎最好的朋友兼伴郎賴在家裡不走，新婚夫妻的甜蜜時光從此不復返。</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620093000 +0800" stop="20250620114000 +0800">
-    <title lang="zh">疑雲殺機</title>
-    <desc>千萬別錯過這部為已故知名影評家羅傑‧伊伯特評為「年度最佳影片」的作品。瑞秋‧懷茲成功演繹泰莎這名善於煽動人心的激進主義份子，並因此於二○○六年獲頒奧斯卡與金球獎最佳女配角獎項</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620114000 +0800" stop="20250620132500 +0800">
-    <title lang="zh">碧海嬌娃</title>
-    <desc>「碧海嬌娃」的衝浪場面絕對令人嘆為觀止！本片是根據「蘭花賊」小說作者蘇珊奧良的一篇雜誌文章拍攝而成</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620132500 +0800" stop="20250620151500 +0800">
-    <title lang="zh">超危險警探</title>
-    <desc>一名失憶的前重案組探員被迫調查一起他無法回憶的殘忍兇殺案</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620151500 +0800" stop="20250620170000 +0800">
-    <title lang="zh">馴龍高手3</title>
-    <desc>小嗝嗝與沒牙面對前所未見的威脅，必須前往傳說中的隱藏的世界，和母「光煞」龍共同奮鬥，保護他們珍愛的一切</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620170000 +0800" stop="20250620191500 +0800">
-    <title lang="zh">綠巨人浩克</title>
-    <desc>你絕對不會喜歡他憤怒時的樣子！艾瑞克巴納躍上了大銀幕，化身為狂暴的綠巨人</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620191500 +0800" stop="20250620210000 +0800">
-    <title lang="zh">神偷軍團</title>
-    <desc>紐約超級豪宅管理員喬許柯瓦斯（班史提勒飾）辛苦工作超過十年，不料身為華爾街鉅富的頂樓豪宅住戶亞瑟蕭（亞倫艾達飾），因涉嫌詐欺大筆資金遭軟禁在家，而這筆資金也包括大樓員工長年累積的退休金。為了奪回退休金，喬許求助於鄰居小竊賊史萊德（艾迪墨菲飾），擘畫一場嚴密的偷天計畫，這一群業餘的菜鳥軍團是否能夠躲避FBI的全天候監控，成功搶回畢生的血汗錢？</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620210000 +0800" stop="20250620224500 +0800">
-    <title lang="zh">陰間大法師BEETLEJUICE</title>
-    <desc>陰間大法師回來了！在發生一場意想不到的家庭悲劇後，迪茲家族的三代家人回到了冬河鎮的家中，麗迪亞仍然受到陰間大法師的糾纏。當她叛逆的青春期女兒亞絲翠在閣樓發現了神秘的小鎮模型，以及通往陰間的入口不小心被打開之後，她的生活就被搞得天翻地覆</desc>
-    <date>2025-06-20</date>
-  </programme>
-  <programme channel="369313" start="20250620224500 +0800" stop="20250621000000 +0800">
-    <title lang="zh">圈套</title>
-    <desc>一對父女一同參加演唱會，卻發現自己陷入一場黑暗又邪惡的風暴之中</desc>
-    <date>2025-06-20</date>
-  </programme>
   <programme channel="369313" start="20250621003000 +0800" stop="20250621022000 +0800">
     <title lang="zh">鬼修女II</title>
     <desc>1956年的法國，一名神父慘遭殺害，邪惡力量正悄悄擴張。在這部全球賣座恐怖片的續集中，艾琳修女將再次與鬼修女瓦拉克正面對決</desc>
@@ -133,5 +68,80 @@
     <title lang="zh">粗獷派建築師</title>
     <desc>本片講述匈牙利裔猶太建築師拉斯洛托特從大屠殺中倖存下來之後的故事</desc>
     <date>2025-06-21</date>
+  </programme>
+  <programme channel="369313" start="20250622011500 +0800" stop="20250622032000 +0800">
+    <title lang="zh">特技玩家</title>
+    <desc>一名為電影擔當替身的演員受僱尋找失蹤的主演，但他卻被誣陷殺人</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622032000 +0800" stop="20250622051500 +0800">
+    <title lang="zh">辣妹過招</title>
+    <desc>這部叫好又叫座的青春喜劇，其機智的劇本和堅強的演出陣容受到影評人的高度肯定。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622051500 +0800" stop="20250622065000 +0800">
+    <title lang="zh">我的希臘婚禮3</title>
+    <desc>與波托卡洛斯一家人一同踏上溫馨且歡鬧的希臘之旅及參加一場充滿了愛又迂迴曲折的家庭聚會吧</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622065000 +0800" stop="20250622085500 +0800">
+    <title lang="zh">亞瑟-王者之劍</title>
+    <desc>倍受讚譽的導演蓋瑞奇將其多變的風格注入經典神話故事石中劍之中，片中描寫亞瑟從街頭無名小卒到接受天命成為王者的歷程</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622085500 +0800" stop="20250622105000 +0800">
+    <title lang="zh">歌喉讚2</title>
+    <desc>發生了傳遍全國的醜聞後，巴頓大學的美麗女聲必須冷靜下來，重拾力量以贏得阿卡貝拉的世界錦標賽</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622105000 +0800" stop="20250622114000 +0800">
+    <title lang="zh">末世餘生第3季:5</title>
+    <desc>這齣HBO Original影集的最後一季描寫當140萬人離奇自地表消失後，其他人永遠不同以往的人生</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622114000 +0800" stop="20250622124000 +0800">
+    <title lang="zh">末世餘生第3季:6</title>
+    <desc>這齣HBO Original影集的最後一季描寫當140萬人離奇自地表消失後，其他人永遠不同以往的人生</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622124000 +0800" stop="20250622134000 +0800">
+    <title lang="zh">末世餘生第3季:7</title>
+    <desc>這齣HBO Original影集的最後一季描寫當140萬人離奇自地表消失後，其他人永遠不同以往的人生</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622134000 +0800" stop="20250622145500 +0800">
+    <title lang="zh">末世餘生第3季:8</title>
+    <desc>這齣HBO Original影集的最後一季描寫當140萬人離奇自地表消失後，其他人永遠不同以往的人生</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622145500 +0800" stop="20250622155500 +0800">
+    <title lang="zh">特洛伊女籃隊</title>
+    <desc>本片為HBO原創記錄片，記敘南加大特洛伊人籃球隊在雪莉米德帶領下崛起，進而形塑了女籃壇</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622155500 +0800" stop="20250622175500 +0800">
+    <title lang="zh">瘋狂亞洲富豪</title>
+    <desc>這齣浪漫喜劇改編自暢銷全球的知名小說，劇中描寫一名紐約客陪伴男友到新加坡參加他最好的朋友的婚禮，因此引發的一連串事件</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622175500 +0800" stop="20250622193000 +0800">
+    <title lang="zh">神偷奶爸4</title>
+    <desc>最惹人愛的犯罪首腦、以及他那群語無倫次卻可愛至極的黃色小小兵第四度現身，充滿了驚奇冒險與家庭惡趣味</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622193000 +0800" stop="20250622210000 +0800">
+    <title lang="zh">劫後清算</title>
+    <desc>梅森戈達是一位風度翩翩的世界頂級大竊賊，他認為自己策劃了一樁完美的數百萬汽車搶案，現在終於能夠退休，然後在熱帶島嶼上釣魚度日。然而，他的計劃遭到破壞，他不得不與一位性感的聯調局調查員艾美莉德克鬥智鬥勇，他愛上了這名調查員，但她卻背叛了他</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622210000 +0800" stop="20250622231500 +0800">
+    <title lang="zh">玩命關頭7</title>
+    <desc>唐老大與布萊恩遭到意圖報仇的冷血黑暗行動刺客鎖定，他們唯一的希望是再度坐上駕駛座，取得製作精密的追蹤器原型</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369313" start="20250622231500 +0800" stop="20250623000000 +0800">
+    <title lang="zh">天使營救</title>
+    <desc>2021年美國從阿富汗撤軍後，一群女兵被派回阿富汗去營救一群被綁架的青少年</desc>
+    <date>2025-06-22</date>
   </programme>
 </tv>
