@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250622205331 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250622&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250623102728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250623.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250623&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250622000000 +0800" stop="20250622030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 DIN vs MUR</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 16強 DIN vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622030000 +0800" stop="20250622060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622060000 +0800" stop="20250622090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 球員錦標賽 16強 HIG vs WAK</title>
-    <desc>2024-25司諾克賽季 球員錦標賽 16強 HIG vs WAK</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622090000 +0800" stop="20250622120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622120000 +0800" stop="20250622150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 DIN vs MUR</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 16強 DIN vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622150000 +0800" stop="20250622180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622180000 +0800" stop="20250622210000 +0800">
-    <title lang="zh">2024-25司諾克賽季 球員錦標賽 8強 WIL vs WILL</title>
-    <desc>2024-25司諾克賽季 球員錦標賽 8強 WIL vs WILL</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622210000 +0800" stop="20250622223000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369235" start="20250622223000 +0800" stop="20250623000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 16強 CAR vs SAE</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 16強 CAR vs SAE</desc>
-    <date>2025-06-22</date>
-  </programme>
   <programme channel="369235" start="20250623000000 +0800" stop="20250623030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 8強 MUR vs HAW</title>
     <desc>2024-25司諾克賽季 英國錦標賽 8強 MUR vs HAW</desc>
@@ -109,9 +64,69 @@
     <desc>2024-25司諾克賽季 蘇格蘭公開賽 8強 WAK vs WU</desc>
     <date>2025-06-23</date>
   </programme>
-  <programme channel="369235" start="20250624000000 +0800" stop="20250625000000 +0800">
+  <programme channel="369235" start="20250624000000 +0800" stop="20250624030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 WIL vs WAK</title>
     <desc>2024-25司諾克賽季 英國錦標賽 16強 WIL vs WAK</desc>
     <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624030000 +0800" stop="20250624043000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624043000 +0800" stop="20250624060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624060000 +0800" stop="20250624090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 球員錦標賽 8強 SEL vs ROB</title>
+    <desc>2024-25司諾克賽季 球員錦標賽 8強 SEL vs ROB</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624090000 +0800" stop="20250624103000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624103000 +0800" stop="20250624120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624120000 +0800" stop="20250624150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 WIL vs WAK</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 16強 WIL vs WAK</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624150000 +0800" stop="20250624163000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HAW vs URS</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624163000 +0800" stop="20250624180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 HIG vs BUR</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624180000 +0800" stop="20250624210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 球員錦標賽 8強 HIG vs XIA</title>
+    <desc>2024-25司諾克賽季 球員錦標賽 8強 HIG vs XIA</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624210000 +0800" stop="20250624223000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 MUR vs WEL</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 MUR vs WEL</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250624223000 +0800" stop="20250625000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs FAN</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 第一輪 ROB vs FAN</desc>
+    <date>2025-06-24</date>
+  </programme>
+  <programme channel="369235" start="20250625000000 +0800" stop="20250626000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 16強 GAR vs LIS</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 16強 GAR vs LIS</desc>
+    <date>2025-06-25</date>
   </programme>
 </tv>
