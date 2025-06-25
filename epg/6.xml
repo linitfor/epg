@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250624205910 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369243/20250624.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369243&amp;date=20250624&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250625102002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369243/20250625.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369243&amp;date=20250625&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369243">
     <display-name lang="Taiwan">三立新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151619271178_97.png" />
   </channel>
-  <programme channel="369243" start="20250624000000 +0800" stop="20250624005500 +0800">
-    <title lang="zh">新聞夜現場</title>
-    <desc>新聞夜現場</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624005500 +0800" stop="20250624015000 +0800">
-    <title lang="zh">新台灣加油</title>
-    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624015000 +0800" stop="20250624025500 +0800">
-    <title lang="zh">新台灣加油</title>
-    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624025500 +0800" stop="20250624034700 +0800">
-    <title lang="zh">新聞夜現場</title>
-    <desc>新聞夜現場</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624034700 +0800" stop="20250624044400 +0800">
-    <title lang="zh">新台派上線</title>
-    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624044400 +0800" stop="20250624055500 +0800">
-    <title lang="zh">新台派上線</title>
-    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624055500 +0800" stop="20250624070000 +0800">
-    <title lang="zh">早安新鮮聞</title>
-    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624070000 +0800" stop="20250624080000 +0800">
-    <title lang="zh">早安新鮮聞</title>
-    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624080000 +0800" stop="20250624090000 +0800">
-    <title lang="zh">早安新鮮聞</title>
-    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624090000 +0800" stop="20250624100000 +0800">
-    <title lang="zh">整點新聞</title>
-    <desc>整點新聞播報。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624100000 +0800" stop="20250624110000 +0800">
-    <title lang="zh">整點新聞</title>
-    <desc>整點新聞播報。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624110000 +0800" stop="20250624114000 +0800">
-    <title lang="zh">整點新聞</title>
-    <desc>整點新聞播報。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624114000 +0800" stop="20250624130000 +0800">
-    <title lang="zh">正午新聞</title>
-    <desc>正午新聞帶給您最新的國內外大事，掌握天下。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624130000 +0800" stop="20250624140000 +0800">
-    <title lang="zh">正午新聞</title>
-    <desc>正午新聞帶給您最新的國內外大事，掌握天下。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624140000 +0800" stop="20250624150000 +0800">
-    <title lang="zh">前進新台灣</title>
-    <desc>為您監督政府、打擊不公。秉持媒體人追求真相、法律人遵從公平正義的精神，挖掘內幕剖析新聞，新時代新台灣需要前進的動力</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624150000 +0800" stop="20250624160000 +0800">
-    <title lang="zh">前進新台灣</title>
-    <desc>為您監督政府、打擊不公。秉持媒體人追求真相、法律人遵從公平正義的精神，挖掘內幕剖析新聞，新時代新台灣需要前進的動力</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624160000 +0800" stop="20250624170000 +0800">
-    <title lang="zh">國際特快車</title>
-    <desc>國際特快車</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624170000 +0800" stop="20250624174000 +0800">
-    <title lang="zh">三立新聞網</title>
-    <desc>三立新聞網將帶給觀眾專業的新聞報導</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624174000 +0800" stop="20250624195500 +0800">
-    <title lang="zh">台灣大頭條</title>
-    <desc>由三立專業主播，為大家播報新聞，豐富的新聞經歷，將會帶給觀眾，更多元化的新聞報導。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624195500 +0800" stop="20250624205000 +0800">
-    <title lang="zh">新台灣加油</title>
-    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624205000 +0800" stop="20250624215500 +0800">
-    <title lang="zh">新台灣加油</title>
-    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624215500 +0800" stop="20250624225200 +0800">
-    <title lang="zh">新台派上線</title>
-    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
-    <date>2025-06-24</date>
-  </programme>
-  <programme channel="369243" start="20250624225200 +0800" stop="20250625000000 +0800">
-    <title lang="zh">新台派上線</title>
-    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
-    <date>2025-06-24</date>
-  </programme>
   <programme channel="369243" start="20250625000000 +0800" stop="20250625005500 +0800">
     <title lang="zh">新聞夜現場</title>
     <desc>新聞夜現場</desc>
@@ -234,9 +119,124 @@
     <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
     <date>2025-06-25</date>
   </programme>
-  <programme channel="369243" start="20250626000000 +0800" stop="20250627000000 +0800">
+  <programme channel="369243" start="20250626000000 +0800" stop="20250626005500 +0800">
     <title lang="zh">新聞夜現場</title>
     <desc>新聞夜現場</desc>
     <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626005500 +0800" stop="20250626015000 +0800">
+    <title lang="zh">新台灣加油</title>
+    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626015000 +0800" stop="20250626025500 +0800">
+    <title lang="zh">新台灣加油</title>
+    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626025500 +0800" stop="20250626034700 +0800">
+    <title lang="zh">新聞夜現場</title>
+    <desc>新聞夜現場</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626034700 +0800" stop="20250626044400 +0800">
+    <title lang="zh">新台派上線</title>
+    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626044400 +0800" stop="20250626055500 +0800">
+    <title lang="zh">新台派上線</title>
+    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626055500 +0800" stop="20250626070000 +0800">
+    <title lang="zh">早安新鮮聞</title>
+    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626070000 +0800" stop="20250626080000 +0800">
+    <title lang="zh">早安新鮮聞</title>
+    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626080000 +0800" stop="20250626090000 +0800">
+    <title lang="zh">早安新鮮聞</title>
+    <desc>早安新鮮聞內容包含由股市盤前解析專家「總幹事」黃國華主講的「一定賺大錢」以及當天的各大報新聞重點，想要在最短時間內掌握各項消息嗎？敬請按時鎖定。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626090000 +0800" stop="20250626100000 +0800">
+    <title lang="zh">整點新聞</title>
+    <desc>整點新聞播報。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626100000 +0800" stop="20250626110000 +0800">
+    <title lang="zh">整點新聞</title>
+    <desc>整點新聞播報。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626110000 +0800" stop="20250626114000 +0800">
+    <title lang="zh">整點新聞</title>
+    <desc>整點新聞播報。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626114000 +0800" stop="20250626130000 +0800">
+    <title lang="zh">正午新聞</title>
+    <desc>正午新聞帶給您最新的國內外大事，掌握天下。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626130000 +0800" stop="20250626140000 +0800">
+    <title lang="zh">正午新聞</title>
+    <desc>正午新聞帶給您最新的國內外大事，掌握天下。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626140000 +0800" stop="20250626150000 +0800">
+    <title lang="zh">前進新台灣</title>
+    <desc>為您監督政府、打擊不公。秉持媒體人追求真相、法律人遵從公平正義的精神，挖掘內幕剖析新聞，新時代新台灣需要前進的動力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626150000 +0800" stop="20250626160000 +0800">
+    <title lang="zh">前進新台灣</title>
+    <desc>為您監督政府、打擊不公。秉持媒體人追求真相、法律人遵從公平正義的精神，挖掘內幕剖析新聞，新時代新台灣需要前進的動力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626160000 +0800" stop="20250626170000 +0800">
+    <title lang="zh">國際特快車</title>
+    <desc>國際特快車</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626170000 +0800" stop="20250626174000 +0800">
+    <title lang="zh">三立新聞網</title>
+    <desc>三立新聞網將帶給觀眾專業的新聞報導</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626174000 +0800" stop="20250626195500 +0800">
+    <title lang="zh">台灣大頭條</title>
+    <desc>由三立專業主播，為大家播報新聞，豐富的新聞經歷，將會帶給觀眾，更多元化的新聞報導。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626195500 +0800" stop="20250626205000 +0800">
+    <title lang="zh">新台灣加油</title>
+    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626205000 +0800" stop="20250626215500 +0800">
+    <title lang="zh">新台灣加油</title>
+    <desc>談話性政論節目，邀請六位來賓一同參予討論。每週一到週日帶給您不同的論點與想法，請千萬不要錯過。</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626215500 +0800" stop="20250626225200 +0800">
+    <title lang="zh">新台派上線</title>
+    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250626225200 +0800" stop="20250627000000 +0800">
+    <title lang="zh">新台派上線</title>
+    <desc>《新台派上線》，來賓陣容將邀請包括指標重量級人物、各界意見領袖，新世代的政治評論員，加入節目討論，希望綜合各年齡層的觀點，發揮更大的公共影響力</desc>
+    <date>2025-06-26</date>
+  </programme>
+  <programme channel="369243" start="20250627000000 +0800" stop="20250628000000 +0800">
+    <title lang="zh">新聞夜現場</title>
+    <desc>新聞夜現場</desc>
+    <date>2025-06-27</date>
   </programme>
 </tv>
