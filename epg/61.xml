@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250625210017 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369264/20250625.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369264&amp;date=20250625&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250626101937 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369264/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369264&amp;date=20250626&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369264">
     <display-name lang="Taiwan">HBO</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151927515270_35.png" />
   </channel>
-  <programme channel="369264" start="20250625005000 +0800" stop="20250625023500 +0800">
-    <title lang="zh">布穀鳥</title>
-    <desc>在和父親跟繼母前往德國阿爾卑斯山旅遊途中，葛瑞琴發現他們落腳的度假小鎮藏著邪惡秘密</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625023500 +0800" stop="20250625041500 +0800">
-    <title lang="zh">祝你有個甜美的夢</title>
-    <desc>被迫參加戒酒計畫的莫里斯同意擔任教練，指導一支由戒癮人士組成的異類壘球隊，想證明不論過去如何，人人都能敲出全壘打</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625041500 +0800" stop="20250625061000 +0800">
-    <title lang="zh">潘恩-航向夢幻島</title>
-    <desc>孤兒彼得被帶往神奇的夢幻島，在這裡他找到樂趣也遭受危險，最後發現自己真正的命運-成為世人所熟知的英雄彼得潘</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625061000 +0800" stop="20250625082000 +0800">
-    <title lang="zh">夢幻女郎</title>
-    <desc>本片改編曾獲多項東尼獎的經典百老匯歌舞劇,並由碧昂絲主演,本片並獲得金球獎三項大獎以及奧斯卡8項提名.這是一齣理想和現實、愛情與背叛、成名和犧牲交織的歌舞鉅片</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625082000 +0800" stop="20250625101500 +0800">
-    <title lang="zh">真愛旅程</title>
-    <desc>李奧納多,凱特溫斯蕾與凱西貝茲主演.法蘭克是個規律工作、失去夢想的丈夫，而艾波成了鬱鬱寡歡的主婦，渴望為生活創造熱情。正如和其他無數美國家庭一樣，他們倆最終和夢想背道而馳。</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625101500 +0800" stop="20250625121000 +0800">
-    <title lang="zh">歌喉讚</title>
-    <desc>這是一部歡鬧的喜劇，叛逆的女大生意外地變成學校女子合唱團的秘密武器。</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625121000 +0800" stop="20250625134500 +0800">
-    <title lang="zh">醉後大丈夫</title>
-    <desc>最好的兄弟要結婚了，一群麻吉決定到拉斯維加斯共度最後的瘋狂單身週末，玩個天翻地覆</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625134500 +0800" stop="20250625152000 +0800">
-    <title lang="zh">辣妹過招</title>
-    <desc>新入學的凱蒂海倫加入了學校社交食物鏈中最頂端，以陰險的人氣女王蕾吉娜喬治為首的「塑料姊妹」。在與學校的邊緣人聯手策畫要讓蕾吉娜下台後，凱蒂得學會如何不忘初衷，並設法在高中校園這個最殘酷的叢林中生存。</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625152000 +0800" stop="20250625165000 +0800">
-    <title lang="zh">樂一通大顯身手</title>
-    <desc>布蘭登費雪、珍娜艾芙曼和史提夫馬丁聯合演出，熱鬧的卡通冒險之旅與現實生活激盪出精采的火花…</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625165000 +0800" stop="20250625182000 +0800">
-    <title lang="zh">蟹群大比拼-濱海步道之戰</title>
-    <desc>這是一部以澤西休爾為背景的音樂劇，講述海蟹遊客與陸蟹本地居民之間的衝突</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625182000 +0800" stop="20250625200000 +0800">
-    <title lang="zh">尋找新樂園</title>
-    <desc>本片是J.M巴利的半自傳電影，內容描述他如何得到啟發，寫下經典童書彼得潘</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625200000 +0800" stop="20250625220000 +0800">
-    <title lang="zh">歌喉讚2</title>
-    <desc>發生了傳遍全國的醜聞後，巴頓大學的美麗女聲必須冷靜下來，重拾力量以贏得阿卡貝拉的世界錦標賽</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625220000 +0800" stop="20250625223500 +0800">
-    <title lang="zh">天后與草莓第3季:8</title>
-    <desc>隨著黛博拉的新作大受好評，受到電視網和串流平台爭相競逐，卻解僱了艾娃後，時間快轉了一年。黛博拉持續活躍於喜劇圈，而艾娃則在洛杉磯追尋新的機會，分道揚鑣的兩人是否會重聚呢？</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625223500 +0800" stop="20250625231500 +0800">
-    <title lang="zh">天后與草莓第3季:9</title>
-    <desc>隨著黛博拉的新作大受好評，受到電視網和串流平台爭相競逐，卻解僱了艾娃後，時間快轉了一年。黛博拉持續活躍於喜劇圈，而艾娃則在洛杉磯追尋新的機會，分道揚鑣的兩人是否會重聚呢？</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369264" start="20250625231500 +0800" stop="20250626000000 +0800">
-    <title lang="zh">鍍金年代第3季:1</title>
-    <desc>年輕的瑪麗安布魯克從賓州鄉下搬到紐約繼承大量遺產的姑姑家，並不經意地被捲入了姑姑與富豪鄰居的鍍金年代社交爭鬥中</desc>
-    <date>2025-06-25</date>
-  </programme>
   <programme channel="369264" start="20250626001500 +0800" stop="20250626033000 +0800">
     <title lang="zh">粗獷派建築師</title>
     <desc>本片講述匈牙利裔猶太建築師拉斯洛托特從大屠殺中倖存下來之後的故事</desc>
@@ -143,5 +68,70 @@
     <title lang="zh">畫聖</title>
     <desc>一位過去的神秘舊識現身，讓現在改當畫家的前中情局幹員不得不重返危險的生活。如今身份暴露且被殺手和秘密軍事行動小組的他，得仰賴自己以為早已生疏的技能來度過這場驚險難關</desc>
     <date>2025-06-26</date>
+  </programme>
+  <programme channel="369264" start="20250627012000 +0800" stop="20250627025000 +0800">
+    <title lang="zh">生靈勿進</title>
+    <desc>凱西發現一個源自於納粹時代的詛咒，這種可怕惡靈會寄生在任何事物身上，而且越發強壯。當詛咒開始發揮魔力時，凱西必須設法關上一道屬於過去的大門</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627025000 +0800" stop="20250627044500 +0800">
+    <title lang="zh">舞力麥克-尺度極限XXL</title>
+    <desc>麥克從脫衣舞男事業退休的三年之後，大夥為了在脫衣舞男大會做最後一次的精彩表演而再度相聚</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627044500 +0800" stop="20250627061500 +0800">
+    <title lang="zh">辛巴達七海傳奇</title>
+    <desc>傳奇水手辛巴達再度出航了，這次他將在動畫電影中展開旅程，而且為他幕後獻聲的是好萊塢最性感的男星布萊德彼特。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627061500 +0800" stop="20250627064500 +0800">
+    <title lang="zh">好萊塢好好看第1季:1123</title>
+    <desc>本節目每週深入幕後與片場，介紹三部強檔電影的製作過程，內含動作片段與演員及製作人的採訪</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627064500 +0800" stop="20250627082500 +0800">
+    <title lang="zh">神偷奶爸2</title>
+    <desc>一連串驚人的邪惡罪案讓退休的超級惡棍格魯再度現身追查幕後主使者。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627082500 +0800" stop="20250627104000 +0800">
+    <title lang="zh">駭速快手</title>
+    <desc>羅耶頓企業的老闆想網羅「快手」成為旗下車手，卻遭到「快手」因堅持家族使命而斷然拒絕。惱羞成怒的羅耶頓決定傾其全力打壓「快手」的參賽，這也讓快手抱著誓死的決心，拯救家族企業和賽車運動的精神。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627104000 +0800" stop="20250627132000 +0800">
+    <title lang="zh">特洛伊-木馬屠城</title>
+    <desc>金球獎得主布萊德彼特、艾瑞克巴納與奧蘭多布魯，在特洛伊戰爭中勇敢追求不朽的名聲，期望世人永遠稱頌其光榮事蹟。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627132000 +0800" stop="20250627152500 +0800">
+    <title lang="zh">龍捲風暴</title>
+    <desc>凱特庫柏、泰勒歐文斯和競爭對手在奧克拉荷馬州中心碰上了多重風暴匯聚而成的龍捲風系統，並因此面臨生死關頭</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627152500 +0800" stop="20250627172000 +0800">
+    <title lang="zh">媽媽咪呀！回來了</title>
+    <desc>《媽媽咪呀！》(2008)故事結束的五年後，蘇菲正在為貝拉唐娜飯店的盛大開幕活動做準備，同時得知母親的過去</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627172000 +0800" stop="20250627193000 +0800">
+    <title lang="zh">沙贊!</title>
+    <desc>一名男孩在古老巫師的應允下，得以變身擁有超能力的成人版自己。但他必須盡快學會控制這些能力以對抗致命的邪惡力量。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627193000 +0800" stop="20250627210000 +0800">
+    <title lang="zh">劫後清算</title>
+    <desc>梅森戈達是一位風度翩翩的世界頂級大竊賊，他認為自己策劃了一樁完美的數百萬汽車搶案，現在終於能夠退休，然後在熱帶島嶼上釣魚度日。然而，他的計劃遭到破壞，他不得不與一位性感的聯調局調查員艾美莉德克鬥智鬥勇，他愛上了這名調查員，但她卻背叛了他</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627210000 +0800" stop="20250627230000 +0800">
+    <title lang="zh">水行俠失落王國</title>
+    <desc>黑蝠?首次面對水行俠時敗下陣來，但仍想為父親的死報仇的他將不計代價一舉擊潰水行俠。</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369264" start="20250627230000 +0800" stop="20250628000000 +0800">
+    <title lang="zh">天使營救</title>
+    <desc>2021年美國從阿富汗撤軍後，一群女兵被派回阿富汗去營救一群被綁架的青少年</desc>
+    <date>2025-06-27</date>
   </programme>
 </tv>

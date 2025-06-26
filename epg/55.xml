@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250625210015 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250625.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250625&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250626101934 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250626&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250625013000 +0800" stop="20250625023000 +0800">
-    <title lang="zh">2025法網第7天精華</title>
-    <desc>2025法網第7天精華</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625023000 +0800" stop="20250625050000 +0800">
-    <title lang="zh">2025羅馬大師賽八強HURvsPAU</title>
-    <desc>2025羅馬大師賽八強HURvsPAU</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625050000 +0800" stop="20250625073000 +0800">
-    <title lang="zh">2025馬德里大師賽四強DRAvsMUS</title>
-    <desc>2025馬德里大師賽四強DRAvsMUS</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625073000 +0800" stop="20250625110000 +0800">
-    <title lang="zh">2025法國網球公開賽十六強SHEvsALC</title>
-    <desc>2025法國網球公開賽十六強SHEvsALC</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625110000 +0800" stop="20250625120000 +0800">
-    <title lang="zh">2025法網第8天精華</title>
-    <desc>2025法網第8天精華</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625120000 +0800" stop="20250625173000 +0800">
-    <title lang="zh">首播2025哈雷男網賽第一天</title>
-    <desc>首播2025哈雷男網賽第一天</desc>
-    <date>2025-06-25</date>
-  </programme>
-  <programme channel="369216" start="20250625173000 +0800" stop="20250626000000 +0800">
-    <title lang="zh">LIVE2025哈雷男網賽第二天</title>
-    <desc>LIVE2025哈雷男網賽第二天</desc>
-    <date>2025-06-25</date>
-  </programme>
   <programme channel="369216" start="20250626013000 +0800" stop="20250626020000 +0800">
     <title lang="zh">網球雜誌</title>
     <desc>網球雜誌</desc>
@@ -73,5 +38,45 @@
     <title lang="zh">LIVE2025哈雷男網賽第三天</title>
     <desc>LIVE2025哈雷男網賽第三天</desc>
     <date>2025-06-26</date>
+  </programme>
+  <programme channel="369216" start="20250627013000 +0800" stop="20250627033000 +0800">
+    <title lang="zh">2025羅馬大師賽四強SINvsPAU</title>
+    <desc>2025羅馬大師賽四強SINvsPAU</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627033000 +0800" stop="20250627053000 +0800">
+    <title lang="zh">2025漢堡男網賽八強COBvsAGU</title>
+    <desc>2025漢堡男網賽八強COBvsAGU</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627053000 +0800" stop="20250627073000 +0800">
+    <title lang="zh">2025斯圖加特男網賽八強</title>
+    <desc>2025斯圖加特男網賽八強</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627073000 +0800" stop="20250627080000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627080000 +0800" stop="20250627100000 +0800">
+    <title lang="zh">2025羅馬大師賽四強SINvsPAU</title>
+    <desc>2025羅馬大師賽四強SINvsPAU</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627100000 +0800" stop="20250627120000 +0800">
+    <title lang="zh">2025法國網球公開賽女單八強SVIvsSWI</title>
+    <desc>2025法國網球公開賽女單八強SVIvsSWI</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627120000 +0800" stop="20250627173000 +0800">
+    <title lang="zh">首播2025哈雷男網賽第三天</title>
+    <desc>首播2025哈雷男網賽第三天</desc>
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="369216" start="20250627173000 +0800" stop="20250628000000 +0800">
+    <title lang="zh">LIVE2025哈雷男網賽十六強</title>
+    <desc>LIVE2025哈雷男網賽十六強</desc>
+    <date>2025-06-27</date>
   </programme>
 </tv>
