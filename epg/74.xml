@@ -1,121 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250626205931 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250626&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250627102031 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250627.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250627&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250626000000 +0800" stop="20250626003000 +0800">
-    <title lang="zh">體壇最前線 6/25 (新)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626003000 +0800" stop="20250626030000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 富邦 6/25 (原4/25延賽)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626030000 +0800" stop="20250626051500 +0800">
-    <title lang="zh">BWF 印尼公開賽 四強(下) 周天成 6/7(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626051500 +0800" stop="20250626053000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#22(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626053000 +0800" stop="20250626060000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 富邦 6/25 (原4/25延賽)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626060000 +0800" stop="20250626075000 +0800">
-    <title lang="zh">2025鑽石聯賽 法國巴黎站(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626075000 +0800" stop="20250626080000 +0800">
-    <title lang="zh">LIVE 2025 NBA 年度選秀會 6/26 第一輪(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626080000 +0800" stop="20250626110000 +0800">
-    <title lang="zh">LIVE 2025 NBA 年度選秀會 6/27 第二輪(原音)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626110000 +0800" stop="20250626113000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#5 徐承宰/蔡侑玎特集(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626113000 +0800" stop="20250626120000 +0800">
-    <title lang="zh">體壇最前線 6/25(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626120000 +0800" stop="20250626121500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#22 (新)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626121500 +0800" stop="20250626123000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#21 印尼公開賽回顧(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626123000 +0800" stop="20250626140000 +0800">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 單打決賽 6/22(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626140000 +0800" stop="20250626153000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 富邦 6/25 (原4/25延賽)(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626153000 +0800" stop="20250626163000 +0800">
-    <title lang="zh">法網 第14日 女單決賽 Sabalenka對Gauff(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626163000 +0800" stop="20250626180000 +0800">
-    <title lang="zh">法網 第10日 男單第四輪 Bublik對Draper(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626180000 +0800" stop="20250626183000 +0800">
-    <title lang="zh">MLB 道奇 VS 洛磯 例行賽 6/27(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626183000 +0800" stop="20250626203000 +0800">
-    <title lang="zh">法網 第8日 女單第四輪 Rybakina對Swiatek(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626203000 +0800" stop="20250626213000 +0800">
-    <title lang="zh">桌球世錦賽 男雙八強 高承睿/林昀儒VS林高遠/林詩棟 5/22(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626213000 +0800" stop="20250626223000 +0800">
-    <title lang="zh">桌球世錦賽 男雙四強 高承睿/林昀儒VS勒布倫兄弟檔(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="335027" start="20250626223000 +0800" stop="20250627000000 +0800">
-    <title lang="zh">桌球世錦賽 男雙決賽 高承睿/林昀儒VS戶上隼輔篠塚大登(普)</title>
-    <desc />
-    <date>2025-06-26</date>
-  </programme>
   <programme channel="335027" start="20250627000000 +0800" stop="20250627003000 +0800">
-    <title lang="zh">體壇最前線 6/26 (新)(普)</title>
+    <title lang="zh">體壇最前線 6/27 (新)(普)</title>
     <desc />
     <date>2025-06-27</date>
   </programme>
-  <programme channel="335027" start="20250627003000 +0800" stop="20250627024500 +0800">
-    <title lang="zh">法網 第11日 女單八強 Andreeva對Boisson(普)</title>
+  <programme channel="335027" start="20250627003000 +0800" stop="20250627020000 +0800">
+    <title lang="zh">法網 第12日 混雙決賽 6/5(普)</title>
+    <desc />
+    <date>2025-06-27</date>
+  </programme>
+  <programme channel="335027" start="20250627020000 +0800" stop="20250627024500 +0800">
+    <title lang="zh">法網 第15日 女雙決賽(普)</title>
     <desc />
     <date>2025-06-27</date>
   </programme>
@@ -195,7 +95,7 @@
     <date>2025-06-27</date>
   </programme>
   <programme channel="335027" start="20250627140000 +0800" stop="20250627150000 +0800">
-    <title lang="zh">BWF 印尼公開賽 男單決賽 周天成VS安東森 6/8(普)</title>
+    <title lang="zh">BWF 印尼公開賽 男單四強 周天成VS威提訕 6/7(普)</title>
     <desc />
     <date>2025-06-27</date>
   </programme>
@@ -220,7 +120,7 @@
     <date>2025-06-27</date>
   </programme>
   <programme channel="335027" start="20250627183000 +0800" stop="20250627203000 +0800">
-    <title lang="zh">MLB 道奇 VS 洛磯 Kershaw先發 例行賽 6/27(普)</title>
+    <title lang="zh">法網 第13日 男單四強 Sinner對Djokovic(普)</title>
     <desc />
     <date>2025-06-27</date>
   </programme>
@@ -239,8 +139,128 @@
     <desc />
     <date>2025-06-27</date>
   </programme>
-  <programme channel="335027" start="20250628000000 +0800" stop="20250629000000 +0800">
+  <programme channel="335027" start="20250628000000 +0800" stop="20250628003000 +0800">
     <title lang="zh">體壇最前線 6/27 (新)(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628003000 +0800" stop="20250628010000 +0800">
+    <title lang="zh">體壇最前線 6/28 (新)(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628010000 +0800" stop="20250628020000 +0800">
+    <title lang="zh">LIVE BWF 美國公開賽 四強(上) 6/29(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628020000 +0800" stop="20250628030000 +0800">
+    <title lang="zh">法網 第15日 女雙決賽(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628030000 +0800" stop="20250628043000 +0800">
+    <title lang="zh">法網 第12日 混雙決賽 6/5(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628043000 +0800" stop="20250628050000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 味全 6/27 (原6/4延賽)(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628050000 +0800" stop="20250628070000 +0800">
+    <title lang="zh">LIVE BWF 美國公開賽 四強(下) 6/29(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628070000 +0800" stop="20250628074500 +0800">
+    <title lang="zh">BWF 新加坡公開賽 混雙四強 葉宏蔚/詹又蓁 5/31(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628074500 +0800" stop="20250628083000 +0800">
+    <title lang="zh">BWF 新加坡公開賽 男單八強 林俊易VS李卓耀 5/30(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628083000 +0800" stop="20250628090000 +0800">
+    <title lang="zh">BWF 新加坡公開賽 男單四強 林俊易VS威提訕(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628090000 +0800" stop="20250628093000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#6(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628093000 +0800" stop="20250628120000 +0800">
+    <title lang="zh">法網 第13日 男單四強 Sinner對Djokovic(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628120000 +0800" stop="20250628123000 +0800">
+    <title lang="zh">F1 奧地利站 排位賽(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628123000 +0800" stop="20250628132000 +0800">
+    <title lang="zh">BWF 印尼公開賽 男單八強 周天成VS李詩灃 6/6(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628132000 +0800" stop="20250628140000 +0800">
+    <title lang="zh">BWF 美國公開賽 四強回顧(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628140000 +0800" stop="20250628150000 +0800">
+    <title lang="zh">BWF 印尼公開賽 男單四強 周天成VS威提訕 6/7(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628150000 +0800" stop="20250628152000 +0800">
+    <title lang="zh">BWF 印尼公開賽 男單決賽 周天成VS安東森 6/8(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628152000 +0800" stop="20250628155000 +0800">
+    <title lang="zh">體壇最前線 6/28(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628155000 +0800" stop="20250628163000 +0800">
+    <title lang="zh">LIVE F2 奧地利站 正賽(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628163000 +0800" stop="20250628170000 +0800">
+    <title lang="zh">WTT球星挑戰賽 盧比安納站 單打決賽 6/22(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628170000 +0800" stop="20250628183000 +0800">
+    <title lang="zh">法網 第15日 男單決賽 Sinner對Alcaraz(精華版)(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628183000 +0800" stop="20250628190000 +0800">
+    <title lang="zh">法網 第13日 男單四強 Sinner對Djokovic(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628190000 +0800" stop="20250628203000 +0800">
+    <title lang="zh">F1 奧地利站 排位賽(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628203000 +0800" stop="20250628220000 +0800">
+    <title lang="zh">BWF 美國公開賽 四強回顧(普)</title>
+    <desc />
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="335027" start="20250628220000 +0800" stop="20250629000000 +0800">
+    <title lang="zh">法網 第15日 男單決賽 Sinner對Alcaraz(精華版)(普)</title>
     <desc />
     <date>2025-06-28</date>
   </programme>

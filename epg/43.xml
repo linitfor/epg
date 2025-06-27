@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250626205918 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250626&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250627102016 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250627.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250627&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250626030000 +0800" stop="20250626070000 +0800">
-    <title lang="zh">2024溫布頓網球錦標賽第二輪SIN vs BER</title>
-    <desc>2024溫布頓網球錦標賽第二輪SIN vs BER</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626070000 +0800" stop="20250626093000 +0800">
-    <title lang="zh">2025歐冠男排聯賽第四輪 LEG6德國柏林 vs 華沙項目</title>
-    <desc>2025歐冠男排聯賽第四輪 LEG6德國柏林 vs 華沙項目</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626093000 +0800" stop="20250626123000 +0800">
-    <title lang="zh">2025歐冠女排聯賽八強 LEG2費內巴契 vs 瓦基弗銀行</title>
-    <desc>2025歐冠女排聯賽八強 LEG2費內巴契 vs 瓦基弗銀行</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626123000 +0800" stop="20250626153000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第二周中華U18 vs新世紀黃蜂</title>
-    <desc>2025企業女子壘球聯賽第二周中華U18 vs新世紀黃蜂</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626153000 +0800" stop="20250626173000 +0800">
-    <title lang="zh">2025法國網球公開賽第一輪ZVE vs TIE</title>
-    <desc>2025法國網球公開賽第一輪ZVE vs TIE</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626173000 +0800" stop="20250626183000 +0800">
-    <title lang="zh">2025法網第3天精華</title>
-    <desc>2025法網第3天精華</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626183000 +0800" stop="20250626220000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次169富邦悍將vs 台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次169富邦悍將vs 台鋼雄鷹</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369230" start="20250626220000 +0800" stop="20250627000000 +0800">
-    <title lang="zh">LIVE2025倫敦女王草地男網賽十六強</title>
-    <desc>LIVE2025倫敦女王草地男網賽十六強</desc>
-    <date>2025-06-26</date>
-  </programme>
   <programme channel="369230" start="20250627030000 +0800" stop="20250627051500 +0800">
     <title lang="zh">2025歐冠男排聯賽第四輪 LEG6馬賽克 vs 盧布爾雅納</title>
     <desc>2025歐冠男排聯賽第四輪 LEG6馬賽克 vs 盧布爾雅納</desc>
@@ -78,5 +38,40 @@
     <title lang="zh">LIVE2025倫敦女王草地男網賽八強</title>
     <desc>LIVE2025倫敦女王草地男網賽八強</desc>
     <date>2025-06-27</date>
+  </programme>
+  <programme channel="369230" start="20250628030000 +0800" stop="20250628054500 +0800">
+    <title lang="zh">2025歐冠男排聯賽第四輪 LEG6佩魯賈 vs 哈克銀行</title>
+    <desc>2025歐冠男排聯賽第四輪 LEG6佩魯賈 vs 哈克銀行</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250628054500 +0800" stop="20250628073000 +0800">
+    <title lang="zh">2025歐冠女排聯賽八強 LEG2科內利亞諾 vs 波瀾熱舒伏</title>
+    <desc>2025歐冠女排聯賽八強 LEG2科內利亞諾 vs 波瀾熱舒伏</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250628073000 +0800" stop="20250628110000 +0800">
+    <title lang="zh">2025法國網球公開賽第二輪MOU vs DJO</title>
+    <desc>2025法國網球公開賽第二輪MOU vs DJO</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250628110000 +0800" stop="20250628120000 +0800">
+    <title lang="zh">2025法網第5天精華</title>
+    <desc>2025法網第5天精華</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250628120000 +0800" stop="20250628200000 +0800">
+    <title lang="zh">首播2025倫敦女王草地男網賽八強</title>
+    <desc>首播2025倫敦女王草地男網賽八強</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250628200000 +0800" stop="20250629000000 +0800">
+    <title lang="zh">LIVE2025倫敦女王草地男網賽四強</title>
+    <desc>LIVE2025倫敦女王草地男網賽四強</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369230" start="20250629000000 +0800" stop="20250630000000 +0800">
+    <title lang="zh">女壘週報第2集</title>
+    <desc>女壘週報第2集</desc>
+    <date>2025-06-29</date>
   </programme>
 </tv>

@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250626205918 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369217/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369217&amp;date=20250626&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250627102016 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369217/20250627.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369217&amp;date=20250627&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369217">
     <display-name lang="Taiwan">博斯運動二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155111042154_39.jpg" />
   </channel>
-  <programme channel="369217" start="20250626000000 +0800" stop="20250626013000 +0800">
-    <title lang="zh">2024卡達女網賽8強(3)SWIvsAZA</title>
-    <desc>2024卡達女網賽8強(3)SWIvsAZA</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626013000 +0800" stop="20250626033000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</title>
-    <desc>2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626033000 +0800" stop="20250626060000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(1)巴西vs日本</title>
-    <desc>2024國家女排聯賽澳門站(1)巴西vs日本</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626060000 +0800" stop="20250626073000 +0800">
-    <title lang="zh">2024卡達女網賽8強(3)SWIvsAZA</title>
-    <desc>2024卡達女網賽8強(3)SWIvsAZA</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626073000 +0800" stop="20250626093000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</title>
-    <desc>2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626093000 +0800" stop="20250626120000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(1)巴西vs日本</title>
-    <desc>2024國家女排聯賽澳門站(1)巴西vs日本</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626120000 +0800" stop="20250626133000 +0800">
-    <title lang="zh">2024卡達女網賽8強(3)SWIvsAZA</title>
-    <desc>2024卡達女網賽8強(3)SWIvsAZA</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626133000 +0800" stop="20250626153000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</title>
-    <desc>2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626153000 +0800" stop="20250626180000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(1)巴西vs日本</title>
-    <desc>2024國家女排聯賽澳門站(1)巴西vs日本</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626180000 +0800" stop="20250626200000 +0800">
-    <title lang="zh">2024卡達女網賽8強(4)OSAvsPLI</title>
-    <desc>2024卡達女網賽8強(4)OSAvsPLI</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626200000 +0800" stop="20250626220000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開女子組四強台中藍鯨vs新竹Strikers</title>
-    <desc>2025全國總統盃足球錦標賽公開女子組四強台中藍鯨vs新竹Strikers</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="369217" start="20250626220000 +0800" stop="20250627000000 +0800">
-    <title lang="zh">2024國家女排聯賽巴西站(7)美國VS多明尼加</title>
-    <desc>2024國家女排聯賽巴西站(7)美國VS多明尼加</desc>
-    <date>2025-06-26</date>
-  </programme>
   <programme channel="369217" start="20250627000000 +0800" stop="20250627020000 +0800">
     <title lang="zh">2024卡達女網賽8強(4)OSAvsPLI</title>
     <desc>2024卡達女網賽8強(4)OSAvsPLI</desc>
@@ -124,9 +64,64 @@
     <desc>2024國家女排聯賽澳門站(4)巴西vs荷蘭</desc>
     <date>2025-06-27</date>
   </programme>
-  <programme channel="369217" start="20250628000000 +0800" stop="20250629000000 +0800">
+  <programme channel="369217" start="20250628000000 +0800" stop="20250628020000 +0800">
     <title lang="zh">2024卡達女網賽4強(1)RYBvsPAL</title>
     <desc>2024卡達女網賽4強(1)RYBvsPAL</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628020000 +0800" stop="20250628040000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開女子組決賽</title>
+    <desc>2025全國總統盃足球錦標賽公開女子組決賽</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628040000 +0800" stop="20250628060000 +0800">
+    <title lang="zh">2024國家女排聯賽澳門站(4)巴西vs荷蘭</title>
+    <desc>2024國家女排聯賽澳門站(4)巴西vs荷蘭</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628060000 +0800" stop="20250628080000 +0800">
+    <title lang="zh">2024卡達女網賽4強(1)RYBvsPAL</title>
+    <desc>2024卡達女網賽4強(1)RYBvsPAL</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628080000 +0800" stop="20250628100000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開女子組決賽</title>
+    <desc>2025全國總統盃足球錦標賽公開女子組決賽</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628100000 +0800" stop="20250628120000 +0800">
+    <title lang="zh">2024國家女排聯賽澳門站(4)巴西vs荷蘭</title>
+    <desc>2024國家女排聯賽澳門站(4)巴西vs荷蘭</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628120000 +0800" stop="20250628140000 +0800">
+    <title lang="zh">2024卡達女網賽4強(1)RYBvsPAL</title>
+    <desc>2024卡達女網賽4強(1)RYBvsPAL</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628140000 +0800" stop="20250628160000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開女子組決賽</title>
+    <desc>2025全國總統盃足球錦標賽公開女子組決賽</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628160000 +0800" stop="20250628180000 +0800">
+    <title lang="zh">2024國家女排聯賽澳門站(4)巴西vs荷蘭</title>
+    <desc>2024國家女排聯賽澳門站(4)巴西vs荷蘭</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628180000 +0800" stop="20250628210000 +0800">
+    <title lang="zh">2024卡達女網賽決賽SWIvsRYB</title>
+    <desc>2024卡達女網賽決賽SWIvsRYB</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628210000 +0800" stop="20250628230000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</title>
+    <desc>2025全國總統盃足球錦標賽公開女子組四強高雄Attackesvs新北航源FC</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="369217" start="20250628230000 +0800" stop="20250629000000 +0800">
+    <title lang="zh">2024國家女排聯賽澳門站(2)多明尼加vs義大利</title>
+    <desc>2024國家女排聯賽澳門站(2)多明尼加vs義大利</desc>
     <date>2025-06-28</date>
   </programme>
 </tv>
