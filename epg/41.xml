@@ -1,74 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250628205337 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250628.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250628&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250629103038 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250629.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250629&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250628000000 +0800" stop="20250628020000 +0800">
-    <title lang="zh">2023美國公開賽第4天(5)CARvsMIE</title>
-    <desc>2023美國公開賽第4天(5)CARvsMIE</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628020000 +0800" stop="20250628033000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(5)OI vs DEU</title>
-    <desc>2024美國公開賽 第一天 截點(5)OI vs DEU</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628033000 +0800" stop="20250628060000 +0800">
-    <title lang="zh">2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</title>
-    <desc>2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628060000 +0800" stop="20250628080000 +0800">
-    <title lang="zh">2023美國公開賽第4天(5)CARvsMIE</title>
-    <desc>2023美國公開賽第4天(5)CARvsMIE</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628080000 +0800" stop="20250628093000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(5)OI vs DEU</title>
-    <desc>2024美國公開賽 第一天 截點(5)OI vs DEU</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628093000 +0800" stop="20250628100000 +0800">
-    <title lang="zh">電玩宅速配</title>
-    <desc>電玩宅速配</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628100000 +0800" stop="20250628123000 +0800">
-    <title lang="zh">2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</title>
-    <desc>2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628123000 +0800" stop="20250628143000 +0800">
-    <title lang="zh">2023美國公開賽第4天(5)CARvsMIE</title>
-    <desc>2023美國公開賽第4天(5)CARvsMIE</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628143000 +0800" stop="20250628160000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(5)OI vs DEU</title>
-    <desc>2024美國公開賽 第一天 截點(5)OI vs DEU</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628160000 +0800" stop="20250628180000 +0800">
-    <title lang="zh">2023美國公開賽第4天(5)CARvsMIE</title>
-    <desc>2023美國公開賽第4天(5)CARvsMIE</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628180000 +0800" stop="20250628200000 +0800">
-    <title lang="zh">2023美國公開賽第4天(5)CARvsMIE</title>
-    <desc>2023美國公開賽第4天(5)CARvsMIE</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628200000 +0800" stop="20250628213000 +0800">
-    <title lang="zh">2024美國公開賽 第一天 截點(5)OI vs DEU</title>
-    <desc>2024美國公開賽 第一天 截點(5)OI vs DEU</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369229" start="20250628213000 +0800" stop="20250629000000 +0800">
-    <title lang="zh">2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</title>
-    <desc>2022-23司諾克賽季 球員錦標賽 4強 CAR vs O'CON</desc>
-    <date>2025-06-28</date>
-  </programme>
   <programme channel="369229" start="20250629000000 +0800" stop="20250629013000 +0800">
     <title lang="zh">2023美國公開賽16強(1)FEDvsCAR</title>
     <desc>2023美國公開賽16強(1)FEDvsCAR</desc>
@@ -139,9 +74,89 @@
     <desc>2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</desc>
     <date>2025-06-29</date>
   </programme>
-  <programme channel="369229" start="20250630000000 +0800" stop="20250701000000 +0800">
+  <programme channel="369229" start="20250630000000 +0800" stop="20250630010000 +0800">
     <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
     <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
     <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630010000 +0800" stop="20250630020000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
+    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630020000 +0800" stop="20250630033000 +0800">
+    <title lang="zh">2024美國公開賽 第三天 截點(2)BOE vs MAJ</title>
+    <desc>2024美國公開賽 第三天 截點(2)BOE vs MAJ</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630033000 +0800" stop="20250630060000 +0800">
+    <title lang="zh">2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</title>
+    <desc>2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630060000 +0800" stop="20250630070000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
+    <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630070000 +0800" stop="20250630080000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
+    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630080000 +0800" stop="20250630093000 +0800">
+    <title lang="zh">2024美國公開賽 第三天 截點(2)BOE vs MAJ</title>
+    <desc>2024美國公開賽 第三天 截點(2)BOE vs MAJ</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630093000 +0800" stop="20250630120000 +0800">
+    <title lang="zh">2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</title>
+    <desc>2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630120000 +0800" stop="20250630130000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(1)EURvsUSA</title>
+    <desc>2023莫斯考尼盃第1天(1)EURvsUSA</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630130000 +0800" stop="20250630140000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(2)SHAvsVAN</title>
+    <desc>2023莫斯考尼盃第1天(2)SHAvsVAN</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630140000 +0800" stop="20250630153000 +0800">
+    <title lang="zh">2024美國公開賽 第三天 截點(2)BOE vs MAJ</title>
+    <desc>2024美國公開賽 第三天 截點(2)BOE vs MAJ</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630153000 +0800" stop="20250630180000 +0800">
+    <title lang="zh">2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</title>
+    <desc>2022-23司諾克賽季 司諾克大師賽 16強 ALL vs HAW</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630180000 +0800" stop="20250630190000 +0800">
+    <title lang="zh">2023莫斯考尼盃第1天(4)ALCvsWOL</title>
+    <desc>2023莫斯考尼盃第1天(4)ALCvsWOL</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630190000 +0800" stop="20250630200000 +0800">
+    <title lang="zh">2023莫斯考尼盃第2天(1)JOSvsFED</title>
+    <desc>2023莫斯考尼盃第2天(1)JOSvsFED</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630200000 +0800" stop="20250630220000 +0800">
+    <title lang="zh">2024美國公開賽 第三天 截點(3)BIA vs MEL</title>
+    <desc>2024美國公開賽 第三天 截點(3)BIA vs MEL</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250630220000 +0800" stop="20250701000000 +0800">
+    <title lang="zh">2022-23司諾克賽季 司諾克大師賽 16強 TRU vs DAY</title>
+    <desc>2022-23司諾克賽季 司諾克大師賽 16強 TRU vs DAY</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369229" start="20250701000000 +0800" stop="20250702000000 +0800">
+    <title lang="zh">2023美國公開賽16強(2)JAYvsSKY</title>
+    <desc>2023美國公開賽16強(2)JAYvsSKY</desc>
+    <date>2025-07-01</date>
   </programme>
 </tv>

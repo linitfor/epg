@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250628205343 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250628.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250628&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250629103044 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250629.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250629&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250628013000 +0800" stop="20250628040000 +0800">
-    <title lang="zh">2025羅馬大師賽四強ALCvsMUS</title>
-    <desc>2025羅馬大師賽四強ALCvsMUS</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369216" start="20250628040000 +0800" stop="20250628043000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369216" start="20250628043000 +0800" stop="20250628080000 +0800">
-    <title lang="zh">2025漢堡男網賽八強MULvsALI</title>
-    <desc>2025漢堡男網賽八強MULvsALI</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369216" start="20250628080000 +0800" stop="20250628120000 +0800">
-    <title lang="zh">2025法國網球公開賽八強ZVEvsDJO</title>
-    <desc>2025法國網球公開賽八強ZVEvsDJO</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369216" start="20250628120000 +0800" stop="20250628173000 +0800">
-    <title lang="zh">首播2025哈雷男網賽十六強</title>
-    <desc>首播2025哈雷男網賽十六強</desc>
-    <date>2025-06-28</date>
-  </programme>
-  <programme channel="369216" start="20250628173000 +0800" stop="20250629000000 +0800">
-    <title lang="zh">LIVE2025哈雷男網賽八強</title>
-    <desc>LIVE2025哈雷男網賽八強</desc>
-    <date>2025-06-28</date>
-  </programme>
   <programme channel="369216" start="20250629013000 +0800" stop="20250629040000 +0800">
     <title lang="zh">2025羅馬大師賽決賽SINvsALC</title>
     <desc>2025羅馬大師賽決賽SINvsALC</desc>
@@ -78,5 +48,55 @@
     <title lang="zh">2025斯圖加特男網賽決賽ZVEvsFRI</title>
     <desc>2025斯圖加特男網賽決賽ZVEvsFRI</desc>
     <date>2025-06-29</date>
+  </programme>
+  <programme channel="369216" start="20250630010000 +0800" stop="20250630030000 +0800">
+    <title lang="zh">2025倫敦女王草地男網賽決賽</title>
+    <desc>2025倫敦女王草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630030000 +0800" stop="20250630050000 +0800">
+    <title lang="zh">2025哈雷草地男網賽決賽</title>
+    <desc>2025哈雷草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630050000 +0800" stop="20250630070000 +0800">
+    <title lang="zh">2025斯圖加特男網賽決賽ZVEvsFRI</title>
+    <desc>2025斯圖加特男網賽決賽ZVEvsFRI</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630070000 +0800" stop="20250630090000 +0800">
+    <title lang="zh">2025倫敦女王草地男網賽決賽</title>
+    <desc>2025倫敦女王草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630090000 +0800" stop="20250630110000 +0800">
+    <title lang="zh">2025哈雷草地男網賽決賽</title>
+    <desc>2025哈雷草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630110000 +0800" stop="20250630130000 +0800">
+    <title lang="zh">2025斯圖加特男網賽決賽ZVEvsFRI</title>
+    <desc>2025斯圖加特男網賽決賽ZVEvsFRI</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630130000 +0800" stop="20250630150000 +0800">
+    <title lang="zh">2025倫敦女王草地男網賽決賽</title>
+    <desc>2025倫敦女王草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630150000 +0800" stop="20250630170000 +0800">
+    <title lang="zh">2025哈雷草地男網賽決賽</title>
+    <desc>2025哈雷草地男網賽決賽</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630170000 +0800" stop="20250630180000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽PREVIEWSHOW</title>
+    <desc>2025溫布頓網球錦標賽PREVIEWSHOW</desc>
+    <date>2025-06-30</date>
+  </programme>
+  <programme channel="369216" start="20250630180000 +0800" stop="20250701000000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY1第一輪</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY1第一輪</desc>
+    <date>2025-06-30</date>
   </programme>
 </tv>
