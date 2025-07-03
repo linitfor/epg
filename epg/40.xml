@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250702205924 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250702&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250703102013 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250703.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250703&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250702000000 +0800" stop="20250702030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 4強 ALL vs HAW</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 4強 ALL vs HAW</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702030000 +0800" stop="20250702060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702060000 +0800" stop="20250702090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第07組 DIN vs XU</title>
-    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第07組 DIN vs XU</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702090000 +0800" stop="20250702120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702120000 +0800" stop="20250702150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英國錦標賽 4強 ALL vs HAW</title>
-    <desc>2024-25司諾克賽季 英國錦標賽 4強 ALL vs HAW</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702150000 +0800" stop="20250702180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 8強 BRE vs XIA</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702180000 +0800" stop="20250702210000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第08組 SI vs VAF</title>
-    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第08組 SI vs VAF</desc>
-    <date>2025-07-02</date>
-  </programme>
-  <programme channel="369235" start="20250702210000 +0800" stop="20250703000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 4強 ALL vs LEI</title>
-    <desc>2024-25司諾克賽季 蘇格蘭公開賽 4強 ALL vs LEI</desc>
-    <date>2025-07-02</date>
-  </programme>
   <programme channel="369235" start="20250703000000 +0800" stop="20250703030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 4強 TRU vs WIL</title>
     <desc>2024-25司諾克賽季 英國錦標賽 4強 TRU vs WIL</desc>
@@ -89,9 +49,54 @@
     <desc>2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</desc>
     <date>2025-07-03</date>
   </programme>
-  <programme channel="369235" start="20250704000000 +0800" stop="20250705000000 +0800">
+  <programme channel="369235" start="20250704000000 +0800" stop="20250704030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英國錦標賽 決賽 TRU vs HAW</title>
     <desc>2024-25司諾克賽季 英國錦標賽 決賽 TRU vs HAW</desc>
     <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704030000 +0800" stop="20250704060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704060000 +0800" stop="20250704073000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第06組 ROB vs YUA</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第06組 ROB vs YUA</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704073000 +0800" stop="20250704090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 8強 第02組 TRU vs VAF</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 8強 第02組 TRU vs VAF</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704090000 +0800" stop="20250704120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704120000 +0800" stop="20250704150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英國錦標賽 決賽 TRU vs HAW</title>
+    <desc>2024-25司諾克賽季 英國錦標賽 決賽 TRU vs HAW</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704150000 +0800" stop="20250704180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 4強 XIA vs WU</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704180000 +0800" stop="20250704210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 8強 第01組 HIG vs MUR</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 8強 第01組 HIG vs MUR</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250704210000 +0800" stop="20250705000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 蘇格蘭公開賽 決賽 WU vs LEI</title>
+    <desc>2024-25司諾克賽季 蘇格蘭公開賽 決賽 WU vs LEI</desc>
+    <date>2025-07-04</date>
+  </programme>
+  <programme channel="369235" start="20250705000000 +0800" stop="20250706000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第一輪 ALI vs ROR</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第一輪 ALI vs ROR</desc>
+    <date>2025-07-05</date>
   </programme>
 </tv>
