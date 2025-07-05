@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250704205726 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369217/20250704.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369217&amp;date=20250704&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250705101011 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369217/20250705.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369217&amp;date=20250705&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369217">
     <display-name lang="Taiwan">博斯運動二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155111042154_39.jpg" />
   </channel>
-  <programme channel="369217" start="20250704000000 +0800" stop="20250704013000 +0800">
-    <title lang="zh">2024杜拜女網賽16強(5)POTvsZHE</title>
-    <desc>2024杜拜女網賽16強(5)POTvsZHE</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704013000 +0800" stop="20250704033000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</title>
-    <desc>2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704033000 +0800" stop="20250704060000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(8)多明尼加vs日本</title>
-    <desc>2024國家女排聯賽澳門站(8)多明尼加vs日本</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704060000 +0800" stop="20250704073000 +0800">
-    <title lang="zh">2024杜拜女網賽16強(5)POTvsZHE</title>
-    <desc>2024杜拜女網賽16強(5)POTvsZHE</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704073000 +0800" stop="20250704093000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</title>
-    <desc>2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704093000 +0800" stop="20250704120000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(8)多明尼加vs日本</title>
-    <desc>2024國家女排聯賽澳門站(8)多明尼加vs日本</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704120000 +0800" stop="20250704133000 +0800">
-    <title lang="zh">2024杜拜女網賽16強(5)POTvsZHE</title>
-    <desc>2024杜拜女網賽16強(5)POTvsZHE</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704133000 +0800" stop="20250704153000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</title>
-    <desc>2025全國總統盃足球錦標賽公開男子組八強(3)台灣電力vs台中磐石</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704153000 +0800" stop="20250704180000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(8)多明尼加vs日本</title>
-    <desc>2024國家女排聯賽澳門站(8)多明尼加vs日本</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704180000 +0800" stop="20250704210000 +0800">
-    <title lang="zh">2024杜拜女網賽8強(1)VONvsCIR</title>
-    <desc>2024杜拜女網賽8強(1)VONvsCIR</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704210000 +0800" stop="20250704230000 +0800">
-    <title lang="zh">2025全國總統盃足球錦標賽公開男子組八強(4)南市台鋼綠vs臺灣石虎</title>
-    <desc>2025全國總統盃足球錦標賽公開男子組八強(4)南市台鋼綠vs臺灣石虎</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="369217" start="20250704230000 +0800" stop="20250705000000 +0800">
-    <title lang="zh">2024國家女排聯賽澳門站(9)義大利vs中國</title>
-    <desc>2024國家女排聯賽澳門站(9)義大利vs中國</desc>
-    <date>2025-07-04</date>
-  </programme>
   <programme channel="369217" start="20250705003000 +0800" stop="20250705033000 +0800">
     <title lang="zh">2024杜拜女網賽8強(1)VONvsCIR</title>
     <desc>2024杜拜女網賽8強(1)VONvsCIR</desc>
@@ -119,9 +59,64 @@
     <desc>2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</desc>
     <date>2025-07-05</date>
   </programme>
-  <programme channel="369217" start="20250706000000 +0800" stop="20250707000000 +0800">
+  <programme channel="369217" start="20250706000000 +0800" stop="20250706020000 +0800">
     <title lang="zh">2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</title>
     <desc>2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706020000 +0800" stop="20250706040000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</title>
+    <desc>2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706040000 +0800" stop="20250706060000 +0800">
+    <title lang="zh">2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</title>
+    <desc>2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706060000 +0800" stop="20250706080000 +0800">
+    <title lang="zh">2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</title>
+    <desc>2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706080000 +0800" stop="20250706100000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</title>
+    <desc>2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706100000 +0800" stop="20250706120000 +0800">
+    <title lang="zh">2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</title>
+    <desc>2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706120000 +0800" stop="20250706140000 +0800">
+    <title lang="zh">2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</title>
+    <desc>2024杜拜女網賽8強(2)AOY/KRUvsHUN/SIN</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706140000 +0800" stop="20250706160000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</title>
+    <desc>2025全國總統盃足球錦標賽公開男子組四強(1)南市台鋼藍vsFUTURO</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706160000 +0800" stop="20250706180000 +0800">
+    <title lang="zh">2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</title>
+    <desc>2024國家女排聯賽美國站(1)波蘭vs塞爾維亞</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706180000 +0800" stop="20250706200000 +0800">
+    <title lang="zh">2024杜拜女網賽8強(3)SWIvsZHE</title>
+    <desc>2024杜拜女網賽8強(3)SWIvsZHE</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706200000 +0800" stop="20250706220000 +0800">
+    <title lang="zh">2025全國總統盃足球錦標賽公開男子組四強(2)台灣電力vs南市台鋼綠</title>
+    <desc>2025全國總統盃足球錦標賽公開男子組四強(2)台灣電力vs南市台鋼綠</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="369217" start="20250706220000 +0800" stop="20250707000000 +0800">
+    <title lang="zh">2024國家女排聯賽美國站(2)塞爾維亞vs土耳其</title>
+    <desc>2024國家女排聯賽美國站(2)塞爾維亞vs土耳其</desc>
     <date>2025-07-06</date>
   </programme>
 </tv>
