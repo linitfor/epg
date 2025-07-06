@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250705205439 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250705.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250705&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250706102956 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250706.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250706&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250705020000 +0800" stop="20250705040000 +0800">
-    <title lang="zh">2025哈雷草地男網賽八強</title>
-    <desc>2025哈雷草地男網賽八強</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705040000 +0800" stop="20250705060000 +0800">
-    <title lang="zh">2025倫敦女王草地男網賽十六強</title>
-    <desc>2025倫敦女王草地男網賽十六強</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705060000 +0800" stop="20250705080000 +0800">
-    <title lang="zh">2025斯圖加特男網賽八強ENGvsAUG</title>
-    <desc>2025斯圖加特男網賽八強ENGvsAUG</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705080000 +0800" stop="20250705100000 +0800">
-    <title lang="zh">2025哈雷草地男網賽八強</title>
-    <desc>2025哈雷草地男網賽八強</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705100000 +0800" stop="20250705120000 +0800">
-    <title lang="zh">首播2025馬略卡男網賽八強</title>
-    <desc>首播2025馬略卡男網賽八強</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705120000 +0800" stop="20250705200000 +0800">
-    <title lang="zh">2025斯圖加特男網賽八強FUCvsFRI</title>
-    <desc>2025斯圖加特男網賽八強FUCvsFRI</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705200000 +0800" stop="20250705213000 +0800">
-    <title lang="zh">LIVE2025馬略卡男網賽四強</title>
-    <desc>LIVE2025馬略卡男網賽四強</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="369216" start="20250705213000 +0800" stop="20250706000000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-07-05</date>
-  </programme>
   <programme channel="369216" start="20250706020000 +0800" stop="20250706023000 +0800">
     <title lang="zh">2025哈雷草地男網賽八強</title>
     <desc>2025哈雷草地男網賽八強</desc>
@@ -103,5 +63,20 @@
     <title lang="zh">2025斯圖加特男網賽四強ZVEvsSHE</title>
     <desc>2025斯圖加特男網賽四強ZVEvsSHE</desc>
     <date>2025-07-06</date>
+  </programme>
+  <programme channel="369216" start="20250707030000 +0800" stop="20250707120000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY7十六強</title>
+    <desc>首播2025溫布頓網球錦標賽DAY7十六強</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="369216" start="20250707120000 +0800" stop="20250707170000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY7十六強</title>
+    <desc>首播2025溫布頓網球錦標賽DAY7十六強</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="369216" start="20250707170000 +0800" stop="20250708000000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY8十六強</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY8十六強</desc>
+    <date>2025-07-07</date>
   </programme>
 </tv>
