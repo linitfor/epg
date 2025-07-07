@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250706205406 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250706.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250706&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250707102646 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250707.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250707&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250706010000 +0800" stop="20250706013000 +0800">
-    <title lang="zh">女壘週報第3集</title>
-    <desc>女壘週報第3集</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706013000 +0800" stop="20250706073000 +0800">
-    <title lang="zh">2025美國PGA錦標賽第二天</title>
-    <desc>2025美國PGA錦標賽第二天</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706073000 +0800" stop="20250706110000 +0800">
-    <title lang="zh">2025法國網球公開賽女單決賽SAB vs GAU</title>
-    <desc>2025法國網球公開賽女單決賽SAB vs GAU</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706110000 +0800" stop="20250706140000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第三周福添福嘉南鷹vs 新北凱撒</title>
-    <desc>2025企業女子壘球聯賽第三周福添福嘉南鷹vs 新北凱撒</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706140000 +0800" stop="20250706163000 +0800">
-    <title lang="zh">首播2025伊斯特本男網賽決賽</title>
-    <desc>首播2025伊斯特本男網賽決賽</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706163000 +0800" stop="20250706170000 +0800">
-    <title lang="zh">女壘週報第3集</title>
-    <desc>女壘週報第3集</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706170000 +0800" stop="20250706190000 +0800">
-    <title lang="zh">2025歐冠男排聯賽八強 LEG1哈克銀行 vs 華沙項目</title>
-    <desc>2025歐冠男排聯賽八強 LEG1哈克銀行 vs 華沙項目</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706190000 +0800" stop="20250706193000 +0800">
-    <title lang="zh">2025法國網球公開賽決賽SIN vs ALC</title>
-    <desc>2025法國網球公開賽決賽SIN vs ALC</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="369230" start="20250706193000 +0800" stop="20250707000000 +0800">
-    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</title>
-    <desc>LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</desc>
-    <date>2025-07-06</date>
-  </programme>
   <programme channel="369230" start="20250707030000 +0800" stop="20250707193000 +0800">
     <title lang="zh">首播2025溫布頓網球錦標賽DAY7 十六強中央球場</title>
     <desc>首播2025溫布頓網球錦標賽DAY7 十六強中央球場</desc>
@@ -58,5 +13,20 @@
     <title lang="zh">LIVE2025溫布頓網球錦標賽DAY8 十六強中央球場</title>
     <desc>LIVE2025溫布頓網球錦標賽DAY8 十六強中央球場</desc>
     <date>2025-07-07</date>
+  </programme>
+  <programme channel="369230" start="20250708030000 +0800" stop="20250708090000 +0800">
+    <title lang="zh">2025美國PGA錦標賽第四天</title>
+    <desc>2025美國PGA錦標賽第四天</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="369230" start="20250708090000 +0800" stop="20250708193000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY1 第一輪中央球場</title>
+    <desc>首播2025溫布頓網球錦標賽DAY1 第一輪中央球場</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="369230" start="20250708193000 +0800" stop="20250709000000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY2 第一輪中央球場</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY2 第一輪中央球場</desc>
+    <date>2025-07-08</date>
   </programme>
 </tv>
