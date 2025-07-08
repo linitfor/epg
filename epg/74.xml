@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250707210013 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250707.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250707&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250708102050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250708.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250708&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250707003000 +0800" stop="20250707010000 +0800">
-    <title lang="zh">體壇最前線 7/7 (新)(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707010000 +0800" stop="20250707033000 +0800">
-    <title lang="zh">中華職棒 統一 VS 味全 7/5(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707033000 +0800" stop="20250707050000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 美國站 第二日 (上) 7/8(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707050000 +0800" stop="20250707051500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#21 印尼公開賽回顧(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707051500 +0800" stop="20250707053000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#22 本季回顧(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707053000 +0800" stop="20250707060000 +0800">
-    <title lang="zh">體壇最前線 7/6 (新)(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707060000 +0800" stop="20250707060500 +0800">
-    <title lang="zh">體壇最前線 7/6 (新)(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707060500 +0800" stop="20250707063000 +0800">
-    <title lang="zh">LIVE MLB 紅雀 VS 小熊 例行賽 7/7(原音直播至9:00)(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707063000 +0800" stop="20250707073000 +0800">
-    <title lang="zh">F1 英國站 正賽(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707073000 +0800" stop="20250707080000 +0800">
-    <title lang="zh">體壇最前線 7/7(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707080000 +0800" stop="20250707090000 +0800">
-    <title lang="zh">WTT大滿貫賽 美國站 精彩賽況(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707090000 +0800" stop="20250707120000 +0800">
-    <title lang="zh">LIVE MLB 遊騎兵 VS 教士 例行賽 7/7(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707120000 +0800" stop="20250707123000 +0800">
-    <title lang="zh">體壇最前線 7/6(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707123000 +0800" stop="20250707130000 +0800">
-    <title lang="zh">溫網 Alcaraz對Rublev 男單第4輪(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707130000 +0800" stop="20250707133000 +0800">
-    <title lang="zh">體壇最前線 7/7(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707133000 +0800" stop="20250707153000 +0800">
-    <title lang="zh">2025鑽石聯賽 美國尤金站(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707153000 +0800" stop="20250707163000 +0800">
-    <title lang="zh">中華職棒 中信 VS 台鋼 7/5(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707163000 +0800" stop="20250707183000 +0800">
-    <title lang="zh">F1 英國站 正賽(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707183000 +0800" stop="20250707185000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#23 美國公開賽回顧(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707185000 +0800" stop="20250707210000 +0800">
-    <title lang="zh">LIVE 2025東亞盃足球賽 南韓 VS 中國 男子組第1輪 7/7(原音)(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707210000 +0800" stop="20250707220000 +0800">
-    <title lang="zh">BWF 加拿大公開賽 決賽 中華隊 7/6(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707220000 +0800" stop="20250707223000 +0800">
-    <title lang="zh">LIVE 體壇最前線 7/8(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335027" start="20250707223000 +0800" stop="20250708000000 +0800">
-    <title lang="zh">BWF 加拿大公開賽 決賽 7/6(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
   <programme channel="335027" start="20250708003000 +0800" stop="20250708010000 +0800">
     <title lang="zh">體壇最前線 7/7 (新)(普)</title>
     <desc />
@@ -159,13 +44,23 @@
     <desc />
     <date>2025-07-08</date>
   </programme>
-  <programme channel="335027" start="20250708153000 +0800" stop="20250708163000 +0800">
+  <programme channel="335027" start="20250708153000 +0800" stop="20250708162500 +0800">
     <title lang="zh">2025法網 致敬納達爾(普)</title>
     <desc />
     <date>2025-07-08</date>
   </programme>
-  <programme channel="335027" start="20250708163000 +0800" stop="20250708182500 +0800">
+  <programme channel="335027" start="20250708162500 +0800" stop="20250708163000 +0800">
     <title lang="zh">F1 英國站 正賽(普)</title>
+    <desc />
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="335027" start="20250708163000 +0800" stop="20250708182000 +0800">
+    <title lang="zh">F1 英國站 正賽(普)</title>
+    <desc />
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="335027" start="20250708182000 +0800" stop="20250708182500 +0800">
+    <title lang="zh">LIVE 中華職棒 味全 VS 富邦 7/8(普)</title>
     <desc />
     <date>2025-07-08</date>
   </programme>
@@ -188,5 +83,60 @@
     <title lang="zh">MLB 道奇 VS 釀酒人 例行賽 7/8(普)</title>
     <desc />
     <date>2025-07-08</date>
+  </programme>
+  <programme channel="335027" start="20250709010000 +0800" stop="20250709033000 +0800">
+    <title lang="zh">中華職棒 味全 VS 富邦 7/8(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709033000 +0800" stop="20250709073000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 美國站 混雙16強/單打32強 (上) 7/9(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709073000 +0800" stop="20250709080000 +0800">
+    <title lang="zh">體壇最前線 7/8(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709080000 +0800" stop="20250709090000 +0800">
+    <title lang="zh">WTT大滿貫賽 美國站 精彩賽況(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709090000 +0800" stop="20250709130000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 美國站 混雙16強/單打32強 (下) 7/9(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709130000 +0800" stop="20250709153000 +0800">
+    <title lang="zh">中華職棒 味全 VS 富邦 7/8(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709153000 +0800" stop="20250709181500 +0800">
+    <title lang="zh">WTT大滿貫賽 美國站 混雙16強/單打32強回顧(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709181500 +0800" stop="20250709183000 +0800">
+    <title lang="zh">LIVE 中華職棒台鋼主場 嘉義戰前報 7/9(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709183000 +0800" stop="20250709220000 +0800">
+    <title lang="zh">LIVE 中華職棒 樂天 VS 台鋼 7/9(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709220000 +0800" stop="20250709223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 7/9(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335027" start="20250709223000 +0800" stop="20250710000000 +0800">
+    <title lang="zh">WTT大滿貫賽 美國站 混雙16強/單打32強回顧(普)</title>
+    <desc />
+    <date>2025-07-09</date>
   </programme>
 </tv>

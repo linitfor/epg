@@ -1,64 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250707210002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250707.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250707&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250708102040 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250708.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250708&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250707000000 +0800" stop="20250707010000 +0800">
-    <title lang="zh">第59屆學童網球錦標賽(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707010000 +0800" stop="20250707020000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707020000 +0800" stop="20250707060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707060000 +0800" stop="20250707111500 +0800">
-    <title lang="zh">[首播] 114年中華盃國小師生排球賽 5/12賽程(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707111500 +0800" stop="20250707115000 +0800">
-    <title lang="zh">[首播] 114年冰石壺國家代表隊選拔賽 5/28賽程(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707115000 +0800" stop="20250707155500 +0800">
-    <title lang="zh">[首播] 114年冰石壺國家代表隊選拔賽 5/27賽程(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707155500 +0800" stop="20250707172000 +0800">
-    <title lang="zh">[首播] 114年全國輕艇競速錦標賽 6/06賽程(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707172000 +0800" stop="20250707215000 +0800">
-    <title lang="zh">[首播] 114年慈暉盃全國西洋棋錦標賽(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707215000 +0800" stop="20250707232500 +0800">
-    <title lang="zh">三花青少年逐夢盃邀請賽 第二回合(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707232500 +0800" stop="20250707233500 +0800">
-    <title lang="zh">[首播] Supercars 第7集(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
-  <programme channel="335009" start="20250707233500 +0800" stop="20250708000000 +0800">
-    <title lang="zh">[首播] Supercars 第8集(普)</title>
-    <desc />
-    <date>2025-07-07</date>
-  </programme>
   <programme channel="335009" start="20250708000000 +0800" stop="20250708004400 +0800">
     <title lang="zh">第59屆學童網球錦標賽(普)</title>
     <desc />
@@ -104,9 +49,34 @@
     <desc />
     <date>2025-07-08</date>
   </programme>
-  <programme channel="335009" start="20250709000000 +0800" stop="20250710000000 +0800">
+  <programme channel="335009" start="20250709000000 +0800" stop="20250709004400 +0800">
     <title lang="zh">第一屆臺灣美式躲避球錦標賽 女子季軍賽 日本隊 vs 桃園市(普)</title>
     <desc />
     <date>2025-07-09</date>
+  </programme>
+  <programme channel="335009" start="20250709004400 +0800" stop="20250709060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335009" start="20250709060000 +0800" stop="20250709175000 +0800">
+    <title lang="zh">[首播] 2025全國室內五人制足球錦標賽 6/03賽程(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335009" start="20250709175000 +0800" stop="20250709224500 +0800">
+    <title lang="zh">[首播] 114年全國輕艇競速錦標賽 6/07賽程(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335009" start="20250709224500 +0800" stop="20250710000000 +0800">
+    <title lang="zh">113學年度小學籃球 女子260組 冠軍戰 臺中大智 vs 臺北永平(普)</title>
+    <desc />
+    <date>2025-07-09</date>
+  </programme>
+  <programme channel="335009" start="20250710000000 +0800" stop="20250711000000 +0800">
+    <title lang="zh">第一屆臺灣美式躲避球錦標賽 女子冠軍賽 香港隊A vs 臺北市A(普)</title>
+    <desc />
+    <date>2025-07-10</date>
   </programme>
 </tv>
