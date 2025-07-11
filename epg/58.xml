@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250710210107 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250710.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250710&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250711102510 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250711&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369233">
     <display-name lang="Taiwan">博斯高球1台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155155193673_78.jpg" />
   </channel>
-  <programme channel="369233" start="20250710000000 +0800" stop="20250710033000 +0800">
-    <title lang="zh">2025 歐巡荷蘭公開賽第二天</title>
-    <desc>2025 歐巡荷蘭公開賽第二天</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="369233" start="20250710033000 +0800" stop="20250710083000 +0800">
-    <title lang="zh">2025 歐巡新加坡菁英賽第二天</title>
-    <desc>2025 歐巡新加坡菁英賽第二天</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="369233" start="20250710083000 +0800" stop="20250710133000 +0800">
-    <title lang="zh">2025 歐巡義大利公開賽第二天</title>
-    <desc>2025 歐巡義大利公開賽第二天</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="369233" start="20250710133000 +0800" stop="20250710183000 +0800">
-    <title lang="zh">2025 歐巡富豪中國公開賽第四天</title>
-    <desc>2025 歐巡富豪中國公開賽第四天</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="369233" start="20250710183000 +0800" stop="20250711000000 +0800">
-    <title lang="zh">LIVE2025 歐巡BMW國際公開賽第一天</title>
-    <desc>LIVE2025 歐巡BMW國際公開賽第一天</desc>
-    <date>2025-07-10</date>
-  </programme>
   <programme channel="369233" start="20250711000000 +0800" stop="20250711050000 +0800">
     <title lang="zh">2025 歐巡荷蘭公開賽第三天</title>
     <desc>2025 歐巡荷蘭公開賽第三天</desc>
@@ -54,9 +29,34 @@
     <desc>LIVE2025 歐巡BMW國際公開賽第二天</desc>
     <date>2025-07-11</date>
   </programme>
-  <programme channel="369233" start="20250712000000 +0800" stop="20250713000000 +0800">
+  <programme channel="369233" start="20250712000000 +0800" stop="20250712053000 +0800">
     <title lang="zh">2025 歐巡荷蘭公開賽第四天</title>
     <desc>2025 歐巡荷蘭公開賽第四天</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="369233" start="20250712053000 +0800" stop="20250712080000 +0800">
+    <title lang="zh">2025奧古斯塔三桿洞挑戰賽</title>
+    <desc>2025奧古斯塔三桿洞挑戰賽</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="369233" start="20250712080000 +0800" stop="20250712130000 +0800">
+    <title lang="zh">2025 歐巡義大利公開賽第四天</title>
+    <desc>2025 歐巡義大利公開賽第四天</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="369233" start="20250712130000 +0800" stop="20250712183000 +0800">
+    <title lang="zh">首播2025 歐巡BMW國際公開賽第二天</title>
+    <desc>首播2025 歐巡BMW國際公開賽第二天</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="369233" start="20250712183000 +0800" stop="20250712233000 +0800">
+    <title lang="zh">LIVE2025 歐巡BMW國際公開賽第三天</title>
+    <desc>LIVE2025 歐巡BMW國際公開賽第三天</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="369233" start="20250712233000 +0800" stop="20250713000000 +0800">
+    <title lang="zh">2025美國公開賽第一天</title>
+    <desc>2025美國公開賽第一天</desc>
     <date>2025-07-12</date>
   </programme>
 </tv>
