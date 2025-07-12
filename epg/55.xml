@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250711210010 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250711&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250712102635 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250712&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250711030000 +0800" stop="20250711120000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY3第二輪</title>
-    <desc>首播2025溫布頓網球錦標賽DAY3第二輪</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369216" start="20250711120000 +0800" stop="20250711170000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY3第二輪</title>
-    <desc>首播2025溫布頓網球錦標賽DAY3第二輪</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369216" start="20250711170000 +0800" stop="20250712000000 +0800">
-    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY4第二輪</title>
-    <desc>LIVE2025溫布頓網球錦標賽DAY4第二輪</desc>
-    <date>2025-07-11</date>
-  </programme>
   <programme channel="369216" start="20250712030000 +0800" stop="20250712120000 +0800">
     <title lang="zh">首播2025溫布頓網球錦標賽DAY4第二輪</title>
     <desc>首播2025溫布頓網球錦標賽DAY4第二輪</desc>
@@ -33,5 +18,25 @@
     <title lang="zh">LIVE2025溫布頓網球錦標賽DAY5第三輪</title>
     <desc>LIVE2025溫布頓網球錦標賽DAY5第三輪</desc>
     <date>2025-07-12</date>
+  </programme>
+  <programme channel="369216" start="20250713030000 +0800" stop="20250713120000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY5第三輪</title>
+    <desc>首播2025溫布頓網球錦標賽DAY5第三輪</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369216" start="20250713120000 +0800" stop="20250713170000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY5第三輪</title>
+    <desc>首播2025溫布頓網球錦標賽DAY5第三輪</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369216" start="20250713170000 +0800" stop="20250713190000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY6第三輪</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY6第三輪</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369216" start="20250713190000 +0800" stop="20250714000000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY14女雙決賽/男單決賽</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY14女雙決賽/男單決賽</desc>
+    <date>2025-07-13</date>
   </programme>
 </tv>

@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250711210002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250711&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250712102625 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250712&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250711000000 +0800" stop="20250711030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 KYR vs O'CON</title>
-    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 KYR vs O'CON</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711030000 +0800" stop="20250711060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</title>
-    <desc>2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711060000 +0800" stop="20250711090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN</title>
-    <desc>2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711090000 +0800" stop="20250711120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</title>
-    <desc>2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711120000 +0800" stop="20250711150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 KYR vs O'CON</title>
-    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 KYR vs O'CON</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711150000 +0800" stop="20250711180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</title>
-    <desc>2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711180000 +0800" stop="20250711210000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA</title>
-    <desc>2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="369235" start="20250711210000 +0800" stop="20250712000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 WIL vs HIL</title>
-    <desc>2024-25司諾克賽季 德國名人賽 第一輪 WIL vs HIL</desc>
-    <date>2025-07-11</date>
-  </programme>
   <programme channel="369235" start="20250712000000 +0800" stop="20250712030000 +0800">
     <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</title>
     <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs YUA</desc>
@@ -89,9 +49,74 @@
     <desc>2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</desc>
     <date>2025-07-12</date>
   </programme>
-  <programme channel="369235" start="20250713000000 +0800" stop="20250714000000 +0800">
+  <programme channel="369235" start="20250713000000 +0800" stop="20250713013000 +0800">
     <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</title>
     <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</desc>
     <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713013000 +0800" stop="20250713030000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713030000 +0800" stop="20250713043000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713043000 +0800" stop="20250713060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713060000 +0800" stop="20250713090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU</title>
+    <desc>2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713090000 +0800" stop="20250713103000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713103000 +0800" stop="20250713120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713120000 +0800" stop="20250713133000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 第二輪 MAR vs STE</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713133000 +0800" stop="20250713150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</title>
+    <desc>2024-25司諾克賽季 威爾斯公開賽 16強(1) HIG vs SIJ</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713150000 +0800" stop="20250713163000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 MUR vs UN</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713163000 +0800" stop="20250713180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</title>
+    <desc>2024-25司諾克賽季 德國名人賽 第二輪 TRU vs O'CON</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713180000 +0800" stop="20250713210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK</title>
+    <desc>2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250713210000 +0800" stop="20250714000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 16強 TRU vs ROB</title>
+    <desc>2024-25司諾克賽季 德國名人賽 16強 TRU vs ROB</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="369235" start="20250714000000 +0800" stop="20250715000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL</desc>
+    <date>2025-07-14</date>
   </programme>
 </tv>
