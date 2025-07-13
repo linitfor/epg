@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250712205643 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250712&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250713103411 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250713.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250713&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250712030000 +0800" stop="20250712160000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY5 第三輪中央球場</title>
-    <desc>首播2025溫布頓網球錦標賽DAY5 第三輪中央球場</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369230" start="20250712160000 +0800" stop="20250712193000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次184中信兄弟 vs台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次184中信兄弟 vs台鋼雄鷹</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369230" start="20250712193000 +0800" stop="20250713000000 +0800">
-    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY6 第三輪中央球場</title>
-    <desc>LIVE2025溫布頓網球錦標賽DAY6 第三輪中央球場</desc>
-    <date>2025-07-12</date>
-  </programme>
   <programme channel="369230" start="20250713030000 +0800" stop="20250713160000 +0800">
     <title lang="zh">首播2025溫布頓網球錦標賽DAY6 第三輪中央球場</title>
     <desc>首播2025溫布頓網球錦標賽DAY6 第三輪中央球場</desc>
@@ -33,5 +18,40 @@
     <title lang="zh">LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</title>
     <desc>LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</desc>
     <date>2025-07-13</date>
+  </programme>
+  <programme channel="369230" start="20250714020000 +0800" stop="20250714080000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽DAY12 男單四強</title>
+    <desc>2025溫布頓網球錦標賽DAY12 男單四強</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714080000 +0800" stop="20250714140000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY14男單決賽/女雙決賽</title>
+    <desc>首播2025溫布頓網球錦標賽DAY14男單決賽/女雙決賽</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714140000 +0800" stop="20250714150000 +0800">
+    <title lang="zh">2025溫網第13天精華</title>
+    <desc>2025溫網第13天精華</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714150000 +0800" stop="20250714180000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽DAY14 男單決賽</title>
+    <desc>2025溫布頓網球錦標賽DAY14 男單決賽</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714180000 +0800" stop="20250714190000 +0800">
+    <title lang="zh">2025溫網第14天精華</title>
+    <desc>2025溫網第14天精華</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714190000 +0800" stop="20250714214500 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第四周新世紀黃蜂vs 中華U18</title>
+    <desc>2025企業女子壘球聯賽第四周新世紀黃蜂vs 中華U18</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250714214500 +0800" stop="20250715000000 +0800">
+    <title lang="zh">2025歐冠男排聯賽八強 LEG2扎維爾切 vs 德國呂訥堡</title>
+    <desc>2025歐冠男排聯賽八強 LEG2扎維爾切 vs 德國呂訥堡</desc>
+    <date>2025-07-14</date>
   </programme>
 </tv>

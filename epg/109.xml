@@ -1,159 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250712205712 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369321/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369321&amp;date=20250712&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250713103449 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369321/20250713.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369321&amp;date=20250713&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369321">
     <display-name lang="Taiwan">CNN</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611150128128782_75.png" />
   </channel>
-  <programme channel="369321" start="20250712000000 +0800" stop="20250712010000 +0800">
-    <title lang="zh">One World</title>
-    <desc>One World: Friday, July 11, 2025 12pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712010000 +0800" stop="20250712020000 +0800">
-    <title lang="zh">Amanpour</title>
-    <desc>Amanpour: Friday, July 11, 2025 1pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712020000 +0800" stop="20250712030000 +0800">
-    <title lang="zh">Isa Soares Tonight</title>
-    <desc>Isa Soares Tonight: Friday, July 11, 2025 2pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712030000 +0800" stop="20250712040000 +0800">
-    <title lang="zh">What We Know with Max Foster</title>
-    <desc>What We Know with Max Foster: Friday, July 11, 2025 3pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712040000 +0800" stop="20250712050000 +0800">
-    <title lang="zh">Quest Means Business</title>
-    <desc>Quest Means Business: Friday, July 11, 2025 4pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712050000 +0800" stop="20250712053000 +0800">
-    <title lang="zh">The Lead</title>
-    <desc>The Lead: Friday, July 11, 2025 5PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712053000 +0800" stop="20250712060000 +0800">
-    <title lang="zh">World Sport</title>
-    <desc>World Sport: Friday, July 11, 2025 530pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712060000 +0800" stop="20250712070000 +0800">
-    <title lang="zh">The Brief with Jim Sciutto</title>
-    <desc>The Brief with Jim Sciutto: Friday, July 11, 2025 6pm ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712070000 +0800" stop="20250712080000 +0800">
-    <title lang="zh">Erin Burnett OutFront</title>
-    <desc>Erin Burnett OutFront: Friday, July 11, 2025 7PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712080000 +0800" stop="20250712090000 +0800">
-    <title lang="zh">Anderson Cooper 360</title>
-    <desc>Anderson Cooper 360: Friday, July 11, 2025 8PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712090000 +0800" stop="20250712100000 +0800">
-    <title lang="zh">The Source</title>
-    <desc>The Source: Friday, July 11, 2025 9PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712100000 +0800" stop="20250712110000 +0800">
-    <title lang="zh">CNN NewsNight</title>
-    <desc>CNN NewsNight: Friday, July 11, 2025 10PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712110000 +0800" stop="20250712120000 +0800">
-    <title lang="zh">Laura Coates Live</title>
-    <desc>Laura Coates Live: Friday, July 11, 2025 11PM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712120000 +0800" stop="20250712123000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 12am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712123000 +0800" stop="20250712130000 +0800">
-    <title lang="zh">TBD</title>
-    <desc>TBD</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712130000 +0800" stop="20250712133000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 1am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712133000 +0800" stop="20250712140000 +0800">
-    <title lang="zh">Connecting Africa</title>
-    <desc>Connecting Africa: TBD</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712140000 +0800" stop="20250712143000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 2am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712143000 +0800" stop="20250712150000 +0800">
-    <title lang="zh">African Voices Changemakers</title>
-    <desc>African Voices Changemakers: African Voices Changemakers LAVCM210</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712150000 +0800" stop="20250712153000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 3am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712153000 +0800" stop="20250712160000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 3am ET/World Sport: Saturday, July 12, 2025 345am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712160000 +0800" stop="20250712170000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 4am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712170000 +0800" stop="20250712180000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Saturday, July 12, 2025 5am ET</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712180000 +0800" stop="20250712183000 +0800">
-    <title lang="zh">African Voices Changemakers</title>
-    <desc>African Voices Changemakers: African Voices Changemakers LAVCM210</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712183000 +0800" stop="20250712190000 +0800">
-    <title lang="zh">TBD</title>
-    <desc>TBD</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712190000 +0800" stop="20250712200000 +0800">
-    <title lang="zh">CNN This Morning Weekend</title>
-    <desc>CNN This Morning Weekend: Saturday, July 12, 2025 7AM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712200000 +0800" stop="20250712210000 +0800">
-    <title lang="zh">First of All</title>
-    <desc>First of All: Saturday, July 12, 2025 8AM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712210000 +0800" stop="20250712220000 +0800">
-    <title lang="zh">Smerconish</title>
-    <desc>Smerconish: Saturday, July 12, 2025 9AM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712220000 +0800" stop="20250712230000 +0800">
-    <title lang="zh">CNN Saturday Morning Table For Five</title>
-    <desc>CNN Saturday Morning Table For Five: July 12, 2025 10AM</desc>
-    <date>2025-07-12</date>
-  </programme>
-  <programme channel="369321" start="20250712230000 +0800" stop="20250713000000 +0800">
-    <title lang="zh">The Amanpour Hour</title>
-    <desc>The Amanpour Hour: Saturday, July 12, 2025 11AM</desc>
-    <date>2025-07-12</date>
-  </programme>
   <programme channel="369321" start="20250713000000 +0800" stop="20250713003000 +0800">
     <title lang="zh">World Sport</title>
     <desc>World Sport: Saturday, July 12, 2025 12pm ET</desc>
@@ -319,9 +169,174 @@
     <desc>Inside Politics: Sunday, July 13, 2025 8AM</desc>
     <date>2025-07-13</date>
   </programme>
-  <programme channel="369321" start="20250714000000 +0800" stop="20250715000000 +0800">
+  <programme channel="369321" start="20250714000000 +0800" stop="20250714003000 +0800">
     <title lang="zh">World Sport</title>
     <desc>World Sport: Sunday, July 13, 2025 12pm ET</desc>
     <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714003000 +0800" stop="20250714010000 +0800">
+    <title lang="zh">Inside Africa</title>
+    <desc>Inside Africa: Maram Kaire: Making Senegal a Space Nation</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714010000 +0800" stop="20250714013000 +0800">
+    <title lang="zh">African Voices Changemakers</title>
+    <desc>African Voices Changemakers: African Voices Changemakers LAVCM210</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714013000 +0800" stop="20250714020000 +0800">
+    <title lang="zh">Connecting Africa</title>
+    <desc>Connecting Africa: Transforming Africa's Fintech Sector</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714020000 +0800" stop="20250714030000 +0800">
+    <title lang="zh">CNN Newsroom (CNN/US)</title>
+    <desc>CNN Newsroom (CNN/US): Sunday, July 13, 2025 2PM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714030000 +0800" stop="20250714040000 +0800">
+    <title lang="zh">My Happy Place</title>
+    <desc>My Happy Place: Simu Liu in Thailand</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714040000 +0800" stop="20250714050000 +0800">
+    <title lang="zh">CNN Newsroom (CNN/US)</title>
+    <desc>CNN Newsroom (CNN/US): Sunday, July 13, 2025 4PM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714050000 +0800" stop="20250714053000 +0800">
+    <title lang="zh">World Sport</title>
+    <desc>World Sport: Sunday, July 13, 2025 5pm ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714053000 +0800" stop="20250714060000 +0800">
+    <title lang="zh">Inside Africa</title>
+    <desc>Inside Africa: Cape Flora (Part 2)</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714060000 +0800" stop="20250714070000 +0800">
+    <title lang="zh">CNN Newsroom (CNN/US)</title>
+    <desc>CNN Newsroom (CNN/US): Sunday, July 13, 2025 6PM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714070000 +0800" stop="20250714080000 +0800">
+    <title lang="zh">CNN Newsroom (CNN/US)</title>
+    <desc>CNN Newsroom (CNN/US): Sunday, July 13, 2025 7PM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714080000 +0800" stop="20250714090000 +0800">
+    <title lang="zh">CNN Newsroom (CNN/US)</title>
+    <desc>CNN Newsroom (CNN/US): Sunday, July 13, 2025 8PM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714090000 +0800" stop="20250714100000 +0800">
+    <title lang="zh">Fareed Zakaria GPS</title>
+    <desc>Fareed Zakaria GPS: Sunday, July 13, 2025 10AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714100000 +0800" stop="20250714103000 +0800">
+    <title lang="zh">African Voices Changemakers</title>
+    <desc>African Voices Changemakers: African Voices Changemakers LAVCM210</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714103000 +0800" stop="20250714110000 +0800">
+    <title lang="zh">Marketplace Asia</title>
+    <desc>Marketplace Asia: AI &amp; Robotics in Asia/Marketplace Middle East: Economic Ripple Effects</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714110000 +0800" stop="20250714113000 +0800">
+    <title lang="zh">Connecting Africa</title>
+    <desc>Connecting Africa: Transforming Africa's Fintech Sector</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714113000 +0800" stop="20250714120000 +0800">
+    <title lang="zh">Inside Africa</title>
+    <desc>Inside Africa: Maram Kaire: Making Senegal a Space Nation</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714120000 +0800" stop="20250714123000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 12am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714123000 +0800" stop="20250714130000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 12am ET/World Sport: Monday, July 14, 2025 1245am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714130000 +0800" stop="20250714140000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 1am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714140000 +0800" stop="20250714143000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 2am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714143000 +0800" stop="20250714150000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 2am ET/World Sport: Monday, July 14, 2025 1245am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714150000 +0800" stop="20250714160000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Monday, July 14, 2025 3am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714160000 +0800" stop="20250714170000 +0800">
+    <title lang="zh">The Amanpour Hour</title>
+    <desc>The Amanpour Hour: Saturday, July 12, 2025 11AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714170000 +0800" stop="20250714180000 +0800">
+    <title lang="zh">Early Start</title>
+    <desc>Early Start: Monday, July 14, 2025 5AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714180000 +0800" stop="20250714190000 +0800">
+    <title lang="zh">CNN This Morning</title>
+    <desc>CNN This Morning: Monday, July 14, 2025 6AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714190000 +0800" stop="20250714200000 +0800">
+    <title lang="zh">CNN News Central</title>
+    <desc>CNN News Central: Monday, July 14, 2025 7AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714200000 +0800" stop="20250714203000 +0800">
+    <title lang="zh">CNN News Central</title>
+    <desc>CNN News Central: Monday, July 14, 2025 8AM</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714203000 +0800" stop="20250714210000 +0800">
+    <title lang="zh">World Sport</title>
+    <desc>World Sport: Monday, July 14, 2025 830am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714210000 +0800" stop="20250714213000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Monday, July 14, 2025 9am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714213000 +0800" stop="20250714220000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Monday, July 14, 2025 9am ET/World Sport: Monday, July 14, 2025 945am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714220000 +0800" stop="20250714230000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Monday, July 14, 2025 10am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250714230000 +0800" stop="20250715000000 +0800">
+    <title lang="zh">One World</title>
+    <desc>One World: Monday, July 14, 2025 11am ET</desc>
+    <date>2025-07-14</date>
+  </programme>
+  <programme channel="369321" start="20250715000000 +0800" stop="20250716000000 +0800">
+    <title lang="zh">One World</title>
+    <desc>One World: Monday, July 14, 2025 12pm ET</desc>
+    <date>2025-07-15</date>
   </programme>
 </tv>
