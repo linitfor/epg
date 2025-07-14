@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250713205623 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250713.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250713&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250714103036 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250714.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250714&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250713030000 +0800" stop="20250713160000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY6 第三輪中央球場</title>
-    <desc>首播2025溫布頓網球錦標賽DAY6 第三輪中央球場</desc>
-    <date>2025-07-13</date>
-  </programme>
-  <programme channel="369230" start="20250713160000 +0800" stop="20250713193000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次187中信兄弟 vs台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次187中信兄弟 vs台鋼雄鷹</desc>
-    <date>2025-07-13</date>
-  </programme>
-  <programme channel="369230" start="20250713193000 +0800" stop="20250714000000 +0800">
-    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</title>
-    <desc>LIVE2025溫布頓網球錦標賽DAY7 十六強中央球場</desc>
-    <date>2025-07-13</date>
-  </programme>
   <programme channel="369230" start="20250714020000 +0800" stop="20250714080000 +0800">
     <title lang="zh">2025溫布頓網球錦標賽DAY12 男單四強</title>
     <desc>2025溫布頓網球錦標賽DAY12 男單四強</desc>
@@ -53,5 +38,15 @@
     <title lang="zh">2025歐冠男排聯賽八強 LEG2扎維爾切 vs 德國呂訥堡</title>
     <desc>2025歐冠男排聯賽八強 LEG2扎維爾切 vs 德國呂訥堡</desc>
     <date>2025-07-14</date>
+  </programme>
+  <programme channel="369230" start="20250715030000 +0800" stop="20250715193000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY8 十六強中央球場</title>
+    <desc>首播2025溫布頓網球錦標賽DAY8 十六強中央球場</desc>
+    <date>2025-07-15</date>
+  </programme>
+  <programme channel="369230" start="20250715193000 +0800" stop="20250716000000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY9 八強中央球場</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY9 八強中央球場</desc>
+    <date>2025-07-15</date>
   </programme>
 </tv>
