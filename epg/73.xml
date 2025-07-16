@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250715210202 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250715&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250716102608 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250716&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334902">
     <display-name lang="Taiwan">愛爾達體育2台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334902" start="20250715000000 +0800" stop="20250715003000 +0800">
-    <title lang="zh">體壇最前線 7/14 (新)(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715003000 +0800" stop="20250715010000 +0800">
-    <title lang="zh">英超百大進球秀 2024-25賽季(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715010000 +0800" stop="20250715013000 +0800">
-    <title lang="zh">2025鑽石聯賽 摩納哥站(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715013000 +0800" stop="20250715023000 +0800">
-    <title lang="zh">溫網 第14日精華 7/14(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715023000 +0800" stop="20250715030000 +0800">
-    <title lang="zh">溫網 Anisimova對Swiatek 女單決賽(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715030000 +0800" stop="20250715040000 +0800">
-    <title lang="zh">溫網 Anisimova對Swiatek 女單決賽(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715040000 +0800" stop="20250715050000 +0800">
-    <title lang="zh">溫網 Fritz對Alcaraz 男單四強(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715050000 +0800" stop="20250715053000 +0800">
-    <title lang="zh">溫網 Sinner對Alcaraz 男單決賽(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715053000 +0800" stop="20250715064500 +0800">
-    <title lang="zh">溫網 男單四強#2 7/11(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715064500 +0800" stop="20250715080000 +0800">
-    <title lang="zh">溫網 Sinner對Djokovic 男單四強(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715080000 +0800" stop="20250715090000 +0800">
-    <title lang="zh">LIVE 水上運動世錦賽 公開水域游泳 男子10KM決賽 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715090000 +0800" stop="20250715110000 +0800">
-    <title lang="zh">2025東亞盃足球賽 台灣 VS 中國 女子組第2輪 7/13(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715110000 +0800" stop="20250715133000 +0800">
-    <title lang="zh">MLB 全明星賽 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715133000 +0800" stop="20250715160000 +0800">
-    <title lang="zh">中華職棒 台鋼 VS 味全 7/15(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715160000 +0800" stop="20250715183000 +0800">
-    <title lang="zh">MLB 全明星賽 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715183000 +0800" stop="20250715220000 +0800">
-    <title lang="zh">LIVE 中華職棒 台鋼 VS 味全 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715220000 +0800" stop="20250715223000 +0800">
-    <title lang="zh">LIVE 體壇最前線 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="334902" start="20250715223000 +0800" stop="20250716000000 +0800">
-    <title lang="zh">中華職棒 台鋼 VS 味全 7/16(普)</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
   <programme channel="334902" start="20250716010000 +0800" stop="20250716013000 +0800">
     <title lang="zh">體壇最前線 7/16(普)</title>
     <desc />
@@ -183,5 +93,105 @@
     <title lang="zh">LIVE 世大運 韻律體操#2 7/17(普)</title>
     <desc />
     <date>2025-07-16</date>
+  </programme>
+  <programme channel="334902" start="20250717002500 +0800" stop="20250717010000 +0800">
+    <title lang="zh">LIVE 世大運 韻律體操#3 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717010000 +0800" stop="20250717013000 +0800">
+    <title lang="zh">體壇最前線 7/16(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717013000 +0800" stop="20250717020000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 7/16(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717020000 +0800" stop="20250717040000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 7/17(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717040000 +0800" stop="20250717043000 +0800">
+    <title lang="zh">體壇最前線 7/16(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717043000 +0800" stop="20250717053000 +0800">
+    <title lang="zh">MLB 全明星賽 7/16(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717053000 +0800" stop="20250717063000 +0800">
+    <title lang="zh">中華職棒 台鋼 VS 味全 7/16(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717063000 +0800" stop="20250717080000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 7/17(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717080000 +0800" stop="20250717090000 +0800">
+    <title lang="zh">LIVE BWF 日本公開賽 16強(上) 第2場地 7/17(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717090000 +0800" stop="20250717120000 +0800">
+    <title lang="zh">LIVE BWF 日本公開賽 八強(上) 第2場地 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717120000 +0800" stop="20250717130000 +0800">
+    <title lang="zh">LIVE BWF 日本公開賽 16強(下) 第2場地 7/17(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717130000 +0800" stop="20250717160000 +0800">
+    <title lang="zh">LIVE BWF 日本公開賽 八強(下) 第2場地 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717160000 +0800" stop="20250717170000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 西班牙 資格賽附加賽(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717170000 +0800" stop="20250717183000 +0800">
+    <title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717183000 +0800" stop="20250717195500 +0800">
+    <title lang="zh">2025世界大學運動會 開幕典禮(精華版)(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717195500 +0800" stop="20250717213000 +0800">
+    <title lang="zh">LIVE 世大運 韻律體操#1 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717213000 +0800" stop="20250717220000 +0800">
+    <title lang="zh">英超名人堂 #5 教練之戰(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717220000 +0800" stop="20250717223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717223000 +0800" stop="20250717225500 +0800">
+    <title lang="zh">英超名人堂 #6(普)</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="334902" start="20250717225500 +0800" stop="20250718000000 +0800">
+    <title lang="zh">LIVE 世大運 韻律體操#2 7/18(普)</title>
+    <desc />
+    <date>2025-07-17</date>
   </programme>
 </tv>

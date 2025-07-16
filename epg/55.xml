@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250715210153 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250715&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250716102556 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250716&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250715013000 +0800" stop="20250715120000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY7十六強</title>
-    <desc>首播2025溫布頓網球錦標賽DAY7十六強</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369216" start="20250715120000 +0800" stop="20250715170000 +0800">
-    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY8十六強</title>
-    <desc>LIVE2025溫布頓網球錦標賽DAY8十六強</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369216" start="20250715170000 +0800" stop="20250716000000 +0800">
-    <title lang="zh">首播2025溫布頓網球錦標賽DAY8十六強</title>
-    <desc>首播2025溫布頓網球錦標賽DAY8十六強</desc>
-    <date>2025-07-15</date>
-  </programme>
   <programme channel="369216" start="20250716030000 +0800" stop="20250716120000 +0800">
     <title lang="zh">首播2025溫布頓網球錦標賽DAY8十六強</title>
     <desc>首播2025溫布頓網球錦標賽DAY8十六強</desc>
@@ -33,5 +18,20 @@
     <title lang="zh">首播2025溫布頓網球錦標賽DAY9八強</title>
     <desc>首播2025溫布頓網球錦標賽DAY9八強</desc>
     <date>2025-07-16</date>
+  </programme>
+  <programme channel="369216" start="20250717030000 +0800" stop="20250717120000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY9八強</title>
+    <desc>首播2025溫布頓網球錦標賽DAY9八強</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369216" start="20250717120000 +0800" stop="20250717170000 +0800">
+    <title lang="zh">LIVE2025溫布頓網球錦標賽DAY10八強</title>
+    <desc>LIVE2025溫布頓網球錦標賽DAY10八強</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369216" start="20250717170000 +0800" stop="20250718000000 +0800">
+    <title lang="zh">首播2025溫布頓網球錦標賽DAY10八強</title>
+    <desc>首播2025溫布頓網球錦標賽DAY10八強</desc>
+    <date>2025-07-17</date>
   </programme>
 </tv>
