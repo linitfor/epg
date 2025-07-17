@@ -1,416 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250716210338 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334822/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334822&amp;date=20250716&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250717102650 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334822/20250717.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334822&amp;date=20250717&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334822">
     <display-name lang="Taiwan">大愛電視HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334822" start="20250716000000 +0800" stop="20250716005000 +0800">
-    <title lang="zh">經典劇坊_麻豆小鎮(26)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716005000 +0800" stop="20250716005500 +0800">
-    <title lang="zh">365日日素(442)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716005500 +0800" stop="20250716010000 +0800">
-    <title lang="zh">仁心慧語(263)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716010000 +0800" stop="20250716011500 +0800">
-    <title lang="zh">大愛地球村(2697)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716011500 +0800" stop="20250716013000 +0800">
-    <title lang="zh">大愛地球村(2698)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716013000 +0800" stop="20250716014500 +0800">
-    <title lang="zh">大愛地球村(2699)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716014500 +0800" stop="20250716020000 +0800">
-    <title lang="zh">大愛地球村(2700)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716020000 +0800" stop="20250716021500 +0800">
-    <title lang="zh">大愛地球村(2701)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716021500 +0800" stop="20250716023000 +0800">
-    <title lang="zh">大愛地球村(2702)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716023000 +0800" stop="20250716024500 +0800">
-    <title lang="zh">大愛地球村(2703)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716024500 +0800" stop="20250716030000 +0800">
-    <title lang="zh">大愛地球村(2704)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716030000 +0800" stop="20250716035000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(11)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716035000 +0800" stop="20250716040000 +0800">
-    <title lang="zh">大愛醫生館(6573)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716040000 +0800" stop="20250716043000 +0800">
-    <title lang="zh">生活地球村(227)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716043000 +0800" stop="20250716053000 +0800">
-    <title lang="zh">法華經序HD中文版(1)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716053000 +0800" stop="20250716060000 +0800">
-    <title lang="zh">法譬如水(223)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716060000 +0800" stop="20250716063000 +0800">
-    <title lang="zh">法譬如水(224)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716063000 +0800" stop="20250716063500 +0800">
-    <title lang="zh">大愛真健康(732)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716063500 +0800" stop="20250716070500 +0800">
-    <title lang="zh">大愛早安新聞 LIVE(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716070500 +0800" stop="20250716071500 +0800">
-    <title lang="zh">365日日素(444)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716071500 +0800" stop="20250716073000 +0800">
-    <title lang="zh">大愛醫生館(6573)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716073000 +0800" stop="20250716080000 +0800">
-    <title lang="zh">現代心素派(2913)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716080000 +0800" stop="20250716082500 +0800">
-    <title lang="zh">看美善學美善美善劇場(379)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716082500 +0800" stop="20250716083000 +0800">
-    <title lang="zh">慈濟充滿愛(140)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716083000 +0800" stop="20250716084500 +0800">
-    <title lang="zh">人間菩提(9956)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716084500 +0800" stop="20250716091500 +0800">
-    <title lang="zh">法譬如水(223)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716091500 +0800" stop="20250716094500 +0800">
-    <title lang="zh">法譬如水(224)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716094500 +0800" stop="20250716100000 +0800">
-    <title lang="zh">大愛學漢醫(182)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716100000 +0800" stop="20250716105000 +0800">
-    <title lang="zh">經典劇坊_麻豆小鎮(27)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716105000 +0800" stop="20250716105500 +0800">
-    <title lang="zh">365日日素(444)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716105500 +0800" stop="20250716110000 +0800">
-    <title lang="zh">仁心慧語(263)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716110000 +0800" stop="20250716112400 +0800">
-    <title lang="zh">看美善學美善美善劇場(379)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716112400 +0800" stop="20250716113000 +0800">
-    <title lang="zh">大愛真健康(732)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716113000 +0800" stop="20250716114500 +0800">
-    <title lang="zh">大愛醫生館(6573)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716114500 +0800" stop="20250716120000 +0800">
-    <title lang="zh">人間菩提(9956)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716120000 +0800" stop="20250716123000 +0800">
-    <title lang="zh">大愛午安新聞 LIVE(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716123000 +0800" stop="20250716131900 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(11)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716131900 +0800" stop="20250716132500 +0800">
-    <title lang="zh">365日日素(444)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716132500 +0800" stop="20250716133300 +0800">
-    <title lang="zh">仁心慧語(283)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716133300 +0800" stop="20250716140000 +0800">
-    <title lang="zh">高僧傳(1010)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716140000 +0800" stop="20250716142500 +0800">
-    <title lang="zh">看美善學美善美善劇場(379)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716142500 +0800" stop="20250716143000 +0800">
-    <title lang="zh">慈濟充滿愛(112)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716143000 +0800" stop="20250716150000 +0800">
-    <title lang="zh">志為人醫守護愛2.0(154)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716150000 +0800" stop="20250716153000 +0800">
-    <title lang="zh">法譬如水(223)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716153000 +0800" stop="20250716160000 +0800">
-    <title lang="zh">法譬如水(224)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716160000 +0800" stop="20250716165000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(11)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716165000 +0800" stop="20250716170000 +0800">
-    <title lang="zh">大愛醫生館(6573)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716170000 +0800" stop="20250716173000 +0800">
-    <title lang="zh">伯源哥哥的祕密屋(42)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716173000 +0800" stop="20250716175400 +0800">
-    <title lang="zh">現代心素派(2914)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716175400 +0800" stop="20250716180000 +0800">
-    <title lang="zh">大愛真健康(732)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716180000 +0800" stop="20250716181500 +0800">
-    <title lang="zh">大愛學漢醫(183)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716181500 +0800" stop="20250716182000 +0800">
-    <title lang="zh">365日日素(444)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716182000 +0800" stop="20250716182500 +0800">
-    <title lang="zh">仁心慧語(283)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716182500 +0800" stop="20250716183000 +0800">
-    <title lang="zh">慈濟充滿愛(137)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716183000 +0800" stop="20250716190000 +0800">
-    <title lang="zh">高僧傳(1010)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716190000 +0800" stop="20250716194500 +0800">
-    <title lang="zh">大愛夜安新聞 LIVE(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716194500 +0800" stop="20250716200000 +0800">
-    <title lang="zh">人間菩提(9957)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716200000 +0800" stop="20250716205000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(12)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716205000 +0800" stop="20250716210100 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716210100 +0800" stop="20250716212500 +0800">
-    <title lang="zh">看美善學美善美善劇場(379)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716212500 +0800" stop="20250716213000 +0800">
-    <title lang="zh">大愛真健康(732)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716213000 +0800" stop="20250716220000 +0800">
-    <title lang="zh">法譬如水(223)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716220000 +0800" stop="20250716222600 +0800">
-    <title lang="zh">法譬如水(224)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716222600 +0800" stop="20250716223000 +0800">
-    <title lang="zh">仁心慧語(283)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716223000 +0800" stop="20250716224500 +0800">
-    <title lang="zh">大愛學漢醫(183)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716224500 +0800" stop="20250716230000 +0800">
-    <title lang="zh">人間菩提(9957)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716230000 +0800" stop="20250716235000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(12)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
-  <programme channel="334822" start="20250716235000 +0800" stop="20250717000000 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
-    <desc />
-    <date>2025-07-16</date>
-  </programme>
   <programme channel="334822" start="20250717000000 +0800" stop="20250717005000 +0800">
-    <title lang="zh">經典劇坊_麻豆小鎮(27)(普)</title>
+    <title lang="zh">經典劇坊_麻豆小鎮(28)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717005000 +0800" stop="20250717005500 +0800">
-    <title lang="zh">365日日素(444)(普)</title>
+    <title lang="zh">365日日素(445)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717005500 +0800" stop="20250717010000 +0800">
-    <title lang="zh">仁心慧語(283)(普)</title>
+    <title lang="zh">仁心慧語(382)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717010000 +0800" stop="20250717011500 +0800">
-    <title lang="zh">大愛地球村(2705)(普)</title>
+    <title lang="zh">大愛地球村(2713)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717011500 +0800" stop="20250717013000 +0800">
-    <title lang="zh">大愛地球村(2706)(普)</title>
+    <title lang="zh">大愛地球村(2714)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717013000 +0800" stop="20250717014500 +0800">
-    <title lang="zh">大愛地球村(2707)(普)</title>
+    <title lang="zh">大愛地球村(2715)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717014500 +0800" stop="20250717020000 +0800">
-    <title lang="zh">大愛地球村(2708)(普)</title>
+    <title lang="zh">大愛地球村(2716)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717020000 +0800" stop="20250717021500 +0800">
-    <title lang="zh">大愛地球村(2709)(普)</title>
+    <title lang="zh">大愛地球村(2717)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717021500 +0800" stop="20250717023000 +0800">
-    <title lang="zh">大愛地球村(2710)(普)</title>
+    <title lang="zh">大愛地球村(2718)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717023000 +0800" stop="20250717024500 +0800">
-    <title lang="zh">大愛地球村(2711)(普)</title>
+    <title lang="zh">大愛地球村(2719)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717024500 +0800" stop="20250717030000 +0800">
-    <title lang="zh">大愛地球村(2712)(普)</title>
+    <title lang="zh">大愛地球村(2720)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717030000 +0800" stop="20250717035000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(12)(普)</title>
+    <title lang="zh">大愛劇_假日到山裏來看你(13)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717035000 +0800" stop="20250717040000 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
+    <title lang="zh">大愛醫生館(6575)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717040000 +0800" stop="20250717043000 +0800">
-    <title lang="zh">映照人生(460)(普)</title>
+    <title lang="zh">大馬慈濟情(659)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
@@ -420,17 +80,17 @@
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717053000 +0800" stop="20250717060000 +0800">
-    <title lang="zh">法譬如水(225)(普)</title>
+    <title lang="zh">法譬如水(227)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717060000 +0800" stop="20250717063000 +0800">
-    <title lang="zh">法譬如水(226)(普)</title>
+    <title lang="zh">法譬如水(228)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717063000 +0800" stop="20250717063500 +0800">
-    <title lang="zh">大愛真健康(733)(普)</title>
+    <title lang="zh">大愛真健康(734)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
@@ -440,82 +100,82 @@
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717070500 +0800" stop="20250717071500 +0800">
-    <title lang="zh">365日日素(445)(普)</title>
+    <title lang="zh">365日日素(446)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717071500 +0800" stop="20250717073000 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
+    <title lang="zh">大愛醫生館(6575)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717073000 +0800" stop="20250717080000 +0800">
-    <title lang="zh">現代心素派(2914)(普)</title>
+    <title lang="zh">現代心素派(2915)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717080000 +0800" stop="20250717082500 +0800">
-    <title lang="zh">看美善學美善美善劇場(380)(普)</title>
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717082500 +0800" stop="20250717083000 +0800">
-    <title lang="zh">慈濟充滿愛(131)(普)</title>
+    <title lang="zh">慈濟充滿愛(112)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717083000 +0800" stop="20250717084500 +0800">
-    <title lang="zh">人間菩提(9957)(普)</title>
+    <title lang="zh">人間菩提(9958)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717084500 +0800" stop="20250717091500 +0800">
-    <title lang="zh">法譬如水(225)(普)</title>
+    <title lang="zh">法譬如水(227)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717091500 +0800" stop="20250717094500 +0800">
-    <title lang="zh">法譬如水(226)(普)</title>
+    <title lang="zh">法譬如水(228)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717094500 +0800" stop="20250717100000 +0800">
-    <title lang="zh">大愛學漢醫(183)(普)</title>
+    <title lang="zh">大愛學漢醫(184)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717100000 +0800" stop="20250717105000 +0800">
-    <title lang="zh">經典劇坊_麻豆小鎮(28)(普)</title>
+    <title lang="zh">經典劇坊_麻豆小鎮(29)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717105000 +0800" stop="20250717105500 +0800">
-    <title lang="zh">365日日素(445)(普)</title>
+    <title lang="zh">365日日素(446)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717105500 +0800" stop="20250717110000 +0800">
-    <title lang="zh">仁心慧語(283)(普)</title>
+    <title lang="zh">仁心慧語(382)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717110000 +0800" stop="20250717112400 +0800">
-    <title lang="zh">看美善學美善美善劇場(380)(普)</title>
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717112400 +0800" stop="20250717113000 +0800">
-    <title lang="zh">大愛真健康(733)(普)</title>
+    <title lang="zh">大愛真健康(734)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717113000 +0800" stop="20250717114500 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
+    <title lang="zh">大愛醫生館(6575)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717114500 +0800" stop="20250717120000 +0800">
-    <title lang="zh">人間菩提(9957)(普)</title>
+    <title lang="zh">人間菩提(9958)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
@@ -525,97 +185,97 @@
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717123000 +0800" stop="20250717131900 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(12)(普)</title>
+    <title lang="zh">大愛劇_假日到山裏來看你(13)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717131900 +0800" stop="20250717132500 +0800">
-    <title lang="zh">365日日素(445)(普)</title>
+    <title lang="zh">365日日素(446)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717132500 +0800" stop="20250717133300 +0800">
-    <title lang="zh">仁心慧語(382)(普)</title>
+    <title lang="zh">仁心慧語(352)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717133300 +0800" stop="20250717140000 +0800">
-    <title lang="zh">高僧傳(1011)(普)</title>
+    <title lang="zh">高僧傳(1012)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717140000 +0800" stop="20250717142500 +0800">
-    <title lang="zh">看美善學美善美善劇場(380)(普)</title>
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717142500 +0800" stop="20250717143000 +0800">
-    <title lang="zh">慈濟充滿愛(111)(普)</title>
+    <title lang="zh">慈濟充滿愛(137)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717143000 +0800" stop="20250717150000 +0800">
-    <title lang="zh">大愛全紀實(145)(普)</title>
+    <title lang="zh">靜心瑜伽(28)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717150000 +0800" stop="20250717153000 +0800">
-    <title lang="zh">法譬如水(225)(普)</title>
+    <title lang="zh">法譬如水(227)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717153000 +0800" stop="20250717160000 +0800">
-    <title lang="zh">法譬如水(226)(普)</title>
+    <title lang="zh">法譬如水(228)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717160000 +0800" stop="20250717165000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(12)(普)</title>
+    <title lang="zh">大愛劇_假日到山裏來看你(13)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717165000 +0800" stop="20250717170000 +0800">
-    <title lang="zh">大愛醫生館(6574)(普)</title>
+    <title lang="zh">大愛醫生館(6575)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717170000 +0800" stop="20250717173000 +0800">
-    <title lang="zh">呼叫妙博士(393)(普)</title>
+    <title lang="zh">生活裡的科學(250)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717173000 +0800" stop="20250717175400 +0800">
-    <title lang="zh">現代心素派(2915)(普)</title>
+    <title lang="zh">現代心素派(2916)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717175400 +0800" stop="20250717180000 +0800">
-    <title lang="zh">大愛真健康(733)(普)</title>
+    <title lang="zh">大愛真健康(734)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717180000 +0800" stop="20250717181500 +0800">
-    <title lang="zh">大愛學漢醫(184)(普)</title>
+    <title lang="zh">大愛學漢醫(185)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717181500 +0800" stop="20250717182000 +0800">
-    <title lang="zh">365日日素(445)(普)</title>
+    <title lang="zh">365日日素(446)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717182000 +0800" stop="20250717182500 +0800">
-    <title lang="zh">仁心慧語(382)(普)</title>
+    <title lang="zh">仁心慧語(352)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717182500 +0800" stop="20250717183000 +0800">
-    <title lang="zh">慈濟充滿愛(140)(普)</title>
+    <title lang="zh">慈濟充滿愛(131)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717183000 +0800" stop="20250717190000 +0800">
-    <title lang="zh">高僧傳(1011)(普)</title>
+    <title lang="zh">高僧傳(1012)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
@@ -625,68 +285,473 @@
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717194500 +0800" stop="20250717200000 +0800">
-    <title lang="zh">人間菩提(9958)(普)</title>
+    <title lang="zh">人間菩提(9959)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717200000 +0800" stop="20250717205000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(13)(普)</title>
+    <title lang="zh">大愛劇_假日到山裏來看你(14)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717205000 +0800" stop="20250717210100 +0800">
-    <title lang="zh">大愛醫生館(6575)(普)</title>
+    <title lang="zh">大愛醫生館(6576)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717210100 +0800" stop="20250717212500 +0800">
-    <title lang="zh">看美善學美善美善劇場(380)(普)</title>
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717212500 +0800" stop="20250717213000 +0800">
-    <title lang="zh">大愛真健康(733)(普)</title>
+    <title lang="zh">大愛真健康(734)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717213000 +0800" stop="20250717220000 +0800">
-    <title lang="zh">法譬如水(225)(普)</title>
+    <title lang="zh">法譬如水(227)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717220000 +0800" stop="20250717222600 +0800">
-    <title lang="zh">法譬如水(226)(普)</title>
+    <title lang="zh">法譬如水(228)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717222600 +0800" stop="20250717223000 +0800">
-    <title lang="zh">仁心慧語(382)(普)</title>
+    <title lang="zh">仁心慧語(352)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717223000 +0800" stop="20250717224500 +0800">
-    <title lang="zh">大愛學漢醫(184)(普)</title>
+    <title lang="zh">大愛學漢醫(185)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717224500 +0800" stop="20250717230000 +0800">
-    <title lang="zh">人間菩提(9958)(普)</title>
+    <title lang="zh">人間菩提(9959)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717230000 +0800" stop="20250717235000 +0800">
-    <title lang="zh">大愛劇_假日到山裏來看你(13)(普)</title>
+    <title lang="zh">大愛劇_假日到山裏來看你(14)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
   <programme channel="334822" start="20250717235000 +0800" stop="20250718000000 +0800">
-    <title lang="zh">大愛醫生館(6575)(普)</title>
+    <title lang="zh">大愛醫生館(6576)(普)</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
-  <programme channel="334822" start="20250718000000 +0800" stop="20250719000000 +0800">
-    <title lang="zh">經典劇坊_麻豆小鎮(28)(普)</title>
+  <programme channel="334822" start="20250718000000 +0800" stop="20250718003000 +0800">
+    <title lang="zh">人文講堂(489)(普)</title>
     <desc />
     <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718003000 +0800" stop="20250718005000 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(11)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718005000 +0800" stop="20250718005500 +0800">
+    <title lang="zh">365日日素(445)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718005500 +0800" stop="20250718010000 +0800">
+    <title lang="zh">仁心慧語(382)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718010000 +0800" stop="20250718011500 +0800">
+    <title lang="zh">大愛地球村(2713)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718011500 +0800" stop="20250718013000 +0800">
+    <title lang="zh">大愛地球村(2714)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718013000 +0800" stop="20250718014500 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(12)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718014500 +0800" stop="20250718020000 +0800">
+    <title lang="zh">大愛地球村(2716)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718020000 +0800" stop="20250718021500 +0800">
+    <title lang="zh">大愛地球村(2717)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718021500 +0800" stop="20250718023000 +0800">
+    <title lang="zh">大愛地球村(2718)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718023000 +0800" stop="20250718024500 +0800">
+    <title lang="zh">行動現場(532)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718024500 +0800" stop="20250718030000 +0800">
+    <title lang="zh">大愛地球村(2720)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718030000 +0800" stop="20250718035000 +0800">
+    <title lang="zh">青春愛讀書(371)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718035000 +0800" stop="20250718040000 +0800">
+    <title lang="zh">大愛醫生館(6575)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718040000 +0800" stop="20250718041500 +0800">
+    <title lang="zh">證嚴上人說故事(228)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718041500 +0800" stop="20250718043000 +0800">
+    <title lang="zh">365日日素(446)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718043000 +0800" stop="20250718053000 +0800">
+    <title lang="zh">法華經序HD中文版(1)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718053000 +0800" stop="20250718060000 +0800">
+    <title lang="zh">衲履足跡(1398)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718060000 +0800" stop="20250718063000 +0800">
+    <title lang="zh">生活地球村(227)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718063000 +0800" stop="20250718063500 +0800">
+    <title lang="zh">大愛真健康(730)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718063500 +0800" stop="20250718070500 +0800">
+    <title lang="zh">大愛早安新聞 LIVE(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718070500 +0800" stop="20250718071500 +0800">
+    <title lang="zh">365日日素(447)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718071500 +0800" stop="20250718073000 +0800">
+    <title lang="zh">證嚴上人說故事(228)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718073000 +0800" stop="20250718080000 +0800">
+    <title lang="zh">名人書房(64)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718080000 +0800" stop="20250718082500 +0800">
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718082500 +0800" stop="20250718083000 +0800">
+    <title lang="zh">大愛真健康(735)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718083000 +0800" stop="20250718084500 +0800">
+    <title lang="zh">人間菩提(9959)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718084500 +0800" stop="20250718091500 +0800">
+    <title lang="zh">靜心瑜伽(29)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718091500 +0800" stop="20250718094500 +0800">
+    <title lang="zh">衲履足跡(1398)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718094500 +0800" stop="20250718100000 +0800">
+    <title lang="zh">365日日素(447)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718100000 +0800" stop="20250718103000 +0800">
+    <title lang="zh">大愛真健康LIVE(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718103000 +0800" stop="20250718104500 +0800">
+    <title lang="zh">人文所思-靜美好(30)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718104500 +0800" stop="20250718105000 +0800">
+    <title lang="zh">慈濟的故事(11)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718105000 +0800" stop="20250718105500 +0800">
+    <title lang="zh">365日日素(446)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718105500 +0800" stop="20250718110000 +0800">
+    <title lang="zh">仁心慧語(382)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718110000 +0800" stop="20250718112400 +0800">
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718112400 +0800" stop="20250718113000 +0800">
+    <title lang="zh">大愛真健康(734)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718113000 +0800" stop="20250718114000 +0800">
+    <title lang="zh">大愛醫生館(6575)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718114000 +0800" stop="20250718114500 +0800">
+    <title lang="zh">大愛真健康(735)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718114500 +0800" stop="20250718120000 +0800">
+    <title lang="zh">人間菩提(9959)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718120000 +0800" stop="20250718123000 +0800">
+    <title lang="zh">大愛午安新聞 LIVE(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718123000 +0800" stop="20250718130000 +0800">
+    <title lang="zh">志為人醫守護愛2.0(155)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718130000 +0800" stop="20250718131900 +0800">
+    <title lang="zh">行動現場(533)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718131900 +0800" stop="20250718132500 +0800">
+    <title lang="zh">365日日素(446)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718132500 +0800" stop="20250718133300 +0800">
+    <title lang="zh">仁心慧語(352)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718133300 +0800" stop="20250718140000 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(11)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718140000 +0800" stop="20250718142500 +0800">
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718142500 +0800" stop="20250718143000 +0800">
+    <title lang="zh">慈濟充滿愛(137)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718143000 +0800" stop="20250718150000 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(12)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718150000 +0800" stop="20250718153000 +0800">
+    <title lang="zh">法譬如水(227)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718153000 +0800" stop="20250718160000 +0800">
+    <title lang="zh">大馬慈濟情(687)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718160000 +0800" stop="20250718161500 +0800">
+    <title lang="zh">大愛學漢醫(141)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718161500 +0800" stop="20250718162300 +0800">
+    <title lang="zh">365日日素(447)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718162300 +0800" stop="20250718163000 +0800">
+    <title lang="zh">大愛真健康(735)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718163000 +0800" stop="20250718165000 +0800">
+    <title lang="zh">映照人生(461)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718165000 +0800" stop="20250718170000 +0800">
+    <title lang="zh">大愛醫生館(6575)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718170000 +0800" stop="20250718173000 +0800">
+    <title lang="zh">草根菩提(4134)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718173000 +0800" stop="20250718175400 +0800">
+    <title lang="zh">大愛全紀實(146)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718175400 +0800" stop="20250718180000 +0800">
+    <title lang="zh">大愛真健康(734)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718180000 +0800" stop="20250718181500 +0800">
+    <title lang="zh">人文講堂(568)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718181500 +0800" stop="20250718182000 +0800">
+    <title lang="zh">365日日素(446)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718182000 +0800" stop="20250718182500 +0800">
+    <title lang="zh">仁心慧語(352)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718182500 +0800" stop="20250718183000 +0800">
+    <title lang="zh">365日日素(447)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718183000 +0800" stop="20250718190000 +0800">
+    <title lang="zh">衲履足跡(1399)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718190000 +0800" stop="20250718194500 +0800">
+    <title lang="zh">大愛夜安新聞 LIVE(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718194500 +0800" stop="20250718200000 +0800">
+    <title lang="zh">人間菩提(9960)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718200000 +0800" stop="20250718201300 +0800">
+    <title lang="zh">證嚴上人說故事(229)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718201300 +0800" stop="20250718205000 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(13)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718205000 +0800" stop="20250718210100 +0800">
+    <title lang="zh">大愛醫生館(6576)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718210100 +0800" stop="20250718210500 +0800">
+    <title lang="zh">看美善學美善美善劇場(381)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718210500 +0800" stop="20250718212500 +0800">
+    <title lang="zh">大愛迷你劇場_老人老車老朋友(14)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718212500 +0800" stop="20250718213000 +0800">
+    <title lang="zh">大愛真健康(734)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718213000 +0800" stop="20250718215500 +0800">
+    <title lang="zh">法譬如水(227)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718215500 +0800" stop="20250718220000 +0800">
+    <title lang="zh">大愛真健康(735)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718220000 +0800" stop="20250718222600 +0800">
+    <title lang="zh">志為人醫守護愛2.0(155)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718222600 +0800" stop="20250718223000 +0800">
+    <title lang="zh">仁心慧語(352)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718223000 +0800" stop="20250718224500 +0800">
+    <title lang="zh">人文所思-靜美好(32)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718224500 +0800" stop="20250718230000 +0800">
+    <title lang="zh">人間菩提(9960)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718230000 +0800" stop="20250718233000 +0800">
+    <title lang="zh">大愛全紀實(146)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718233000 +0800" stop="20250718235000 +0800">
+    <title lang="zh">行動現場(533)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250718235000 +0800" stop="20250719000000 +0800">
+    <title lang="zh">大愛醫生館(6576)(普)</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+  <programme channel="334822" start="20250719000000 +0800" stop="20250720000000 +0800">
+    <title lang="zh">人文講堂(568)(普)</title>
+    <desc />
+    <date>2025-07-19</date>
   </programme>
 </tv>
