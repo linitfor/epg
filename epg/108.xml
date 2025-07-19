@@ -1,254 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250718210259 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250718.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250718&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250719102319 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250719.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250719&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369234">
     <display-name lang="Taiwan">BBC News</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154043536929_80.jpg" />
   </channel>
-  <programme channel="369234" start="20250718000000 +0800" stop="20250718003000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718003000 +0800" stop="20250718010000 +0800">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718010000 +0800" stop="20250718013000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718013000 +0800" stop="20250718020000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718020000 +0800" stop="20250718023000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718023000 +0800" stop="20250718030000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718030000 +0800" stop="20250718033000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718033000 +0800" stop="20250718040000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718040000 +0800" stop="20250718043000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718043000 +0800" stop="20250718050000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718050000 +0800" stop="20250718053000 +0800">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718053000 +0800" stop="20250718060000 +0800">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718060000 +0800" stop="20250718070000 +0800">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718070000 +0800" stop="20250718073000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718073000 +0800" stop="20250718080000 +0800">
-    <title lang="zh">Newscast</title>
-    <desc>Lighthearted discussion of the day's news.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718080000 +0800" stop="20250718083000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718083000 +0800" stop="20250718090000 +0800">
-    <title lang="zh">The Media Show (r)</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718090000 +0800" stop="20250718093000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718093000 +0800" stop="20250718100000 +0800">
-    <title lang="zh">Tech Now (r)</title>
-    <desc>Jacqui Wakefield investigates boxing and the AI being developed to detect concussion amongst fighters; Andrew Rogers meets the competitors preparing for the Esports World Cup.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718100000 +0800" stop="20250718103000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718103000 +0800" stop="20250718110000 +0800">
-    <title lang="zh">Talking Business (r)</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718110000 +0800" stop="20250718113000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718113000 +0800" stop="20250718120000 +0800">
-    <title lang="zh">Disclosure (r)</title>
-    <desc>Kevin Keane investigates how ready Scotland is to embrace a less environmentally-damaging means of dealing with rubbish.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718120000 +0800" stop="20250718123000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718123000 +0800" stop="20250718130000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718130000 +0800" stop="20250718133000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718133000 +0800" stop="20250718140000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718140000 +0800" stop="20250718143000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718143000 +0800" stop="20250718150000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718150000 +0800" stop="20250718153000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718153000 +0800" stop="20250718160000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718160000 +0800" stop="20250718163000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718163000 +0800" stop="20250718170000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718170000 +0800" stop="20250718173000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718173000 +0800" stop="20250718180000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718180000 +0800" stop="20250718183000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718183000 +0800" stop="20250718184500 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718184500 +0800" stop="20250718190000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718190000 +0800" stop="20250718193000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718193000 +0800" stop="20250718200000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718200000 +0800" stop="20250718203000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718203000 +0800" stop="20250718210000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718210000 +0800" stop="20250718213000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718213000 +0800" stop="20250718214500 +0800">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718214500 +0800" stop="20250718220000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718220000 +0800" stop="20250718223000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718223000 +0800" stop="20250718230000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718230000 +0800" stop="20250718233000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-18</date>
-  </programme>
-  <programme channel="369234" start="20250718233000 +0800" stop="20250719000000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-18</date>
-  </programme>
   <programme channel="369234" start="20250719000000 +0800" stop="20250719003000 +0800">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
@@ -484,9 +239,229 @@
     <desc>TBA</desc>
     <date>2025-07-19</date>
   </programme>
-  <programme channel="369234" start="20250720000000 +0800" stop="20250721000000 +0800">
+  <programme channel="369234" start="20250720000000 +0800" stop="20250720010000 +0800">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720010000 +0800" stop="20250720013000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720013000 +0800" stop="20250720020000 +0800">
+    <title lang="zh">TBA (r)</title>
+    <desc>TBA</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720020000 +0800" stop="20250720023000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720023000 +0800" stop="20250720030000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720030000 +0800" stop="20250720033000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720033000 +0800" stop="20250720040000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720040000 +0800" stop="20250720050000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720050000 +0800" stop="20250720060000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720060000 +0800" stop="20250720063000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720063000 +0800" stop="20250720070000 +0800">
+    <title lang="zh">Talking Business (r)</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720070000 +0800" stop="20250720073000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720073000 +0800" stop="20250720080000 +0800">
+    <title lang="zh">The Media Show (r)</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720080000 +0800" stop="20250720083000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720083000 +0800" stop="20250720090000 +0800">
+    <title lang="zh">Abhishek Bachchan-Cricket, India and Me (r)</title>
+    <desc>Bollywood's Abhishek Bachchan has a lifelong passion for cricket. He speaks to BBC Sport's Archie Kalyana about his love for the game and involvement with the European T20 Premier League.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720090000 +0800" stop="20250720093000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720093000 +0800" stop="20250720100000 +0800">
+    <title lang="zh">Ukrainecast (r)</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720100000 +0800" stop="20250720103000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720103000 +0800" stop="20250720110000 +0800">
+    <title lang="zh">AI Decoded (r)</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720110000 +0800" stop="20250720113000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720113000 +0800" stop="20250720120000 +0800">
+    <title lang="zh">The Sycamore Gap-From Roots to Ruin (r)</title>
+    <desc>A single tree, growing in a natural dip along Hadrian's Wall in Northumberland, is destroyed overnight, and a community is left reeling. Who chopped down the tree at Sycamore Gap and why?</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720120000 +0800" stop="20250720123000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720123000 +0800" stop="20250720130000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>As Chile plans to ramp up lithium mining - a mineral crucial to the EV industry - Ione Wells explores if it can be done more sustainably.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720130000 +0800" stop="20250720133000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720133000 +0800" stop="20250720140000 +0800">
+    <title lang="zh">Talking Business (r)</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720140000 +0800" stop="20250720143000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720143000 +0800" stop="20250720150000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Reece Parkinson continues his journey through America's Deep South. In this episode, Reece heads to the city of Atlanta, Georgia, the birthplace of civil rights leader, Rev. Dr Martin Luther King Jr.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720150000 +0800" stop="20250720153000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720153000 +0800" stop="20250720160000 +0800">
+    <title lang="zh">Abhishek Bachchan-Cricket, India and Me (r)</title>
+    <desc>Bollywood's Abhishek Bachchan has a lifelong passion for cricket. He speaks to BBC Sport's Archie Kalyana about his love for the game and involvement with the European T20 Premier League.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720160000 +0800" stop="20250720170000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720170000 +0800" stop="20250720173000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720173000 +0800" stop="20250720180000 +0800">
+    <title lang="zh">AI Decoded (r)</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720180000 +0800" stop="20250720183000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720183000 +0800" stop="20250720190000 +0800">
+    <title lang="zh">The President's Path (r)</title>
+    <desc>Join Caitr甐na Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720190000 +0800" stop="20250720193000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720193000 +0800" stop="20250720200000 +0800">
+    <title lang="zh">The Media Show (r)</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720200000 +0800" stop="20250720203000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720203000 +0800" stop="20250720210000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Reece Parkinson continues his journey through America's Deep South. In this episode, Reece heads to the city of Atlanta, Georgia, the birthplace of civil rights leader, Rev. Dr Martin Luther King Jr.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720210000 +0800" stop="20250720213000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720213000 +0800" stop="20250720220000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>As Chile plans to ramp up lithium mining - a mineral crucial to the EV industry - Ione Wells explores if it can be done more sustainably.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720220000 +0800" stop="20250720223000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720223000 +0800" stop="20250720230000 +0800">
+    <title lang="zh">Influential with Katty Kay (r)</title>
+    <desc>Vera Wang tells Katty Kay about her journey from figure skating to fashion, her time at Vogue, and the creation of her bridal empire.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720230000 +0800" stop="20250720233000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250720233000 +0800" stop="20250721000000 +0800">
+    <title lang="zh">The Sycamore Gap-From Roots to Ruin (r)</title>
+    <desc>A single tree, growing in a natural dip along Hadrian's Wall in Northumberland, is destroyed overnight, and a community is left reeling. Who chopped down the tree at Sycamore Gap and why?</desc>
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="369234" start="20250721000000 +0800" stop="20250722000000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-21</date>
   </programme>
 </tv>
