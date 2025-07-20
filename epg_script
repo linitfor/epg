@@ -317,8 +317,8 @@ set tvg_id = "369182"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/68.xml
 
-# CATCHPLAY電影台
-set tvg_id = "369260"
+# CATCHPLAY HD
+set tvg_id = "334825"
 set link = "https://epg.pw/api/epg.xml?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D&date="$today"&channel_id="$tvg_id
 curl "$link" > ./epg/69.xml
 
