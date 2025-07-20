@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250720103801 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250720205711 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334902">
     <display-name lang="Taiwan">愛爾達體育2台</display-name>
     <icon src="" />
@@ -30,7 +30,7 @@
     <date>2025-07-20</date>
   </programme>
   <programme channel="334902" start="20250720043000 +0800" stop="20250720050000 +0800">
-    <title lang="zh">FIBA U19女子籃球世界盃 四強 7/20(普)</title>
+    <title lang="zh">FIBA U19女子籃球世界盃 西班牙 VS 美國 四強 7/20(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
@@ -245,7 +245,7 @@
     <date>2025-07-21</date>
   </programme>
   <programme channel="334902" start="20250721173000 +0800" stop="20250721180000 +0800">
-    <title lang="zh">英超名人堂 #6 Claude Makelele(普)</title>
+    <title lang="zh">D-LIVE  CEV歐洲沙排國家盃 女子金牌戰(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -254,13 +254,28 @@
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334902" start="20250721183000 +0800" stop="20250721200000 +0800">
+  <programme channel="334902" start="20250721183000 +0800" stop="20250721193000 +0800">
     <title lang="zh">LIVE 中華職棒 樂天 VS 味全 7/22(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334902" start="20250721200000 +0800" stop="20250721220000 +0800">
+  <programme channel="334902" start="20250721193000 +0800" stop="20250721200000 +0800">
     <title lang="zh">D-LIVE  CEV歐洲沙排國家盃 男子金牌戰(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334902" start="20250721200000 +0800" stop="20250721213000 +0800">
+    <title lang="zh">D-LIVE  CEV歐洲沙排國家盃 男子金牌戰(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334902" start="20250721213000 +0800" stop="20250721215500 +0800">
+    <title lang="zh">LIVE 體壇最前線 7/21(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334902" start="20250721215500 +0800" stop="20250721220000 +0800">
+    <title lang="zh">LIVE 世大運 跆拳道 女62/男74/女73以上/男87以上公斤級複賽 7/21(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -278,5 +293,10 @@
     <title lang="zh">D-LIVE 世大運 跆拳道 女49/男58/女67/男80公斤級決賽 7/20(普)</title>
     <desc />
     <date>2025-07-21</date>
+  </programme>
+  <programme channel="334902" start="20250722000000 +0800" stop="20250723000000 +0800">
+    <title lang="zh">世界羽球戰報第七季 #5(普)</title>
+    <desc />
+    <date>2025-07-22</date>
   </programme>
 </tv>

@@ -1,11 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250720103817 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334772/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334772&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250720205724 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334772/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334772&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334772">
     <display-name lang="Taiwan">愛爾達體育4台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334772" start="20250720010000 +0800" stop="20250720014500 +0800">
-    <title lang="zh">WTT大滿貫賽 美國站 男單決賽 張本智和VS王楚欽 7/14(普)</title>
+  <programme channel="334772" start="20250720010000 +0800" stop="20250720013000 +0800">
+    <title lang="zh">團長會客室#11 陳致傑(下)(普)</title>
+    <desc />
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="334772" start="20250720013000 +0800" stop="20250720014500 +0800">
+    <title lang="zh">英超名人堂 #4 Howard Webb(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
@@ -15,7 +20,7 @@
     <date>2025-07-20</date>
   </programme>
   <programme channel="334772" start="20250720020000 +0800" stop="20250720040000 +0800">
-    <title lang="zh">2025 袋棍球校際聯賽 國中/高中/大專組 複賽/冠軍戰(普)</title>
+    <title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
@@ -29,13 +34,23 @@
     <desc />
     <date>2025-07-20</date>
   </programme>
-  <programme channel="334772" start="20250720053000 +0800" stop="20250720070000 +0800">
+  <programme channel="334772" start="20250720053000 +0800" stop="20250720060000 +0800">
     <title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
-  <programme channel="334772" start="20250720070000 +0800" stop="20250720090000 +0800">
+  <programme channel="334772" start="20250720060000 +0800" stop="20250720070000 +0800">
+    <title lang="zh">佛光盃籃球 拓殖大學 VS Brian Kerle籃球學院(普)</title>
+    <desc />
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="334772" start="20250720070000 +0800" stop="20250720073000 +0800">
     <title lang="zh">LLB亞太區少棒資格賽 香港 VS 台灣 6/16(普)</title>
+    <desc />
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="334772" start="20250720073000 +0800" stop="20250720090000 +0800">
+    <title lang="zh">佛光盃籃球 光明大學 VS 維多利亞州隊(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
@@ -79,7 +94,12 @@
     <desc />
     <date>2025-07-20</date>
   </programme>
-  <programme channel="334772" start="20250720143000 +0800" stop="20250720160000 +0800">
+  <programme channel="334772" start="20250720143000 +0800" stop="20250720150000 +0800">
+    <title lang="zh">團長會客室#1 謝南強(普)</title>
+    <desc />
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="334772" start="20250720150000 +0800" stop="20250720160000 +0800">
     <title lang="zh">2025 CTPBA職業撞球巡迴賽 第三站 6/29(普)</title>
     <desc />
     <date>2025-07-20</date>
@@ -94,8 +114,13 @@
     <desc />
     <date>2025-07-20</date>
   </programme>
-  <programme channel="334772" start="20250720180000 +0800" stop="20250720191000 +0800">
+  <programme channel="334772" start="20250720180000 +0800" stop="20250720181500 +0800">
     <title lang="zh">WTT大滿貫賽 美國站 男單決賽 張本智和VS王楚欽 7/14(普)</title>
+    <desc />
+    <date>2025-07-20</date>
+  </programme>
+  <programme channel="334772" start="20250720181500 +0800" stop="20250720191000 +0800">
+    <title lang="zh">F1 英國站 正賽(普)</title>
     <desc />
     <date>2025-07-20</date>
   </programme>
@@ -140,7 +165,7 @@
     <date>2025-07-21</date>
   </programme>
   <programme channel="334772" start="20250721014500 +0800" stop="20250721020000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#23 美國公開賽回顧(普)</title>
+    <title lang="zh">團長會客室#2 杜元坤(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -189,8 +214,13 @@
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334772" start="20250721153000 +0800" stop="20250721155500 +0800">
+  <programme channel="334772" start="20250721153000 +0800" stop="20250721155000 +0800">
     <title lang="zh">團長會客室#12 葛吳諺明(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334772" start="20250721155000 +0800" stop="20250721155500 +0800">
+    <title lang="zh">LIVE 水上運動世錦賽 水球 女子排名賽1 7/21 (原音)(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -199,8 +229,13 @@
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334772" start="20250721160000 +0800" stop="20250721173500 +0800">
+  <programme channel="334772" start="20250721160000 +0800" stop="20250721172500 +0800">
     <title lang="zh">LIVE 水上運動世錦賽 水球 女子排名賽1 7/21 (原音)(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334772" start="20250721172500 +0800" stop="20250721173500 +0800">
+    <title lang="zh">LIVE 水上運動世錦賽 水球 女子四強1 7/21 (原音)(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -219,8 +254,13 @@
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334772" start="20250721193000 +0800" stop="20250721200000 +0800">
+  <programme channel="334772" start="20250721193000 +0800" stop="20250721195000 +0800">
     <title lang="zh">團長會客室#12 葛吳諺明(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334772" start="20250721195000 +0800" stop="20250721200000 +0800">
+    <title lang="zh">LIVE 水上運動世錦賽 水球 女子排名賽2 7/21 (原音)(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
@@ -229,8 +269,13 @@
     <desc />
     <date>2025-07-21</date>
   </programme>
-  <programme channel="334772" start="20250721201000 +0800" stop="20250721213500 +0800">
+  <programme channel="334772" start="20250721201000 +0800" stop="20250721212500 +0800">
     <title lang="zh">LIVE 世大運 競技體操 男團#2 7/22(原音)(普)</title>
+    <desc />
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="334772" start="20250721212500 +0800" stop="20250721213500 +0800">
+    <title lang="zh">LIVE 水上運動世錦賽 水球 女子四強2 7/21 (原音)(普)</title>
     <desc />
     <date>2025-07-21</date>
   </programme>
