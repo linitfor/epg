@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250720205656 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250721075318 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250721.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250721&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369288">
     <display-name lang="Taiwan">DAZN 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
   </channel>
-  <programme channel="369288" start="20250720010000 +0800" stop="20250720020000 +0800">
-    <title lang="zh">TSR 全國機車錦標賽精華</title>
-    <desc>TSR 全國機車錦標賽精華</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720020000 +0800" stop="20250720030000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720030000 +0800" stop="20250720050000 +0800">
-    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
-    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720050000 +0800" stop="20250720051500 +0800">
-    <title lang="zh">FIFA俱樂部世界盃</title>
-    <desc>FIFA俱樂部世界盃 獎盃巡迴 EP5</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720051500 +0800" stop="20250720053000 +0800">
-    <title lang="zh">FIFA俱樂部世界盃</title>
-    <desc>FIFA俱樂部世界盃 獎盃巡迴 EP6</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720053000 +0800" stop="20250720054500 +0800">
-    <title lang="zh">2025FIFA俱樂部世界盃賽事精華</title>
-    <desc>2025FIFA俱樂部世界盃賽事精華 EP12 (6/26/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720054500 +0800" stop="20250720060000 +0800">
-    <title lang="zh">2025FIFA俱樂部世界盃賽事精華</title>
-    <desc>2025FIFA俱樂部世界盃賽事精華 EP13 (6/27/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720060000 +0800" stop="20250720080000 +0800">
-    <title lang="zh">2025FIFA俱樂部世界盃</title>
-    <desc>2025FIFA俱樂部世界盃 拜仁慕尼黑 vs 波卡青年 (6/21/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720080000 +0800" stop="20250720090000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師 第六季 EP7</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720090000 +0800" stop="20250720115700 +0800">
-    <title lang="zh">2025日本職棒</title>
-    <desc>2025日本職棒 巨人 vs 阪神 (7/19/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720115700 +0800" stop="20250720150000 +0800">
-    <title lang="zh">(LIVE)2025日本職棒</title>
-    <desc>(LIVE)2025日本職棒 樂天 vs 火腿 (7/20/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720150000 +0800" stop="20250720165600 +0800">
-    <title lang="zh">2025FIFA俱樂部世界盃</title>
-    <desc>2025FIFA俱樂部世界盃 拜仁慕尼黑 vs 波卡青年 (6/21/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720165600 +0800" stop="20250720173000 +0800">
-    <title lang="zh">(LIVE)FIBA3對3大師賽</title>
-    <desc>(LIVE)FIBA3對3大師賽 香港站 四強賽</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720173000 +0800" stop="20250720174600 +0800">
-    <title lang="zh">好球特區</title>
-    <desc>好球特區 EP7</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720174600 +0800" stop="20250720182000 +0800">
-    <title lang="zh">(LIVE)FIBA3對3大師賽</title>
-    <desc>(LIVE)FIBA3對3大師賽 香港站 四強賽</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720182000 +0800" stop="20250720183600 +0800">
-    <title lang="zh">好球特區</title>
-    <desc>好球特區 EP8</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720183600 +0800" stop="20250720191000 +0800">
-    <title lang="zh">(LIVE)FIBA3對3大師賽</title>
-    <desc>(LIVE)FIBA3對3大師賽 香港站 灌籃大賽</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720191000 +0800" stop="20250720200000 +0800">
-    <title lang="zh">(LIVE)FIBA3對3大師賽</title>
-    <desc>(LIVE)FIBA3對3大師賽 香港站 冠軍賽</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720200000 +0800" stop="20250720210000 +0800">
-    <title lang="zh">巨人挑戰賽:5</title>
-    <desc>巨人挑戰賽EP5</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369288" start="20250720210000 +0800" stop="20250721000000 +0800">
-    <title lang="zh">(首)2025日本職棒</title>
-    <desc>(首)2025日本職棒 巨人 vs 阪神 (7/20/25)</desc>
-    <date>2025-07-20</date>
-  </programme>
   <programme channel="369288" start="20250721000000 +0800" stop="20250721020000 +0800">
     <title lang="zh">速度世界</title>
     <desc>速度世界</desc>
@@ -193,5 +93,85 @@
     <title lang="zh">2025日本職棒</title>
     <desc>2025日本職棒</desc>
     <date>2025-07-21</date>
+  </programme>
+  <programme channel="369288" start="20250722013000 +0800" stop="20250722020000 +0800">
+    <title lang="zh">速度世界</title>
+    <desc>速度世界</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722020000 +0800" stop="20250722030000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722030000 +0800" stop="20250722050000 +0800">
+    <title lang="zh">格鬥特區 競技空間拳擊</title>
+    <desc>格鬥特區 競技空間拳擊</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722050000 +0800" stop="20250722053000 +0800">
+    <title lang="zh">世界最強壯的男人</title>
+    <desc>世界最強壯的男人（The World's Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722053000 +0800" stop="20250722054500 +0800">
+    <title lang="zh">2025FIFA俱樂部世界盃賽事精華</title>
+    <desc>2025FIFA俱樂部世界盃賽事精華</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722054500 +0800" stop="20250722060000 +0800">
+    <title lang="zh">2025FIFA俱樂部世界盃賽事精華</title>
+    <desc>2025FIFA俱樂部世界盃賽事精華</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722060000 +0800" stop="20250722080000 +0800">
+    <title lang="zh">2025FIFA俱樂部世界盃</title>
+    <desc>FIFA俱樂部世界盃，來自六大洲的32支地表最強職業足球隊齊聚一堂，展開一場華山論劍的頂級對決！</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722080000 +0800" stop="20250722090000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722090000 +0800" stop="20250722120000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722120000 +0800" stop="20250722140000 +0800">
+    <title lang="zh">射箭世界盃馬德里站</title>
+    <desc>射箭世界盃馬德里站</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722140000 +0800" stop="20250722150000 +0800">
+    <title lang="zh">2025日職精華</title>
+    <desc>2025日職精華</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722150000 +0800" stop="20250722165700 +0800">
+    <title lang="zh">2025FIFA俱樂部世界盃</title>
+    <desc>FIFA俱樂部世界盃，來自六大洲的32支地表最強職業足球隊齊聚一堂，展開一場華山論劍的頂級對決！</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722165700 +0800" stop="20250722200000 +0800">
+    <title lang="zh">(LIVE)2025日本職棒</title>
+    <desc>(LIVE)2025日本職棒</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722200000 +0800" stop="20250722213000 +0800">
+    <title lang="zh">2025FIBA3對3亞洲盃</title>
+    <desc>2025FIBA3對3亞洲盃</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722213000 +0800" stop="20250722223000 +0800">
+    <title lang="zh">TSR 全國機車錦標賽精華</title>
+    <desc>TSR 全國機車錦標賽精華</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369288" start="20250722223000 +0800" stop="20250723000000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-07-22</date>
   </programme>
 </tv>

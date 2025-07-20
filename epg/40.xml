@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250720205657 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250720&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250721075319 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250721.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250721&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250720000000 +0800" stop="20250720013000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 MUR vs CLA</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 MUR vs CLA</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720013000 +0800" stop="20250720030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 O'SUL vs CUO</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 O'SUL vs CUO</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720030000 +0800" stop="20250720060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 決賽 WIL vs HAW</title>
-    <desc>2024-25司諾克賽季 德國名人賽 決賽 WIL vs HAW</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720060000 +0800" stop="20250720090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</title>
-    <desc>2024-25司諾克賽季 世界公開賽 第二輪(1)ALL vs LIL</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720090000 +0800" stop="20250720120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 16強 主桌 PEI vs XIN(完整)</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 16強 主桌 PEI vs XIN(完整)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720120000 +0800" stop="20250720150000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 8強 ALL vs WAK</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 8強 ALL vs WAK</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720150000 +0800" stop="20250720180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 16強 主桌 PEI vs XIN(完整)</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 16強 主桌 PEI vs XIN(完整)</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720180000 +0800" stop="20250720210000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 決賽HIG vs O'CON</title>
-    <desc>2024-25司諾克賽季 世界公開賽 決賽HIG vs O'CON</desc>
-    <date>2025-07-20</date>
-  </programme>
-  <programme channel="369235" start="20250720210000 +0800" stop="20250721000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 16強 主桌 SI vs WOO(完整)</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 16強 主桌 SI vs WOO(完整)</desc>
-    <date>2025-07-20</date>
-  </programme>
   <programme channel="369235" start="20250721000000 +0800" stop="20250721030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 8強 SEL vs SIN</title>
     <desc>2024-25司諾克賽季 英格蘭公開賽 8強 SEL vs SIN</desc>
@@ -89,9 +44,59 @@
     <desc>2024-25司諾克賽季 世界錦標賽 16強 主桌 SUL vs JUN(完整)</desc>
     <date>2025-07-21</date>
   </programme>
-  <programme channel="369235" start="20250722000000 +0800" stop="20250723000000 +0800">
+  <programme channel="369235" start="20250722000000 +0800" stop="20250722013000 +0800">
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs GRA</title>
     <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs GRA</desc>
     <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722013000 +0800" stop="20250722030000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs WOO</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs WOO</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722030000 +0800" stop="20250722060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722060000 +0800" stop="20250722090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 第三輪(1)TRU vs O'CON</title>
+    <desc>2024-25司諾克賽季 世界公開賽 第三輪(1)TRU vs O'CON</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722090000 +0800" stop="20250722120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722120000 +0800" stop="20250722133000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs GRA</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs GRA</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722133000 +0800" stop="20250722150000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs WOO</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs WOO</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722150000 +0800" stop="20250722180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 第一輪 主桌 JON vs XIN(前五局無英文音)</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722180000 +0800" stop="20250722210000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</title>
+    <desc>2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250722210000 +0800" stop="20250723000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界錦標賽 第一輪 主桌 O'SUL vs CAR</title>
+    <desc>2024-25司諾克賽季 世界錦標賽 第一輪 主桌 O'SUL vs CAR</desc>
+    <date>2025-07-22</date>
+  </programme>
+  <programme channel="369235" start="20250723000000 +0800" stop="20250724000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第二輪 ALL vs LYU</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第二輪 ALL vs LYU</desc>
+    <date>2025-07-23</date>
   </programme>
 </tv>
