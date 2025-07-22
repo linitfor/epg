@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250721210319 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250721.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250721&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250722102825 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250722.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250722&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250721020000 +0800" stop="20250721030000 +0800">
-    <title lang="zh">2025鐵人三項世界巡迴賽溫哥華站 精華</title>
-    <desc>2025鐵人三項世界巡迴賽溫哥華站 精華</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721030000 +0800" stop="20250721053000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第六周臺北台產熊讚vs 兆基穿山甲</title>
-    <desc>2025企業女子壘球聯賽第六周臺北台產熊讚vs 兆基穿山甲</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721053000 +0800" stop="20250721080000 +0800">
-    <title lang="zh">2025歐冠男排聯賽季軍戰哈克銀行 vs 亞斯琴布斯基</title>
-    <desc>2025歐冠男排聯賽季軍戰哈克銀行 vs 亞斯琴布斯基</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721080000 +0800" stop="20250721130000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽第一輪FOG vs ALC</title>
-    <desc>2025溫布頓網球錦標賽第一輪FOG vs ALC</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721130000 +0800" stop="20250721140000 +0800">
-    <title lang="zh">2025溫網第1天精華</title>
-    <desc>2025溫網第1天精華</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721140000 +0800" stop="20250721163000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第五周臺北台產熊讚vs 兆基穿山甲</title>
-    <desc>2025企業女子壘球聯賽第五周臺北台產熊讚vs 兆基穿山甲</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721163000 +0800" stop="20250721190000 +0800">
-    <title lang="zh">2025歐冠男排聯賽季軍戰哈克銀行 vs 亞斯琴布斯基</title>
-    <desc>2025歐冠男排聯賽季軍戰哈克銀行 vs 亞斯琴布斯基</desc>
-    <date>2025-07-21</date>
-  </programme>
-  <programme channel="369230" start="20250721190000 +0800" stop="20250722000000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽第一輪RIN vs ZVE</title>
-    <desc>2025溫布頓網球錦標賽第一輪RIN vs ZVE</desc>
-    <date>2025-07-21</date>
-  </programme>
   <programme channel="369230" start="20250722000000 +0800" stop="20250722080000 +0800">
     <title lang="zh">2025美國公開賽第一天</title>
     <desc>2025美國公開賽第一天</desc>
@@ -94,9 +54,29 @@
     <desc>2025溫網第9天精華</desc>
     <date>2025-07-22</date>
   </programme>
-  <programme channel="369230" start="20250723000000 +0800" stop="20250724000000 +0800">
+  <programme channel="369230" start="20250723000000 +0800" stop="20250723080000 +0800">
     <title lang="zh">2025美國公開賽第二天</title>
     <desc>2025美國公開賽第二天</desc>
+    <date>2025-07-23</date>
+  </programme>
+  <programme channel="369230" start="20250723080000 +0800" stop="20250723113000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽女單八強SBA vs SIE</title>
+    <desc>2025溫布頓網球錦標賽女單八強SBA vs SIE</desc>
+    <date>2025-07-23</date>
+  </programme>
+  <programme channel="369230" start="20250723113000 +0800" stop="20250723193000 +0800">
+    <title lang="zh">2025美國公開賽第三天</title>
+    <desc>2025美國公開賽第三天</desc>
+    <date>2025-07-23</date>
+  </programme>
+  <programme channel="369230" start="20250723193000 +0800" stop="20250723230000 +0800">
+    <title lang="zh">首播2025中華職棒場次182中信兄弟 vs台鋼雄鷹</title>
+    <desc>首播2025中華職棒場次182中信兄弟 vs台鋼雄鷹</desc>
+    <date>2025-07-23</date>
+  </programme>
+  <programme channel="369230" start="20250723230000 +0800" stop="20250724000000 +0800">
+    <title lang="zh">2025歐冠男排聯賽八強 LEG2亞斯琴布斯基 vs 奧林匹亞科斯</title>
+    <desc>2025歐冠男排聯賽八強 LEG2亞斯琴布斯基 vs 奧林匹亞科斯</desc>
     <date>2025-07-23</date>
   </programme>
 </tv>
