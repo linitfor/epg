@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250724210404 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250724.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250724&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250725102827 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369213/20250725.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369213&amp;date=20250725&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369213">
     <display-name lang="Taiwan">博斯高球2台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155209866861_10.jpg" />
   </channel>
-  <programme channel="369213" start="20250724000000 +0800" stop="20250724060000 +0800">
-    <title lang="zh">2025 LPGA愛維養錦標賽第三天</title>
-    <desc>2025 LPGA愛維養錦標賽第三天</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="369213" start="20250724060000 +0800" stop="20250724123000 +0800">
-    <title lang="zh">2024 TLPGA緯創女子公開賽第四天</title>
-    <desc>2024 TLPGA緯創女子公開賽第四天</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="369213" start="20250724123000 +0800" stop="20250724173000 +0800">
-    <title lang="zh">2025 LPGA本田泰國賽第三天</title>
-    <desc>2025 LPGA本田泰國賽第三天</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="369213" start="20250724173000 +0800" stop="20250724213000 +0800">
-    <title lang="zh">2025 亞巡科隆韓國公開賽第四天</title>
-    <desc>2025 亞巡科隆韓國公開賽第四天</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="369213" start="20250724213000 +0800" stop="20250725000000 +0800">
-    <title lang="zh">2025 LPGA紹普萊特菁英賽第三天</title>
-    <desc>2025 LPGA紹普萊特菁英賽第三天</desc>
-    <date>2025-07-24</date>
-  </programme>
   <programme channel="369213" start="20250725000000 +0800" stop="20250725060000 +0800">
     <title lang="zh">2025 LPGA愛維養錦標賽第四天</title>
     <desc>2025 LPGA愛維養錦標賽第四天</desc>
@@ -54,9 +29,39 @@
     <desc>2025 LPGA美國女子公開賽第一天</desc>
     <date>2025-07-25</date>
   </programme>
-  <programme channel="369213" start="20250726000000 +0800" stop="20250727000000 +0800">
+  <programme channel="369213" start="20250726000000 +0800" stop="20250726020000 +0800">
     <title lang="zh">2025奧古斯塔女子業餘賽第一天</title>
     <desc>2025奧古斯塔女子業餘賽第一天</desc>
     <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250726020000 +0800" stop="20250726060000 +0800">
+    <title lang="zh">2025 亞巡日本國際亞巡賽第一天</title>
+    <desc>2025 亞巡日本國際亞巡賽第一天</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250726060000 +0800" stop="20250726083000 +0800">
+    <title lang="zh">2025 LPGA福特錦標賽第二天</title>
+    <desc>2025 LPGA福特錦標賽第二天</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250726083000 +0800" stop="20250726123000 +0800">
+    <title lang="zh">2024 TLPGA台灣大哥大女子公開賽最終回合</title>
+    <desc>2024 TLPGA台灣大哥大女子公開賽最終回合</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250726123000 +0800" stop="20250726160000 +0800">
+    <title lang="zh">2025 亞巡印度國際亞巡賽第一天</title>
+    <desc>2025 亞巡印度國際亞巡賽第一天</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250726160000 +0800" stop="20250727000000 +0800">
+    <title lang="zh">2025 LPGA美國女子公開賽第二天</title>
+    <desc>2025 LPGA美國女子公開賽第二天</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="369213" start="20250727000000 +0800" stop="20250728000000 +0800">
+    <title lang="zh">2025奧古斯塔女子業餘賽第二天</title>
+    <desc>2025奧古斯塔女子業餘賽第二天</desc>
+    <date>2025-07-27</date>
   </programme>
 </tv>
