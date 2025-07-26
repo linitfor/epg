@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250725210252 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250725.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250725&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250726102323 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250726.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250726&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250725033000 +0800" stop="20250725060000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽八強</title>
-    <desc>2025溫布頓網球錦標賽八強</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369230" start="20250725060000 +0800" stop="20250725083000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第五周中華U18 vs臺北台產熊讚</title>
-    <desc>2025企業女子壘球聯賽第五周中華U18 vs臺北台產熊讚</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369230" start="20250725083000 +0800" stop="20250725110000 +0800">
-    <title lang="zh">2025歐冠男排聯賽八強 LEG2佩魯賈 vs 義大利蒙札</title>
-    <desc>2025歐冠男排聯賽八強 LEG2佩魯賈 vs 義大利蒙札</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369230" start="20250725110000 +0800" stop="20250725133000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽八強</title>
-    <desc>2025溫布頓網球錦標賽八強</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369230" start="20250725133000 +0800" stop="20250726000000 +0800">
-    <title lang="zh">LIVE2025英國公開賽第二天</title>
-    <desc>LIVE2025英國公開賽第二天</desc>
-    <date>2025-07-25</date>
-  </programme>
   <programme channel="369230" start="20250726033000 +0800" stop="20250726040000 +0800">
     <title lang="zh">網球雜誌</title>
     <desc>網球雜誌</desc>
@@ -68,5 +43,60 @@
     <title lang="zh">LIVE2025英國公開賽第三天</title>
     <desc>LIVE2025英國公開賽第三天</desc>
     <date>2025-07-26</date>
+  </programme>
+  <programme channel="369230" start="20250727030000 +0800" stop="20250727033000 +0800">
+    <title lang="zh">女壘周報 第5集</title>
+    <desc>女壘周報 第5集</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727033000 +0800" stop="20250727063000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽決賽</title>
+    <desc>2025溫布頓網球錦標賽決賽</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727063000 +0800" stop="20250727090000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第六周新世紀黃蜂vs 中華U18</title>
+    <desc>2025企業女子壘球聯賽第六周新世紀黃蜂vs 中華U18</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727090000 +0800" stop="20250727120000 +0800">
+    <title lang="zh">2025歐冠男排聯賽四強亞斯琴布斯基 vs 扎維爾切</title>
+    <desc>2025歐冠男排聯賽四強亞斯琴布斯基 vs 扎維爾切</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727120000 +0800" stop="20250727150000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽決賽</title>
+    <desc>2025溫布頓網球錦標賽決賽</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727150000 +0800" stop="20250727160000 +0800">
+    <title lang="zh">2025溫網第14天精華</title>
+    <desc>2025溫網第14天精華</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727160000 +0800" stop="20250727170000 +0800">
+    <title lang="zh">LIVE2025英國公開賽第四天</title>
+    <desc>LIVE2025英國公開賽第四天</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727170000 +0800" stop="20250727173000 +0800">
+    <title lang="zh">女壘週報 第8集</title>
+    <desc>女壘週報 第8集</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727173000 +0800" stop="20250727190000 +0800">
+    <title lang="zh">2025台北羽球公開賽女單32強林湘緹 vs CHO</title>
+    <desc>2025台北羽球公開賽女單32強林湘緹 vs CHO</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727190000 +0800" stop="20250727213000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽第三輪STR vs ALC</title>
+    <desc>2025溫布頓網球錦標賽第三輪STR vs ALC</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369230" start="20250727213000 +0800" stop="20250728000000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第八周福添福嘉南鷹vs 新世紀黃蜂</title>
+    <desc>2025企業女子壘球聯賽第八周福添福嘉南鷹vs 新世紀黃蜂</desc>
+    <date>2025-07-27</date>
   </programme>
 </tv>

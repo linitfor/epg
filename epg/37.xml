@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250725210249 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250725.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250725&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250726102321 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250726.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250726&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369287">
     <display-name lang="Taiwan">緯來體育台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png" />
   </channel>
-  <programme channel="369287" start="20250725000000 +0800" stop="20250725003000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725003000 +0800" stop="20250725023000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725023000 +0800" stop="20250725030000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725030000 +0800" stop="20250725050000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725050000 +0800" stop="20250725070000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725070000 +0800" stop="20250725073000 +0800">
-    <title lang="zh">用心看體育-籃球話事人 (調整)</title>
-    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725073000 +0800" stop="20250725080000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725080000 +0800" stop="20250725100000 +0800">
-    <title lang="zh">2025 NBA夏季聯盟 LIVE</title>
-    <desc>NBA每年在選秀結束後不久，為進入聯盟3年以內的球員和新人舉行的聯賽，緯來體育台將帶來NBA夏季聯盟的賽事，一起來挖掘NBA潛力股吧！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725100000 +0800" stop="20250725103000 +0800">
-    <title lang="zh">用心看體育-籃球話事人 (調整)</title>
-    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725103000 +0800" stop="20250725123000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725123000 +0800" stop="20250725130000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725130000 +0800" stop="20250725150000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽 LIVE</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725150000 +0800" stop="20250725170000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽 LIVE</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725170000 +0800" stop="20250725190000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽 LIVE</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725190000 +0800" stop="20250725210000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽 LIVE</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725210000 +0800" stop="20250725213000 +0800">
-    <title lang="zh">用心看體育-籃球話事人 (調整)</title>
-    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725213000 +0800" stop="20250725220000 +0800">
-    <title lang="zh">緯來運動STUDIO LIVE</title>
-    <desc>緯來運動STUDIO LIVE</desc>
-    <date>2025-07-25</date>
-  </programme>
-  <programme channel="369287" start="20250725220000 +0800" stop="20250726000000 +0800">
-    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
-    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
-    <date>2025-07-25</date>
-  </programme>
   <programme channel="369287" start="20250726000000 +0800" stop="20250726003000 +0800">
     <title lang="zh">緯來運動STUDIO</title>
     <desc>緯來運動STUDIO</desc>
@@ -184,7 +94,112 @@
     <desc>2025中華職棒明星賽暨戰技挑戰賽</desc>
     <date>2025-07-26</date>
   </programme>
-  <programme channel="369287" start="20250727000000 +0800" stop="20250728000000 +0800">
+  <programme channel="369287" start="20250727000000 +0800" stop="20250727033000 +0800">
+    <title lang="zh">2025中華職棒明星賽暨戰技挑戰賽</title>
+    <desc>2025中華職棒明星賽暨戰技挑戰賽</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727033000 +0800" stop="20250727040000 +0800">
+    <title lang="zh">用心看體育-籃球話事人 (調整)</title>
+    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727040000 +0800" stop="20250727043000 +0800">
+    <title lang="zh">用心看體育-籃球話事人 (調整)</title>
+    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727043000 +0800" stop="20250727060000 +0800">
+    <title lang="zh">2025威廉瓊斯盃國際籃球賽</title>
+    <desc>威廉瓊斯盃廣邀各國籃球好手齊聚一堂，場上激烈交鋒，感受熱血賽事氛圍，看中華隊為榮耀全力以赴、贏得喝采！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727060000 +0800" stop="20250727090000 +0800">
+    <title lang="zh">2025 MLB美國職棒 LIVE</title>
+    <desc>MLB火熱開打！各隊火力全開，盼能優先打下好基礎，以利挑戰進入最終決賽，精采刺激的賽事，請棒球迷繼續鎖定緯來體育台！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727090000 +0800" stop="20250727120000 +0800">
+    <title lang="zh">2025 MLB美國職棒 LIVE</title>
+    <desc>MLB火熱開打！各隊火力全開，盼能優先打下好基礎，以利挑戰進入最終決賽，精采刺激的賽事，請棒球迷繼續鎖定緯來體育台！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727120000 +0800" stop="20250727123000 +0800">
+    <title lang="zh">請看VCR (調整)</title>
+    <desc>請看VCR (調整)</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727123000 +0800" stop="20250727130000 +0800">
+    <title lang="zh">緯來運動STUDIO</title>
+    <desc>緯來運動STUDIO</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727130000 +0800" stop="20250727133000 +0800">
+    <title lang="zh">用心看體育-籃球話事人</title>
+    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727133000 +0800" stop="20250727140000 +0800">
+    <title lang="zh">請看VCR</title>
+    <desc>請看VCR</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727140000 +0800" stop="20250727150000 +0800">
+    <title lang="zh">2025中華職棒明星賽暨戰技挑戰賽 LIVE</title>
+    <desc>2025中華職棒明星賽暨戰技挑戰賽 LIVE</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727150000 +0800" stop="20250727190000 +0800">
+    <title lang="zh">2025中華職棒明星賽暨戰技挑戰賽 LIVE</title>
+    <desc>2025中華職棒明星賽暨戰技挑戰賽 LIVE</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727190000 +0800" stop="20250727191500 +0800">
+    <title lang="zh">2025中職明星賽-賽後演唱會 LIVE</title>
+    <desc>2025中職明星賽-賽後演唱會 LIVE</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727191500 +0800" stop="20250727193000 +0800">
+    <title lang="zh">請看VCR (調整)</title>
+    <desc>請看VCR (調整)</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727193000 +0800" stop="20250727200000 +0800">
+    <title lang="zh">請看VCR (調整)</title>
+    <desc>請看VCR (調整)</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727200000 +0800" stop="20250727203000 +0800">
+    <title lang="zh">2025棒球週報 (調整)</title>
+    <desc>全新的棒球週報！將針對各種大型賽事推出不同類型的特別專題，深入球員私底下的生活與訓練，帶給觀眾更加新鮮有趣的內容，棒球賽事的廣大粉絲千萬不能錯過！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727203000 +0800" stop="20250727210000 +0800">
+    <title lang="zh">2025棒球週報</title>
+    <desc>全新的棒球週報！將針對各種大型賽事推出不同類型的特別專題，深入球員私底下的生活與訓練，帶給觀眾更加新鮮有趣的內容，棒球賽事的廣大粉絲千萬不能錯過！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727210000 +0800" stop="20250727213000 +0800">
+    <title lang="zh">用心看體育-籃球話事人</title>
+    <desc>在籃球的地盤上，話事人說了算！不管是麻辣指數破表的話題，還是酸度趨近於零的發言，各種不為人知的貓膩祕辛，你不知道沒關係，就讓【籃球話事人】告訴你。</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727213000 +0800" stop="20250727220000 +0800">
+    <title lang="zh">緯來運動STUDIO LIVE</title>
+    <desc>緯來運動STUDIO LIVE</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727220000 +0800" stop="20250727223000 +0800">
+    <title lang="zh">2025棒球週報</title>
+    <desc>全新的棒球週報！將針對各種大型賽事推出不同類型的特別專題，深入球員私底下的生活與訓練，帶給觀眾更加新鮮有趣的內容，棒球賽事的廣大粉絲千萬不能錯過！</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727223000 +0800" stop="20250727233000 +0800">
+    <title lang="zh">2025中華職棒明星賽暨戰技挑戰賽</title>
+    <desc>2025中華職棒明星賽暨戰技挑戰賽</desc>
+    <date>2025-07-27</date>
+  </programme>
+  <programme channel="369287" start="20250727233000 +0800" stop="20250728000000 +0800">
     <title lang="zh">2025中華職棒明星賽暨戰技挑戰賽</title>
     <desc>2025中華職棒明星賽暨戰技挑戰賽</desc>
     <date>2025-07-27</date>
