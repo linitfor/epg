@@ -1,104 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250726205716 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334832/20250726.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334832&amp;date=20250726&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250727103926 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334832/20250727.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334832&amp;date=20250727&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334832">
     <display-name lang="Taiwan">愛爾達體育1台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334832" start="20250726000000 +0800" stop="20250726003000 +0800">
-    <title lang="zh">世大運 林芳安/李羽芸 網球 女雙決賽 7/25(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726003000 +0800" stop="20250726005500 +0800">
-    <title lang="zh">MLB好球連發#14 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726005500 +0800" stop="20250726020000 +0800">
-    <title lang="zh">LIVE 世大運 競技體操 女子單項決賽 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726020000 +0800" stop="20250726023000 +0800">
-    <title lang="zh">體壇最前線 7/25(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726023000 +0800" stop="20250726030000 +0800">
-    <title lang="zh">中華職棒 中信 VS 統一 7/25(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726030000 +0800" stop="20250726040000 +0800">
-    <title lang="zh">MLB 大都會 VS 巨人 例行賽 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726040000 +0800" stop="20250726050000 +0800">
-    <title lang="zh">中華職棒 中信 VS 統一 7/25(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726050000 +0800" stop="20250726053000 +0800">
-    <title lang="zh">F1 比利時站 衝刺排位賽(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726053000 +0800" stop="20250726060000 +0800">
-    <title lang="zh">MLB好球連發#10 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726060000 +0800" stop="20250726063000 +0800">
-    <title lang="zh">MLB好球連發#11 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726063000 +0800" stop="20250726070000 +0800">
-    <title lang="zh">體壇最前線 7/25 (新)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726070000 +0800" stop="20250726100000 +0800">
-    <title lang="zh">LIVE MLB 道奇 VS 紅襪 例行賽 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726100000 +0800" stop="20250726130000 +0800">
-    <title lang="zh">LIVE MLB 大都會 VS 巨人 例行賽 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726130000 +0800" stop="20250726141000 +0800">
-    <title lang="zh">2025 WEC世界耐久錦標賽特輯#5 - 聖保羅6小時 (新)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726141000 +0800" stop="20250726160000 +0800">
-    <title lang="zh">世大運 林芳安/李羽芸 網球 女雙決賽 7/25(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726160000 +0800" stop="20250726190000 +0800">
-    <title lang="zh">LIVE 中華職棒 中信 VS 統一 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726190000 +0800" stop="20250726203000 +0800">
-    <title lang="zh">LIVE 世大運 羽球 單打/雙打決賽 7/26(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726203000 +0800" stop="20250726233000 +0800">
-    <title lang="zh">LIVE F1 比利時站 正賽(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
-  <programme channel="334832" start="20250726233000 +0800" stop="20250727000000 +0800">
-    <title lang="zh">體壇最前線 7/27 (新)(普)</title>
-    <desc />
-    <date>2025-07-26</date>
-  </programme>
   <programme channel="334832" start="20250727000000 +0800" stop="20250727003000 +0800">
     <title lang="zh">體壇最前線 7/26 (新)(普)</title>
     <desc />
@@ -209,9 +114,79 @@
     <desc />
     <date>2025-07-27</date>
   </programme>
-  <programme channel="334832" start="20250728000000 +0800" stop="20250729000000 +0800">
+  <programme channel="334832" start="20250728000000 +0800" stop="20250728010000 +0800">
     <title lang="zh">世大運 中國VS中華 桌球 男團決賽(精華版)(普)</title>
     <desc />
     <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728010000 +0800" stop="20250728013000 +0800">
+    <title lang="zh">體壇最前線 7/27(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728013000 +0800" stop="20250728040000 +0800">
+    <title lang="zh">LIVE MLB 道奇 VS 紅襪 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728040000 +0800" stop="20250728070000 +0800">
+    <title lang="zh">LIVE MLB 大都會 VS 巨人 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728070000 +0800" stop="20250728073000 +0800">
+    <title lang="zh">體壇最前線 7/27(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728073000 +0800" stop="20250728100000 +0800">
+    <title lang="zh">MLB 道奇 VS 紅襪 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728100000 +0800" stop="20250728103000 +0800">
+    <title lang="zh">體壇最前線 7/27(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728103000 +0800" stop="20250728130000 +0800">
+    <title lang="zh">MLB 大都會 VS 巨人 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728130000 +0800" stop="20250728133000 +0800">
+    <title lang="zh">體壇最前線 7/27(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728133000 +0800" stop="20250728160000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 味全 7/26(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728160000 +0800" stop="20250728183000 +0800">
+    <title lang="zh">MLB 大都會 VS 巨人 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728183000 +0800" stop="20250728210000 +0800">
+    <title lang="zh">MLB 道奇 VS 紅襪 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728210000 +0800" stop="20250728233000 +0800">
+    <title lang="zh">MLB 大都會 VS 巨人 例行賽 7/28(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250728233000 +0800" stop="20250729000000 +0800">
+    <title lang="zh">體壇最前線 7/28 (新)(普)</title>
+    <desc />
+    <date>2025-07-28</date>
+  </programme>
+  <programme channel="334832" start="20250729000000 +0800" stop="20250730000000 +0800">
+    <title lang="zh">溫網 第13日精華 7/13(普)</title>
+    <desc />
+    <date>2025-07-29</date>
   </programme>
 </tv>
