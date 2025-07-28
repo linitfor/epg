@@ -1,179 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250727205917 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369321/20250727.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369321&amp;date=20250727&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250728103553 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369321/20250728.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369321&amp;date=20250728&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369321">
     <display-name lang="Taiwan">CNN</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611150128128782_75.png" />
   </channel>
-  <programme channel="369321" start="20250727000000 +0800" stop="20250727003000 +0800">
-    <title lang="zh">World Sport</title>
-    <desc>World Sport: Saturday, July 26, 2025 12pm ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727003000 +0800" stop="20250727010000 +0800">
-    <title lang="zh">Quest's World of Wonder</title>
-    <desc>Quest's World of Wonder: Marmaris, Turkey</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727010000 +0800" stop="20250727020000 +0800">
-    <title lang="zh">CNN Newsroom (CNN/US)</title>
-    <desc>CNN Newsroom (CNN/US): Saturday, July 26, 2025 1PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727020000 +0800" stop="20250727030000 +0800">
-    <title lang="zh">CNN Newsroom (CNN/US)</title>
-    <desc>CNN Newsroom (CNN/US): Saturday, July 26, 2025 2PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727030000 +0800" stop="20250727040000 +0800">
-    <title lang="zh">The Whole Story with Anderson Cooper</title>
-    <desc>The Whole Story with Anderson Cooper: Live Music &amp; Climate Change (wt)</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727040000 +0800" stop="20250727050000 +0800">
-    <title lang="zh">CNN Newsroom (CNN/US)</title>
-    <desc>CNN Newsroom (CNN/US): Saturday, July 26, 2025 4PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727050000 +0800" stop="20250727053000 +0800">
-    <title lang="zh">World Sport</title>
-    <desc>World Sport: Saturday, July 26, 2025 5pm ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727053000 +0800" stop="20250727060000 +0800">
-    <title lang="zh">Inside Africa</title>
-    <desc>Inside Africa: Inside Africa LIAFR704</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727060000 +0800" stop="20250727070000 +0800">
-    <title lang="zh">CNN Newsroom (CNN/US)</title>
-    <desc>CNN Newsroom (CNN/US): Saturday, July 26, 2025 6PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727070000 +0800" stop="20250727080000 +0800">
-    <title lang="zh">CNN Newsroom (CNN/US)</title>
-    <desc>CNN Newsroom (CNN/US): Saturday, July 26, 2025 7PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727080000 +0800" stop="20250727090000 +0800">
-    <title lang="zh">AC360 Weekend</title>
-    <desc>AC360 Weekend: Saturday, July 26, 2025 8PM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727090000 +0800" stop="20250727093000 +0800">
-    <title lang="zh">World Sport</title>
-    <desc>World Sport: Saturday, July 26, 2025 5pm ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727093000 +0800" stop="20250727100000 +0800">
-    <title lang="zh">One Square Meter</title>
-    <desc>One Square Meter: Abu Dhabi</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727100000 +0800" stop="20250727103000 +0800">
-    <title lang="zh">Inside Africa</title>
-    <desc>Inside Africa: Inside Africa LIAFR704</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727103000 +0800" stop="20250727110000 +0800">
-    <title lang="zh">African Voices Changemakers</title>
-    <desc>African Voices Changemakers: African Voices Changemakers LAVCM211</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727110000 +0800" stop="20250727113000 +0800">
-    <title lang="zh">Connecting Africa</title>
-    <desc>Connecting Africa: Transforming Africa's Fintech Sector</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727113000 +0800" stop="20250727120000 +0800">
-    <title lang="zh">Marketplace Africa</title>
-    <desc>Marketplace Africa: Marketplace Africa July 2025/Marketplace Europe: VivaTech Paris</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727120000 +0800" stop="20250727123000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 12am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727123000 +0800" stop="20250727130000 +0800">
-    <title lang="zh">World Sport</title>
-    <desc>World Sport: Saturday, July 26, 2025 5pm ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727130000 +0800" stop="20250727133000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 1am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727133000 +0800" stop="20250727140000 +0800">
-    <title lang="zh">Inside Africa</title>
-    <desc>Inside Africa: Inside Africa LIAFR704</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727140000 +0800" stop="20250727143000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 2am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727143000 +0800" stop="20250727150000 +0800">
-    <title lang="zh">Marketplace Africa</title>
-    <desc>Marketplace Africa: Marketplace Africa July 2025/Marketplace Europe: VivaTech Paris</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727150000 +0800" stop="20250727153000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 3am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727153000 +0800" stop="20250727160000 +0800">
-    <title lang="zh">Inside Africa</title>
-    <desc>Inside Africa: Maram Kaire: Making Senegal a Space Nation</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727160000 +0800" stop="20250727170000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 4am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727170000 +0800" stop="20250727180000 +0800">
-    <title lang="zh">CNN Newsroom</title>
-    <desc>CNN Newsroom: Sunday, July 27, 2025 5am ET</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727180000 +0800" stop="20250727183000 +0800">
-    <title lang="zh">Connecting Africa</title>
-    <desc>Connecting Africa: Transforming Africa's Fintech Sector</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727183000 +0800" stop="20250727190000 +0800">
-    <title lang="zh">Inside Africa</title>
-    <desc>Inside Africa: Inside Africa LIAFR704</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727190000 +0800" stop="20250727200000 +0800">
-    <title lang="zh">CNN This Morning Weekend</title>
-    <desc>CNN This Morning Weekend: Sunday, July 27, 2025 7AM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727200000 +0800" stop="20250727210000 +0800">
-    <title lang="zh">Inside Politics</title>
-    <desc>Inside Politics: Sunday, July 27, 2025 8AM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727210000 +0800" stop="20250727220000 +0800">
-    <title lang="zh">State of the Union</title>
-    <desc>State of the Union: Sunday, July 27, 2025 9AM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727220000 +0800" stop="20250727230000 +0800">
-    <title lang="zh">Fareed Zakaria GPS</title>
-    <desc>Fareed Zakaria GPS: Sunday, July 27, 2025 10AM</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="369321" start="20250727230000 +0800" stop="20250728000000 +0800">
-    <title lang="zh">Inside Politics</title>
-    <desc>Inside Politics: Sunday, July 27, 2025 8AM</desc>
-    <date>2025-07-27</date>
-  </programme>
   <programme channel="369321" start="20250728000000 +0800" stop="20250728003000 +0800">
     <title lang="zh">World Sport</title>
     <desc>World Sport: Sunday, July 27, 2025 12pm ET</desc>
@@ -339,9 +169,159 @@
     <desc>One World: Monday, July 28, 2025 11am ET</desc>
     <date>2025-07-28</date>
   </programme>
-  <programme channel="369321" start="20250729000000 +0800" stop="20250730000000 +0800">
+  <programme channel="369321" start="20250729000000 +0800" stop="20250729003000 +0800">
     <title lang="zh">One World</title>
     <desc>One World: Monday, July 28, 2025 12pm ET</desc>
     <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729003000 +0800" stop="20250729010000 +0800">
+    <title lang="zh">One World</title>
+    <desc>One World: Monday, July 28, 2025 12pm ET/African Voices Changemakers: African Voices Changemakers LAVCM211A</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729010000 +0800" stop="20250729020000 +0800">
+    <title lang="zh">Amanpour</title>
+    <desc>Amanpour: Monday, July 28, 2025 1pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729020000 +0800" stop="20250729030000 +0800">
+    <title lang="zh">Isa Soares Tonight</title>
+    <desc>Isa Soares Tonight: Monday, July 28, 2025 2pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729030000 +0800" stop="20250729040000 +0800">
+    <title lang="zh">What We Know with Max Foster</title>
+    <desc>What We Know with Max Foster: Monday, July 28, 2025 3pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729040000 +0800" stop="20250729050000 +0800">
+    <title lang="zh">Quest Means Business</title>
+    <desc>Quest Means Business: Monday, July 28, 2025 4pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729050000 +0800" stop="20250729053000 +0800">
+    <title lang="zh">The Lead</title>
+    <desc>The Lead: Monday, July 28, 2025 5PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729053000 +0800" stop="20250729060000 +0800">
+    <title lang="zh">World Sport</title>
+    <desc>World Sport: Monday, July 28, 2025 530pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729060000 +0800" stop="20250729070000 +0800">
+    <title lang="zh">The Brief with Jim Sciutto</title>
+    <desc>The Brief with Jim Sciutto: Monday, July 28, 2025 6pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729070000 +0800" stop="20250729080000 +0800">
+    <title lang="zh">Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront: Monday, July 28, 2025 7PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729080000 +0800" stop="20250729090000 +0800">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper 360: Monday, July 28, 2025 8PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729090000 +0800" stop="20250729100000 +0800">
+    <title lang="zh">The Source</title>
+    <desc>The Source: Monday, July 28, 2025 9PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729100000 +0800" stop="20250729110000 +0800">
+    <title lang="zh">CNN NewsNight</title>
+    <desc>CNN NewsNight: Monday, July 28, 2025 10PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729110000 +0800" stop="20250729120000 +0800">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates Live: Monday, July 28, 2025 11PM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729120000 +0800" stop="20250729123000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 12am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729123000 +0800" stop="20250729130000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 12am ET/World Sport: Tuesday, July 29, 2025 1245am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729130000 +0800" stop="20250729140000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 1am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729140000 +0800" stop="20250729143000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 2am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729143000 +0800" stop="20250729150000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 2am ET/World Sport: Tuesday, July 29, 2025 1245am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729150000 +0800" stop="20250729160000 +0800">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>CNN Newsroom: Tuesday, July 29, 2025 3am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729160000 +0800" stop="20250729170000 +0800">
+    <title lang="zh">Amanpour</title>
+    <desc>Amanpour: Monday, July 28, 2025 1pm ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729170000 +0800" stop="20250729180000 +0800">
+    <title lang="zh">Early Start</title>
+    <desc>Early Start: Tuesday, July 29, 2025 5AM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729180000 +0800" stop="20250729190000 +0800">
+    <title lang="zh">CNN This Morning</title>
+    <desc>CNN This Morning: Tuesday, July 29, 2025 6AM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729190000 +0800" stop="20250729200000 +0800">
+    <title lang="zh">CNN News Central</title>
+    <desc>CNN News Central: Tuesday, July 29, 2025 7AM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729200000 +0800" stop="20250729203000 +0800">
+    <title lang="zh">CNN News Central</title>
+    <desc>CNN News Central: Tuesday, July 29, 2025 8AM</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729203000 +0800" stop="20250729210000 +0800">
+    <title lang="zh">World Sport</title>
+    <desc>World Sport: Tuesday, July 29, 2025 830am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729210000 +0800" stop="20250729213000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Tuesday, July 29, 2025 9am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729213000 +0800" stop="20250729220000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Tuesday, July 29, 2025 9am ET/World Sport: Tuesday, July 29, 2025 945am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729220000 +0800" stop="20250729230000 +0800">
+    <title lang="zh">Connect the World</title>
+    <desc>Connect the World: Tuesday, July 29, 2025 10am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250729230000 +0800" stop="20250730000000 +0800">
+    <title lang="zh">One World</title>
+    <desc>One World: Tuesday, July 29, 2025 11am ET</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="369321" start="20250730000000 +0800" stop="20250731000000 +0800">
+    <title lang="zh">One World</title>
+    <desc>One World: Tuesday, July 29, 2025 12pm ET</desc>
+    <date>2025-07-30</date>
   </programme>
 </tv>
