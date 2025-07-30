@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250729210520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250729.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250729&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250730103136 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250730.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250730&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250729000000 +0800" stop="20250729110000 +0800">
-    <title lang="zh">LIVE2025多倫多大師賽第二天</title>
-    <desc>LIVE2025多倫多大師賽第二天</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369216" start="20250729110000 +0800" stop="20250729140000 +0800">
-    <title lang="zh">2025哈雷草地男網賽八強COBvsZVE</title>
-    <desc>2025哈雷草地男網賽八強COBvsZVE</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369216" start="20250729140000 +0800" stop="20250729153000 +0800">
-    <title lang="zh">2025倫敦女王草地男網賽八強ALCvsRIN</title>
-    <desc>2025倫敦女王草地男網賽八強ALCvsRIN</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369216" start="20250729153000 +0800" stop="20250729170000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽女單第三輪SWIvsCOL</title>
-    <desc>2025溫布頓網球錦標賽女單第三輪SWIvsCOL</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369216" start="20250729170000 +0800" stop="20250729230000 +0800">
-    <title lang="zh">首播2025華盛頓男網賽第二天</title>
-    <desc>首播2025華盛頓男網賽第二天</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369216" start="20250729230000 +0800" stop="20250730000000 +0800">
-    <title lang="zh">LIVE2025華盛頓男網賽第三天</title>
-    <desc>LIVE2025華盛頓男網賽第三天</desc>
-    <date>2025-07-29</date>
-  </programme>
   <programme channel="369216" start="20250730100000 +0800" stop="20250730123000 +0800">
     <title lang="zh">2025倫敦女王草地男網賽八強NAKvsDRA</title>
     <desc>2025倫敦女王草地男網賽八強NAKvsDRA</desc>
@@ -58,5 +28,30 @@
     <title lang="zh">LIVE2025華盛頓男網賽十六強</title>
     <desc>LIVE2025華盛頓男網賽十六強</desc>
     <date>2025-07-30</date>
+  </programme>
+  <programme channel="369216" start="20250731080000 +0800" stop="20250731093000 +0800">
+    <title lang="zh">2025哈雷草地男網賽八強ETCvsKHA</title>
+    <desc>2025哈雷草地男網賽八強ETCvsKHA</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369216" start="20250731093000 +0800" stop="20250731120000 +0800">
+    <title lang="zh">2025倫敦女王草地男網賽八強RUNvsAGU</title>
+    <desc>2025倫敦女王草地男網賽八強RUNvsAGU</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369216" start="20250731120000 +0800" stop="20250731153000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽十六強MINvsDJO</title>
+    <desc>2025溫布頓網球錦標賽十六強MINvsDJO</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369216" start="20250731153000 +0800" stop="20250731170000 +0800">
+    <title lang="zh">2025哈雷草地男網賽八強ETCvsKHA</title>
+    <desc>2025哈雷草地男網賽八強ETCvsKHA</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369216" start="20250731170000 +0800" stop="20250801000000 +0800">
+    <title lang="zh">首播2025華盛頓男網賽十六強</title>
+    <desc>首播2025華盛頓男網賽十六強</desc>
+    <date>2025-07-31</date>
   </programme>
 </tv>

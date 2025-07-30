@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250729210513 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250729.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250729&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250730103130 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250730.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250730&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250729000000 +0800" stop="20250729140000 +0800">
-    <title lang="zh">首播2025英國公開賽第一天</title>
-    <desc>首播2025英國公開賽第一天</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369230" start="20250729140000 +0800" stop="20250729180000 +0800">
-    <title lang="zh">2025歐冠男排聯賽冠軍戰佩魯賈 vs 扎維爾切</title>
-    <desc>2025歐冠男排聯賽冠軍戰佩魯賈 vs 扎維爾切</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369230" start="20250729180000 +0800" stop="20250729183000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369230" start="20250729183000 +0800" stop="20250729220000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次212統一7-ELEVEn獅 vs 台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次212統一7-ELEVEn獅 vs 台鋼雄鷹</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369230" start="20250729220000 +0800" stop="20250729223000 +0800">
-    <title lang="zh">女壘週報 第6集</title>
-    <desc>女壘週報 第6集</desc>
-    <date>2025-07-29</date>
-  </programme>
-  <programme channel="369230" start="20250729223000 +0800" stop="20250730000000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽第七周新世紀黃蜂vs 新北凱撒</title>
-    <desc>2025企業女子壘球聯賽第七周新世紀黃蜂vs 新北凱撒</desc>
-    <date>2025-07-29</date>
-  </programme>
   <programme channel="369230" start="20250730010000 +0800" stop="20250730150000 +0800">
     <title lang="zh">首播2025英國公開賽第二天</title>
     <desc>首播2025英國公開賽第二天</desc>
@@ -59,9 +29,39 @@
     <desc>2025 台北羽球公開賽男單會外賽SIN vs KAT</desc>
     <date>2025-07-30</date>
   </programme>
-  <programme channel="369230" start="20250731000000 +0800" stop="20250801000000 +0800">
+  <programme channel="369230" start="20250731000000 +0800" stop="20250731100000 +0800">
     <title lang="zh">首播2025英國公開賽第三天</title>
     <desc>首播2025英國公開賽第三天</desc>
     <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250731100000 +0800" stop="20250731123000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽女單第一輪KRE vs EAL</title>
+    <desc>2025溫布頓網球錦標賽女單第一輪KRE vs EAL</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250731123000 +0800" stop="20250731163000 +0800">
+    <title lang="zh">首播2025中華職棒場次212統一7-ELEVEn獅 vs 台鋼雄鷹</title>
+    <desc>首播2025中華職棒場次212統一7-ELEVEn獅 vs 台鋼雄鷹</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250731163000 +0800" stop="20250731190000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第七周新世紀黃蜂 vs福添福嘉南鷹</title>
+    <desc>2025企業女子壘球聯賽第七周新世紀黃蜂 vs福添福嘉南鷹</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250731190000 +0800" stop="20250731213000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽第二輪TAR vs ALC</title>
+    <desc>2025溫布頓網球錦標賽第二輪TAR vs ALC</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250731213000 +0800" stop="20250801000000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第七周新北凱撒 vs臺北台產熊讚</title>
+    <desc>2025企業女子壘球聯賽第七周新北凱撒 vs臺北台產熊讚</desc>
+    <date>2025-07-31</date>
+  </programme>
+  <programme channel="369230" start="20250801000000 +0800" stop="20250802000000 +0800">
+    <title lang="zh">首播2025英國公開賽第四天</title>
+    <desc>首播2025英國公開賽第四天</desc>
+    <date>2025-08-01</date>
   </programme>
 </tv>
