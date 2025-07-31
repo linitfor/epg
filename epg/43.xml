@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250730210648 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250730.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250730&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250731103020 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250731.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250731&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250730010000 +0800" stop="20250730150000 +0800">
-    <title lang="zh">首播2025英國公開賽第二天</title>
-    <desc>首播2025英國公開賽第二天</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="369230" start="20250730150000 +0800" stop="20250730183000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽第一輪MUL vs DJO</title>
-    <desc>2025溫布頓網球錦標賽第一輪MUL vs DJO</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="369230" start="20250730183000 +0800" stop="20250730220000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次214統一7-ELEVEn獅 vs 台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次214統一7-ELEVEn獅 vs 台鋼雄鷹</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="369230" start="20250730220000 +0800" stop="20250730230000 +0800">
-    <title lang="zh">2025 台北羽球公開賽男雙會外賽HSU/ZHA vs YUA/BO</title>
-    <desc>2025 台北羽球公開賽男雙會外賽HSU/ZHA vs YUA/BO</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="369230" start="20250730230000 +0800" stop="20250731000000 +0800">
-    <title lang="zh">2025 台北羽球公開賽男單會外賽SIN vs KAT</title>
-    <desc>2025 台北羽球公開賽男單會外賽SIN vs KAT</desc>
-    <date>2025-07-30</date>
-  </programme>
   <programme channel="369230" start="20250731000000 +0800" stop="20250731100000 +0800">
     <title lang="zh">首播2025英國公開賽第三天</title>
     <desc>首播2025英國公開賽第三天</desc>
@@ -59,9 +34,39 @@
     <desc>2025企業女子壘球聯賽第七周新北凱撒 vs臺北台產熊讚</desc>
     <date>2025-07-31</date>
   </programme>
-  <programme channel="369230" start="20250801000000 +0800" stop="20250802000000 +0800">
+  <programme channel="369230" start="20250801000000 +0800" stop="20250801100000 +0800">
     <title lang="zh">首播2025英國公開賽第四天</title>
     <desc>首播2025英國公開賽第四天</desc>
     <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250801100000 +0800" stop="20250801123000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽第二輪TAR vs ALC</title>
+    <desc>2025溫布頓網球錦標賽第二輪TAR vs ALC</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250801123000 +0800" stop="20250801163000 +0800">
+    <title lang="zh">首播2025中華職棒場次214統一7-ELEVEn獅 vs 台鋼雄鷹</title>
+    <desc>首播2025中華職棒場次214統一7-ELEVEn獅 vs 台鋼雄鷹</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250801163000 +0800" stop="20250801190000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第七周新北凱撒 vs臺北台產熊讚</title>
+    <desc>2025企業女子壘球聯賽第七周新北凱撒 vs臺北台產熊讚</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250801190000 +0800" stop="20250801210000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽第二輪SIN vs VUK</title>
+    <desc>2025溫布頓網球錦標賽第二輪SIN vs VUK</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250801210000 +0800" stop="20250802000000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽第八周兆基穿山甲vs 新世紀黃蜂</title>
+    <desc>2025企業女子壘球聯賽第八周兆基穿山甲vs 新世紀黃蜂</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="369230" start="20250802000000 +0800" stop="20250803000000 +0800">
+    <title lang="zh">2025 台北羽球公開賽男單32強李佳豪 vs SHE</title>
+    <desc>2025 台北羽球公開賽男單32強李佳豪 vs SHE</desc>
+    <date>2025-08-02</date>
   </programme>
 </tv>
