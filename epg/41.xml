@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250731210247 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250731.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250731&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250801104253 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250801.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250801&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250731003000 +0800" stop="20250731050000 +0800">
-    <title lang="zh">LIVE2025世界九號球錦標賽第一輪</title>
-    <desc>LIVE2025世界九號球錦標賽第一輪</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731050000 +0800" stop="20250731060000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第三天(1) USA vs EUR</title>
-    <desc>2024莫斯考尼盃 第三天(1) USA vs EUR</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731060000 +0800" stop="20250731070000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</title>
-    <desc>2024莫斯考尼盃 第三天(2) WOO BOE vs RUI KRA</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731070000 +0800" stop="20250731090000 +0800">
-    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 4強 FOR vs JUN</title>
-    <desc>2022-23司諾克賽季 六紅球錦標賽 4強 FOR vs JUN</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731090000 +0800" stop="20250731110000 +0800">
-    <title lang="zh">2023英國公開賽決賽JOSvsEKL</title>
-    <desc>2023英國公開賽決賽JOSvsEKL</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731110000 +0800" stop="20250731120000 +0800">
-    <title lang="zh">2024莫斯考尼盃 第三天(1) USA vs EUR</title>
-    <desc>2024莫斯考尼盃 第三天(1) USA vs EUR</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731120000 +0800" stop="20250731180000 +0800">
-    <title lang="zh">首播2025世界九號球錦標賽第一輪</title>
-    <desc>首播2025世界九號球錦標賽第一輪</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731180000 +0800" stop="20250731223000 +0800">
-    <title lang="zh">LIVE2025世界九號球錦標賽第一輪</title>
-    <desc>LIVE2025世界九號球錦標賽第一輪</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="369229" start="20250731223000 +0800" stop="20250801000000 +0800">
-    <title lang="zh">2023歐洲公開賽第1天(1)ALBvsDAW</title>
-    <desc>2023歐洲公開賽第1天(1)ALBvsDAW</desc>
-    <date>2025-07-31</date>
-  </programme>
   <programme channel="369229" start="20250801003000 +0800" stop="20250801050000 +0800">
     <title lang="zh">LIVE2025世界九號球錦標賽第一輪</title>
     <desc>LIVE2025世界九號球錦標賽第一輪</desc>
@@ -88,5 +43,50 @@
     <title lang="zh">2023歐洲公開賽第1天(5)JOHvsROM</title>
     <desc>2023歐洲公開賽第1天(5)JOHvsROM</desc>
     <date>2025-08-01</date>
+  </programme>
+  <programme channel="369229" start="20250802010000 +0800" stop="20250802050000 +0800">
+    <title lang="zh">LIVE2025世界九號球錦標賽八強</title>
+    <desc>LIVE2025世界九號球錦標賽八強</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802050000 +0800" stop="20250802060000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第四天(2)GOR vs KRA</title>
+    <desc>2024莫斯考尼盃 第四天(2)GOR vs KRA</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802060000 +0800" stop="20250802073000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第四天(3)WOO vs RUI</title>
+    <desc>2024莫斯考尼盃 第四天(3)WOO vs RUI</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802073000 +0800" stop="20250802103000 +0800">
+    <title lang="zh">2022-23司諾克賽季 六紅球錦標賽 決賽 JUN vs UN-NOOH</title>
+    <desc>2022-23司諾克賽季 六紅球錦標賽 決賽 JUN vs UN-NOOH</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802103000 +0800" stop="20250802110000 +0800">
+    <title lang="zh">電玩宅速配</title>
+    <desc>電玩宅速配</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802110000 +0800" stop="20250802120000 +0800">
+    <title lang="zh">2024莫斯考尼盃 第四天(2)GOR vs KRA</title>
+    <desc>2024莫斯考尼盃 第四天(2)GOR vs KRA</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802120000 +0800" stop="20250802180000 +0800">
+    <title lang="zh">首播2025世界九號球錦標賽十六強/八強</title>
+    <desc>首播2025世界九號球錦標賽十六強/八強</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802180000 +0800" stop="20250802223000 +0800">
+    <title lang="zh">LIVE2025世界九號球錦標賽四強</title>
+    <desc>LIVE2025世界九號球錦標賽四強</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="369229" start="20250802223000 +0800" stop="20250803000000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(6)JOSvsTON</title>
+    <desc>2023歐洲公開賽第1天(6)JOSvsTON</desc>
+    <date>2025-08-02</date>
   </programme>
 </tv>
