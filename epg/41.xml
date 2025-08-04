@@ -1,59 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250803210048 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250803.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250803&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250804104104 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250804.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250804&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250803003000 +0800" stop="20250803040000 +0800">
-    <title lang="zh">LIVE2025世界九號球錦標賽決賽</title>
-    <desc>LIVE2025世界九號球錦標賽決賽</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803040000 +0800" stop="20250803053000 +0800">
-    <title lang="zh">2024世界盃9號球 第一天 SAN vs LAB</title>
-    <desc>2024世界盃9號球 第一天 SAN vs LAB</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803053000 +0800" stop="20250803070000 +0800">
-    <title lang="zh">2024世界盃9號球 第二天(1) BOE vs ALH</title>
-    <desc>2024世界盃9號球 第二天(1) BOE vs ALH</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803070000 +0800" stop="20250803090000 +0800">
-    <title lang="zh">2023歐洲公開賽第1天(6)JOSvsTON</title>
-    <desc>2023歐洲公開賽第1天(6)JOSvsTON</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803090000 +0800" stop="20250803093000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803093000 +0800" stop="20250803120000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 WIL vs SEL</title>
-    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 WIL vs SEL</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803120000 +0800" stop="20250803180000 +0800">
-    <title lang="zh">首播2025世界九號球錦標賽四強/決賽</title>
-    <desc>首播2025世界九號球錦標賽四強/決賽</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803180000 +0800" stop="20250803193000 +0800">
-    <title lang="zh">2023歐洲公開賽第1天(2)WUvsCHA</title>
-    <desc>2023歐洲公開賽第1天(2)WUvsCHA</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803193000 +0800" stop="20250803213000 +0800">
-    <title lang="zh">2024世界盃9號球 第二天(2) MOR vs MAN</title>
-    <desc>2024世界盃9號球 第二天(2) MOR vs MAN</desc>
-    <date>2025-08-03</date>
-  </programme>
-  <programme channel="369229" start="20250803213000 +0800" stop="20250804000000 +0800">
-    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 ZHA vs CRA</title>
-    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 ZHA vs CRA</desc>
-    <date>2025-08-03</date>
-  </programme>
   <programme channel="369229" start="20250804000000 +0800" stop="20250804013000 +0800">
     <title lang="zh">2023歐洲公開賽第2天(6)KLEvsALE</title>
     <desc>2023歐洲公開賽第2天(6)KLEvsALE</desc>
@@ -114,9 +64,84 @@
     <desc>2022-23司諾克賽季 英國錦標賽 4強 ALL vs LIS</desc>
     <date>2025-08-04</date>
   </programme>
-  <programme channel="369229" start="20250805000000 +0800" stop="20250806000000 +0800">
+  <programme channel="369229" start="20250805000000 +0800" stop="20250805010000 +0800">
     <title lang="zh">2023歐洲公開賽第1天(3)JOSvsJOE</title>
     <desc>2023歐洲公開賽第1天(3)JOSvsJOE</desc>
     <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805010000 +0800" stop="20250805020000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(4)KOvsMAR</title>
+    <desc>2023歐洲公開賽第1天(4)KOvsMAR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805020000 +0800" stop="20250805033000 +0800">
+    <title lang="zh">2024世界盃9號球 第二天(3) BIA vs JIN</title>
+    <desc>2024世界盃9號球 第二天(3) BIA vs JIN</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805033000 +0800" stop="20250805060000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</title>
+    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805060000 +0800" stop="20250805070000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(3)JOSvsJOE</title>
+    <desc>2023歐洲公開賽第1天(3)JOSvsJOE</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805070000 +0800" stop="20250805080000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(4)KOvsMAR</title>
+    <desc>2023歐洲公開賽第1天(4)KOvsMAR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805080000 +0800" stop="20250805093000 +0800">
+    <title lang="zh">2024世界盃9號球 第二天(3) BIA vs JIN</title>
+    <desc>2024世界盃9號球 第二天(3) BIA vs JIN</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805093000 +0800" stop="20250805120000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</title>
+    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805120000 +0800" stop="20250805130000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(3)JOSvsJOE</title>
+    <desc>2023歐洲公開賽第1天(3)JOSvsJOE</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805130000 +0800" stop="20250805140000 +0800">
+    <title lang="zh">2023歐洲公開賽第1天(4)KOvsMAR</title>
+    <desc>2023歐洲公開賽第1天(4)KOvsMAR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805140000 +0800" stop="20250805153000 +0800">
+    <title lang="zh">2024世界盃9號球 第二天(3) BIA vs JIN</title>
+    <desc>2024世界盃9號球 第二天(3) BIA vs JIN</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805153000 +0800" stop="20250805180000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</title>
+    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 HIG vs FOR</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805180000 +0800" stop="20250805193000 +0800">
+    <title lang="zh">2023歐洲公開賽第2天(1)DUOvsCON</title>
+    <desc>2023歐洲公開賽第2天(1)DUOvsCON</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805193000 +0800" stop="20250805210000 +0800">
+    <title lang="zh">2024世界盃9號球 第二天(4) REG vs HEN</title>
+    <desc>2024世界盃9號球 第二天(4) REG vs HEN</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250805210000 +0800" stop="20250806000000 +0800">
+    <title lang="zh">2022-23司諾克賽季 英國錦標賽 第一輪 ROB vs PER</title>
+    <desc>2022-23司諾克賽季 英國錦標賽 第一輪 ROB vs PER</desc>
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="369229" start="20250806000000 +0800" stop="20250807000000 +0800">
+    <title lang="zh">2023歐洲公開賽第2天(1)DUOvsCON</title>
+    <desc>2023歐洲公開賽第2天(1)DUOvsCON</desc>
+    <date>2025-08-06</date>
   </programme>
 </tv>
