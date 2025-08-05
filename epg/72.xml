@@ -1,152 +1,202 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250804210641 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334832/20250804.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334832&amp;date=20250804&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250805103347 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334832/20250805.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334832&amp;date=20250805&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334832">
     <display-name lang="Taiwan">愛爾達體育1台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334832" start="20250804000000 +0800" stop="20250804015000 +0800">
-    <title lang="zh">MLB 道奇 VS 光芒 Snell先發 例行賽 8/3(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804015000 +0800" stop="20250804040500 +0800">
-    <title lang="zh">LIVE 2025英超夏季系列賽 伯恩茅斯 VS 西漢姆聯 (原音)(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804040500 +0800" stop="20250804042500 +0800">
-    <title lang="zh">體壇最前線 8/3(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804042500 +0800" stop="20250804045000 +0800">
-    <title lang="zh">MLB好球連發#15 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804045000 +0800" stop="20250804070500 +0800">
-    <title lang="zh">LIVE 2025英超夏季系列賽 曼聯 VS 艾佛頓(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804070500 +0800" stop="20250804071500 +0800">
-    <title lang="zh">LIVE MLB 老虎 VS 費城人 例行賽 8/4(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804071500 +0800" stop="20250804100000 +0800">
-    <title lang="zh">D-LIVE MLB 道奇 VS 光芒 例行賽 8/4(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804100000 +0800" stop="20250804103000 +0800">
-    <title lang="zh">D-LIVE MLB 道奇 VS 光芒 山本由伸先發 例行賽 8/4(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804103000 +0800" stop="20250804110000 +0800">
-    <title lang="zh">體壇最前線 8/3(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804110000 +0800" stop="20250804130000 +0800">
-    <title lang="zh">2025英超夏季系列賽 曼聯 VS 艾佛頓(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804130000 +0800" stop="20250804133000 +0800">
-    <title lang="zh">MLB好球連發#14 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804133000 +0800" stop="20250804160000 +0800">
-    <title lang="zh">中華職棒 味全 VS 台鋼 8/2(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804160000 +0800" stop="20250804163000 +0800">
-    <title lang="zh">體壇最前線 8/3(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804163000 +0800" stop="20250804183000 +0800">
-    <title lang="zh">2025英超夏季系列賽 曼聯 VS 艾佛頓(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804183000 +0800" stop="20250804210000 +0800">
-    <title lang="zh">MLB 道奇 VS 光芒 山本由伸先發 例行賽 8/4(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804210000 +0800" stop="20250804233000 +0800">
-    <title lang="zh">MLB 勇士 VS 紅人 賽道經典賽 8/3(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250804233000 +0800" stop="20250805000000 +0800">
-    <title lang="zh">體壇最前線 8/4 (首)(普)</title>
-    <desc />
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="334832" start="20250805000000 +0800" stop="20250805023000 +0800">
+  <programme channel="334832" start="20250805000000 +0800" stop="20250805010000 +0800">
     <title lang="zh">MLB 勇士 VS 紅人 賽道經典賽 8/3(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
-  <programme channel="334832" start="20250805023000 +0800" stop="20250805043000 +0800">
+  <programme channel="334832" start="20250805010000 +0800" stop="20250805013000 +0800">
+    <title lang="zh">體壇最前線 8/5 (首)(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805013000 +0800" stop="20250805015000 +0800">
+    <title lang="zh">UEFA歐國聯 德國 VS 葡萄牙 四強精華(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805015000 +0800" stop="20250805023000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 菲律賓 VS 中華 8/6 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805023000 +0800" stop="20250805040000 +0800">
     <title lang="zh">2025英超夏季系列賽 曼聯 VS 艾佛頓(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805040000 +0800" stop="20250805043000 +0800">
+    <title lang="zh">體壇最前線 8/5(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805043000 +0800" stop="20250805070000 +0800">
-    <title lang="zh">中華職棒 味全 VS 台鋼 8/3(普)</title>
+    <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/5(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805070000 +0800" stop="20250805100000 +0800">
-    <title lang="zh">LIVE MLB 守護者 VS 大都會 例行賽 8/5(普)</title>
+    <title lang="zh">LIVE MLB 皇家 VS 紅襪 例行賽 8/6(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805100000 +0800" stop="20250805130000 +0800">
-    <title lang="zh">LIVE MLB 紅雀 VS 道奇 例行賽 8/5(普)</title>
+    <title lang="zh">LIVE MLB 紅雀 VS 道奇 例行賽 8/6(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805130000 +0800" stop="20250805133000 +0800">
-    <title lang="zh">體壇最前線 8/4(普)</title>
+    <title lang="zh">MLB 皇家 VS 紅襪 例行賽 8/6(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
-  <programme channel="334832" start="20250805133000 +0800" stop="20250805155000 +0800">
+  <programme channel="334832" start="20250805133000 +0800" stop="20250805152000 +0800">
     <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/5(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805152000 +0800" stop="20250805155000 +0800">
+    <title lang="zh">英超名人堂 #9 (新)(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805155000 +0800" stop="20250805180000 +0800">
-    <title lang="zh">LIVE FIBA籃球亞洲盃 伊拉克 VS 紐西蘭 8/5 D組預賽(普)</title>
+    <title lang="zh">LIVE FIBA籃球亞洲盃 南韓 VS 澳大利亞 8/6 A組預賽(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
   <programme channel="334832" start="20250805180000 +0800" stop="20250805185000 +0800">
-    <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/5(精選關鍵局數)(普)</title>
+    <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/6(精選關鍵局數)(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
-  <programme channel="334832" start="20250805185000 +0800" stop="20250805210000 +0800">
+  <programme channel="334832" start="20250805185000 +0800" stop="20250805190000 +0800">
     <title lang="zh">LIVE FIBA籃球亞洲盃 印度 VS 約旦 8/5 C組預賽(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
-  <programme channel="334832" start="20250805210000 +0800" stop="20250805225000 +0800">
+  <programme channel="334832" start="20250805190000 +0800" stop="20250805210000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 敘利亞 VS 日本 8/6 B組預賽(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805210000 +0800" stop="20250805211000 +0800">
     <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/5(普)</title>
     <desc />
     <date>2025-08-05</date>
   </programme>
-  <programme channel="334832" start="20250805225000 +0800" stop="20250806000000 +0800">
-    <title lang="zh">LIVE FIBA籃球亞洲盃 沙烏地 VS 中國 8/5 C組預賽(普)</title>
+  <programme channel="334832" start="20250805211000 +0800" stop="20250805225000 +0800">
+    <title lang="zh">FIBA籃球亞洲盃 菲律賓 VS 中華 8/6 D組預賽(普)</title>
     <desc />
     <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250805225000 +0800" stop="20250806000000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 伊朗 VS 關島 8/6 B組預賽(普)</title>
+    <desc />
+    <date>2025-08-05</date>
+  </programme>
+  <programme channel="334832" start="20250806010000 +0800" stop="20250806013000 +0800">
+    <title lang="zh">體壇最前線 8/6 (首)(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806013000 +0800" stop="20250806015000 +0800">
+    <title lang="zh">UEFA歐國聯 西班牙 VS 法國 四強精華(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806015000 +0800" stop="20250806040000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 黎巴嫩 VS 卡達 8/7 A組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806040000 +0800" stop="20250806043000 +0800">
+    <title lang="zh">體壇最前線 8/6(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806043000 +0800" stop="20250806063000 +0800">
+    <title lang="zh">FIBA籃球亞洲盃 菲律賓 VS 中華 8/6 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806063000 +0800" stop="20250806070000 +0800">
+    <title lang="zh">D-LIVE MLB 紅雀 VS 道奇 例行賽 8/7(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806070000 +0800" stop="20250806093000 +0800">
+    <title lang="zh">LIVE MLB 皇家 VS 紅襪 例行賽 8/6(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806093000 +0800" stop="20250806100000 +0800">
+    <title lang="zh">LIVE MLB 教士 VS 響尾蛇 例行賽 8/7(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806100000 +0800" stop="20250806123000 +0800">
+    <title lang="zh">LIVE MLB 紅雀 VS 道奇 例行賽 8/6(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806123000 +0800" stop="20250806130000 +0800">
+    <title lang="zh">體壇最前線 8/6(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806130000 +0800" stop="20250806152000 +0800">
+    <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/7(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806152000 +0800" stop="20250806153000 +0800">
+    <title lang="zh">英超名人堂 #9 (新)(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806153000 +0800" stop="20250806155000 +0800">
+    <title lang="zh">體壇最前線 8/6(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806155000 +0800" stop="20250806180000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 印度 VS 中國 8/7 C組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806180000 +0800" stop="20250806185000 +0800">
+    <title lang="zh">MLB 紅雀 VS 道奇 例行賽 8/7(精選關鍵局數)(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806185000 +0800" stop="20250806190000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 中華 VS 伊拉克 8/7 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806190000 +0800" stop="20250806210000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 敘利亞 VS 日本 8/6 B組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806210000 +0800" stop="20250806211000 +0800">
+    <title lang="zh">FIBA籃球亞洲盃 印度 VS 中國 8/7 C組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806211000 +0800" stop="20250806225000 +0800">
+    <title lang="zh">FIBA籃球亞洲盃 菲律賓 VS 中華 8/6 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="334832" start="20250806225000 +0800" stop="20250807000000 +0800">
+    <title lang="zh">LIVE FIBA籃球亞洲盃 紐西蘭 VS 菲律賓 8/7 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-06</date>
   </programme>
 </tv>

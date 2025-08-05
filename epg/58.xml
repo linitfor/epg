@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250804210634 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250804.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250804&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250805103340 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250805.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250805&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369233">
     <display-name lang="Taiwan">博斯高球1台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155155193673_78.jpg" />
   </channel>
-  <programme channel="369233" start="20250804000000 +0800" stop="20250804043000 +0800">
-    <title lang="zh">2025 歐巡義大利公開賽第三天</title>
-    <desc>2025 歐巡義大利公開賽第三天</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="369233" start="20250804043000 +0800" stop="20250804093000 +0800">
-    <title lang="zh">2025 歐巡安特衛普公開賽第一天</title>
-    <desc>2025 歐巡安特衛普公開賽第一天</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="369233" start="20250804093000 +0800" stop="20250804150000 +0800">
-    <title lang="zh">2025 歐巡富豪中國公開賽第四天</title>
-    <desc>2025 歐巡富豪中國公開賽第四天</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="369233" start="20250804150000 +0800" stop="20250804190000 +0800">
-    <title lang="zh">2025 歐巡約翰尼斯堡公開賽第三天</title>
-    <desc>2025 歐巡約翰尼斯堡公開賽第三天</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="369233" start="20250804190000 +0800" stop="20250805000000 +0800">
-    <title lang="zh">2025 歐巡卡達名人賽第四天</title>
-    <desc>2025 歐巡卡達名人賽第四天</desc>
-    <date>2025-08-04</date>
-  </programme>
   <programme channel="369233" start="20250805000000 +0800" stop="20250805050000 +0800">
     <title lang="zh">2025 歐巡奧地利公開賽第一天</title>
     <desc>2025 歐巡奧地利公開賽第一天</desc>
@@ -54,9 +29,34 @@
     <desc>2025 歐巡模里西斯公開賽第二天</desc>
     <date>2025-08-05</date>
   </programme>
-  <programme channel="369233" start="20250806000000 +0800" stop="20250807000000 +0800">
+  <programme channel="369233" start="20250806000000 +0800" stop="20250806050000 +0800">
     <title lang="zh">2025 歐巡奧地利公開賽第二天</title>
     <desc>2025 歐巡奧地利公開賽第二天</desc>
     <date>2025-08-06</date>
+  </programme>
+  <programme channel="369233" start="20250806050000 +0800" stop="20250806120000 +0800">
+    <title lang="zh">2025美國名人賽第三天</title>
+    <desc>2025美國名人賽第三天</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="369233" start="20250806120000 +0800" stop="20250806130000 +0800">
+    <title lang="zh">2025海南菁英賽 精華</title>
+    <desc>2025海南菁英賽 精華</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="369233" start="20250806130000 +0800" stop="20250806190000 +0800">
+    <title lang="zh">2025美國PGA錦標賽第二天</title>
+    <desc>2025美國PGA錦標賽第二天</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="369233" start="20250806190000 +0800" stop="20250807000000 +0800">
+    <title lang="zh">2025 歐巡模里西斯公開賽第三天</title>
+    <desc>2025 歐巡模里西斯公開賽第三天</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="369233" start="20250807000000 +0800" stop="20250808000000 +0800">
+    <title lang="zh">2025 歐巡奧地利公開賽第三天</title>
+    <desc>2025 歐巡奧地利公開賽第三天</desc>
+    <date>2025-08-07</date>
   </programme>
 </tv>
