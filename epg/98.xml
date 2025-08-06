@@ -1,166 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250805210618 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334704/20250805.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334704&amp;date=20250805&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250806103205 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334704/20250806.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334704&amp;date=20250806&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334704">
     <display-name lang="Taiwan">愛爾達綜合台HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334704" start="20250805000000 +0800" stop="20250805010000 +0800">
-    <title lang="zh">卿卿日常 (重)(26)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805010000 +0800" stop="20250805020000 +0800">
-    <title lang="zh">卿卿日常 (重)(27)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805020000 +0800" stop="20250805030000 +0800">
-    <title lang="zh">卿卿日常 (重)(28)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805030000 +0800" stop="20250805040000 +0800">
-    <title lang="zh">主廚大聯盟 (首)(16)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805040000 +0800" stop="20250805050000 +0800">
-    <title lang="zh">主廚大聯盟 (首)(17)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805050000 +0800" stop="20250805060000 +0800">
-    <title lang="zh">主廚大聯盟 (首)(18)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805060000 +0800" stop="20250805070000 +0800">
-    <title lang="zh">卿卿日常 (重)(26)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805070000 +0800" stop="20250805080000 +0800">
-    <title lang="zh">卿卿日常 (重)(27)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805080000 +0800" stop="20250805090000 +0800">
-    <title lang="zh">卿卿日常 (重)(28)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805090000 +0800" stop="20250805100000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(19)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805100000 +0800" stop="20250805110000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(20)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805110000 +0800" stop="20250805120000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(13)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805120000 +0800" stop="20250805130000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(14)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805130000 +0800" stop="20250805140000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(19)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805140000 +0800" stop="20250805150000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(20)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805150000 +0800" stop="20250805160000 +0800">
-    <title lang="zh">卿卿日常 (首)(29)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805160000 +0800" stop="20250805170000 +0800">
-    <title lang="zh">卿卿日常 (首)(30)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805170000 +0800" stop="20250805180000 +0800">
-    <title lang="zh">卿卿日常 (首)(31)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805180000 +0800" stop="20250805183000 +0800">
-    <title lang="zh">蠟筆小新 (首)(426)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805183000 +0800" stop="20250805190000 +0800">
-    <title lang="zh">蠟筆小新 (首)(427)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805190000 +0800" stop="20250805200000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(21)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805200000 +0800" stop="20250805210000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(22)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805210000 +0800" stop="20250805213000 +0800">
-    <title lang="zh">鬼滅之刃 遊郭篇 (首)(1)(輔12)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805213000 +0800" stop="20250805220000 +0800">
-    <title lang="zh">鬼滅之刃 無限列車篇(完) (首)(7)(輔12)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805220000 +0800" stop="20250805230000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
-  <programme channel="334704" start="20250805230000 +0800" stop="20250806000000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
-    <desc />
-    <date>2025-08-05</date>
-  </programme>
   <programme channel="334704" start="20250806000000 +0800" stop="20250806010000 +0800">
-    <title lang="zh">卿卿日常 (重)(29)(普)</title>
+    <title lang="zh">卿卿日常 (重)(26)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806010000 +0800" stop="20250806020000 +0800">
-    <title lang="zh">卿卿日常 (重)(30)(普)</title>
+    <title lang="zh">卿卿日常 (重)(27)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806020000 +0800" stop="20250806030000 +0800">
-    <title lang="zh">卿卿日常 (重)(31)(普)</title>
+    <title lang="zh">卿卿日常 (重)(28)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806030000 +0800" stop="20250806040000 +0800">
-    <title lang="zh">主廚大聯盟 (首)(19)(普)</title>
+    <title lang="zh">主廚大聯盟 (首)(16)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806040000 +0800" stop="20250806050000 +0800">
-    <title lang="zh">主廚大聯盟(完) (首)(20)(普)</title>
+    <title lang="zh">主廚大聯盟 (首)(17)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806050000 +0800" stop="20250806053000 +0800">
-    <title lang="zh">環遊世界800天 (首)(1)(普)</title>
+    <title lang="zh">主廚大聯盟 (首)(18)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
@@ -170,87 +40,87 @@
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806060000 +0800" stop="20250806070000 +0800">
-    <title lang="zh">卿卿日常 (重)(29)(普)</title>
+    <title lang="zh">卿卿日常 (重)(26)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806070000 +0800" stop="20250806080000 +0800">
-    <title lang="zh">卿卿日常 (重)(30)(普)</title>
+    <title lang="zh">卿卿日常 (重)(27)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806080000 +0800" stop="20250806090000 +0800">
-    <title lang="zh">卿卿日常 (重)(31)(普)</title>
+    <title lang="zh">卿卿日常 (重)(28)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806090000 +0800" stop="20250806100000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(19)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806100000 +0800" stop="20250806110000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(20)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806110000 +0800" stop="20250806120000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(15)(普)</title>
+    <title lang="zh">九霄寒夜暖 (首)(13)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806120000 +0800" stop="20250806130000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(16)(普)</title>
+    <title lang="zh">九霄寒夜暖 (首)(14)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806130000 +0800" stop="20250806140000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(19)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806140000 +0800" stop="20250806150000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(20)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806150000 +0800" stop="20250806160000 +0800">
-    <title lang="zh">卿卿日常 (首)(32)(普)</title>
+    <title lang="zh">卿卿日常 (首)(29)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806160000 +0800" stop="20250806170000 +0800">
-    <title lang="zh">卿卿日常 (首)(33)(普)</title>
+    <title lang="zh">卿卿日常 (首)(30)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806170000 +0800" stop="20250806180000 +0800">
-    <title lang="zh">卿卿日常 (首)(34)(普)</title>
+    <title lang="zh">卿卿日常 (首)(31)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806180000 +0800" stop="20250806183000 +0800">
-    <title lang="zh">蠟筆小新 (首)(428)(普)</title>
+    <title lang="zh">蠟筆小新 (首)(426)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806183000 +0800" stop="20250806190000 +0800">
-    <title lang="zh">蠟筆小新 (首)(429)(普)</title>
+    <title lang="zh">蠟筆小新 (首)(427)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806190000 +0800" stop="20250806200000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(23)(普)</title>
+    <title lang="zh">慶餘年第二季 (首)(21)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806200000 +0800" stop="20250806210000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(24)(普)</title>
+    <title lang="zh">慶餘年第二季 (首)(22)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806210000 +0800" stop="20250806213000 +0800">
-    <title lang="zh">鬼滅之刃 遊郭篇 (首)(2)(輔12)</title>
+    <title lang="zh">鬼滅之刃 遊郭篇 (首)(1)(輔12)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
@@ -260,18 +130,163 @@
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806220000 +0800" stop="20250806230000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(23)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
   <programme channel="334704" start="20250806230000 +0800" stop="20250807000000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(24)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
     <desc />
     <date>2025-08-06</date>
   </programme>
-  <programme channel="334704" start="20250807000000 +0800" stop="20250808000000 +0800">
-    <title lang="zh">卿卿日常 (重)(32)(普)</title>
+  <programme channel="334704" start="20250807000000 +0800" stop="20250807010000 +0800">
+    <title lang="zh">卿卿日常 (重)(29)(普)</title>
     <desc />
     <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807010000 +0800" stop="20250807020000 +0800">
+    <title lang="zh">卿卿日常 (重)(30)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807020000 +0800" stop="20250807030000 +0800">
+    <title lang="zh">卿卿日常 (重)(31)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807030000 +0800" stop="20250807033000 +0800">
+    <title lang="zh">主廚大聯盟 (首)(19)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807033000 +0800" stop="20250807040000 +0800">
+    <title lang="zh">環遊世界800天 (首)(4)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807040000 +0800" stop="20250807043000 +0800">
+    <title lang="zh">主廚大聯盟(完) (首)(20)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807043000 +0800" stop="20250807050000 +0800">
+    <title lang="zh">環遊世界800天 (首)(6)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807050000 +0800" stop="20250807053000 +0800">
+    <title lang="zh">環遊世界800天 (首)(1)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807053000 +0800" stop="20250807060000 +0800">
+    <title lang="zh">環遊世界800天 (首)(2)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807060000 +0800" stop="20250807070000 +0800">
+    <title lang="zh">卿卿日常 (重)(29)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807070000 +0800" stop="20250807080000 +0800">
+    <title lang="zh">卿卿日常 (重)(30)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807080000 +0800" stop="20250807090000 +0800">
+    <title lang="zh">卿卿日常 (重)(31)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807090000 +0800" stop="20250807100000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807100000 +0800" stop="20250807110000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807110000 +0800" stop="20250807120000 +0800">
+    <title lang="zh">九霄寒夜暖 (首)(15)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807120000 +0800" stop="20250807130000 +0800">
+    <title lang="zh">九霄寒夜暖 (首)(16)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807130000 +0800" stop="20250807140000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(21)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807140000 +0800" stop="20250807150000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(22)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807150000 +0800" stop="20250807160000 +0800">
+    <title lang="zh">卿卿日常 (首)(32)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807160000 +0800" stop="20250807170000 +0800">
+    <title lang="zh">卿卿日常 (首)(33)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807170000 +0800" stop="20250807180000 +0800">
+    <title lang="zh">卿卿日常 (首)(34)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807180000 +0800" stop="20250807183000 +0800">
+    <title lang="zh">蠟筆小新 (首)(428)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807183000 +0800" stop="20250807190000 +0800">
+    <title lang="zh">蠟筆小新 (首)(429)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807190000 +0800" stop="20250807200000 +0800">
+    <title lang="zh">慶餘年第二季 (首)(23)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807200000 +0800" stop="20250807210000 +0800">
+    <title lang="zh">慶餘年第二季 (首)(24)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807210000 +0800" stop="20250807213000 +0800">
+    <title lang="zh">鬼滅之刃 遊郭篇 (首)(2)(輔12)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807213000 +0800" stop="20250807220000 +0800">
+    <title lang="zh">鬼滅之刃 遊郭篇 (首)(3)(輔12)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807220000 +0800" stop="20250807230000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(23)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250807230000 +0800" stop="20250808000000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(24)(普)</title>
+    <desc />
+    <date>2025-08-07</date>
+  </programme>
+  <programme channel="334704" start="20250808000000 +0800" stop="20250809000000 +0800">
+    <title lang="zh">卿卿日常 (重)(32)(普)</title>
+    <desc />
+    <date>2025-08-08</date>
   </programme>
 </tv>
