@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250806210712 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250806.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250806&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250807103230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250807.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250807&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250806030000 +0800" stop="20250806110000 +0800">
-    <title lang="zh">LIVE2025多倫多大師賽第三天</title>
-    <desc>LIVE2025多倫多大師賽第三天</desc>
-    <date>2025-08-06</date>
-  </programme>
-  <programme channel="369216" start="20250806110000 +0800" stop="20250806113000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-08-06</date>
-  </programme>
-  <programme channel="369216" start="20250806113000 +0800" stop="20250806143000 +0800">
-    <title lang="zh">2025溫布頓網球錦標賽女單四強SABvsANI</title>
-    <desc>2025溫布頓網球錦標賽女單四強SABvsANI</desc>
-    <date>2025-08-06</date>
-  </programme>
-  <programme channel="369216" start="20250806143000 +0800" stop="20250806170000 +0800">
-    <title lang="zh">2025馬略卡男網賽八強MEDvsALI</title>
-    <desc>2025馬略卡男網賽八強MEDvsALI</desc>
-    <date>2025-08-06</date>
-  </programme>
-  <programme channel="369216" start="20250806170000 +0800" stop="20250806230000 +0800">
-    <title lang="zh">首播2025多倫多大師賽第三天</title>
-    <desc>首播2025多倫多大師賽第三天</desc>
-    <date>2025-08-06</date>
-  </programme>
-  <programme channel="369216" start="20250806230000 +0800" stop="20250807000000 +0800">
-    <title lang="zh">LIVE2025多倫多大師賽第四天</title>
-    <desc>LIVE2025多倫多大師賽第四天</desc>
-    <date>2025-08-06</date>
-  </programme>
   <programme channel="369216" start="20250807030000 +0800" stop="20250807110000 +0800">
     <title lang="zh">LIVE2025多倫多大師賽第四天</title>
     <desc>LIVE2025多倫多大師賽第四天</desc>
@@ -63,5 +33,40 @@
     <title lang="zh">LIVE2025多倫多大師賽第五天</title>
     <desc>LIVE2025多倫多大師賽第五天</desc>
     <date>2025-08-07</date>
+  </programme>
+  <programme channel="369216" start="20250808030000 +0800" stop="20250808110000 +0800">
+    <title lang="zh">LIVE2025多倫多大師賽第五天</title>
+    <desc>LIVE2025多倫多大師賽第五天</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808110000 +0800" stop="20250808133000 +0800">
+    <title lang="zh">2025溫布頓網球錦標賽四強SINvsDJO</title>
+    <desc>2025溫布頓網球錦標賽四強SINvsDJO</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808133000 +0800" stop="20250808140000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808140000 +0800" stop="20250808160000 +0800">
+    <title lang="zh">2025馬略卡男網賽八強TIEvsMOU</title>
+    <desc>2025馬略卡男網賽八強TIEvsMOU</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808160000 +0800" stop="20250808170000 +0800">
+    <title lang="zh">2025溫網第12天精華</title>
+    <desc>2025溫網第12天精華</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808170000 +0800" stop="20250808230000 +0800">
+    <title lang="zh">首播2025多倫多大師賽第五天</title>
+    <desc>首播2025多倫多大師賽第五天</desc>
+    <date>2025-08-08</date>
+  </programme>
+  <programme channel="369216" start="20250808230000 +0800" stop="20250809000000 +0800">
+    <title lang="zh">LIVE2025多倫多大師賽第六天</title>
+    <desc>LIVE2025多倫多大師賽第六天</desc>
+    <date>2025-08-08</date>
   </programme>
 </tv>
