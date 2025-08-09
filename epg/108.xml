@@ -1,264 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250808210517 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250808.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250808&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250809101947 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250809.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250809&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369234">
     <display-name lang="Taiwan">BBC News</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154043536929_80.jpg" />
   </channel>
-  <programme channel="369234" start="20250808000000 +0800" stop="20250808003000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808003000 +0800" stop="20250808010000 +0800">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808010000 +0800" stop="20250808013000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808013000 +0800" stop="20250808020000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808020000 +0800" stop="20250808023000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808023000 +0800" stop="20250808030000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808030000 +0800" stop="20250808033000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808033000 +0800" stop="20250808040000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808040000 +0800" stop="20250808043000 +0800">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808043000 +0800" stop="20250808050000 +0800">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808050000 +0800" stop="20250808053000 +0800">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808053000 +0800" stop="20250808060000 +0800">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808060000 +0800" stop="20250808070000 +0800">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808070000 +0800" stop="20250808073000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808073000 +0800" stop="20250808080000 +0800">
-    <title lang="zh">Inside Cape Town's Gang Wars (r)</title>
-    <desc>In just three months last year, 79 children died through gunshot wounds or stabbings on SA's Western Cape. Police reported 263 gang murders. Africa Eye investigates Cape Town gang violence.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808080000 +0800" stop="20250808083000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808083000 +0800" stop="20250808090000 +0800">
-    <title lang="zh">The Media Show (r)</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808090000 +0800" stop="20250808093000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808093000 +0800" stop="20250808094500 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808094500 +0800" stop="20250808100000 +0800">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808100000 +0800" stop="20250808103000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808103000 +0800" stop="20250808104500 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808104500 +0800" stop="20250808110000 +0800">
-    <title lang="zh">BBC Sport (r)</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808110000 +0800" stop="20250808113000 +0800">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808113000 +0800" stop="20250808120000 +0800">
-    <title lang="zh">Rescue Roulette-Dogs From Abroad (r)</title>
-    <desc>With some new owners finding themselves exposed to unexpected disease, vets' bills and heartache when adopting rescue dogs from abroad, is there enough oversight of the sector?</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808120000 +0800" stop="20250808123000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808123000 +0800" stop="20250808130000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808130000 +0800" stop="20250808133000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808133000 +0800" stop="20250808140000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808140000 +0800" stop="20250808143000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808143000 +0800" stop="20250808150000 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808150000 +0800" stop="20250808153000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808153000 +0800" stop="20250808160000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808160000 +0800" stop="20250808163000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808163000 +0800" stop="20250808170000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808170000 +0800" stop="20250808173000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808173000 +0800" stop="20250808180000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808180000 +0800" stop="20250808183000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808183000 +0800" stop="20250808184500 +0800">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808184500 +0800" stop="20250808190000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808190000 +0800" stop="20250808193000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808193000 +0800" stop="20250808200000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808200000 +0800" stop="20250808203000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808203000 +0800" stop="20250808210000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808210000 +0800" stop="20250808213000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808213000 +0800" stop="20250808214500 +0800">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808214500 +0800" stop="20250808220000 +0800">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808220000 +0800" stop="20250808223000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808223000 +0800" stop="20250808230000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808230000 +0800" stop="20250808233000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="369234" start="20250808233000 +0800" stop="20250809000000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-08</date>
-  </programme>
   <programme channel="369234" start="20250809000000 +0800" stop="20250809003000 +0800">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
@@ -494,9 +239,229 @@
     <desc>TBA</desc>
     <date>2025-08-09</date>
   </programme>
-  <programme channel="369234" start="20250810000000 +0800" stop="20250811000000 +0800">
+  <programme channel="369234" start="20250810000000 +0800" stop="20250810010000 +0800">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810010000 +0800" stop="20250810013000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810013000 +0800" stop="20250810020000 +0800">
+    <title lang="zh">TBA (r)</title>
+    <desc>TBA</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810020000 +0800" stop="20250810023000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810023000 +0800" stop="20250810030000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810030000 +0800" stop="20250810033000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810033000 +0800" stop="20250810040000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810040000 +0800" stop="20250810050000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810050000 +0800" stop="20250810060000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810060000 +0800" stop="20250810063000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810063000 +0800" stop="20250810070000 +0800">
+    <title lang="zh">Talking Business (r)</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810070000 +0800" stop="20250810073000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810073000 +0800" stop="20250810080000 +0800">
+    <title lang="zh">The Media Show (r)</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810080000 +0800" stop="20250810083000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810083000 +0800" stop="20250810090000 +0800">
+    <title lang="zh">Talking Movies (r)</title>
+    <desc>Tom Brook travels to Berlin to explore some German cinema classics.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810090000 +0800" stop="20250810093000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810093000 +0800" stop="20250810100000 +0800">
+    <title lang="zh">Ukrainecast (r)</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810100000 +0800" stop="20250810103000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810103000 +0800" stop="20250810110000 +0800">
+    <title lang="zh">AI Decoded (r)</title>
+    <desc>AI Decoded looks at the Chinese room argument which challenges the claim AI can genuinely understand language, let alone possess true consciousness.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810110000 +0800" stop="20250810113000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810113000 +0800" stop="20250810120000 +0800">
+    <title lang="zh">What Happened at Hiroshima (r)</title>
+    <desc>On the 80th anniversary of the bombings of Hiroshima and Nagasaki, Jordan Dunbar hears from the only people who have ever experienced and survived a nuclear explosion.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810120000 +0800" stop="20250810123000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810123000 +0800" stop="20250810130000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>Andrew Rogers meets the competitors preparing for the Esports World Cup; Jacqui Wakefield investigates boxing and the AI being developed to detect concussion amongst fighters.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810130000 +0800" stop="20250810133000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810133000 +0800" stop="20250810140000 +0800">
+    <title lang="zh">Talking Business (r)</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810140000 +0800" stop="20250810143000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810143000 +0800" stop="20250810150000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train. While some are hailing the benefits, Qasa will be finding out why others are not wholly on board.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810150000 +0800" stop="20250810153000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810153000 +0800" stop="20250810160000 +0800">
+    <title lang="zh">Talking Movies (r)</title>
+    <desc>Tom Brook travels to Berlin to explore some German cinema classics.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810160000 +0800" stop="20250810170000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810170000 +0800" stop="20250810173000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810173000 +0800" stop="20250810180000 +0800">
+    <title lang="zh">The Engineers (r)</title>
+    <desc>Engineering has moved inside the body to innovate like never before. With a large audience in London, Caroline Steel meets leading engineers in fields such as neuro-science and medication to discuss.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810180000 +0800" stop="20250810183000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810183000 +0800" stop="20250810190000 +0800">
+    <title lang="zh">The President's Path (r)</title>
+    <desc>Join Caitr甐na Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810190000 +0800" stop="20250810193000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810193000 +0800" stop="20250810200000 +0800">
+    <title lang="zh">The Media Show (r)</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810200000 +0800" stop="20250810203000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810203000 +0800" stop="20250810210000 +0800">
+    <title lang="zh">The Travel Show (r)</title>
+    <desc>Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train. While some are hailing the benefits, Qasa will be finding out why others are not wholly on board.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810210000 +0800" stop="20250810213000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810213000 +0800" stop="20250810220000 +0800">
+    <title lang="zh">Tech Now (r)</title>
+    <desc>Andrew Rogers meets the competitors preparing for the Esports World Cup; Jacqui Wakefield investigates boxing and the AI being developed to detect concussion amongst fighters.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810220000 +0800" stop="20250810223000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810223000 +0800" stop="20250810230000 +0800">
+    <title lang="zh">Influential with Katty Kay (r)</title>
+    <desc>Brooke Shields tells Katty Kay about her journey from child star to resilient adult. They discuss the challenges of fame and what it's like to grow older in Hollywood.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810230000 +0800" stop="20250810233000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250810233000 +0800" stop="20250811000000 +0800">
+    <title lang="zh">What Happened at Hiroshima (r)</title>
+    <desc>On the 80th anniversary of the bombings of Hiroshima and Nagasaki, Jordan Dunbar hears from the only people who have ever experienced and survived a nuclear explosion.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="369234" start="20250811000000 +0800" stop="20250812000000 +0800">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-11</date>
   </programme>
 </tv>
