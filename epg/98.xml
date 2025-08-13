@@ -1,281 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250812210050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334704/20250812.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334704&amp;date=20250812&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250813102132 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334704/20250813.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334704&amp;date=20250813&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334704">
     <display-name lang="Taiwan">愛爾達綜合台HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334704" start="20250812000000 +0800" stop="20250812010000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(1)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812010000 +0800" stop="20250812020000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(2)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812020000 +0800" stop="20250812030000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(3)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812030000 +0800" stop="20250812033000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(10)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812033000 +0800" stop="20250812040000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(11)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812040000 +0800" stop="20250812043000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(12)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812043000 +0800" stop="20250812050000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(13)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812050000 +0800" stop="20250812053000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(14)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812053000 +0800" stop="20250812060000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(15)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812060000 +0800" stop="20250812070000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(1)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812070000 +0800" stop="20250812080000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(2)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812080000 +0800" stop="20250812090000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(3)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812090000 +0800" stop="20250812100000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(29)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812100000 +0800" stop="20250812110000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(30)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812110000 +0800" stop="20250812120000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(23)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812120000 +0800" stop="20250812130000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(24)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812130000 +0800" stop="20250812140000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(29)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812140000 +0800" stop="20250812150000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(30)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812150000 +0800" stop="20250812160000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(4)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812160000 +0800" stop="20250812170000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(5)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812170000 +0800" stop="20250812180000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(6)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812180000 +0800" stop="20250812183000 +0800">
-    <title lang="zh">蠟筆小新 (首)(436)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812183000 +0800" stop="20250812190000 +0800">
-    <title lang="zh">蠟筆小新 (首)(437)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812190000 +0800" stop="20250812200000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(31)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812200000 +0800" stop="20250812210000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(32)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812210000 +0800" stop="20250812213000 +0800">
-    <title lang="zh">鬼滅之刃 遊郭篇 (首)(9)(輔12)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812213000 +0800" stop="20250812220000 +0800">
-    <title lang="zh">鬼滅之刃 遊郭篇 (首)(10)(輔12)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812220000 +0800" stop="20250812230000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
-  <programme channel="334704" start="20250812230000 +0800" stop="20250813000000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
-    <desc />
-    <date>2025-08-12</date>
-  </programme>
   <programme channel="334704" start="20250813000000 +0800" stop="20250813010000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(4)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(1)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813010000 +0800" stop="20250813020000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(5)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(2)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813020000 +0800" stop="20250813030000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(6)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(3)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813030000 +0800" stop="20250813033000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(16)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(10)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813033000 +0800" stop="20250813040000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(17)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(11)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813040000 +0800" stop="20250813043000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(18)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(12)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813043000 +0800" stop="20250813050000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(19)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(13)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813050000 +0800" stop="20250813053000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(20)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(14)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813053000 +0800" stop="20250813060000 +0800">
-    <title lang="zh">姊妹讚出來 (首)(21)(普)</title>
+    <title lang="zh">姊妹讚出來 (首)(15)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813060000 +0800" stop="20250813070000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(4)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(1)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813070000 +0800" stop="20250813080000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(5)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(2)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813080000 +0800" stop="20250813090000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(6)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (重)(3)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813090000 +0800" stop="20250813100000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(29)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813100000 +0800" stop="20250813110000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(30)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813110000 +0800" stop="20250813120000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(25)(普)</title>
+    <title lang="zh">九霄寒夜暖 (首)(23)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813120000 +0800" stop="20250813130000 +0800">
-    <title lang="zh">九霄寒夜暖 (首)(26)(普)</title>
+    <title lang="zh">九霄寒夜暖 (首)(24)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813130000 +0800" stop="20250813140000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(29)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813140000 +0800" stop="20250813150000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(30)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813150000 +0800" stop="20250813160000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(7)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (首)(4)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813160000 +0800" stop="20250813170000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(8)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (首)(5)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813170000 +0800" stop="20250813180000 +0800">
-    <title lang="zh">後宮甄嬛傳 (首)(9)(普)</title>
+    <title lang="zh">後宮甄嬛傳 (首)(6)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813180000 +0800" stop="20250813183000 +0800">
-    <title lang="zh">蠟筆小新 (首)(438)(普)</title>
+    <title lang="zh">蠟筆小新 (首)(436)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813183000 +0800" stop="20250813190000 +0800">
-    <title lang="zh">蠟筆小新 (首)(439)(普)</title>
+    <title lang="zh">蠟筆小新 (首)(437)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813190000 +0800" stop="20250813200000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(33)(普)</title>
+    <title lang="zh">慶餘年第二季 (首)(31)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813200000 +0800" stop="20250813210000 +0800">
-    <title lang="zh">慶餘年第二季 (首)(34)(普)</title>
+    <title lang="zh">慶餘年第二季 (首)(32)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813210000 +0800" stop="20250813213000 +0800">
-    <title lang="zh">鬼滅之刃 遊郭篇(完) (首)(11)(輔12)</title>
+    <title lang="zh">鬼滅之刃 遊郭篇 (首)(9)(輔12)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
@@ -285,18 +140,158 @@
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813220000 +0800" stop="20250813230000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(33)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
   <programme channel="334704" start="20250813230000 +0800" stop="20250814000000 +0800">
-    <title lang="zh">慶餘年第二季 (重)(34)(普)</title>
+    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
     <desc />
     <date>2025-08-13</date>
   </programme>
-  <programme channel="334704" start="20250814000000 +0800" stop="20250815000000 +0800">
-    <title lang="zh">後宮甄嬛傳 (重)(7)(普)</title>
+  <programme channel="334704" start="20250814000000 +0800" stop="20250814010000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(4)(普)</title>
     <desc />
     <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814010000 +0800" stop="20250814020000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(5)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814020000 +0800" stop="20250814030000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(6)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814030000 +0800" stop="20250814033000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(16)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814033000 +0800" stop="20250814040000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(17)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814040000 +0800" stop="20250814043000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(18)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814043000 +0800" stop="20250814050000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(19)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814050000 +0800" stop="20250814053000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(20)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814053000 +0800" stop="20250814060000 +0800">
+    <title lang="zh">姊妹讚出來 (首)(21)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814060000 +0800" stop="20250814070000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(4)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814070000 +0800" stop="20250814080000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(5)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814080000 +0800" stop="20250814090000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(6)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814090000 +0800" stop="20250814100000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814100000 +0800" stop="20250814110000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814110000 +0800" stop="20250814120000 +0800">
+    <title lang="zh">九霄寒夜暖 (首)(25)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814120000 +0800" stop="20250814130000 +0800">
+    <title lang="zh">九霄寒夜暖 (首)(26)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814130000 +0800" stop="20250814140000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(31)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814140000 +0800" stop="20250814150000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(32)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814150000 +0800" stop="20250814160000 +0800">
+    <title lang="zh">後宮甄嬛傳 (首)(7)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814160000 +0800" stop="20250814170000 +0800">
+    <title lang="zh">後宮甄嬛傳 (首)(8)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814170000 +0800" stop="20250814180000 +0800">
+    <title lang="zh">後宮甄嬛傳 (首)(9)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814180000 +0800" stop="20250814183000 +0800">
+    <title lang="zh">蠟筆小新 (首)(438)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814183000 +0800" stop="20250814190000 +0800">
+    <title lang="zh">蠟筆小新 (首)(439)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814190000 +0800" stop="20250814200000 +0800">
+    <title lang="zh">慶餘年第二季 (首)(33)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814200000 +0800" stop="20250814210000 +0800">
+    <title lang="zh">慶餘年第二季 (首)(34)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814210000 +0800" stop="20250814220000 +0800">
+    <title lang="zh">鬼滅之刃 遊郭篇(完) (首)(11)(輔12)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814220000 +0800" stop="20250814230000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(33)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250814230000 +0800" stop="20250815000000 +0800">
+    <title lang="zh">慶餘年第二季 (重)(34)(普)</title>
+    <desc />
+    <date>2025-08-14</date>
+  </programme>
+  <programme channel="334704" start="20250815000000 +0800" stop="20250816000000 +0800">
+    <title lang="zh">後宮甄嬛傳 (重)(7)(普)</title>
+    <desc />
+    <date>2025-08-15</date>
   </programme>
 </tv>
