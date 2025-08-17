@@ -1,29 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250816205453 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250816.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250816&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250817102834 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250817.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250817&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250816030000 +0800" stop="20250816110000 +0800">
-    <title lang="zh">首播2025辛辛那提大師賽第三天</title>
-    <desc>首播2025辛辛那提大師賽第三天</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="369216" start="20250816110000 +0800" stop="20250816150000 +0800">
-    <title lang="zh">首播2025辛辛那提大師賽第三天</title>
-    <desc>首播2025辛辛那提大師賽第三天</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="369216" start="20250816150000 +0800" stop="20250816230000 +0800">
-    <title lang="zh">LIVE2025辛辛那提大師賽第四天</title>
-    <desc>LIVE2025辛辛那提大師賽第四天</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="369216" start="20250816230000 +0800" stop="20250817000000 +0800">
-    <title lang="zh">LIVE2025辛辛那提大師賽第四天</title>
-    <desc>LIVE2025辛辛那提大師賽第四天</desc>
-    <date>2025-08-16</date>
-  </programme>
   <programme channel="369216" start="20250817030000 +0800" stop="20250817110000 +0800">
     <title lang="zh">首播2025辛辛那提大師賽第四天</title>
     <desc>首播2025辛辛那提大師賽第四天</desc>
@@ -43,5 +23,55 @@
     <title lang="zh">2025瑞士男網賽決賽CERvsBUB</title>
     <desc>2025瑞士男網賽決賽CERvsBUB</desc>
     <date>2025-08-17</date>
+  </programme>
+  <programme channel="369216" start="20250818030000 +0800" stop="20250818050000 +0800">
+    <title lang="zh">LIVE2025辛辛那提大師賽第一天</title>
+    <desc>LIVE2025辛辛那提大師賽第一天</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818050000 +0800" stop="20250818070000 +0800">
+    <title lang="zh">2025多倫多大師賽十六強</title>
+    <desc>2025多倫多大師賽十六強</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818070000 +0800" stop="20250818083000 +0800">
+    <title lang="zh">2025瑞士男網賽四強CAZvsBUB</title>
+    <desc>2025瑞士男網賽四強CAZvsBUB</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818083000 +0800" stop="20250818110000 +0800">
+    <title lang="zh">2025華盛頓男網賽八強MEDvsMOU</title>
+    <desc>2025華盛頓男網賽八強MEDvsMOU</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818110000 +0800" stop="20250818130000 +0800">
+    <title lang="zh">2025多倫多大師賽十六強</title>
+    <desc>2025多倫多大師賽十六強</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818130000 +0800" stop="20250818143000 +0800">
+    <title lang="zh">2025瑞士男網賽四強CAZvsBUB</title>
+    <desc>2025瑞士男網賽四強CAZvsBUB</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818143000 +0800" stop="20250818170000 +0800">
+    <title lang="zh">2025華盛頓男網賽八強MEDvsMOU</title>
+    <desc>2025華盛頓男網賽八強MEDvsMOU</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818170000 +0800" stop="20250818190000 +0800">
+    <title lang="zh">2025多倫多大師賽十六強</title>
+    <desc>2025多倫多大師賽十六強</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818190000 +0800" stop="20250818210000 +0800">
+    <title lang="zh">2025多倫多大師賽八強</title>
+    <desc>2025多倫多大師賽八強</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="369216" start="20250818210000 +0800" stop="20250819000000 +0800">
+    <title lang="zh">2025華盛頓男網賽八強FRIvsFOK</title>
+    <desc>2025華盛頓男網賽八強FRIvsFOK</desc>
+    <date>2025-08-18</date>
   </programme>
 </tv>
