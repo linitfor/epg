@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250817205538 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250817.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250817&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250818102913 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250818.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250818&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369288">
     <display-name lang="Taiwan">DAZN 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
   </channel>
-  <programme channel="369288" start="20250817000000 +0800" stop="20250817013000 +0800">
-    <title lang="zh">2024第三屆 Universal台北職業撞球公開賽</title>
-    <desc>2024第三屆 Universal台北職業撞球公開賽</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817013000 +0800" stop="20250817020000 +0800">
-    <title lang="zh">速度世界</title>
-    <desc>速度世界</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817020000 +0800" stop="20250817030000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817030000 +0800" stop="20250817032500 +0800">
-    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
-    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817032500 +0800" stop="20250817053000 +0800">
-    <title lang="zh">(LIVE)西甲</title>
-    <desc>(LIVE)西甲 瓦倫西亞 vs 皇家社會 (8/17/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817053000 +0800" stop="20250817054500 +0800">
-    <title lang="zh">好球特區</title>
-    <desc>好球特區 EP9</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817054500 +0800" stop="20250817060000 +0800">
-    <title lang="zh">好球特區</title>
-    <desc>好球特區 EP10</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817060000 +0800" stop="20250817090000 +0800">
-    <title lang="zh">2025日本職棒</title>
-    <desc>2025日本職棒 巨人 vs 阪神 (8/16/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817090000 +0800" stop="20250817100000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽 第六季 EP10</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817100000 +0800" stop="20250817115700 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西甲 瓦倫西亞 vs 皇家社會 (8/17/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817115700 +0800" stop="20250817150000 +0800">
-    <title lang="zh">(LIVE)2025日本職棒</title>
-    <desc>(LIVE)2025日本職棒 巨人 vs 阪神 (8/17/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817150000 +0800" stop="20250817160000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師 第七季 EP15</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817160000 +0800" stop="20250817180000 +0800">
-    <title lang="zh">射箭世界盃馬德里站</title>
-    <desc>射箭世界盃馬德里站 反曲弓個人決賽</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817180000 +0800" stop="20250817200000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西甲 瓦倫西亞 vs 皇家社會 (8/17/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817200000 +0800" stop="20250817220000 +0800">
-    <title lang="zh">2024第三屆 Universal台北職業撞球公開賽</title>
-    <desc>2024第三屆 Universal台北職業撞球公開賽 冠軍賽</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817220000 +0800" stop="20250817223000 +0800">
-    <title lang="zh">鍵盤球探</title>
-    <desc>鍵盤球探 EP66</desc>
-    <date>2025-08-17</date>
-  </programme>
-  <programme channel="369288" start="20250817223000 +0800" stop="20250818000000 +0800">
-    <title lang="zh">2025日本職棒</title>
-    <desc>2025日本職棒 巨人 vs 阪神 (8/17/25)</desc>
-    <date>2025-08-17</date>
-  </programme>
   <programme channel="369288" start="20250818013000 +0800" stop="20250818020000 +0800">
     <title lang="zh">世界最強壯的男人</title>
     <desc>世界最強壯的男人（The World's Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
@@ -158,5 +73,65 @@
     <title lang="zh">(首)2025日本職棒</title>
     <desc>(首)2025日本職棒</desc>
     <date>2025-08-18</date>
+  </programme>
+  <programme channel="369288" start="20250819013000 +0800" stop="20250819020000 +0800">
+    <title lang="zh">世界最強壯的男人</title>
+    <desc>世界最強壯的男人（The World's Strongest Man）是一項每年舉辦的國際壯漢比賽。該比賽由美國的活動管理公司IMG（隸屬於Endeavor）主辦，於每年夏季在美國播出，並於每年12月底在英國播出。參賽者通過每年四至八場「Giants Live」活動中的前三名排名獲得資格參賽。目前的賽事贊助商是SBD Apparel。</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819020000 +0800" stop="20250819030000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819030000 +0800" stop="20250819060000 +0800">
+    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
+    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819060000 +0800" stop="20250819090000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819090000 +0800" stop="20250819100000 +0800">
+    <title lang="zh">體壇觀測站</title>
+    <desc>要用不一樣的風貌呈現給觀眾，像是氣象觀測一樣隨著體壇話題變化，「體壇觀測站」由知名體育主播常富寧擔任主持人搭配客座主持及來賓，節目內容包括國內外賽事報導，選手人物深入專訪，暢談運動商品趨勢流行，打造台灣最優質最獨特的體育節目！</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819100000 +0800" stop="20250819120000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819120000 +0800" stop="20250819150000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819150000 +0800" stop="20250819160000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819160000 +0800" stop="20250819165700 +0800">
+    <title lang="zh">TSR 全國機車錦標賽精華</title>
+    <desc>TSR 全國機車錦標賽精華</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819165700 +0800" stop="20250819200000 +0800">
+    <title lang="zh">(LIVE)2025日本職棒</title>
+    <desc>(LIVE)2025日本職棒</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819200000 +0800" stop="20250819223000 +0800">
+    <title lang="zh">24-25PLG</title>
+    <desc>24-25PLG</desc>
+    <date>2025-08-19</date>
+  </programme>
+  <programme channel="369288" start="20250819223000 +0800" stop="20250820000000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-08-19</date>
   </programme>
 </tv>
