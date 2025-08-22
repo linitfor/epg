@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250821205704 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250821.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250821&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250822100613 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369233/20250822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369233&amp;date=20250822&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369233">
     <display-name lang="Taiwan">博斯高球1台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155155193673_78.jpg" />
   </channel>
-  <programme channel="369233" start="20250821000000 +0800" stop="20250821043000 +0800">
-    <title lang="zh">2025 歐巡BMW國際公開賽第一天</title>
-    <desc>2025 歐巡BMW國際公開賽第一天</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369233" start="20250821043000 +0800" stop="20250821100000 +0800">
-    <title lang="zh">2025 歐巡荷蘭公開賽第四天</title>
-    <desc>2025 歐巡荷蘭公開賽第四天</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369233" start="20250821100000 +0800" stop="20250821143000 +0800">
-    <title lang="zh">2025 歐巡蘇格蘭錦標賽第三天</title>
-    <desc>2025 歐巡蘇格蘭錦標賽第三天</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369233" start="20250821143000 +0800" stop="20250821190000 +0800">
-    <title lang="zh">2025 歐巡新加坡菁英賽第三天</title>
-    <desc>2025 歐巡新加坡菁英賽第三天</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369233" start="20250821190000 +0800" stop="20250822000000 +0800">
-    <title lang="zh">LIVE2025 歐巡丹麥錦標賽第一天</title>
-    <desc>LIVE2025 歐巡丹麥錦標賽第一天</desc>
-    <date>2025-08-21</date>
-  </programme>
   <programme channel="369233" start="20250822000000 +0800" stop="20250822053000 +0800">
     <title lang="zh">2025 歐巡BMW國際公開賽第二天</title>
     <desc>2025 歐巡BMW國際公開賽第二天</desc>
@@ -59,9 +34,34 @@
     <desc>LIVE2025 歐巡丹麥錦標賽第二天</desc>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="369233" start="20250823000000 +0800" stop="20250824000000 +0800">
+  <programme channel="369233" start="20250823000000 +0800" stop="20250823050000 +0800">
     <title lang="zh">2025 歐巡BMW國際公開賽第三天</title>
     <desc>2025 歐巡BMW國際公開賽第三天</desc>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="369233" start="20250823050000 +0800" stop="20250823133000 +0800">
+    <title lang="zh">2025英國公開賽第一天</title>
+    <desc>2025英國公開賽第一天</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369233" start="20250823133000 +0800" stop="20250823183000 +0800">
+    <title lang="zh">首播2025 歐巡丹麥錦標賽第二天</title>
+    <desc>首播2025 歐巡丹麥錦標賽第二天</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369233" start="20250823183000 +0800" stop="20250823230000 +0800">
+    <title lang="zh">LIVE2025 歐巡丹麥錦標賽第三天</title>
+    <desc>LIVE2025 歐巡丹麥錦標賽第三天</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369233" start="20250823230000 +0800" stop="20250824000000 +0800">
+    <title lang="zh">2025海南菁英賽 精華</title>
+    <desc>2025海南菁英賽 精華</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369233" start="20250824000000 +0800" stop="20250825000000 +0800">
+    <title lang="zh">2025 歐巡BMW國際公開賽第四天</title>
+    <desc>2025 歐巡BMW國際公開賽第四天</desc>
+    <date>2025-08-24</date>
   </programme>
 </tv>

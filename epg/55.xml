@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250821205703 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250821.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250821&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250822100611 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250822&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250821090000 +0800" stop="20250821093000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821093000 +0800" stop="20250821113000 +0800">
-    <title lang="zh">2025多倫多大師賽十六強KHAvsRUU</title>
-    <desc>2025多倫多大師賽十六強KHAvsRUU</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821113000 +0800" stop="20250821130000 +0800">
-    <title lang="zh">2025華盛頓男網賽十六強MEDvsWU</title>
-    <desc>2025華盛頓男網賽十六強MEDvsWU</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821130000 +0800" stop="20250821143000 +0800">
-    <title lang="zh">2025瑞士男網賽八強COMvsBUB</title>
-    <desc>2025瑞士男網賽八強COMvsBUB</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821143000 +0800" stop="20250821163000 +0800">
-    <title lang="zh">2025多倫多大師賽十六強KHAvsRUU</title>
-    <desc>2025多倫多大師賽十六強KHAvsRUU</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821163000 +0800" stop="20250821180000 +0800">
-    <title lang="zh">2025華盛頓男網賽十六強MEDvsWU</title>
-    <desc>2025華盛頓男網賽十六強MEDvsWU</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="369216" start="20250821180000 +0800" stop="20250822000000 +0800">
-    <title lang="zh">首播2025辛辛那提大師賽十六強</title>
-    <desc>首播2025辛辛那提大師賽十六強</desc>
-    <date>2025-08-21</date>
-  </programme>
   <programme channel="369216" start="20250822000000 +0800" stop="20250822013000 +0800">
     <title lang="zh">2025華盛頓男網賽十六強COBvsTIA</title>
     <desc>2025華盛頓男網賽十六強COBvsTIA</desc>
@@ -103,5 +68,60 @@
     <title lang="zh">2025多倫多大師賽十六強POPvsRUN</title>
     <desc>2025多倫多大師賽十六強POPvsRUN</desc>
     <date>2025-08-22</date>
+  </programme>
+  <programme channel="369216" start="20250823003000 +0800" stop="20250823030000 +0800">
+    <title lang="zh">2025瑞士男網賽八強RUUvsCER</title>
+    <desc>2025瑞士男網賽八強RUUvsCER</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823030000 +0800" stop="20250823050000 +0800">
+    <title lang="zh">LIVE2025辛辛那提大師賽八強</title>
+    <desc>LIVE2025辛辛那提大師賽八強</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823050000 +0800" stop="20250823070000 +0800">
+    <title lang="zh">2025華盛頓男網賽十六強FRIvsARN</title>
+    <desc>2025華盛頓男網賽十六強FRIvsARN</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823070000 +0800" stop="20250823090000 +0800">
+    <title lang="zh">LIVE2025辛辛那提大師賽八強</title>
+    <desc>LIVE2025辛辛那提大師賽八強</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823090000 +0800" stop="20250823110000 +0800">
+    <title lang="zh">2025華盛頓男網賽十六強FRIvsARN</title>
+    <desc>2025華盛頓男網賽十六強FRIvsARN</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823110000 +0800" stop="20250823133000 +0800">
+    <title lang="zh">2025多倫多大師賽十六強POPvsRUN</title>
+    <desc>2025多倫多大師賽十六強POPvsRUN</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823133000 +0800" stop="20250823160000 +0800">
+    <title lang="zh">2025瑞士男網賽八強RUUvsCER</title>
+    <desc>2025瑞士男網賽八強RUUvsCER</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823160000 +0800" stop="20250823180000 +0800">
+    <title lang="zh">2025華盛頓男網賽十六強FRIvsARN</title>
+    <desc>2025華盛頓男網賽十六強FRIvsARN</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823180000 +0800" stop="20250823220000 +0800">
+    <title lang="zh">首播2025辛辛那提大師賽八強</title>
+    <desc>首播2025辛辛那提大師賽八強</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250823220000 +0800" stop="20250824000000 +0800">
+    <title lang="zh">2025多倫多大師賽十六強</title>
+    <desc>2025多倫多大師賽十六強</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369216" start="20250824000000 +0800" stop="20250825000000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>2025-08-24</date>
   </programme>
 </tv>
