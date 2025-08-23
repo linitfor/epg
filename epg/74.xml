@@ -1,126 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250822205552 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250822&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250823100246 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250823&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250822000000 +0800" stop="20250822030000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 女雙八強/單打16強/混雙四強 8/22(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822030000 +0800" stop="20250822040000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 混雙決賽 8/23(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822040000 +0800" stop="20250822043000 +0800">
-    <title lang="zh">體壇最前線 8/21 (新)(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822043000 +0800" stop="20250822070000 +0800">
-    <title lang="zh">中華職棒 味全 VS 台鋼 8/20(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822070000 +0800" stop="20250822073000 +0800">
-    <title lang="zh">世界運動會 跑酷 男自由式/女速度賽決賽 8/12(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822073000 +0800" stop="20250822080000 +0800">
-    <title lang="zh">體壇最前線 8/22(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822080000 +0800" stop="20250822080500 +0800">
-    <title lang="zh">LIVE NFL 維京人 VS 泰坦 8/23 熱身賽第三週(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822080500 +0800" stop="20250822110000 +0800">
-    <title lang="zh">LIVE NFL 愛國者 VS 巨人 8/22 熱身賽第三週(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822110000 +0800" stop="20250822113000 +0800">
-    <title lang="zh">體壇最前線 8/21(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822113000 +0800" stop="20250822120000 +0800">
-    <title lang="zh">體壇最前線 8/21(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822120000 +0800" stop="20250822143000 +0800">
-    <title lang="zh">WTT大滿貫賽 瑞典站 第五日回顧(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822143000 +0800" stop="20250822150000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#7 世錦賽冠軍之路(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822150000 +0800" stop="20250822153000 +0800">
-    <title lang="zh">體壇最前線 8/21(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822153000 +0800" stop="20250822170000 +0800">
-    <title lang="zh">世界運動會 田基森 楊森 健力 男/女裝備超重量級決賽 8/17(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822170000 +0800" stop="20250822180000 +0800">
-    <title lang="zh">2025鑽石聯賽 比利時布魯塞爾站(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822180000 +0800" stop="20250822190000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 單打八強/女雙四強 8/22(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822190000 +0800" stop="20250822200000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 男雙決賽 8/23(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822200000 +0800" stop="20250822220000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 女單四強 8/23(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822220000 +0800" stop="20250822223000 +0800">
-    <title lang="zh">世界運動會 中華隊 武術 男南拳/南棍/太極拳/太極劍/女太極拳/太極劍/長拳決賽 8/8(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822223000 +0800" stop="20250822233000 +0800">
-    <title lang="zh">WTT大滿貫賽 瑞典站 混雙決賽 8/23(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335027" start="20250822233000 +0800" stop="20250823000000 +0800">
-    <title lang="zh">體壇最前線 8/23 (新)(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
   <programme channel="335027" start="20250823000000 +0800" stop="20250823001500 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 單打八強 8/23(普)</title>
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 男單四強 8/24(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250823001500 +0800" stop="20250823023000 +0800">
+  <programme channel="335027" start="20250823001500 +0800" stop="20250823013000 +0800">
     <title lang="zh">LIVE 義甲 薩索羅 VS 拿坡里 第1輪(原音)(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
+  <programme channel="335027" start="20250823013000 +0800" stop="20250823023000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 女雙決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
   <programme channel="335027" start="20250823023000 +0800" stop="20250823030000 +0800">
-    <title lang="zh">LIVE 義甲 AC米蘭 VS 克雷蒙納 第1輪(原音)(普)</title>
+    <title lang="zh">MLB 紅襪 VS 洋基 Fried先發 例行賽 8/23(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -139,8 +39,13 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250823045000 +0800" stop="20250823060000 +0800">
+  <programme channel="335027" start="20250823045000 +0800" stop="20250823050000 +0800">
     <title lang="zh">英超精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335027" start="20250823050000 +0800" stop="20250823060000 +0800">
+    <title lang="zh">中華職棒 味全 VS 富邦 8/23(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -155,7 +60,7 @@
     <date>2025-08-23</date>
   </programme>
   <programme channel="335027" start="20250823073000 +0800" stop="20250823080000 +0800">
-    <title lang="zh">體壇最前線 8/22(普)</title>
+    <title lang="zh">WTT大滿貫賽 瑞典站 單打四強回顧(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -169,8 +74,13 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250823090000 +0800" stop="20250823110000 +0800">
+  <programme channel="335027" start="20250823090000 +0800" stop="20250823100000 +0800">
     <title lang="zh">世界運動會 中華隊 拔河 女子500公斤預賽/四強/金牌戰(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335027" start="20250823100000 +0800" stop="20250823110000 +0800">
+    <title lang="zh">英超 曼城 VS 托特納姆熱刺 第2輪(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -185,12 +95,17 @@
     <date>2025-08-23</date>
   </programme>
   <programme channel="335027" start="20250823120000 +0800" stop="20250823123000 +0800">
-    <title lang="zh">成都世運會 榮耀回顧#1 (新)(普)</title>
+    <title lang="zh">成都世運會 榮耀回顧#2 (新)(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250823123000 +0800" stop="20250823133000 +0800">
-    <title lang="zh">WTT大滿貫賽 瑞典站 單打八強/女雙四強回顧(普)</title>
+  <programme channel="335027" start="20250823123000 +0800" stop="20250823130000 +0800">
+    <title lang="zh">體壇最前線 8/23(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335027" start="20250823130000 +0800" stop="20250823133000 +0800">
+    <title lang="zh">中華職棒 味全 VS 富邦 8/23(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -199,8 +114,13 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250823143000 +0800" stop="20250823160000 +0800">
+  <programme channel="335027" start="20250823143000 +0800" stop="20250823153000 +0800">
     <title lang="zh">中華職棒 味全 VS 富邦 8/22(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335027" start="20250823153000 +0800" stop="20250823160000 +0800">
+    <title lang="zh">成都世運會 榮耀回顧#2(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -235,12 +155,12 @@
     <date>2025-08-23</date>
   </programme>
   <programme channel="335027" start="20250823223000 +0800" stop="20250823224500 +0800">
-    <title lang="zh">WTT大滿貫賽 瑞典站 混雙決賽 8/23(普)</title>
+    <title lang="zh">2025 BWF世界羽球週報#29 世錦賽前瞻&amp;山口茜雙冠回顧(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
   <programme channel="335027" start="20250823224500 +0800" stop="20250823230000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#30(普)</title>
+    <title lang="zh">2025 BWF世界羽球週報#30 世錦賽前瞻&amp;籤表分析(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -254,9 +174,164 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335027" start="20250824000000 +0800" stop="20250825000000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 男單四強 8/24(普)</title>
+  <programme channel="335027" start="20250824000000 +0800" stop="20250824001500 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 男單決賽 8/25(普)</title>
     <desc />
     <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824001500 +0800" stop="20250824013000 +0800">
+    <title lang="zh">LIVE 義甲 薩索羅 VS 拿坡里 第1輪(原音)(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824013000 +0800" stop="20250824023000 +0800">
+    <title lang="zh">MLB 紅襪 VS 洋基 Crochet先發 例行賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824023000 +0800" stop="20250824043000 +0800">
+    <title lang="zh">MLB 紅襪 VS 洋基 Fried先發 例行賽 8/23(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824043000 +0800" stop="20250824045000 +0800">
+    <title lang="zh">體壇最前線 8/24 (新)(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824045000 +0800" stop="20250824050000 +0800">
+    <title lang="zh">英超精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824050000 +0800" stop="20250824060000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 女雙決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824060000 +0800" stop="20250824070000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 女單決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824070000 +0800" stop="20250824073000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 男單決賽 8/25(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824073000 +0800" stop="20250824080000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 單打四強回顧(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824080000 +0800" stop="20250824083000 +0800">
+    <title lang="zh">英超 富勒姆 VS 曼聯 第2輪(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824083000 +0800" stop="20250824090000 +0800">
+    <title lang="zh">體壇最前線 8/23(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824090000 +0800" stop="20250824100000 +0800">
+    <title lang="zh">世界運動會 中華隊 拔河 女子500公斤預賽/四強/金牌戰(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824100000 +0800" stop="20250824101500 +0800">
+    <title lang="zh">英超 曼城 VS 托特納姆熱刺 第2輪(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824101500 +0800" stop="20250824110000 +0800">
+    <title lang="zh">英超 曼城 VS 托特納姆熱刺 第2輪(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824110000 +0800" stop="20250824113000 +0800">
+    <title lang="zh">體壇最前線 8/23(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824113000 +0800" stop="20250824120000 +0800">
+    <title lang="zh">英超 曼城 VS 托特納姆熱刺 第2輪(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824120000 +0800" stop="20250824123000 +0800">
+    <title lang="zh">成都世運會 榮耀回顧#2 (新)(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824123000 +0800" stop="20250824130000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 女單決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824130000 +0800" stop="20250824133000 +0800">
+    <title lang="zh">中華職棒 味全 VS 富邦 8/23(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824133000 +0800" stop="20250824143000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 男單決賽 8/25(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824143000 +0800" stop="20250824150000 +0800">
+    <title lang="zh">體壇最前線 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824150000 +0800" stop="20250824153000 +0800">
+    <title lang="zh">LIVE BWF 世錦賽 第一日 (上) 第1場地 8/25(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824153000 +0800" stop="20250824160000 +0800">
+    <title lang="zh">成都世運會 榮耀回顧#2(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824160000 +0800" stop="20250824183000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 單打四強回顧(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824183000 +0800" stop="20250824193000 +0800">
+    <title lang="zh">WTT大滿貫賽 瑞典站 女雙決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824193000 +0800" stop="20250824210000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 U15/U19決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824210000 +0800" stop="20250824223000 +0800">
+    <title lang="zh">LIVE BWF 世錦賽 第一日 (下) 第1場地 8/25(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824223000 +0800" stop="20250824224500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#29 世錦賽前瞻&amp;山口茜雙冠回顧(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824224500 +0800" stop="20250824230000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#30 世錦賽前瞻&amp;籤表分析(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250824230000 +0800" stop="20250825000000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 女單決賽 8/24(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335027" start="20250825000000 +0800" stop="20250826000000 +0800">
+    <title lang="zh">LIVE WTT大滿貫賽 瑞典站 男單決賽 8/25(普)</title>
+    <desc />
+    <date>2025-08-25</date>
   </programme>
 </tv>

@@ -1,126 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250822205540 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250822&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250823100231 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250823&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250822000000 +0800" stop="20250822004500 +0800">
-    <title lang="zh">第一屆臺灣美式躲避球錦標賽 女子季軍賽 日本隊 vs 桃園市(普)</title>
+  <programme channel="335009" start="20250823000000 +0800" stop="20250823004500 +0800">
+    <title lang="zh">2025金蛇躍龍門定向越野挑戰賽(普)</title>
     <desc />
-    <date>2025-08-22</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250822004500 +0800" stop="20250822060000 +0800">
+  <programme channel="335009" start="20250823004500 +0800" stop="20250823004700 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
-    <date>2025-08-22</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250822060000 +0800" stop="20250822080500 +0800">
+  <programme channel="335009" start="20250823004700 +0800" stop="20250823060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823060000 +0800" stop="20250823070500 +0800">
+    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/13冠軍戰(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823070500 +0800" stop="20250823080500 +0800">
+    <title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823080500 +0800" stop="20250823100900 +0800">
+    <title lang="zh">113學年國中棒球硬式組 冠軍戰 桃園新明 vs 臺南崇明(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823100900 +0800" stop="20250823104500 +0800">
     <title lang="zh">第61屆莒光盃排球賽 國男冠軍賽 苑裡高中 vs 潭秀國中(普)</title>
     <desc />
-    <date>2025-08-22</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250822080500 +0800" stop="20250822104500 +0800">
-    <title lang="zh">113學年國中棒球硬式組 季軍戰 新北二重 vs 臺北長安(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822104500 +0800" stop="20250822110000 +0800">
+  <programme channel="335009" start="20250823104500 +0800" stop="20250823121400 +0800">
     <title lang="zh">113學年度高中軟式棒球 冠軍戰 臺中一中 vs 中山工商(普)</title>
     <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822110000 +0800" stop="20250822123000 +0800">
-    <title lang="zh">2024登峰造極排球 高男組 華僑高中 vs 內湖高工(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822123000 +0800" stop="20250822125500 +0800">
-    <title lang="zh">Supercars 第5集(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822125500 +0800" stop="20250822130000 +0800">
-    <title lang="zh">2025國賓ADT公開賽 第四回合(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822130000 +0800" stop="20250822140000 +0800">
-    <title lang="zh">[Live] 第三屆北港媽祖盃全國桌球賽 8/23賽程(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822140000 +0800" stop="20250822170500 +0800">
-    <title lang="zh">[Live] 第三屆北港媽祖盃全國桌球賽 8/22賽程(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822170500 +0800" stop="20250822173000 +0800">
-    <title lang="zh">113學年國中棒球硬式組 冠軍戰 桃園新明 vs 臺南崇明(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822173000 +0800" stop="20250822194500 +0800">
-    <title lang="zh">113學年國中棒球硬式組 季軍戰 新北二重 vs 臺北長安(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822194500 +0800" stop="20250822200000 +0800">
-    <title lang="zh">113學年度高中軟式棒球 冠軍戰 臺中一中 vs 中山工商(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822200000 +0800" stop="20250822213000 +0800">
-    <title lang="zh">2024登峰造極排球 高男組 華僑高中 vs 內湖高工(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822213000 +0800" stop="20250822215500 +0800">
-    <title lang="zh">Supercars 第5集(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822215500 +0800" stop="20250822220000 +0800">
-    <title lang="zh">2025國賓ADT公開賽 第四回合(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822220000 +0800" stop="20250822230000 +0800">
-    <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第四回合(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822230000 +0800" stop="20250822231200 +0800">
-    <title lang="zh">2025少年籃球 U12男子組 冠軍戰 新北網溪 vs 雲林立仁(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250822231200 +0800" stop="20250823000000 +0800">
-    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15四強賽(普)</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="335009" start="20250823000000 +0800" stop="20250823004500 +0800">
-    <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/14冠軍戰(普)</title>
-    <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823004500 +0800" stop="20250823060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="335009" start="20250823060000 +0800" stop="20250823080500 +0800">
-    <title lang="zh">第61屆莒光盃排球賽 國女冠軍賽 大觀國中 vs 雙十國中(普)</title>
-    <desc />
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="335009" start="20250823080500 +0800" stop="20250823104500 +0800">
-    <title lang="zh">113學年國中棒球硬式組 冠軍戰 桃園新明 vs 臺南崇明(普)</title>
-    <desc />
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="335009" start="20250823104500 +0800" stop="20250823123000 +0800">
-    <title lang="zh">113學年度高中軟式棒球 冠軍戰 臺中一中 vs 中山工商(普)</title>
+  <programme channel="335009" start="20250823121400 +0800" stop="20250823123000 +0800">
+    <title lang="zh">113學年度小學籃球 女子260組 冠軍戰 臺中大智 vs 臺北永平(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -129,18 +54,38 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823130000 +0800" stop="20250823170500 +0800">
+  <programme channel="335009" start="20250823130000 +0800" stop="20250823133000 +0800">
     <title lang="zh">[Live] 第三屆北港媽祖盃全國桌球賽 8/23賽程(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823170500 +0800" stop="20250823194500 +0800">
+  <programme channel="335009" start="20250823133000 +0800" stop="20250823170500 +0800">
+    <title lang="zh">[Live] 第三屆北港媽祖盃全國桌球賽 8/24賽程(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823170500 +0800" stop="20250823172000 +0800">
     <title lang="zh">113學年國中棒球硬式組 冠軍戰 桃園新明 vs 臺南崇明(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823194500 +0800" stop="20250823213000 +0800">
+  <programme channel="335009" start="20250823172000 +0800" stop="20250823192700 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒季軍戰 仁和國中 vs 三星國中(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823192700 +0800" stop="20250823194500 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823194500 +0800" stop="20250823212700 +0800">
     <title lang="zh">113學年度高中軟式棒球 冠軍戰 臺中一中 vs 中山工商(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823212700 +0800" stop="20250823213000 +0800">
+    <title lang="zh">2025 TARO CUP U12 男子組 四強排名賽 SGP vs MAS(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
@@ -149,19 +94,124 @@
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823220000 +0800" stop="20250823231200 +0800">
+  <programme channel="335009" start="20250823220000 +0800" stop="20250823222700 +0800">
     <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第四回合(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250823231200 +0800" stop="20250824000000 +0800">
+  <programme channel="335009" start="20250823222700 +0800" stop="20250823231200 +0800">
+    <title lang="zh">2025 TARO CUP U12 男子組 四強排名賽 ROC(WANGXI) vs KOR(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250823231200 +0800" stop="20250823233200 +0800">
     <title lang="zh">第28屆全國青少年跆拳道錦標賽 10/15四強賽(普)</title>
     <desc />
     <date>2025-08-23</date>
   </programme>
-  <programme channel="335009" start="20250824000000 +0800" stop="20250825000000 +0800">
-    <title lang="zh">2025金蛇躍龍門定向越野挑戰賽(普)</title>
+  <programme channel="335009" start="20250823233200 +0800" stop="20250824000000 +0800">
+    <title lang="zh">Supercars 第6集(普)</title>
+    <desc />
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="335009" start="20250824000000 +0800" stop="20250824003700 +0800">
+    <title lang="zh">114年慈暉盃全國西洋棋錦標賽(普)</title>
     <desc />
     <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824003700 +0800" stop="20250824004700 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824004700 +0800" stop="20250824060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824060000 +0800" stop="20250824070500 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 黃瑜祥 vs 蔡易辰(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824070500 +0800" stop="20250824071400 +0800">
+    <title lang="zh">2024台灣名人賽暨第38屆三商杯第三回合(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824071400 +0800" stop="20250824083000 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824083000 +0800" stop="20250824100900 +0800">
+    <title lang="zh">[Live] 114年全國桌球錦標賽 8/25賽程(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824100900 +0800" stop="20250824121400 +0800">
+    <title lang="zh">第61屆莒光盃排球賽 國男冠軍賽 苑裡高中 vs 潭秀國中(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824121400 +0800" stop="20250824123000 +0800">
+    <title lang="zh">113學年度小學籃球 女子260組 冠軍戰 臺中大智 vs 臺北永平(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824123000 +0800" stop="20250824133000 +0800">
+    <title lang="zh">114年上半年全國菁英排名賽-柔道 青少年組(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824133000 +0800" stop="20250824172000 +0800">
+    <title lang="zh">[Live] 第三屆北港媽祖盃全國桌球賽 8/24賽程(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824172000 +0800" stop="20250824192700 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒季軍戰 仁和國中 vs 三星國中(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824192700 +0800" stop="20250824211600 +0800">
+    <title lang="zh">2024桃園盃國際棒球錦標賽 青少棒冠軍戰 臺北長安 vs 桃園新明A(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824211600 +0800" stop="20250824212700 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824212700 +0800" stop="20250824221600 +0800">
+    <title lang="zh">2025 TARO CUP U12 男子組 四強排名賽 SGP vs MAS(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824221600 +0800" stop="20250824222700 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 黃瑜祥 vs 蔡易辰(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824222700 +0800" stop="20250824233000 +0800">
+    <title lang="zh">2025 TARO CUP U12 男子組 四強排名賽 ROC(WANGXI) vs KOR(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824233000 +0800" stop="20250824233200 +0800">
+    <title lang="zh">Supercars 第5集(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250824233200 +0800" stop="20250825000000 +0800">
+    <title lang="zh">Supercars 第6集(普)</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="335009" start="20250825000000 +0800" stop="20250826000000 +0800">
+    <title lang="zh">2025 TARO CUP U12 男子組 四強排名賽 SGP vs MAS(普)</title>
+    <desc />
+    <date>2025-08-25</date>
   </programme>
 </tv>
