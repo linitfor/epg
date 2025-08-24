@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250823205247 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250823&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250824102327 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250824.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250824&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250823010000 +0800" stop="20250823040000 +0800">
-    <title lang="zh">LIVE2025-26司諾克賽季司諾克大師賽4強</title>
-    <desc>LIVE2025-26司諾克賽季司諾克大師賽4強</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823040000 +0800" stop="20250823070000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 8強 TRU vs JUN</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 8強 TRU vs JUN</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823070000 +0800" stop="20250823100000 +0800">
-    <title lang="zh">2025-26司諾克賽季上海大師賽四強</title>
-    <desc>2025-26司諾克賽季上海大師賽四強</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823100000 +0800" stop="20250823120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第二輪 ALL vs LYU</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 第二輪 ALL vs LYU</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823120000 +0800" stop="20250823180000 +0800">
-    <title lang="zh">首播2025-26司諾克賽季司諾克大師賽4強</title>
-    <desc>首播2025-26司諾克賽季司諾克大師賽4強</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823180000 +0800" stop="20250823210000 +0800">
-    <title lang="zh">LIVE2025-26司諾克賽季司諾克大師賽決賽</title>
-    <desc>LIVE2025-26司諾克賽季司諾克大師賽決賽</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="369235" start="20250823210000 +0800" stop="20250824000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 8強 ALL vs SEL</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 8強 ALL vs SEL</desc>
-    <date>2025-08-23</date>
-  </programme>
   <programme channel="369235" start="20250824003000 +0800" stop="20250824033000 +0800">
     <title lang="zh">LIVE2025-26司諾克賽季司諾克大師賽決賽</title>
     <desc>LIVE2025-26司諾克賽季司諾克大師賽決賽</desc>
@@ -74,9 +39,49 @@
     <desc>2024-25司諾克賽季 司諾克大師賽 4強 ALL vs MUR</desc>
     <date>2025-08-24</date>
   </programme>
-  <programme channel="369235" start="20250825000000 +0800" stop="20250826000000 +0800">
+  <programme channel="369235" start="20250825000000 +0800" stop="20250825030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
     <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
     <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825030000 +0800" stop="20250825060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</title>
+    <desc>2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825060000 +0800" stop="20250825090000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 16強</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 16強</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825090000 +0800" stop="20250825120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825120000 +0800" stop="20250825150000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 16強</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 16強</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825150000 +0800" stop="20250825180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825180000 +0800" stop="20250825210000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 8強</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 8強</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250825210000 +0800" stop="20250826000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</title>
+    <desc>2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="369235" start="20250826000000 +0800" stop="20250827000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 SEL vs SI</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 SEL vs SI</desc>
+    <date>2025-08-26</date>
   </programme>
 </tv>
