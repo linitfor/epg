@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250825205941 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250825.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250825&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250826100741 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250826.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250826&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250825000000 +0800" stop="20250825030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825030000 +0800" stop="20250825060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</title>
-    <desc>2024-25司諾克賽季 世界公開賽 第三輪(2)DIN vs VAF(無英文主播音)</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825060000 +0800" stop="20250825090000 +0800">
-    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 16強</title>
-    <desc>2025-26司諾克賽季 司諾克大師賽 16強</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825090000 +0800" stop="20250825120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825120000 +0800" stop="20250825150000 +0800">
-    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 16強</title>
-    <desc>2025-26司諾克賽季 司諾克大師賽 16強</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825150000 +0800" stop="20250825180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</title>
-    <desc>2024-25司諾克賽季 英格蘭公開賽 4強 WU vs SIN</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825180000 +0800" stop="20250825210000 +0800">
-    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 8強</title>
-    <desc>2025-26司諾克賽季 司諾克大師賽 8強</desc>
-    <date>2025-08-25</date>
-  </programme>
-  <programme channel="369235" start="20250825210000 +0800" stop="20250826000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</title>
-    <desc>2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</desc>
-    <date>2025-08-25</date>
-  </programme>
   <programme channel="369235" start="20250826000000 +0800" stop="20250826030000 +0800">
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 SEL vs SI</title>
     <desc>2024-25司諾克賽季 英格蘭公開賽 16強 SEL vs SI</desc>
@@ -84,9 +44,64 @@
     <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
     <date>2025-08-26</date>
   </programme>
-  <programme channel="369235" start="20250827000000 +0800" stop="20250828000000 +0800">
+  <programme channel="369235" start="20250827000000 +0800" stop="20250827013000 +0800">
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</title>
     <desc>2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</desc>
     <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827013000 +0800" stop="20250827030000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827030000 +0800" stop="20250827060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827060000 +0800" stop="20250827090000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827090000 +0800" stop="20250827103000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827103000 +0800" stop="20250827120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827120000 +0800" stop="20250827150000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827150000 +0800" stop="20250827163000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 TRU vs FAN</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827163000 +0800" stop="20250827180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 16強 WIL vs HAW</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827180000 +0800" stop="20250827210000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第二輪(1) HOL vs HAL</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第二輪(1) HOL vs HAL</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250827210000 +0800" stop="20250828000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 第一輪(2)HIG vs DAV</title>
+    <desc>2024-25司諾克賽季 世界公開賽 第一輪(2)HIG vs DAV</desc>
+    <date>2025-08-27</date>
+  </programme>
+  <programme channel="369235" start="20250828000000 +0800" stop="20250829000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 8強 ALL vs WAK</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 8強 ALL vs WAK</desc>
+    <date>2025-08-28</date>
   </programme>
 </tv>
