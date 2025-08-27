@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250826210025 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20250826.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20250826&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250827100339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20250827.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20250827&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370178">
     <display-name lang="Taiwan">Bloomberg TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="370178" start="20250826000000 +0800" stop="20250826010000 +0800">
-    <title lang="zh">Bloomberg Markets: European Close(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826010000 +0800" stop="20250826020000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826020000 +0800" stop="20250826023000 +0800">
-    <title lang="zh">Bloomberg Markets(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826023000 +0800" stop="20250826030000 +0800">
-    <title lang="zh">Bloomberg Markets(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826030000 +0800" stop="20250826053000 +0800">
-    <title lang="zh">Bloomberg Markets: The Close(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826053000 +0800" stop="20250826060000 +0800">
-    <title lang="zh">Bloomberg Markets: Whatd You Miss?(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826060000 +0800" stop="20250826070000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Australia(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826070000 +0800" stop="20250826090000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Asia(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826090000 +0800" stop="20250826100000 +0800">
-    <title lang="zh">Bloomberg Markets: China Open(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826100000 +0800" stop="20250826120000 +0800">
-    <title lang="zh">Bloomberg Markets: Asia(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826120000 +0800" stop="20250826140000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Middle East(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826140000 +0800" stop="20250826150000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826150000 +0800" stop="20250826160000 +0800">
-    <title lang="zh">Bloomberg Markets: Europe(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826160000 +0800" stop="20250826170000 +0800">
-    <title lang="zh">Bloomberg Markets: European Open(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826170000 +0800" stop="20250826180000 +0800">
-    <title lang="zh">Bloomberg Technology(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826180000 +0800" stop="20250826190000 +0800">
-    <title lang="zh">Bloomberg Surveillance: Early Edition(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826190000 +0800" stop="20250826200000 +0800">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826200000 +0800" stop="20250826220000 +0800">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826220000 +0800" stop="20250826230000 +0800">
-    <title lang="zh">Bloomberg: The Open(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
-  <programme channel="370178" start="20250826230000 +0800" stop="20250827000000 +0800">
-    <title lang="zh">Bloomberg Markets: Americas(普)</title>
-    <desc />
-    <date>2025-08-26</date>
-  </programme>
   <programme channel="370178" start="20250827000000 +0800" stop="20250827010000 +0800">
     <title lang="zh">Bloomberg Markets: European Close(普)</title>
     <desc />
@@ -204,9 +104,114 @@
     <desc />
     <date>2025-08-27</date>
   </programme>
-  <programme channel="370178" start="20250828000000 +0800" stop="20250829000000 +0800">
+  <programme channel="370178" start="20250828000000 +0800" stop="20250828010000 +0800">
     <title lang="zh">Bloomberg Markets: European Close(普)</title>
     <desc />
     <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828010000 +0800" stop="20250828020000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828020000 +0800" stop="20250828023000 +0800">
+    <title lang="zh">Bloomberg Markets(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828023000 +0800" stop="20250828030000 +0800">
+    <title lang="zh">Bloomberg Markets(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828030000 +0800" stop="20250828053000 +0800">
+    <title lang="zh">Bloomberg Markets: The Close(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828053000 +0800" stop="20250828060000 +0800">
+    <title lang="zh">Bloomberg Markets: Whatd You Miss?(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828060000 +0800" stop="20250828070000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Australia(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828070000 +0800" stop="20250828090000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Asia(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828090000 +0800" stop="20250828100000 +0800">
+    <title lang="zh">Bloomberg Markets: China Open(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828100000 +0800" stop="20250828120000 +0800">
+    <title lang="zh">Bloomberg Markets: Asia(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828120000 +0800" stop="20250828140000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Middle East(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828140000 +0800" stop="20250828150000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828150000 +0800" stop="20250828160000 +0800">
+    <title lang="zh">Bloomberg Markets: Europe(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828160000 +0800" stop="20250828170000 +0800">
+    <title lang="zh">Bloomberg Markets: European Open(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828170000 +0800" stop="20250828180000 +0800">
+    <title lang="zh">Bloomberg Technology(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828180000 +0800" stop="20250828190000 +0800">
+    <title lang="zh">Bloomberg Surveillance: Early Edition(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828190000 +0800" stop="20250828193000 +0800">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828193000 +0800" stop="20250828200000 +0800">
+    <title lang="zh">Bloomberg Studio 1.0(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828200000 +0800" stop="20250828220000 +0800">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828220000 +0800" stop="20250828230000 +0800">
+    <title lang="zh">Bloomberg: The Open(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250828230000 +0800" stop="20250829000000 +0800">
+    <title lang="zh">Bloomberg Markets: Americas(普)</title>
+    <desc />
+    <date>2025-08-28</date>
+  </programme>
+  <programme channel="370178" start="20250829000000 +0800" stop="20250830000000 +0800">
+    <title lang="zh">Bloomberg Markets: European Close(普)</title>
+    <desc />
+    <date>2025-08-29</date>
   </programme>
 </tv>
