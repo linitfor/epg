@@ -1,84 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250828205634 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250828.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250828&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250829205540 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250829.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250829&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369288">
     <display-name lang="Taiwan">DAZN 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
   </channel>
-  <programme channel="369288" start="20250828000000 +0800" stop="20250828013000 +0800">
-    <title lang="zh">2025中華企業射箭聯賽</title>
-    <desc>2025中華企業射箭聯賽</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828013000 +0800" stop="20250828023000 +0800">
-    <title lang="zh">TSR 全國機車錦標賽精華</title>
-    <desc>TSR 全國機車錦標賽精華</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828023000 +0800" stop="20250828033000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828033000 +0800" stop="20250828053000 +0800">
-    <title lang="zh">格鬥特區 競技空間拳擊</title>
-    <desc>格鬥特區 競技空間拳擊</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828053000 +0800" stop="20250828060000 +0800">
-    <title lang="zh">西甲世界</title>
-    <desc>西甲世界</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828060000 +0800" stop="20250828090000 +0800">
-    <title lang="zh">2025日本職棒</title>
-    <desc>2025日本職棒</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828090000 +0800" stop="20250828100000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828100000 +0800" stop="20250828120000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828120000 +0800" stop="20250828150000 +0800">
-    <title lang="zh">2025中華職棒</title>
-    <desc>2025中華職棒</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828150000 +0800" stop="20250828160000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828160000 +0800" stop="20250828165700 +0800">
-    <title lang="zh">FIBA3對3大師賽</title>
-    <desc>FIBA3對3大師賽</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828165700 +0800" stop="20250828200000 +0800">
-    <title lang="zh">(LIVE)2025日本職棒</title>
-    <desc>(LIVE)2025日本職棒</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828200000 +0800" stop="20250828220000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828220000 +0800" stop="20250828223000 +0800">
-    <title lang="zh">鍵盤球探</title>
-    <desc>鍵盤球探</desc>
-    <date>2025-08-28</date>
-  </programme>
-  <programme channel="369288" start="20250828223000 +0800" stop="20250829000000 +0800">
-    <title lang="zh">2025日本職棒</title>
-    <desc>2025日本職棒</desc>
-    <date>2025-08-28</date>
-  </programme>
   <programme channel="369288" start="20250829013000 +0800" stop="20250829023000 +0800">
     <title lang="zh">TSR 全國機車錦標賽精華</title>
     <desc>TSR 全國機車錦標賽精華</desc>
@@ -153,5 +78,100 @@
     <title lang="zh">2025日本職棒</title>
     <desc>2025日本職棒</desc>
     <date>2025-08-29</date>
+  </programme>
+  <programme channel="369288" start="20250830013000 +0800" stop="20250830023000 +0800">
+    <title lang="zh">TSR 全國機車錦標賽精華</title>
+    <desc>TSR 全國機車錦標賽精華</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830023000 +0800" stop="20250830033000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830033000 +0800" stop="20250830053000 +0800">
+    <title lang="zh">格鬥特區 競技空間拳擊</title>
+    <desc>格鬥特區 競技空間拳擊</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830053000 +0800" stop="20250830060000 +0800">
+    <title lang="zh">2025日職精華</title>
+    <desc>2025日職精華</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830060000 +0800" stop="20250830090000 +0800">
+    <title lang="zh">2025日本職棒</title>
+    <desc>2025日本職棒</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830090000 +0800" stop="20250830100000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830100000 +0800" stop="20250830120000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830120000 +0800" stop="20250830125700 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830125700 +0800" stop="20250830160000 +0800">
+    <title lang="zh">(LIVE)2025日本職棒</title>
+    <desc>(LIVE)2025日本職棒</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830160000 +0800" stop="20250830170000 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830170000 +0800" stop="20250830181000 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830181000 +0800" stop="20250830190500 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830190500 +0800" stop="20250830194500 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830194500 +0800" stop="20250830204000 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830204000 +0800" stop="20250830214500 +0800">
+    <title lang="zh">(LIVE)2025FIBA3對3</title>
+    <desc>(LIVE)2025FIBA3對3</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830214500 +0800" stop="20250830220000 +0800">
+    <title lang="zh">好球特區</title>
+    <desc>好球特區</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830220000 +0800" stop="20250830230000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250830230000 +0800" stop="20250831000000 +0800">
+    <title lang="zh">(首)德州撲克百萬電視大賽</title>
+    <desc>(首)德州撲克百萬電視大賽</desc>
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="369288" start="20250831000000 +0800" stop="20250901000000 +0800">
+    <title lang="zh">2025中華企業射箭聯賽</title>
+    <desc>2025中華企業射箭聯賽</desc>
+    <date>2025-08-31</date>
   </programme>
 </tv>
