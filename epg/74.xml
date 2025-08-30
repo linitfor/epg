@@ -1,121 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250829205600 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250829.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250829&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250830095806 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250830&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250829040000 +0800" stop="20250829043000 +0800">
-    <title lang="zh">中華職棒 統一 VS 味全 8/26(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829043000 +0800" stop="20250829063000 +0800">
-    <title lang="zh">中華職棒 富邦 VS 統一 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829063000 +0800" stop="20250829064500 +0800">
-    <title lang="zh">體壇最前線 8/28 (新)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829064500 +0800" stop="20250829070000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 台鋼 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829070000 +0800" stop="20250829090000 +0800">
-    <title lang="zh">BWF 世錦賽 16強回顧 中華隊(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829090000 +0800" stop="20250829100000 +0800">
-    <title lang="zh">BWF 世錦賽 八強回顧(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829100000 +0800" stop="20250829103000 +0800">
-    <title lang="zh">體壇最前線 8/28(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829103000 +0800" stop="20250829104500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#30 世錦賽前瞻&amp;籤表分析(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829104500 +0800" stop="20250829110000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽（上）(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829110000 +0800" stop="20250829111500 +0800">
-    <title lang="zh">WTT大滿貫賽 瑞典站 男單決賽 林詩棟VS莫雷加德 8/25(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829111500 +0800" stop="20250829113000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#31(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829113000 +0800" stop="20250829120000 +0800">
-    <title lang="zh">體壇最前線 8/28(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829120000 +0800" stop="20250829123000 +0800">
-    <title lang="zh">BWF 世錦賽 16強回顧 中華隊(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829123000 +0800" stop="20250829150000 +0800">
-    <title lang="zh">BWF 世錦賽 八強回顧(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829150000 +0800" stop="20250829153000 +0800">
-    <title lang="zh">體壇最前線 8/28(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829153000 +0800" stop="20250829203000 +0800">
-    <title lang="zh">LIVE BWF 世錦賽 八強 (上) 第1場地 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829203000 +0800" stop="20250829204500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽（上）(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829204500 +0800" stop="20250829230000 +0800">
-    <title lang="zh">BWF 世錦賽 精彩賽況(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="335027" start="20250829230000 +0800" stop="20250830000000 +0800">
-    <title lang="zh">LIVE BWF 世錦賽 八強 (下) 第1場地 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
   <programme channel="335027" start="20250830040000 +0800" stop="20250830043000 +0800">
-    <title lang="zh">體壇最前線 8/29 (新)(普)</title>
+    <title lang="zh">體壇最前線 8/30 (新)(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
   <programme channel="335027" start="20250830043000 +0800" stop="20250830064500 +0800">
-    <title lang="zh">中華職棒 富邦 VS 統一 8/29(普)</title>
+    <title lang="zh">中華職棒 中信 VS 味全 8/30(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="335027" start="20250830064500 +0800" stop="20250830090000 +0800">
+  <programme channel="335027" start="20250830064500 +0800" stop="20250830070000 +0800">
     <title lang="zh">中華職棒 樂天 VS 台鋼 8/29(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="335027" start="20250830090000 +0800" stop="20250830120000 +0800">
+  <programme channel="335027" start="20250830070000 +0800" stop="20250830090000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830090000 +0800" stop="20250830093000 +0800">
     <title lang="zh">BWF 世錦賽 八強回顧(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830093000 +0800" stop="20250830120000 +0800">
+    <title lang="zh">BWF 世錦賽 四強回顧(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -124,13 +39,38 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="335027" start="20250830123000 +0800" stop="20250830153000 +0800">
-    <title lang="zh">BWF 世錦賽 八強回顧(普)</title>
+  <programme channel="335027" start="20250830123000 +0800" stop="20250830130000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#8(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="335027" start="20250830153000 +0800" stop="20250830203000 +0800">
+  <programme channel="335027" start="20250830130000 +0800" stop="20250830153000 +0800">
+    <title lang="zh">BWF 世錦賽 四強回顧(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830153000 +0800" stop="20250830160000 +0800">
     <title lang="zh">LIVE BWF 世錦賽 四強 (上) 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830160000 +0800" stop="20250830161500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#30 世錦賽前瞻&amp;籤表分析(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830161500 +0800" stop="20250830163000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽（上）(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830163000 +0800" stop="20250830190000 +0800">
+    <title lang="zh">MLB 響尾蛇 VS 道奇 例行賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250830190000 +0800" stop="20250830203000 +0800">
+    <title lang="zh">LIVE BWF 世錦賽 決賽 8/31(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -148,5 +88,115 @@
     <title lang="zh">LIVE BWF 世錦賽 四強 (下) 8/30(普)</title>
     <desc />
     <date>2025-08-30</date>
+  </programme>
+  <programme channel="335027" start="20250831010000 +0800" stop="20250831011500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#30 世錦賽前瞻&amp;籤表分析(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831011500 +0800" stop="20250831013000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831013000 +0800" stop="20250831020000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#8(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831020000 +0800" stop="20250831023000 +0800">
+    <title lang="zh">體壇最前線 8/31 (新)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831023000 +0800" stop="20250831040000 +0800">
+    <title lang="zh">LIVE 義甲 國際米蘭 VS 烏迪內斯 第2輪(原音)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831040000 +0800" stop="20250831043000 +0800">
+    <title lang="zh">體壇最前線 8/30 (新)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831043000 +0800" stop="20250831045000 +0800">
+    <title lang="zh">中華職棒 中信 VS 味全 8/30(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831045000 +0800" stop="20250831070000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831070000 +0800" stop="20250831073000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 8/30(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831073000 +0800" stop="20250831093000 +0800">
+    <title lang="zh">BWF 世錦賽 決賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831093000 +0800" stop="20250831103000 +0800">
+    <title lang="zh">BWF 世錦賽 四強回顧(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831103000 +0800" stop="20250831123000 +0800">
+    <title lang="zh">F1 荷蘭站 正賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831123000 +0800" stop="20250831130000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#8(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831130000 +0800" stop="20250831160000 +0800">
+    <title lang="zh">BWF 世錦賽 決賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831160000 +0800" stop="20250831161500 +0800">
+    <title lang="zh">FIBA籃球亞洲盃 菲律賓 VS 中華 8/6 D組預賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831161500 +0800" stop="20250831163000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831163000 +0800" stop="20250831180000 +0800">
+    <title lang="zh">MLB 響尾蛇 VS 道奇 例行賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831180000 +0800" stop="20250831190000 +0800">
+    <title lang="zh">D-LIVE 世界鐵人三項系列賽 蔚藍海岸站 菁英女子賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831190000 +0800" stop="20250831193000 +0800">
+    <title lang="zh">LIVE BWF 世錦賽 決賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831193000 +0800" stop="20250831210000 +0800">
+    <title lang="zh">D-LIVE 世界鐵人三項系列賽 蔚藍海岸站 菁英男子賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250831210000 +0800" stop="20250901000000 +0800">
+    <title lang="zh">BWF 世錦賽 決賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="335027" start="20250901000000 +0800" stop="20250902000000 +0800">
+    <title lang="zh">體壇最前線 9/1 (新)(普)</title>
+    <desc />
+    <date>2025-09-01</date>
   </programme>
 </tv>

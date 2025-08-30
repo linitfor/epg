@@ -1,136 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250829205557 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250829.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250829&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250830095803 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250830&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334825">
     <display-name lang="Taiwan">CatchPlay HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334825" start="20250829011000 +0800" stop="20250829014000 +0800">
-    <title lang="zh">粽邪(輔15)</title>
+  <programme channel="334825" start="20250830000000 +0800" stop="20250830011000 +0800">
+    <title lang="zh">BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
     <desc />
-    <date>2025-08-29</date>
+    <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250829014000 +0800" stop="20250829032500 +0800">
-    <title lang="zh">粽邪3：鬼門開(輔15)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829032500 +0800" stop="20250829035500 +0800">
-    <title lang="zh">高玩殺手(輔15)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829035500 +0800" stop="20250829054000 +0800">
-    <title lang="zh">傷城(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829054000 +0800" stop="20250829061500 +0800">
-    <title lang="zh">幸福綠皮書(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829061500 +0800" stop="20250829082000 +0800">
-    <title lang="zh">樹大招風(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829082000 +0800" stop="20250829085000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829085000 +0800" stop="20250829092000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829092000 +0800" stop="20250829095000 +0800">
-    <title lang="zh">模犯生(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829095000 +0800" stop="20250829120000 +0800">
-    <title lang="zh">做工的人(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829120000 +0800" stop="20250829130000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829130000 +0800" stop="20250829133000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829133000 +0800" stop="20250829140000 +0800">
-    <title lang="zh">怒火追擊(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829140000 +0800" stop="20250829150500 +0800">
-    <title lang="zh">不容易的爸爸(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829150500 +0800" stop="20250829162000 +0800">
-    <title lang="zh">我的第一任(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829162000 +0800" stop="20250829170000 +0800">
-    <title lang="zh">雞排英雄(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829170000 +0800" stop="20250829190000 +0800">
-    <title lang="zh">哥吉拉-1.0(雙語)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829190000 +0800" stop="20250829193000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829193000 +0800" stop="20250829200000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829200000 +0800" stop="20250829210000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829210000 +0800" stop="20250829230000 +0800">
-    <title lang="zh">【全台首播】BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250829230000 +0800" stop="20250830000000 +0800">
-    <title lang="zh">做工的人(護)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334825" start="20250830011000 +0800" stop="20250830032500 +0800">
+  <programme channel="334825" start="20250830011000 +0800" stop="20250830020000 +0800">
     <title lang="zh">粽邪(輔15)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830032500 +0800" stop="20250830054000 +0800">
+  <programme channel="334825" start="20250830020000 +0800" stop="20250830032500 +0800">
+    <title lang="zh">【本月熱播】風再起時(雙語)(輔15)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830032500 +0800" stop="20250830045000 +0800">
     <title lang="zh">高玩殺手(輔15)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830054000 +0800" stop="20250830082000 +0800">
+  <programme channel="334825" start="20250830045000 +0800" stop="20250830054000 +0800">
+    <title lang="zh">鬼弒訊(輔15)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830054000 +0800" stop="20250830055500 +0800">
     <title lang="zh">幸福綠皮書(護)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830082000 +0800" stop="20250830095000 +0800">
+  <programme channel="334825" start="20250830055500 +0800" stop="20250830080000 +0800">
+    <title lang="zh">狂徒(護)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830080000 +0800" stop="20250830082000 +0800">
     <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830082000 +0800" stop="20250830093000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830093000 +0800" stop="20250830095000 +0800">
+    <title lang="zh">哥吉拉-1.0(雙語)(護)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -145,17 +65,27 @@
     <date>2025-08-30</date>
   </programme>
   <programme channel="334825" start="20250830133000 +0800" stop="20250830150500 +0800">
-    <title lang="zh">怒火追擊(護)</title>
+    <title lang="zh">做工的人(護)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830150500 +0800" stop="20250830170000 +0800">
+  <programme channel="334825" start="20250830150500 +0800" stop="20250830154000 +0800">
     <title lang="zh">我的第一任(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830170000 +0800" stop="20250830193000 +0800">
+  <programme channel="334825" start="20250830154000 +0800" stop="20250830170000 +0800">
+    <title lang="zh">老鷹想飛(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830170000 +0800" stop="20250830171500 +0800">
     <title lang="zh">哥吉拉-1.0(雙語)(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250830171500 +0800" stop="20250830193000 +0800">
+    <title lang="zh">頭文字D(雙語)(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -164,13 +94,138 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250830210000 +0800" stop="20250831000000 +0800">
-    <title lang="zh">【本台首播】風再起時(雙語)(輔15)</title>
+  <programme channel="334825" start="20250830210000 +0800" stop="20250830233000 +0800">
+    <title lang="zh">做工的人(護)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334825" start="20250831000000 +0800" stop="20250901000000 +0800">
+  <programme channel="334825" start="20250830233000 +0800" stop="20250831000000 +0800">
+    <title lang="zh">【本月熱播】馗降：粽邪2(輔15)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334825" start="20250831000000 +0800" stop="20250831014000 +0800">
     <title lang="zh">BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831014000 +0800" stop="20250831020000 +0800">
+    <title lang="zh">失蹤網紅(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831020000 +0800" stop="20250831041000 +0800">
+    <title lang="zh">【本月熱播】風再起時(雙語)(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831041000 +0800" stop="20250831045000 +0800">
+    <title lang="zh">愛情選擇題(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831045000 +0800" stop="20250831055500 +0800">
+    <title lang="zh">鬼弒訊(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831055500 +0800" stop="20250831063500 +0800">
+    <title lang="zh">狂徒(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831063500 +0800" stop="20250831080000 +0800">
+    <title lang="zh">追捕(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831080000 +0800" stop="20250831085000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831085000 +0800" stop="20250831092000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831092000 +0800" stop="20250831093000 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831093000 +0800" stop="20250831095000 +0800">
+    <title lang="zh">哥吉拉-1.0(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831095000 +0800" stop="20250831120000 +0800">
+    <title lang="zh">我最愛的笨男人(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831120000 +0800" stop="20250831130000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831130000 +0800" stop="20250831133000 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831133000 +0800" stop="20250831140000 +0800">
+    <title lang="zh">做工的人(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831140000 +0800" stop="20250831154000 +0800">
+    <title lang="zh">哥吉拉-1.0(雙語)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831154000 +0800" stop="20250831163000 +0800">
+    <title lang="zh">老鷹想飛(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831163000 +0800" stop="20250831171500 +0800">
+    <title lang="zh">活個精彩(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831171500 +0800" stop="20250831190000 +0800">
+    <title lang="zh">頭文字D(雙語)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831190000 +0800" stop="20250831193000 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831193000 +0800" stop="20250831200000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831200000 +0800" stop="20250831210000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831210000 +0800" stop="20250831230500 +0800">
+    <title lang="zh">殺破狼‧貪狼(雙語)(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831230500 +0800" stop="20250831233000 +0800">
+    <title lang="zh">變種鯊(輔15)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334825" start="20250831233000 +0800" stop="20250901000000 +0800">
+    <title lang="zh">【本月熱播】馗降：粽邪2(輔15)</title>
     <desc />
     <date>2025-08-31</date>
   </programme>

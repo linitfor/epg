@@ -1,189 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250829205535 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250829.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250829&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250830095740 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20250830&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
   </channel>
-  <programme channel="370222" start="20250829000000 +0800" stop="20250829004800 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829004800 +0800" stop="20250829013400 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829013400 +0800" stop="20250829022100 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829022100 +0800" stop="20250829030400 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829030400 +0800" stop="20250829035000 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829035000 +0800" stop="20250829041400 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829041400 +0800" stop="20250829043700 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829043700 +0800" stop="20250829052200 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829052200 +0800" stop="20250829060500 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829060500 +0800" stop="20250829065300 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829065300 +0800" stop="20250829073900 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829073900 +0800" stop="20250829082500 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829082500 +0800" stop="20250829090900 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829090900 +0800" stop="20250829095400 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829095400 +0800" stop="20250829101900 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829101900 +0800" stop="20250829104200 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829104200 +0800" stop="20250829112700 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829112700 +0800" stop="20250829120900 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829120900 +0800" stop="20250829125800 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829125800 +0800" stop="20250829134400 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829134400 +0800" stop="20250829143000 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829143000 +0800" stop="20250829151300 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829151300 +0800" stop="20250829155900 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829155900 +0800" stop="20250829162400 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829162400 +0800" stop="20250829164600 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829164600 +0800" stop="20250829173100 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829173100 +0800" stop="20250829181400 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829181400 +0800" stop="20250829190300 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829190300 +0800" stop="20250829194900 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829194900 +0800" stop="20250829203500 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829203500 +0800" stop="20250829211800 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829211800 +0800" stop="20250829220400 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829220400 +0800" stop="20250829222900 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829222900 +0800" stop="20250829225100 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829225100 +0800" stop="20250829233600 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="370222" start="20250829233600 +0800" stop="20250830000000 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
   <programme channel="370222" start="20250830000000 +0800" stop="20250830004900 +0800">
     <title lang="zh">主廚大聯盟 05</title>
     <desc />
@@ -364,9 +184,184 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="370222" start="20250831000000 +0800" stop="20250901000000 +0800">
+  <programme channel="370222" start="20250831000000 +0800" stop="20250831004800 +0800">
     <title lang="zh">主廚大聯盟 06</title>
     <desc />
     <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831004800 +0800" stop="20250831013400 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831013400 +0800" stop="20250831022400 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831022400 +0800" stop="20250831030800 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831030800 +0800" stop="20250831035500 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831035500 +0800" stop="20250831042100 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831042100 +0800" stop="20250831044700 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831044700 +0800" stop="20250831053100 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831053100 +0800" stop="20250831061300 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831061300 +0800" stop="20250831070200 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831070200 +0800" stop="20250831074800 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831074800 +0800" stop="20250831083700 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831083700 +0800" stop="20250831092100 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831092100 +0800" stop="20250831100800 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831100800 +0800" stop="20250831103400 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831103400 +0800" stop="20250831110100 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831110100 +0800" stop="20250831114400 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831114400 +0800" stop="20250831122600 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831122600 +0800" stop="20250831131500 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831131500 +0800" stop="20250831140100 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831140100 +0800" stop="20250831145000 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831145000 +0800" stop="20250831153400 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831153400 +0800" stop="20250831162100 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831162100 +0800" stop="20250831164700 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831164700 +0800" stop="20250831171400 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831171400 +0800" stop="20250831175700 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831175700 +0800" stop="20250831183900 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831183900 +0800" stop="20250831192800 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831192800 +0800" stop="20250831201400 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831201400 +0800" stop="20250831210300 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831210300 +0800" stop="20250831214700 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831214700 +0800" stop="20250831223400 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831223400 +0800" stop="20250831230100 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831230100 +0800" stop="20250831232700 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250831232700 +0800" stop="20250901000000 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="370222" start="20250901000000 +0800" stop="20250902000000 +0800">
+    <title lang="zh">主廚大聯盟 01</title>
+    <desc />
+    <date>2025-09-01</date>
   </programme>
 </tv>

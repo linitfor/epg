@@ -1,111 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250829205559 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250829.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250829&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250830095805 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334902/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334902&amp;date=20250830&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334902">
     <display-name lang="Taiwan">愛爾達體育2台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334902" start="20250829040000 +0800" stop="20250829050000 +0800">
+  <programme channel="334902" start="20250830000500 +0800" stop="20250830002000 +0800">
+    <title lang="zh">義甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830002000 +0800" stop="20250830023500 +0800">
+    <title lang="zh">LIVE 英超 里茲聯 VS 紐卡索聯 第3輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830023500 +0800" stop="20250830025000 +0800">
+    <title lang="zh">德甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830025000 +0800" stop="20250830030500 +0800">
+    <title lang="zh">法甲精華 第2輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830030500 +0800" stop="20250830040000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 台鋼 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830040000 +0800" stop="20250830053000 +0800">
     <title lang="zh">中華職棒 樂天 VS 台鋼 8/29(普)</title>
     <desc />
-    <date>2025-08-29</date>
+    <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250829050000 +0800" stop="20250829053000 +0800">
-    <title lang="zh">體壇最前線 8/28(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829053000 +0800" stop="20250829063000 +0800">
-    <title lang="zh">2025鑽石聯賽 總決賽 第二日(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829063000 +0800" stop="20250829083000 +0800">
-    <title lang="zh">世界運動會 中華隊 拔河 女子500公斤預賽/四強/排名賽/獎牌戰 8/10(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829083000 +0800" stop="20250829090000 +0800">
-    <title lang="zh">LIVE MLB 小熊 VS 洛磯 例行賽 8/30(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829090000 +0800" stop="20250829113000 +0800">
-    <title lang="zh">中華職棒 統一 VS 味全 8/27(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829113000 +0800" stop="20250829120000 +0800">
-    <title lang="zh">體壇最前線 8/28(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829120000 +0800" stop="20250829143000 +0800">
-    <title lang="zh">2025鑽石聯賽 總決賽 第二日(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829143000 +0800" stop="20250829150000 +0800">
-    <title lang="zh">體壇最前線 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829150000 +0800" stop="20250829153000 +0800">
-    <title lang="zh">世界運動會 田基森 楊森 健力 男/女裝備超重量級決賽 8/17(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829153000 +0800" stop="20250829170000 +0800">
-    <title lang="zh">LIVE BWF 世錦賽 八強 (上) 第2場地 8/29 (18:25後MOD按983/網路MAX3台)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829170000 +0800" stop="20250829183000 +0800">
-    <title lang="zh">LIVE 中華職棒 中信 VS 味全 8/30(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829183000 +0800" stop="20250829201500 +0800">
-    <title lang="zh">LIVE 中華職棒 中信 VS 味全 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829201500 +0800" stop="20250829204500 +0800">
-    <title lang="zh">MLB好球連發#18 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829204500 +0800" stop="20250829211500 +0800">
-    <title lang="zh">MLB好球連發#19 (AI字幕)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829211500 +0800" stop="20250829215000 +0800">
-    <title lang="zh">LIVE 體壇最前線 8/30(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829215000 +0800" stop="20250829220000 +0800">
-    <title lang="zh">LIVE 英超 曼聯 VS 伯恩利 第3輪(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829220000 +0800" stop="20250829223000 +0800">
-    <title lang="zh">LIVE 體壇最前線 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829223000 +0800" stop="20250829230000 +0800">
-    <title lang="zh">MLB好球連發#19 (AI字幕) (新)(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250829230000 +0800" stop="20250830000000 +0800">
-    <title lang="zh">LIVE BWF 世錦賽 八強 (下) 第2場地 8/29(普)</title>
-    <desc />
-    <date>2025-08-29</date>
-  </programme>
-  <programme channel="334902" start="20250830040000 +0800" stop="20250830061500 +0800">
-    <title lang="zh">中華職棒 樂天 VS 台鋼 8/29(普)</title>
+  <programme channel="334902" start="20250830053000 +0800" stop="20250830061500 +0800">
+    <title lang="zh">F1 荷蘭站 排位賽(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -120,7 +50,7 @@
     <date>2025-08-30</date>
   </programme>
   <programme channel="334902" start="20250830070000 +0800" stop="20250830073500 +0800">
-    <title lang="zh">MLB好球連發#19 (AI字幕)(普)</title>
+    <title lang="zh">LIVE MLB 洋基 VS 白襪 例行賽 8/31(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -129,8 +59,13 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830083000 +0800" stop="20250830103000 +0800">
+  <programme channel="334902" start="20250830083000 +0800" stop="20250830100000 +0800">
     <title lang="zh">LIVE MLB 小熊 VS 洛磯 例行賽 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830100000 +0800" stop="20250830103000 +0800">
+    <title lang="zh">LIVE MLB 遊騎兵 VS 運動家 例行賽 8/31(原音)(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -139,13 +74,18 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830113000 +0800" stop="20250830133000 +0800">
+  <programme channel="334902" start="20250830113000 +0800" stop="20250830130000 +0800">
     <title lang="zh">D-LIVE MLB 洋基 VS 白襪 例行賽 8/30(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
+  <programme channel="334902" start="20250830130000 +0800" stop="20250830133000 +0800">
+    <title lang="zh">體壇最前線 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
   <programme channel="334902" start="20250830133000 +0800" stop="20250830140000 +0800">
-    <title lang="zh">體壇最前線 8/29(普)</title>
+    <title lang="zh">F1 荷蘭站 排位賽(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -154,13 +94,23 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830143000 +0800" stop="20250830170000 +0800">
+  <programme channel="334902" start="20250830143000 +0800" stop="20250830150000 +0800">
     <title lang="zh">MLB 響尾蛇 VS 道奇 例行賽 8/30(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830170000 +0800" stop="20250830201500 +0800">
+  <programme channel="334902" start="20250830150000 +0800" stop="20250830170000 +0800">
+    <title lang="zh">LIVE 中華職棒 中信 VS 味全 8/31(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830170000 +0800" stop="20250830183000 +0800">
     <title lang="zh">LIVE 中華職棒 中信 VS 味全 8/30(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830183000 +0800" stop="20250830201500 +0800">
+    <title lang="zh">MLB 洋基 VS 白襪 例行賽 8/31(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -169,8 +119,13 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830204500 +0800" stop="20250830211500 +0800">
+  <programme channel="334902" start="20250830204500 +0800" stop="20250830205000 +0800">
     <title lang="zh">MLB好球連發#19 (AI字幕)(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830205000 +0800" stop="20250830211500 +0800">
+    <title lang="zh">LIVE 英超 布萊頓 VS 曼城 第3輪(普)</title>
     <desc />
     <date>2025-08-30</date>
   </programme>
@@ -179,9 +134,164 @@
     <desc />
     <date>2025-08-30</date>
   </programme>
-  <programme channel="334902" start="20250830215000 +0800" stop="20250831000000 +0800">
+  <programme channel="334902" start="20250830215000 +0800" stop="20250830230500 +0800">
     <title lang="zh">LIVE 英超 曼聯 VS 伯恩利 第3輪(普)</title>
     <desc />
     <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830230500 +0800" stop="20250830232000 +0800">
+    <title lang="zh">義甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250830232000 +0800" stop="20250831000000 +0800">
+    <title lang="zh">LIVE 英超 利物浦 VS 兵工廠 第3輪(普)</title>
+    <desc />
+    <date>2025-08-30</date>
+  </programme>
+  <programme channel="334902" start="20250831000500 +0800" stop="20250831002000 +0800">
+    <title lang="zh">義甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831002000 +0800" stop="20250831013500 +0800">
+    <title lang="zh">LIVE 英超 里茲聯 VS 紐卡索聯 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831013500 +0800" stop="20250831020000 +0800">
+    <title lang="zh">體壇最前線 8/31 (新)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831020000 +0800" stop="20250831021500 +0800">
+    <title lang="zh">德甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831021500 +0800" stop="20250831023000 +0800">
+    <title lang="zh">法甲精華 第2輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831023000 +0800" stop="20250831023500 +0800">
+    <title lang="zh">F1 荷蘭站 正賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831023500 +0800" stop="20250831025000 +0800">
+    <title lang="zh">德甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831025000 +0800" stop="20250831030500 +0800">
+    <title lang="zh">法甲精華 第2輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831030500 +0800" stop="20250831050000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 台鋼 8/30(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831050000 +0800" stop="20250831053000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 台鋼 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831053000 +0800" stop="20250831070000 +0800">
+    <title lang="zh">F1 荷蘭站 排位賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831070000 +0800" stop="20250831073000 +0800">
+    <title lang="zh">LIVE MLB 洋基 VS 白襪 例行賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831073000 +0800" stop="20250831080000 +0800">
+    <title lang="zh">體壇最前線 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831080000 +0800" stop="20250831100000 +0800">
+    <title lang="zh">英超 布萊頓 VS 曼城 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831100000 +0800" stop="20250831101500 +0800">
+    <title lang="zh">LIVE MLB 遊騎兵 VS 運動家 例行賽 8/31(原音)(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831101500 +0800" stop="20250831123000 +0800">
+    <title lang="zh">英超 利物浦 VS 兵工廠 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831123000 +0800" stop="20250831130000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 台鋼 8/30(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831130000 +0800" stop="20250831133000 +0800">
+    <title lang="zh">體壇最前線 8/30(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831133000 +0800" stop="20250831150000 +0800">
+    <title lang="zh">F1 荷蘭站 排位賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831150000 +0800" stop="20250831171500 +0800">
+    <title lang="zh">英超 布萊頓 VS 曼城 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831171500 +0800" stop="20250831183000 +0800">
+    <title lang="zh">F1 荷蘭站 正賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831183000 +0800" stop="20250831194500 +0800">
+    <title lang="zh">MLB 洋基 VS 白襪 例行賽 8/31(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831194500 +0800" stop="20250831205000 +0800">
+    <title lang="zh">英超 利物浦 VS 兵工廠 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831205000 +0800" stop="20250831220000 +0800">
+    <title lang="zh">LIVE 英超 布萊頓 VS 曼城 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831220000 +0800" stop="20250831223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 9/1(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831223000 +0800" stop="20250831230500 +0800">
+    <title lang="zh">F1 荷蘭站 排位賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831230500 +0800" stop="20250831232000 +0800">
+    <title lang="zh">義甲精華 第1輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831232000 +0800" stop="20250831233000 +0800">
+    <title lang="zh">LIVE 英超 利物浦 VS 兵工廠 第3輪(普)</title>
+    <desc />
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="334902" start="20250831233000 +0800" stop="20250901000000 +0800">
+    <title lang="zh">F1 荷蘭站 正賽(普)</title>
+    <desc />
+    <date>2025-08-31</date>
   </programme>
 </tv>
