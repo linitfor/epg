@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250830205004 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250830&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250831100849 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250831.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250831&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250830020000 +0800" stop="20250830110000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY1第一輪</title>
-    <desc>LIVE2025美國網球公開賽DAY1第一輪</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="369216" start="20250830110000 +0800" stop="20250830223000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY1第一輪</title>
-    <desc>首播2025美國網球公開賽DAY1第一輪</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="369216" start="20250830223000 +0800" stop="20250831000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY2第一輪</title>
-    <desc>LIVE2025美國網球公開賽DAY2第一輪</desc>
-    <date>2025-08-30</date>
-  </programme>
   <programme channel="369216" start="20250831020000 +0800" stop="20250831110000 +0800">
     <title lang="zh">首播2025美國網球公開賽DAY1第一輪</title>
     <desc>首播2025美國網球公開賽DAY1第一輪</desc>
@@ -33,5 +18,25 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY2第一輪</title>
     <desc>LIVE2025美國網球公開賽DAY2第一輪</desc>
     <date>2025-08-31</date>
+  </programme>
+  <programme channel="369216" start="20250901020000 +0800" stop="20250901110000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY8十六強</title>
+    <desc>LIVE2025美國網球公開賽DAY8十六強</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="369216" start="20250901110000 +0800" stop="20250901150000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY8十六強</title>
+    <desc>首播2025美國網球公開賽DAY8十六強</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="369216" start="20250901150000 +0800" stop="20250901223000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY8十六強</title>
+    <desc>首播2025美國網球公開賽DAY8十六強</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="369216" start="20250901223000 +0800" stop="20250902000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY1第一輪</title>
+    <desc>LIVE2025美國網球公開賽DAY1第一輪</desc>
+    <date>2025-09-01</date>
   </programme>
 </tv>
