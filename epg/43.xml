@@ -1,79 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250831205202 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250831.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250831&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250901102608 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250901.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250901&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250831013000 +0800" stop="20250831040000 +0800">
-    <title lang="zh">2024美國網球公開賽女單決賽PEG vs SAB</title>
-    <desc>2024美國網球公開賽女單決賽PEG vs SAB</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831040000 +0800" stop="20250831053000 +0800">
-    <title lang="zh">2025歐冠女排聯賽第四輪 LEG4科內利亞諾 vs 普羅夫迪夫</title>
-    <desc>2025歐冠女排聯賽第四輪 LEG4科內利亞諾 vs 普羅夫迪夫</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831053000 +0800" stop="20250831080000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽 第10周福添福嘉南鷹vs 兆基穿山甲</title>
-    <desc>2025企業女子壘球聯賽 第10周福添福嘉南鷹vs 兆基穿山甲</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831080000 +0800" stop="20250831085500 +0800">
-    <title lang="zh">2025鐵人三項世界巡迴賽倫敦站 精華</title>
-    <desc>2025鐵人三項世界巡迴賽倫敦站 精華</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831085500 +0800" stop="20250831113000 +0800">
-    <title lang="zh">LIVE2025企業女子壘球聯賽 第11周新北凱撒 vs新世紀黃蜂</title>
-    <desc>LIVE2025企業女子壘球聯賽 第11周新北凱撒 vs新世紀黃蜂</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831113000 +0800" stop="20250831115500 +0800">
-    <title lang="zh">女壘週報 第10集</title>
-    <desc>女壘週報 第10集</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831115500 +0800" stop="20250831143000 +0800">
-    <title lang="zh">LIVE2025企業女子壘球聯賽 第11周中華 U18 vs 福添福嘉南鷹</title>
-    <desc>LIVE2025企業女子壘球聯賽 第11周中華 U18 vs 福添福嘉南鷹</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831143000 +0800" stop="20250831170000 +0800">
-    <title lang="zh">LIVE2025企業女子壘球聯賽 第11周新北凱撒 vs 臺北臺產熊讚</title>
-    <desc>LIVE2025企業女子壘球聯賽 第11周新北凱撒 vs 臺北臺產熊讚</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831170000 +0800" stop="20250831173000 +0800">
-    <title lang="zh">2024美網精華 第13天</title>
-    <desc>2024美網精華 第13天</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831173000 +0800" stop="20250831190000 +0800">
-    <title lang="zh">2025歐冠女排聯賽第四輪 LEG4科內利亞諾 vs 普羅夫迪夫</title>
-    <desc>2025歐冠女排聯賽第四輪 LEG4科內利亞諾 vs 普羅夫迪夫</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831190000 +0800" stop="20250831220000 +0800">
-    <title lang="zh">2024美國網球公開賽決賽SIN vs FRI</title>
-    <desc>2024美國網球公開賽決賽SIN vs FRI</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831220000 +0800" stop="20250831223000 +0800">
-    <title lang="zh">2024美網精華 第14天</title>
-    <desc>2024美網精華 第14天</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831223000 +0800" stop="20250831230000 +0800">
-    <title lang="zh">2025美網PREVIEW</title>
-    <desc>2025美網PREVIEW</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="369230" start="20250831230000 +0800" stop="20250901000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY1 第一輪(亞瑟艾許球場)</title>
-    <desc>LIVE2025美國網球公開賽DAY1 第一輪(亞瑟艾許球場)</desc>
-    <date>2025-08-31</date>
-  </programme>
   <programme channel="369230" start="20250901043000 +0800" stop="20250901070000 +0800">
     <title lang="zh">2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</title>
     <desc>2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</desc>
@@ -93,5 +23,25 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</title>
     <desc>LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</desc>
     <date>2025-09-01</date>
+  </programme>
+  <programme channel="369230" start="20250902043000 +0800" stop="20250902070000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</title>
+    <desc>2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="369230" start="20250902070000 +0800" stop="20250902120000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="369230" start="20250902120000 +0800" stop="20250902230000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</title>
+    <desc>首播2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="369230" start="20250902230000 +0800" stop="20250903000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY3 第一輪(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY3 第一輪(亞瑟艾許球場)</desc>
+    <date>2025-09-02</date>
   </programme>
 </tv>
