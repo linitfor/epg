@@ -1,139 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250901205815 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20250901.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20250901&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250902100452 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20250902.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20250902&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370149">
     <display-name lang="Taiwan">愛爾達娛樂台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" />
   </channel>
-  <programme channel="370149" start="20250901000000 +0800" stop="20250901010000 +0800">
-    <title lang="zh">小姐不熙娣(第17集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901010000 +0800" stop="20250901020000 +0800">
-    <title lang="zh">小姐不熙娣(第18集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901020000 +0800" stop="20250901030000 +0800">
-    <title lang="zh">小姐不熙娣(第19集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901030000 +0800" stop="20250901040000 +0800">
-    <title lang="zh">網路很忙(第1集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901040000 +0800" stop="20250901050000 +0800">
-    <title lang="zh">網路很忙(第2集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901050000 +0800" stop="20250901060000 +0800">
-    <title lang="zh">星辰大海(第28集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901060000 +0800" stop="20250901070000 +0800">
-    <title lang="zh">星辰大海(第29集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901070000 +0800" stop="20250901080000 +0800">
-    <title lang="zh">星辰大海(第30集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901080000 +0800" stop="20250901090000 +0800">
-    <title lang="zh">招惹(第5集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901090000 +0800" stop="20250901100000 +0800">
-    <title lang="zh">招惹(第6集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901100000 +0800" stop="20250901110000 +0800">
-    <title lang="zh">招惹(第7集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901110000 +0800" stop="20250901113000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#1 教練特集(第1集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901113000 +0800" stop="20250901120000 +0800">
-    <title lang="zh">體壇最前線 8/31(第243集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901120000 +0800" stop="20250901130000 +0800">
-    <title lang="zh">小姐不熙娣(第17集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901130000 +0800" stop="20250901140000 +0800">
-    <title lang="zh">小姐不熙娣(第18集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901140000 +0800" stop="20250901150000 +0800">
-    <title lang="zh">小姐不熙娣(第19集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901150000 +0800" stop="20250901160000 +0800">
-    <title lang="zh">網路很忙(第1集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901160000 +0800" stop="20250901170000 +0800">
-    <title lang="zh">網路很忙(第2集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901170000 +0800" stop="20250901180000 +0800">
-    <title lang="zh">招惹(第5集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901180000 +0800" stop="20250901190000 +0800">
-    <title lang="zh">招惹(第6集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901190000 +0800" stop="20250901200000 +0800">
-    <title lang="zh">招惹(第7集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901200000 +0800" stop="20250901210000 +0800">
-    <title lang="zh">星辰大海(第28集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901210000 +0800" stop="20250901220000 +0800">
-    <title lang="zh">星辰大海(第29集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901220000 +0800" stop="20250901230000 +0800">
-    <title lang="zh">星辰大海(第30集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901230000 +0800" stop="20250901233000 +0800">
-    <title lang="zh">英超名人堂 #1 Juan Mata(第1集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
-  <programme channel="370149" start="20250901233000 +0800" stop="20250902000000 +0800">
-    <title lang="zh">體壇最前線 9/1(第244集) (普)</title>
-    <desc />
-    <date>2025-09-01</date>
-  </programme>
   <programme channel="370149" start="20250902000000 +0800" stop="20250902010000 +0800">
     <title lang="zh">小姐不熙娣(第20集) (普)</title>
     <desc />
@@ -264,9 +134,139 @@
     <desc />
     <date>2025-09-02</date>
   </programme>
-  <programme channel="370149" start="20250903000000 +0800" stop="20250904000000 +0800">
+  <programme channel="370149" start="20250903000000 +0800" stop="20250903010000 +0800">
     <title lang="zh">小姐不熙娣(第23集) (普)</title>
     <desc />
     <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903010000 +0800" stop="20250903020000 +0800">
+    <title lang="zh">小姐不熙娣(第24集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903020000 +0800" stop="20250903030000 +0800">
+    <title lang="zh">小姐不熙娣(第25集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903030000 +0800" stop="20250903040000 +0800">
+    <title lang="zh">網路很忙(第5集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903040000 +0800" stop="20250903050000 +0800">
+    <title lang="zh">網路很忙(第6集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903050000 +0800" stop="20250903060000 +0800">
+    <title lang="zh">星辰大海(第34集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903060000 +0800" stop="20250903070000 +0800">
+    <title lang="zh">星辰大海(第35集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903070000 +0800" stop="20250903080000 +0800">
+    <title lang="zh">星辰大海(第36集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903080000 +0800" stop="20250903090000 +0800">
+    <title lang="zh">重回沈府掠春光(完)(第3集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903090000 +0800" stop="20250903100000 +0800">
+    <title lang="zh">力拔山兮的老婆大人(第1集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903100000 +0800" stop="20250903110000 +0800">
+    <title lang="zh">力拔山兮的老婆大人(第2集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903110000 +0800" stop="20250903113000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#3 李龍大 諶龍 羽球名人堂(第3集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903113000 +0800" stop="20250903120000 +0800">
+    <title lang="zh">體壇最前線 9/2(第245集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903120000 +0800" stop="20250903130000 +0800">
+    <title lang="zh">小姐不熙娣(第23集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903130000 +0800" stop="20250903140000 +0800">
+    <title lang="zh">小姐不熙娣(第24集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903140000 +0800" stop="20250903150000 +0800">
+    <title lang="zh">小姐不熙娣(第25集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903150000 +0800" stop="20250903160000 +0800">
+    <title lang="zh">網路很忙(第5集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903160000 +0800" stop="20250903170000 +0800">
+    <title lang="zh">網路很忙(第6集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903170000 +0800" stop="20250903180000 +0800">
+    <title lang="zh">重回沈府掠春光(完)(第3集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903180000 +0800" stop="20250903190000 +0800">
+    <title lang="zh">力拔山兮的老婆大人(第1集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903190000 +0800" stop="20250903200000 +0800">
+    <title lang="zh">力拔山兮的老婆大人(第2集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903200000 +0800" stop="20250903210000 +0800">
+    <title lang="zh">星辰大海(第34集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903210000 +0800" stop="20250903220000 +0800">
+    <title lang="zh">星辰大海(第35集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903220000 +0800" stop="20250903230000 +0800">
+    <title lang="zh">星辰大海(第36集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903230000 +0800" stop="20250903233000 +0800">
+    <title lang="zh">英超名人堂 #3 進球的藝術(第3集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250903233000 +0800" stop="20250904000000 +0800">
+    <title lang="zh">體壇最前線 9/3(第246集) (普)</title>
+    <desc />
+    <date>2025-09-03</date>
+  </programme>
+  <programme channel="370149" start="20250904000000 +0800" stop="20250905000000 +0800">
+    <title lang="zh">小姐不熙娣(第26集) (普)</title>
+    <desc />
+    <date>2025-09-04</date>
   </programme>
 </tv>
