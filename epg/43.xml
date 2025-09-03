@@ -1,29 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250902205805 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250902.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250902&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250903095548 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250903.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250903&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250902043000 +0800" stop="20250902070000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</title>
-    <desc>2025企業女子壘球聯賽 第11周中華U18 vs 新北凱撒</desc>
-    <date>2025-09-02</date>
-  </programme>
-  <programme channel="369230" start="20250902070000 +0800" stop="20250902120000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</title>
-    <desc>LIVE2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</desc>
-    <date>2025-09-02</date>
-  </programme>
-  <programme channel="369230" start="20250902120000 +0800" stop="20250902230000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</title>
-    <desc>首播2025美國網球公開賽DAY2 第一輪(亞瑟艾許球場)</desc>
-    <date>2025-09-02</date>
-  </programme>
-  <programme channel="369230" start="20250902230000 +0800" stop="20250903000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY3 第一輪(亞瑟艾許球場)</title>
-    <desc>LIVE2025美國網球公開賽DAY3 第一輪(亞瑟艾許球場)</desc>
-    <date>2025-09-02</date>
-  </programme>
   <programme channel="369230" start="20250903043000 +0800" stop="20250903070000 +0800">
     <title lang="zh">2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</title>
     <desc>2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</desc>
@@ -43,5 +23,25 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</title>
     <desc>LIVE2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</desc>
     <date>2025-09-03</date>
+  </programme>
+  <programme channel="369230" start="20250904043000 +0800" stop="20250904070000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽 第11周中華 U18 vs 臺北臺產熊讚</title>
+    <desc>2025企業女子壘球聯賽 第11周中華 U18 vs 臺北臺產熊讚</desc>
+    <date>2025-09-04</date>
+  </programme>
+  <programme channel="369230" start="20250904070000 +0800" stop="20250904120000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</desc>
+    <date>2025-09-04</date>
+  </programme>
+  <programme channel="369230" start="20250904120000 +0800" stop="20250904230000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</title>
+    <desc>首播2025美國網球公開賽DAY4 第二輪(亞瑟艾許球場)</desc>
+    <date>2025-09-04</date>
+  </programme>
+  <programme channel="369230" start="20250904230000 +0800" stop="20250905000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY5 第二輪(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY5 第二輪(亞瑟艾許球場)</desc>
+    <date>2025-09-04</date>
   </programme>
 </tv>
