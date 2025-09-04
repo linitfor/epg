@@ -1,29 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250903205541 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250903.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250903&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250904095623 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250904.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250904&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250903020000 +0800" stop="20250903110000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY3第一輪</title>
-    <desc>LIVE2025美國網球公開賽DAY3第一輪</desc>
-    <date>2025-09-03</date>
-  </programme>
-  <programme channel="369216" start="20250903110000 +0800" stop="20250903150000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY3第一輪</title>
-    <desc>首播2025美國網球公開賽DAY3第一輪</desc>
-    <date>2025-09-03</date>
-  </programme>
-  <programme channel="369216" start="20250903150000 +0800" stop="20250903223000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY3第一輪</title>
-    <desc>首播2025美國網球公開賽DAY3第一輪</desc>
-    <date>2025-09-03</date>
-  </programme>
-  <programme channel="369216" start="20250903223000 +0800" stop="20250904000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY4第二輪</title>
-    <desc>LIVE2025美國網球公開賽DAY4第二輪</desc>
-    <date>2025-09-03</date>
-  </programme>
   <programme channel="369216" start="20250904020000 +0800" stop="20250904110000 +0800">
     <title lang="zh">LIVE2025美國網球公開賽DAY4第二輪</title>
     <desc>LIVE2025美國網球公開賽DAY4第二輪</desc>
@@ -43,5 +23,25 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY5第二輪</title>
     <desc>LIVE2025美國網球公開賽DAY5第二輪</desc>
     <date>2025-09-04</date>
+  </programme>
+  <programme channel="369216" start="20250905020000 +0800" stop="20250905110000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY5第二輪</title>
+    <desc>LIVE2025美國網球公開賽DAY5第二輪</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="369216" start="20250905110000 +0800" stop="20250905150000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY5第二輪</title>
+    <desc>首播2025美國網球公開賽DAY5第二輪</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="369216" start="20250905150000 +0800" stop="20250905223000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY5第二輪</title>
+    <desc>首播2025美國網球公開賽DAY5第二輪</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="369216" start="20250905223000 +0800" stop="20250906000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY6第三輪</title>
+    <desc>LIVE2025美國網球公開賽DAY6第三輪</desc>
+    <date>2025-09-05</date>
   </programme>
 </tv>
