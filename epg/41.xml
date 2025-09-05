@@ -1,79 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250904205446 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250904.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250904&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250905100013 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369229/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369229&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369229">
     <display-name lang="Taiwan">博斯無限二台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155256166902_67.jpg" />
   </channel>
-  <programme channel="369229" start="20250904000000 +0800" stop="20250904020000 +0800">
-    <title lang="zh">2024歐洲公開賽 第3天(4) MAJ vs WIL</title>
-    <desc>2024歐洲公開賽 第3天(4) MAJ vs WIL</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904020000 +0800" stop="20250904033000 +0800">
-    <title lang="zh">2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</title>
-    <desc>2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904033000 +0800" stop="20250904050000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 O'SUL vs WOO</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 O'SUL vs WOO</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904050000 +0800" stop="20250904070000 +0800">
-    <title lang="zh">2024歐洲公開賽 第3天(4) MAJ vs WIL</title>
-    <desc>2024歐洲公開賽 第3天(4) MAJ vs WIL</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904070000 +0800" stop="20250904083000 +0800">
-    <title lang="zh">2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</title>
-    <desc>2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904083000 +0800" stop="20250904090000 +0800">
-    <title lang="zh">電玩宅速配</title>
-    <desc>電玩宅速配</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904090000 +0800" stop="20250904103000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 O'SUL vs WOO</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 O'SUL vs WOO</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904103000 +0800" stop="20250904123000 +0800">
-    <title lang="zh">2024歐洲公開賽 第3天(4) MAJ vs WIL</title>
-    <desc>2024歐洲公開賽 第3天(4) MAJ vs WIL</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904123000 +0800" stop="20250904140000 +0800">
-    <title lang="zh">2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</title>
-    <desc>2025世界九號球錦標賽第一輪截點(12)KO(台) vs SOU</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904140000 +0800" stop="20250904170000 +0800">
-    <title lang="zh">LIVE2025-26司諾克賽季武漢公開賽八強</title>
-    <desc>LIVE2025-26司諾克賽季武漢公開賽八強</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904170000 +0800" stop="20250904173000 +0800">
-    <title lang="zh">巴哈姆特電玩瘋</title>
-    <desc>巴哈姆特電玩瘋</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904173000 +0800" stop="20250904193000 +0800">
-    <title lang="zh">2024歐洲公開賽 第3天(4) MAJ vs WIL</title>
-    <desc>2024歐洲公開賽 第3天(4) MAJ vs WIL</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904193000 +0800" stop="20250904223000 +0800">
-    <title lang="zh">LIVE2025-26司諾克賽季武漢公開賽八強</title>
-    <desc>LIVE2025-26司諾克賽季武漢公開賽八強</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="369229" start="20250904223000 +0800" stop="20250905000000 +0800">
-    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 ROB vs JAI</title>
-    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 ROB vs JAI</desc>
-    <date>2025-09-04</date>
-  </programme>
   <programme channel="369229" start="20250905003000 +0800" stop="20250905020000 +0800">
     <title lang="zh">2024歐洲公開賽 第3天(5) FIL vs KOU</title>
     <desc>2024歐洲公開賽 第3天(5) FIL vs KOU</desc>
@@ -129,9 +59,74 @@
     <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 TRU vs MAN</desc>
     <date>2025-09-05</date>
   </programme>
-  <programme channel="369229" start="20250906000000 +0800" stop="20250907000000 +0800">
+  <programme channel="369229" start="20250906000000 +0800" stop="20250906013000 +0800">
     <title lang="zh">2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</title>
     <desc>2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906013000 +0800" stop="20250906033000 +0800">
+    <title lang="zh">2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</title>
+    <desc>2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906033000 +0800" stop="20250906050000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 TRU vs MAN</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 TRU vs MAN</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906050000 +0800" stop="20250906063000 +0800">
+    <title lang="zh">2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</title>
+    <desc>2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906063000 +0800" stop="20250906083000 +0800">
+    <title lang="zh">2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</title>
+    <desc>2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906083000 +0800" stop="20250906100000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 TRU vs MAN</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 TRU vs MAN</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906100000 +0800" stop="20250906103000 +0800">
+    <title lang="zh">電玩宅速配</title>
+    <desc>電玩宅速配</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906103000 +0800" stop="20250906120000 +0800">
+    <title lang="zh">2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</title>
+    <desc>2024歐洲公開賽 第4天(1) SHA vs CHA(台灣)</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906120000 +0800" stop="20250906140000 +0800">
+    <title lang="zh">2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</title>
+    <desc>2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906140000 +0800" stop="20250906170000 +0800">
+    <title lang="zh">LIVE2025-26司諾克賽季武漢公開賽決賽</title>
+    <desc>LIVE2025-26司諾克賽季武漢公開賽決賽</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906170000 +0800" stop="20250906190000 +0800">
+    <title lang="zh">2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</title>
+    <desc>2025世界九號球錦標賽第一輪截點(13)CHU vs RAG</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906190000 +0800" stop="20250906193000 +0800">
+    <title lang="zh">電玩宅速配</title>
+    <desc>電玩宅速配</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906193000 +0800" stop="20250906223000 +0800">
+    <title lang="zh">LIVE2025-26司諾克賽季武漢公開賽決賽</title>
+    <desc>LIVE2025-26司諾克賽季武漢公開賽決賽</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="369229" start="20250906223000 +0800" stop="20250907000000 +0800">
+    <title lang="zh">2022-23司諾克賽季 蘇格蘭公開賽 第二輪 ALL vs GOU</title>
+    <desc>2022-23司諾克賽季 蘇格蘭公開賽 第二輪 ALL vs GOU</desc>
     <date>2025-09-06</date>
   </programme>
 </tv>
