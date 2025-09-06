@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250905205544 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250906095716 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369235/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369235&amp;date=20250906&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369235">
     <display-name lang="Taiwan">博斯無限台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155140978323_51.jpg" />
   </channel>
-  <programme channel="369235" start="20250905000000 +0800" stop="20250905030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT</title>
-    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905030000 +0800" stop="20250905060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界公開賽 決賽HIG vs O'CON</title>
-    <desc>2024-25司諾克賽季 世界公開賽 決賽HIG vs O'CON</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905060000 +0800" stop="20250905090000 +0800">
-    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 4強</title>
-    <desc>2025-26司諾克賽季 司諾克大師賽 4強</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905090000 +0800" stop="20250905120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT</title>
-    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905120000 +0800" stop="20250905124000 +0800">
-    <title lang="zh">2024-25 限時挑戰賽8強/4強/決賽</title>
-    <desc>2024-25 限時挑戰賽8強/4強/決賽</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905124000 +0800" stop="20250905203000 +0800">
-    <title lang="zh">LIVE2025台塑盃臺北花式撞球公開賽第三天</title>
-    <desc>LIVE2025台塑盃臺北花式撞球公開賽第三天</desc>
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="369235" start="20250905203000 +0800" stop="20250906000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 球員錦標賽 16強 ROB vs BIN</title>
-    <desc>2024-25司諾克賽季 球員錦標賽 16強 ROB vs BIN</desc>
-    <date>2025-09-05</date>
-  </programme>
   <programme channel="369235" start="20250906000000 +0800" stop="20250906030000 +0800">
     <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 SEL vs HEA</title>
     <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 SEL vs HEA</desc>
@@ -79,9 +44,49 @@
     <desc>2024-25司諾克賽季 球員錦標賽 16強 WIL vs ALL</desc>
     <date>2025-09-06</date>
   </programme>
-  <programme channel="369235" start="20250907000000 +0800" stop="20250908000000 +0800">
+  <programme channel="369235" start="20250907000000 +0800" stop="20250907030000 +0800">
     <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</title>
     <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</desc>
     <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907030000 +0800" stop="20250907060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 球員錦標賽 16強 WIL vs ALL</title>
+    <desc>2024-25司諾克賽季 球員錦標賽 16強 WIL vs ALL</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907060000 +0800" stop="20250907090000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(1)GUR vs EVA</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第一輪(1)GUR vs EVA</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907090000 +0800" stop="20250907120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</title>
+    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907120000 +0800" stop="20250907150000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(1)GUR vs EVA</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第一輪(1)GUR vs EVA</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907150000 +0800" stop="20250907180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</title>
+    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 VAF vs WHI</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907180000 +0800" stop="20250907210000 +0800">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</title>
+    <desc>2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250907210000 +0800" stop="20250908000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 球員錦標賽 16強 TRU vs LEI</title>
+    <desc>2024-25司諾克賽季 球員錦標賽 16強 TRU vs LEI</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="369235" start="20250908000000 +0800" stop="20250909000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 北愛爾蘭公開賽 8強 ROB vs JUN</title>
+    <desc>2024-25司諾克賽季 北愛爾蘭公開賽 8強 ROB vs JUN</desc>
+    <date>2025-09-08</date>
   </programme>
 </tv>

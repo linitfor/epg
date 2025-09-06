@@ -1,121 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250905205558 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250906095734 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250906&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250905000000 +0800" stop="20250905003000 +0800">
-    <title lang="zh">體壇最前線 9/4 (新)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905003000 +0800" stop="20250905023000 +0800">
-    <title lang="zh">MLB 洋基 VS 太空人 例行賽 9/4(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905023000 +0800" stop="20250905030000 +0800">
-    <title lang="zh">NFL 牛仔 VS 老鷹 開幕戰 9/5(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905030000 +0800" stop="20250905053000 +0800">
-    <title lang="zh">中華職棒 台鋼 VS 統一 9/4(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905053000 +0800" stop="20250905071500 +0800">
-    <title lang="zh">BWF 世錦賽 女雙決賽 劉聖書/譚寧VS蒂娜/陳康樂(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905071500 +0800" stop="20250905080000 +0800">
-    <title lang="zh">BWF 世錦賽 女單決賽 山口茜VS陳雨菲(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905080000 +0800" stop="20250905081500 +0800">
-    <title lang="zh">LIVE NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905081500 +0800" stop="20250905113000 +0800">
-    <title lang="zh">LIVE NFL 牛仔 VS 老鷹 開幕戰 9/5(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905113000 +0800" stop="20250905114500 +0800">
-    <title lang="zh">D-LIVE MLB 太空人 VS 遊騎兵 例行賽 9/6(原音)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905114500 +0800" stop="20250905143000 +0800">
-    <title lang="zh">D-LIVE MLB 費城人 VS 釀酒人 例行賽 9/5(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905143000 +0800" stop="20250905144500 +0800">
-    <title lang="zh">世界盃歐洲區會外賽 烏克蘭 VS 法國 第5比賽日(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905144500 +0800" stop="20250905163000 +0800">
-    <title lang="zh">世界盃歐洲區會外賽 保加利亞 VS 西班牙 第5比賽日(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905163000 +0800" stop="20250905165000 +0800">
-    <title lang="zh">MLB 藍鳥 VS 洋基 例行賽 9/6(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905165000 +0800" stop="20250905190000 +0800">
-    <title lang="zh">世界盃歐洲區會外賽 斯洛伐克 VS 德國 第5比賽日(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905190000 +0800" stop="20250905191500 +0800">
-    <title lang="zh">MLB 道奇 VS 海盜 例行賽 9/5(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905191500 +0800" stop="20250905213000 +0800">
-    <title lang="zh">NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905213000 +0800" stop="20250905214500 +0800">
-    <title lang="zh">MLB 洋基 VS 太空人 例行賽 9/5(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905214500 +0800" stop="20250905233000 +0800">
-    <title lang="zh">LIVE F1 義大利站 排位賽(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335027" start="20250905233000 +0800" stop="20250906000000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 富邦 9/6(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
   <programme channel="335027" start="20250906000000 +0800" stop="20250906003000 +0800">
     <title lang="zh">體壇最前線 9/5 (新)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906003000 +0800" stop="20250906023000 +0800">
+  <programme channel="335027" start="20250906003000 +0800" stop="20250906020000 +0800">
     <title lang="zh">世界田徑巡迴賽 久萊紀念賽(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906023000 +0800" stop="20250906053000 +0800">
-    <title lang="zh">NFL 牛仔 VS 老鷹 開幕戰 9/5(普)</title>
+  <programme channel="335027" start="20250906020000 +0800" stop="20250906023000 +0800">
+    <title lang="zh">體壇最前線 9/6 (新)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906053000 +0800" stop="20250906080000 +0800">
+  <programme channel="335027" start="20250906023000 +0800" stop="20250906050000 +0800">
+    <title lang="zh">中華職棒 台鋼 VS 味全 9/6 林智勝引退週(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906050000 +0800" stop="20250906053000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 富邦 9/6(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906053000 +0800" stop="20250906073000 +0800">
     <title lang="zh">中華職棒 樂天 VS 富邦 9/5(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906073000 +0800" stop="20250906080000 +0800">
+    <title lang="zh">中華職棒 台鋼 VS 味全 9/6 林智勝引退週(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -124,28 +44,78 @@
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906080500 +0800" stop="20250906113000 +0800">
+  <programme channel="335027" start="20250906080500 +0800" stop="20250906100000 +0800">
     <title lang="zh">LIVE NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906113000 +0800" stop="20250906143000 +0800">
+  <programme channel="335027" start="20250906100000 +0800" stop="20250906113000 +0800">
+    <title lang="zh">世界盃歐洲區會外賽 亞美尼亞 VS 葡萄牙 第5比賽日(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906113000 +0800" stop="20250906120000 +0800">
     <title lang="zh">D-LIVE MLB 太空人 VS 遊騎兵 例行賽 9/6(原音)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906143000 +0800" stop="20250906163000 +0800">
+  <programme channel="335027" start="20250906120000 +0800" stop="20250906121500 +0800">
+    <title lang="zh">世界羽球戰報第七季 #7 (新)(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906121500 +0800" stop="20250906123000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906123000 +0800" stop="20250906143000 +0800">
+    <title lang="zh">NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906143000 +0800" stop="20250906154000 +0800">
     <title lang="zh">世界盃歐洲區會外賽 烏克蘭 VS 法國 第5比賽日(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906163000 +0800" stop="20250906191500 +0800">
+  <programme channel="335027" start="20250906154000 +0800" stop="20250906163000 +0800">
+    <title lang="zh">LIVE F2 義大利站 正賽(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906163000 +0800" stop="20250906170000 +0800">
     <title lang="zh">MLB 藍鳥 VS 洋基 例行賽 9/6(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335027" start="20250906191500 +0800" stop="20250906214500 +0800">
+  <programme channel="335027" start="20250906170000 +0800" stop="20250906183000 +0800">
+    <title lang="zh">F1 義大利站 排位賽(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906183000 +0800" stop="20250906184500 +0800">
+    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906184500 +0800" stop="20250906190000 +0800">
+    <title lang="zh">世界盃歐洲區會外賽精華 9/7(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906190000 +0800" stop="20250906191500 +0800">
+    <title lang="zh">LIVE 世界田徑巡迴賽 北京田徑賽(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906191500 +0800" stop="20250906210000 +0800">
     <title lang="zh">NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250906210000 +0800" stop="20250906214500 +0800">
+    <title lang="zh">MLB 藍鳥 VS 洋基 例行賽 9/7(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -155,8 +125,153 @@
     <date>2025-09-06</date>
   </programme>
   <programme channel="335027" start="20250906233000 +0800" stop="20250907000000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 富邦 9/6(普)</title>
+    <title lang="zh">世界田徑巡迴賽 北京田徑賽(普)</title>
     <desc />
     <date>2025-09-06</date>
+  </programme>
+  <programme channel="335027" start="20250907013000 +0800" stop="20250907020000 +0800">
+    <title lang="zh">體壇最前線 9/7 (新)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907020000 +0800" stop="20250907021500 +0800">
+    <title lang="zh">世界盃歐洲區會外賽精華 9/6(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907021500 +0800" stop="20250907023000 +0800">
+    <title lang="zh">世界盃歐洲區會外賽精華 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907023000 +0800" stop="20250907023500 +0800">
+    <title lang="zh">中華職棒 台鋼 VS 味全 9/6 林智勝引退週(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907023500 +0800" stop="20250907045000 +0800">
+    <title lang="zh">LIVE 世界盃歐洲區會外賽 德國 VS 北愛爾蘭 第6比賽日(原音)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907045000 +0800" stop="20250907050000 +0800">
+    <title lang="zh">體壇最前線 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907050000 +0800" stop="20250907052000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 富邦 9/6(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907052000 +0800" stop="20250907073000 +0800">
+    <title lang="zh">中華職棒 樂天 VS 富邦 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907073000 +0800" stop="20250907074500 +0800">
+    <title lang="zh">中華職棒 台鋼 VS 味全 9/6 林智勝引退週(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907074500 +0800" stop="20250907080000 +0800">
+    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907080000 +0800" stop="20250907081500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907081500 +0800" stop="20250907100000 +0800">
+    <title lang="zh">LIVE NFL 烏鴉 VS 比爾 例行賽第一週 9/8(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907100000 +0800" stop="20250907103000 +0800">
+    <title lang="zh">世界盃歐洲區會外賽 亞美尼亞 VS 葡萄牙 第5比賽日(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907103000 +0800" stop="20250907113000 +0800">
+    <title lang="zh">NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907113000 +0800" stop="20250907120000 +0800">
+    <title lang="zh">世界田徑巡迴賽 北京田徑賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907120000 +0800" stop="20250907121500 +0800">
+    <title lang="zh">世界羽球戰報第七季 #7 (新)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907121500 +0800" stop="20250907123000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907123000 +0800" stop="20250907133000 +0800">
+    <title lang="zh">NFL 酋長 VS 電光 聖保羅國際賽 9/6(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907133000 +0800" stop="20250907154000 +0800">
+    <title lang="zh">F1 義大利站 正賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907154000 +0800" stop="20250907160000 +0800">
+    <title lang="zh">LIVE F2 義大利站 正賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907160000 +0800" stop="20250907170000 +0800">
+    <title lang="zh">NFL 烏鴉 VS 比爾 例行賽第一週 9/8(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907170000 +0800" stop="20250907183000 +0800">
+    <title lang="zh">F1 義大利站 排位賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907183000 +0800" stop="20250907184500 +0800">
+    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907184500 +0800" stop="20250907190000 +0800">
+    <title lang="zh">世界盃歐洲區會外賽精華 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907190000 +0800" stop="20250907210000 +0800">
+    <title lang="zh">D-LIVE NFL 鋼人 VS 噴射機 例行賽第一週 9/8(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907210000 +0800" stop="20250907221500 +0800">
+    <title lang="zh">MLB 藍鳥 VS 洋基 例行賽 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907221500 +0800" stop="20250907230000 +0800">
+    <title lang="zh">F1 義大利站 正賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907230000 +0800" stop="20250907233000 +0800">
+    <title lang="zh">MLB 藍鳥 VS 洋基 例行賽 9/7(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335027" start="20250907233000 +0800" stop="20250908000000 +0800">
+    <title lang="zh">世界田徑巡迴賽 北京田徑賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
   </programme>
 </tv>

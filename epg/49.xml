@@ -1,141 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250905205548 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250906095721 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335009/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335009&amp;date=20250906&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335009">
     <display-name lang="Taiwan">智林體育HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335009" start="20250905000000 +0800" stop="20250905010800 +0800">
-    <title lang="zh">[首播] 2025台灣女子棒球聯賽 椰林 vs 跑跑人(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905010800 +0800" stop="20250905011600 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905011600 +0800" stop="20250905060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905060000 +0800" stop="20250905090000 +0800">
-    <title lang="zh">[首播] 2025年吳彫枝盃全國圍棋公開賽 下午場(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905090000 +0800" stop="20250905092000 +0800">
-    <title lang="zh">2025臺北亞洲青年暨青少年杯柔道賽 7/16決賽賽程(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905092000 +0800" stop="20250905104300 +0800">
-    <title lang="zh">[首播] 2025長耀盃 菁英白 vs 國立體大(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905104300 +0800" stop="20250905120000 +0800">
-    <title lang="zh">[首播] 2025長耀盃 政治大學 vs 福岡第一(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905120000 +0800" stop="20250905122300 +0800">
-    <title lang="zh">[Live] 2025新北市全國青年盃滑輪板錦標賽 障礙競速賽(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905122300 +0800" stop="20250905131500 +0800">
-    <title lang="zh">[首播] 2025中華大家功德會公開賽 第三回合(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905131500 +0800" stop="20250905150000 +0800">
-    <title lang="zh">2025勝求盃少棒 八強戰 新北民安 vs 臺東卑南(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905150000 +0800" stop="20250905180000 +0800">
-    <title lang="zh">2025年吳彫枝盃全國圍棋公開賽 下午場(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905180000 +0800" stop="20250905182000 +0800">
-    <title lang="zh">2025臺北亞洲青年暨青少年杯柔道賽 7/16決賽賽程(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905182000 +0800" stop="20250905194300 +0800">
-    <title lang="zh">2025長耀盃 菁英白 vs 國立體大(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905194300 +0800" stop="20250905210000 +0800">
-    <title lang="zh">2025長耀盃 政治大學 vs 福岡第一(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905210000 +0800" stop="20250905212300 +0800">
-    <title lang="zh">[首播] 2025中華大家功德會公開賽 第四回合(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905212300 +0800" stop="20250905220000 +0800">
-    <title lang="zh">2025中華大家功德會公開賽 第三回合(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905220000 +0800" stop="20250905221500 +0800">
-    <title lang="zh">[首播] 2025長耀盃 菁英藍 vs 輔仁大學(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905221500 +0800" stop="20250905233000 +0800">
-    <title lang="zh">2025勝求盃少棒 八強戰 新北民安 vs 臺東卑南(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335009" start="20250905233000 +0800" stop="20250906000000 +0800">
-    <title lang="zh">Supercars 第4集(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
   <programme channel="335009" start="20250906000000 +0800" stop="20250906010800 +0800">
     <title lang="zh">The CWSA快艇衝浪世界巡迴賽臺灣站(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906010800 +0800" stop="20250906060000 +0800">
+  <programme channel="335009" start="20250906010800 +0800" stop="20250906011000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906060000 +0800" stop="20250906090000 +0800">
-    <title lang="zh">2025臺北亞洲青年暨青少年杯柔道賽 7/16預賽賽程(普)</title>
+  <programme channel="335009" start="20250906011000 +0800" stop="20250906060000 +0800">
+    <title lang="zh">休播(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906090000 +0800" stop="20250906120000 +0800">
-    <title lang="zh">2025臺北亞洲青年暨青少年杯柔道賽 7/16決賽賽程(普)</title>
+  <programme channel="335009" start="20250906060000 +0800" stop="20250906072000 +0800">
+    <title lang="zh">[首播] 2025台灣女子棒球聯賽 臺南漁光 vs 向日葵(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906072000 +0800" stop="20250906090000 +0800">
+    <title lang="zh">[首播] 2025長耀盃 亞特蘭大 vs 臺灣藝大(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906090000 +0800" stop="20250906111500 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 新北新泰 vs 臺北大理(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906111500 +0800" stop="20250906120000 +0800">
+    <title lang="zh">[首播] 2025頂粵吉品公開賽 第三回合(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
   <programme channel="335009" start="20250906120000 +0800" stop="20250906180000 +0800">
-    <title lang="zh">[Live] 2025新北市全國青年盃滑輪板錦標賽 障礙競速賽(普)</title>
+    <title lang="zh">[Live] 2025新北市全國青年盃滑輪板錦標賽 半管賽(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906180000 +0800" stop="20250906210000 +0800">
-    <title lang="zh">2025臺北亞洲青年暨青少年杯柔道賽 7/16決賽賽程(普)</title>
+  <programme channel="335009" start="20250906180000 +0800" stop="20250906201500 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 新北新泰 vs 臺北大理(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906210000 +0800" stop="20250906220000 +0800">
+  <programme channel="335009" start="20250906201500 +0800" stop="20250906210000 +0800">
+    <title lang="zh">2025頂粵吉品公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906210000 +0800" stop="20250906210500 +0800">
     <title lang="zh">[首播] 2025中華大家功德會公開賽 第四回合(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250906220000 +0800" stop="20250906233000 +0800">
+  <programme channel="335009" start="20250906210500 +0800" stop="20250906220000 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 花蓮三民 vs 竹縣關西(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906220000 +0800" stop="20250906230700 +0800">
     <title lang="zh">[首播] 2025長耀盃 菁英藍 vs 輔仁大學(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335009" start="20250906230700 +0800" stop="20250906233000 +0800">
+    <title lang="zh">第25屆全國女子圍棋公開賽 許霓霓 vs 許巧潔(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -144,9 +79,109 @@
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335009" start="20250907000000 +0800" stop="20250908000000 +0800">
-    <title lang="zh">The CWSA快艇衝浪世界巡迴賽臺灣站(普)</title>
+  <programme channel="335009" start="20250907000000 +0800" stop="20250907010000 +0800">
+    <title lang="zh">2025年東亞盃男子卡巴迪 中華臺北 vs 韓國(普)</title>
     <desc />
     <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907010000 +0800" stop="20250907011000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907011000 +0800" stop="20250907060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907060000 +0800" stop="20250907072000 +0800">
+    <title lang="zh">2025原鄉盃棒球錦標賽 桃園龍安 vs 日本東北(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907072000 +0800" stop="20250907073300 +0800">
+    <title lang="zh">[首播] 2025長耀盃 亞特蘭大 vs 臺灣藝大(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907073300 +0800" stop="20250907082100 +0800">
+    <title lang="zh">[首播] 2025老爺逐夢公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907082100 +0800" stop="20250907090000 +0800">
+    <title lang="zh">2025長耀盃 臺灣藝大 vs 菁英藍(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907090000 +0800" stop="20250907095900 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 新北新泰 vs 臺北大理(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907095900 +0800" stop="20250907111500 +0800">
+    <title lang="zh">2025長耀盃 政治大學 vs 亞特蘭大(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907111500 +0800" stop="20250907113300 +0800">
+    <title lang="zh">[首播] 2025頂粵吉品公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907113300 +0800" stop="20250907120000 +0800">
+    <title lang="zh">2025臺北亞洲柔道公開賽 7/12賽程(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907120000 +0800" stop="20250907180000 +0800">
+    <title lang="zh">[Live] 2025新北市全國青年盃滑輪板錦標賽 半管賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907180000 +0800" stop="20250907183300 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 新北新泰 vs 臺北大理(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907183300 +0800" stop="20250907201500 +0800">
+    <title lang="zh">2025勝求盃少棒 排名戰 新北民安 vs 臺北東園(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907201500 +0800" stop="20250907202000 +0800">
+    <title lang="zh">2025頂粵吉品公開賽 第三回合(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907202000 +0800" stop="20250907210500 +0800">
+    <title lang="zh">2025勝求盃少棒 四強戰 臺東卑南 vs 南投新街(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907210500 +0800" stop="20250907222000 +0800">
+    <title lang="zh">2025新北U15棒球邀請賽 預賽 花蓮三民 vs 竹縣關西(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907222000 +0800" stop="20250907230700 +0800">
+    <title lang="zh">[首播] 2025老爺逐夢公開賽 第四回合(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907230700 +0800" stop="20250907232800 +0800">
+    <title lang="zh">第25屆全國女子圍棋公開賽 許霓霓 vs 許巧潔(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250907232800 +0800" stop="20250908000000 +0800">
+    <title lang="zh">113年臺灣盃全國撞球錦標賽 伍珈萱 vs 王永玠(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335009" start="20250908000000 +0800" stop="20250909000000 +0800">
+    <title lang="zh">2025臺灣盃全國啦啦隊錦標賽 體育館賽程(普)</title>
+    <desc />
+    <date>2025-09-08</date>
   </programme>
 </tv>

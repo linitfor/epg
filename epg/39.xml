@@ -1,136 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250905205544 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250906095716 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335106/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335106&amp;date=20250906&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335106">
     <display-name lang="Taiwan">DAZN 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335106" start="20250905000000 +0800" stop="20250905010000 +0800">
-    <title lang="zh">麻將大師 第七季 EP11(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905010000 +0800" stop="20250905030000 +0800">
-    <title lang="zh">射箭世界盃佛羅里達站 反曲弓個人決賽(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905030000 +0800" stop="20250905060000 +0800">
-    <title lang="zh">2025日本職棒 巨人 vs 養樂多 (9/2/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905060000 +0800" stop="20250905070000 +0800">
-    <title lang="zh">麻將大師 第七季 EP14(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905070000 +0800" stop="20250905090000 +0800">
-    <title lang="zh">西甲 皇家貝提斯 vs 畢爾包競技 (9/1/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905090000 +0800" stop="20250905120000 +0800">
-    <title lang="zh">2025日本職棒 羅德 vs 火腿 (9/4/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905120000 +0800" stop="20250905125700 +0800">
-    <title lang="zh">麻將大師 第七季 EP9(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905125700 +0800" stop="20250905130000 +0800">
-    <title lang="zh">LIVE 2025日本職棒 歐力士 vs 火腿 (9/6/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905130000 +0800" stop="20250905143000 +0800">
-    <title lang="zh">2025中華企業射箭聯賽 新濠建設 vs 新北凱撒 (8/31/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905143000 +0800" stop="20250905150000 +0800">
-    <title lang="zh">野球名人房 S2 EP143(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905150000 +0800" stop="20250905160000 +0800">
-    <title lang="zh">西甲 皇家馬德里 vs 皇家馬約卡 (8/31/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905160000 +0800" stop="20250905163000 +0800">
-    <title lang="zh">鍵盤球探 EP68 府城農場培育家 劉育辰訪談 下(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905163000 +0800" stop="20250905165700 +0800">
-    <title lang="zh">速度世界 EP8(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905165700 +0800" stop="20250905170000 +0800">
-    <title lang="zh">LIVE 2025日本職棒 歐力士 vs 火腿 (9/5/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905170000 +0800" stop="20250905190000 +0800">
-    <title lang="zh">射箭世界盃馬德里站 反曲弓個人決賽(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905190000 +0800" stop="20250905200000 +0800">
-    <title lang="zh">西甲 巴列卡諾 vs 巴塞隆納 (9/1/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905200000 +0800" stop="20250905210000 +0800">
-    <title lang="zh">FIBA 3對3大師賽 洛桑站 冠軍賽(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905210000 +0800" stop="20250905213000 +0800">
-    <title lang="zh">(首)2025斯巴達障礙跑競賽精華 EP2(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905213000 +0800" stop="20250905220000 +0800">
-    <title lang="zh">2025斯巴達障礙跑競賽精華 EP1(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="335106" start="20250905220000 +0800" stop="20250906000000 +0800">
-    <title lang="zh">西甲 皇家馬德里 vs 皇家馬約卡 (8/31/25)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
   <programme channel="335106" start="20250906000000 +0800" stop="20250906010000 +0800">
-    <title lang="zh">麻將大師 第七季 EP12(護)</title>
+    <title lang="zh">麻將大師 第七季 EP13(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
   <programme channel="335106" start="20250906010000 +0800" stop="20250906030000 +0800">
-    <title lang="zh">射箭世界盃上海站 複合弓團體決賽(普)</title>
+    <title lang="zh">射箭世界盃上海站 複合弓個人決賽(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
   <programme channel="335106" start="20250906030000 +0800" stop="20250906060000 +0800">
-    <title lang="zh">2025日本職棒 巨人 vs 養樂多 (9/3/25)(普)</title>
+    <title lang="zh">2025日本職棒 羅德 vs 火腿 (9/4/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
   <programme channel="335106" start="20250906060000 +0800" stop="20250906070000 +0800">
-    <title lang="zh">麻將大師 第七季 EP15(護)</title>
+    <title lang="zh">麻將大師 第七季 EP16(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
   <programme channel="335106" start="20250906070000 +0800" stop="20250906090000 +0800">
-    <title lang="zh">西甲 皇家馬約卡 vs 巴塞隆納 (8/17/25)(普)</title>
+    <title lang="zh">西甲 皇家馬德里 vs 奧薩蘇納 (8/20/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906090000 +0800" stop="20250906120000 +0800">
-    <title lang="zh">2025日本職棒 歐力士 vs 火腿 (9/5/25)(普)</title>
+  <programme channel="335106" start="20250906090000 +0800" stop="20250906115700 +0800">
+    <title lang="zh">2025日本職棒 歐力士 vs 火腿 (9/6/25)(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335106" start="20250906115700 +0800" stop="20250906120000 +0800">
+    <title lang="zh">LIVE 2025日本職棒 歐力士 vs 火腿 (9/7/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -139,18 +44,33 @@
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906125700 +0800" stop="20250906160000 +0800">
+  <programme channel="335106" start="20250906125700 +0800" stop="20250906150000 +0800">
     <title lang="zh">LIVE 2025日本職棒 歐力士 vs 火腿 (9/6/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906160000 +0800" stop="20250906163000 +0800">
-    <title lang="zh">鍵盤球探 EP68 府城農場培育家 劉育辰訪談 下(普)</title>
+  <programme channel="335106" start="20250906150000 +0800" stop="20250906153000 +0800">
+    <title lang="zh">鍵盤球探 EP69(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906163000 +0800" stop="20250906170000 +0800">
+  <programme channel="335106" start="20250906153000 +0800" stop="20250906160000 +0800">
+    <title lang="zh">速度世界 EP11(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335106" start="20250906160000 +0800" stop="20250906163000 +0800">
+    <title lang="zh">TSR 全國機車錦標賽精華 EP12(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335106" start="20250906163000 +0800" stop="20250906165700 +0800">
     <title lang="zh">速度世界 EP8(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335106" start="20250906165700 +0800" stop="20250906170000 +0800">
+    <title lang="zh">LIVE 2025日本職棒 西武 vs 羅德 (9/7/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -159,19 +79,114 @@
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906190000 +0800" stop="20250906210000 +0800">
+  <programme channel="335106" start="20250906190000 +0800" stop="20250906200000 +0800">
     <title lang="zh">西甲 巴列卡諾 vs 巴塞隆納 (9/1/25)(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250906210000 +0800" stop="20250907000000 +0800">
-    <title lang="zh">2025日本職棒 歐力士 vs 火腿 (9/6/25)(普)</title>
+  <programme channel="335106" start="20250906200000 +0800" stop="20250906210000 +0800">
+    <title lang="zh">巨人挑戰賽EP5(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="335106" start="20250907000000 +0800" stop="20250908000000 +0800">
-    <title lang="zh">麻將大師 第七季 EP13(護)</title>
+  <programme channel="335106" start="20250906210000 +0800" stop="20250907000000 +0800">
+    <title lang="zh">2025日本職棒 歐力士 vs 火腿 (9/7/25)(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="335106" start="20250907000000 +0800" stop="20250907010000 +0800">
+    <title lang="zh">麻將大師 第七季 EP14(護)</title>
     <desc />
     <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907010000 +0800" stop="20250907030000 +0800">
+    <title lang="zh">射箭世界盃上海站 反曲弓團體決賽(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907030000 +0800" stop="20250907060000 +0800">
+    <title lang="zh">2025日本職棒 軟銀 vs 樂天 (9/5/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907060000 +0800" stop="20250907070000 +0800">
+    <title lang="zh">麻將大師 第七季 EP17(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907070000 +0800" stop="20250907090000 +0800">
+    <title lang="zh">西甲 畢爾包競技 vs 塞維利亞 (8/18/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907090000 +0800" stop="20250907115700 +0800">
+    <title lang="zh">2025日本職棒 歐力士 vs 火腿 (9/7/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907115700 +0800" stop="20250907120000 +0800">
+    <title lang="zh">LIVE 2025日本職棒 歐力士 vs 火腿 (9/7/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907120000 +0800" stop="20250907130000 +0800">
+    <title lang="zh">麻將大師 第七季 EP11(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907130000 +0800" stop="20250907143000 +0800">
+    <title lang="zh">2025中華企業射箭聯賽 新北凱撒 vs 新竹市愛山林 (3/29/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907143000 +0800" stop="20250907150000 +0800">
+    <title lang="zh">野球名人房 S2 EP140(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907150000 +0800" stop="20250907153000 +0800">
+    <title lang="zh">西甲 皇家西班牙人 vs 馬德里競技 (8/18/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907153000 +0800" stop="20250907160000 +0800">
+    <title lang="zh">速度世界 EP9(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907160000 +0800" stop="20250907165700 +0800">
+    <title lang="zh">TSR 全國機車錦標賽精華 EP12(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907165700 +0800" stop="20250907200000 +0800">
+    <title lang="zh">LIVE 2025日本職棒 羅德 vs 歐力士 (9/8/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907200000 +0800" stop="20250907210000 +0800">
+    <title lang="zh">2025 FIBA 3對3 臺北挑戰賽 小組賽1(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907210000 +0800" stop="20250907214500 +0800">
+    <title lang="zh">2025 FIBA 3對3 臺北挑戰賽 小組賽2(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907214500 +0800" stop="20250907220000 +0800">
+    <title lang="zh">好球特區 EP11(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250907220000 +0800" stop="20250908000000 +0800">
+    <title lang="zh">西甲 皇家馬約卡 vs 巴塞隆納 (8/17/25)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="335106" start="20250908000000 +0800" stop="20250909000000 +0800">
+    <title lang="zh">麻將大師 第七季 EP15(護)</title>
+    <desc />
+    <date>2025-09-08</date>
   </programme>
 </tv>

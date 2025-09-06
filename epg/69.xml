@@ -1,151 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250905205556 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250905&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250906095732 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250906&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334825">
     <display-name lang="Taiwan">CatchPlay HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334825" start="20250905013000 +0800" stop="20250905015500 +0800">
-    <title lang="zh">超狂亨利(輔15)</title>
+  <programme channel="334825" start="20250906012000 +0800" stop="20250906013000 +0800">
+    <title lang="zh">【本月熱播】AI終結戰(護)</title>
     <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905015500 +0800" stop="20250905033000 +0800">
-    <title lang="zh">鬼同你住(雙語)(輔15)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905033000 +0800" stop="20250905041500 +0800">
-    <title lang="zh">歡樂時光謀殺案(輔15)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905041500 +0800" stop="20250905053000 +0800">
-    <title lang="zh">她的成功日記(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905053000 +0800" stop="20250905063000 +0800">
-    <title lang="zh">殺手保鑣(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905063000 +0800" stop="20250905080000 +0800">
-    <title lang="zh">天下無賊(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905080000 +0800" stop="20250905085500 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905085500 +0800" stop="20250905092500 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905092500 +0800" stop="20250905093000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905093000 +0800" stop="20250905095500 +0800">
-    <title lang="zh">做工的人(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905095500 +0800" stop="20250905120000 +0800">
-    <title lang="zh">掃毒2天地對決(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905120000 +0800" stop="20250905130000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905130000 +0800" stop="20250905133000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905133000 +0800" stop="20250905140000 +0800">
-    <title lang="zh">傻瓜向錢衝(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905140000 +0800" stop="20250905153000 +0800">
-    <title lang="zh">第一人夫(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905153000 +0800" stop="20250905163000 +0800">
-    <title lang="zh">重返心原點(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905163000 +0800" stop="20250905172000 +0800">
-    <title lang="zh">哥吉拉-1.0(雙語)(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905172000 +0800" stop="20250905190000 +0800">
-    <title lang="zh">俠盜聯盟(普)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905190000 +0800" stop="20250905193000 +0800">
-    <title lang="zh">食戟之靈S1(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905193000 +0800" stop="20250905200000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905200000 +0800" stop="20250905210000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905210000 +0800" stop="20250905230000 +0800">
-    <title lang="zh">【全台首播】BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905230000 +0800" stop="20250905232000 +0800">
-    <title lang="zh">做工的人(護)</title>
-    <desc />
-    <date>2025-09-05</date>
-  </programme>
-  <programme channel="334825" start="20250905232000 +0800" stop="20250906000000 +0800">
-    <title lang="zh">BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
-    <desc />
-    <date>2025-09-05</date>
+    <date>2025-09-06</date>
   </programme>
   <programme channel="334825" start="20250906013000 +0800" stop="20250906033000 +0800">
     <title lang="zh">超狂亨利(輔15)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906033000 +0800" stop="20250906053000 +0800">
+  <programme channel="334825" start="20250906033000 +0800" stop="20250906033500 +0800">
     <title lang="zh">歡樂時光謀殺案(輔15)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906053000 +0800" stop="20250906080000 +0800">
+  <programme channel="334825" start="20250906033500 +0800" stop="20250906053000 +0800">
+    <title lang="zh">放·逐(雙語)(輔15)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906053000 +0800" stop="20250906055000 +0800">
     <title lang="zh">殺手保鑣(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906080000 +0800" stop="20250906093000 +0800">
+  <programme channel="334825" start="20250906055000 +0800" stop="20250906080000 +0800">
+    <title lang="zh">疫起(護)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906080000 +0800" stop="20250906081500 +0800">
     <title lang="zh">王者天下(雙語)(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906093000 +0800" stop="20250906120000 +0800">
+  <programme channel="334825" start="20250906081500 +0800" stop="20250906093000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906093000 +0800" stop="20250906094500 +0800">
     <title lang="zh">做工的人(護)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906094500 +0800" stop="20250906120000 +0800">
+    <title lang="zh">血衛(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -155,12 +60,17 @@
     <date>2025-09-06</date>
   </programme>
   <programme channel="334825" start="20250906133000 +0800" stop="20250906153000 +0800">
-    <title lang="zh">傻瓜向錢衝(護)</title>
+    <title lang="zh">做工的人(護)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906153000 +0800" stop="20250906172000 +0800">
+  <programme channel="334825" start="20250906153000 +0800" stop="20250906160000 +0800">
     <title lang="zh">重返心原點(普)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906160000 +0800" stop="20250906172000 +0800">
+    <title lang="zh">天生一對2 大電影：再續前緣(普)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -174,8 +84,13 @@
     <desc />
     <date>2025-09-06</date>
   </programme>
-  <programme channel="334825" start="20250906210000 +0800" stop="20250906232000 +0800">
-    <title lang="zh">【本台首播】AI終結戰(護)</title>
+  <programme channel="334825" start="20250906210000 +0800" stop="20250906231500 +0800">
+    <title lang="zh">【全台首播】師大公園地下社會(輔15)</title>
+    <desc />
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250906231500 +0800" stop="20250906232000 +0800">
+    <title lang="zh">風再起時(雙語)(輔15)</title>
     <desc />
     <date>2025-09-06</date>
   </programme>
@@ -183,5 +98,125 @@
     <title lang="zh">BLEACH 死神 千年血戰篇(雙語)(輔15)</title>
     <desc />
     <date>2025-09-06</date>
+  </programme>
+  <programme channel="334825" start="20250907012000 +0800" stop="20250907021500 +0800">
+    <title lang="zh">【本月熱播】AI終結戰(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907021500 +0800" stop="20250907033500 +0800">
+    <title lang="zh">海賊：汪洋爭霸(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907033500 +0800" stop="20250907045000 +0800">
+    <title lang="zh">放·逐(雙語)(輔15)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907045000 +0800" stop="20250907055000 +0800">
+    <title lang="zh">救命緝約(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907055000 +0800" stop="20250907065500 +0800">
+    <title lang="zh">疫起(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907065500 +0800" stop="20250907081500 +0800">
+    <title lang="zh">巴士底日(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907081500 +0800" stop="20250907085000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907085000 +0800" stop="20250907092000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907092000 +0800" stop="20250907094500 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907094500 +0800" stop="20250907095000 +0800">
+    <title lang="zh">血衛(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907095000 +0800" stop="20250907120000 +0800">
+    <title lang="zh">黑吃黑(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907120000 +0800" stop="20250907130000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907130000 +0800" stop="20250907133000 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907133000 +0800" stop="20250907140000 +0800">
+    <title lang="zh">做工的人(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907140000 +0800" stop="20250907160000 +0800">
+    <title lang="zh">旅貓日記(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907160000 +0800" stop="20250907162500 +0800">
+    <title lang="zh">天生一對2 大電影：再續前緣(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907162500 +0800" stop="20250907190000 +0800">
+    <title lang="zh">雞排英雄(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907190000 +0800" stop="20250907193000 +0800">
+    <title lang="zh">食戟之靈S1(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907193000 +0800" stop="20250907200000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907200000 +0800" stop="20250907210000 +0800">
+    <title lang="zh">王者天下(雙語)(護)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907210000 +0800" stop="20250907230000 +0800">
+    <title lang="zh">頭文字D(雙語)(普)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907230000 +0800" stop="20250907231500 +0800">
+    <title lang="zh">風再起時(雙語)(輔15)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907231500 +0800" stop="20250907232000 +0800">
+    <title lang="zh">風再起時(雙語)(輔15)</title>
+    <desc />
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="334825" start="20250907232000 +0800" stop="20250908000000 +0800">
+    <title lang="zh">樹大招風(雙語)(輔15)</title>
+    <desc />
+    <date>2025-09-07</date>
   </programme>
 </tv>
