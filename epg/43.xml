@@ -1,39 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250907204916 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250907.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250907&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250908100616 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250908.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250908&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250907043000 +0800" stop="20250907070000 +0800">
-    <title lang="zh">2025企業女子壘球聯賽 第11周新北凱撒 vs 臺北臺產熊讚</title>
-    <desc>2025企業女子壘球聯賽 第11周新北凱撒 vs 臺北臺產熊讚</desc>
-    <date>2025-09-07</date>
-  </programme>
-  <programme channel="369230" start="20250907070000 +0800" stop="20250907120000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</title>
-    <desc>LIVE2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</desc>
-    <date>2025-09-07</date>
-  </programme>
-  <programme channel="369230" start="20250907120000 +0800" stop="20250907160000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</title>
-    <desc>首播2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</desc>
-    <date>2025-09-07</date>
-  </programme>
-  <programme channel="369230" start="20250907160000 +0800" stop="20250907193000 +0800">
-    <title lang="zh">LIVE2025中華職棒場次300樂天桃猿 vs 台鋼雄鷹</title>
-    <desc>LIVE2025中華職棒場次300樂天桃猿 vs 台鋼雄鷹</desc>
-    <date>2025-09-07</date>
-  </programme>
-  <programme channel="369230" start="20250907193000 +0800" stop="20250907230000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</title>
-    <desc>首播2025美國網球公開賽DAY7 第三輪(亞瑟艾許球場)</desc>
-    <date>2025-09-07</date>
-  </programme>
-  <programme channel="369230" start="20250907230000 +0800" stop="20250908000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY8 十六強(亞瑟艾許球場)</title>
-    <desc>LIVE2025美國網球公開賽DAY8 十六強(亞瑟艾許球場)</desc>
-    <date>2025-09-07</date>
-  </programme>
   <programme channel="369230" start="20250908000000 +0800" stop="20250908003000 +0800">
     <title lang="zh">2025 美網第13天精華</title>
     <desc>2025 美網第13天精華</desc>
@@ -73,5 +43,25 @@
     <title lang="zh">首播2025中華職棒場次294樂天桃猿 vs 台鋼雄鷹</title>
     <desc>首播2025中華職棒場次294樂天桃猿 vs 台鋼雄鷹</desc>
     <date>2025-09-08</date>
+  </programme>
+  <programme channel="369230" start="20250909043000 +0800" stop="20250909070000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</title>
+    <desc>2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</desc>
+    <date>2025-09-09</date>
+  </programme>
+  <programme channel="369230" start="20250909070000 +0800" stop="20250909120000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY9 十六強(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY9 十六強(亞瑟艾許球場)</desc>
+    <date>2025-09-09</date>
+  </programme>
+  <programme channel="369230" start="20250909120000 +0800" stop="20250909230000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY9 十六強(亞瑟艾許球場)</title>
+    <desc>首播2025美國網球公開賽DAY9 十六強(亞瑟艾許球場)</desc>
+    <date>2025-09-09</date>
+  </programme>
+  <programme channel="369230" start="20250909230000 +0800" stop="20250910000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</desc>
+    <date>2025-09-09</date>
   </programme>
 </tv>
