@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250908205848 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250908.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250908&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250909100119 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369230/20250909.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369230&amp;date=20250909&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369230">
     <display-name lang="Taiwan">博斯運動一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg" />
   </channel>
-  <programme channel="369230" start="20250908000000 +0800" stop="20250908003000 +0800">
-    <title lang="zh">2025 美網第13天精華</title>
-    <desc>2025 美網第13天精華</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908003000 +0800" stop="20250908070000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY15 男單決賽</title>
-    <desc>LIVE2025美國網球公開賽DAY15 男單決賽</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908070000 +0800" stop="20250908130000 +0800">
-    <title lang="zh">2025美國網球公開賽DAY14男雙決賽/女單決賽</title>
-    <desc>2025美國網球公開賽DAY14男雙決賽/女單決賽</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908130000 +0800" stop="20250908170000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY15男單決賽</title>
-    <desc>首播2025美國網球公開賽DAY15男單決賽</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908170000 +0800" stop="20250908173000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908173000 +0800" stop="20250908190000 +0800">
-    <title lang="zh">2025歐冠女排聯賽第四輪 LEG4波蘭熱舒伏 vs 薩格勒布</title>
-    <desc>2025歐冠女排聯賽第四輪 LEG4波蘭熱舒伏 vs 薩格勒布</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908190000 +0800" stop="20250908210000 +0800">
-    <title lang="zh">2025美國網球公開賽第一輪</title>
-    <desc>2025美國網球公開賽第一輪</desc>
-    <date>2025-09-08</date>
-  </programme>
-  <programme channel="369230" start="20250908210000 +0800" stop="20250909000000 +0800">
-    <title lang="zh">首播2025中華職棒場次294樂天桃猿 vs 台鋼雄鷹</title>
-    <desc>首播2025中華職棒場次294樂天桃猿 vs 台鋼雄鷹</desc>
-    <date>2025-09-08</date>
-  </programme>
   <programme channel="369230" start="20250909043000 +0800" stop="20250909070000 +0800">
     <title lang="zh">2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</title>
     <desc>2025企業女子壘球聯賽 第11周新世紀黃蜂 vs 福添福嘉南鷹</desc>
@@ -63,5 +23,25 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</title>
     <desc>LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</desc>
     <date>2025-09-09</date>
+  </programme>
+  <programme channel="369230" start="20250910043000 +0800" stop="20250910070000 +0800">
+    <title lang="zh">2025企業女子壘球聯賽 第11周中華 U18 vs 臺北臺產熊讚</title>
+    <desc>2025企業女子壘球聯賽 第11周中華 U18 vs 臺北臺產熊讚</desc>
+    <date>2025-09-10</date>
+  </programme>
+  <programme channel="369230" start="20250910070000 +0800" stop="20250910120000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</desc>
+    <date>2025-09-10</date>
+  </programme>
+  <programme channel="369230" start="20250910120000 +0800" stop="20250910230000 +0800">
+    <title lang="zh">首播2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</title>
+    <desc>首播2025美國網球公開賽DAY10 八強(亞瑟艾許球場)</desc>
+    <date>2025-09-10</date>
+  </programme>
+  <programme channel="369230" start="20250910230000 +0800" stop="20250911000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY11 八強(亞瑟艾許球場)</title>
+    <desc>LIVE2025美國網球公開賽DAY11 八強(亞瑟艾許球場)</desc>
+    <date>2025-09-10</date>
   </programme>
 </tv>
