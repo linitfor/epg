@@ -1,29 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250910205619 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250910.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250910&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250911100017 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369216/20250911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369216&amp;date=20250911&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369216">
     <display-name lang="Taiwan">博斯網球台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611155125864336_58.jpg" />
   </channel>
-  <programme channel="369216" start="20250910020000 +0800" stop="20250910110000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY11八強</title>
-    <desc>LIVE2025美國網球公開賽DAY11八強</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369216" start="20250910110000 +0800" stop="20250910150000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY11八強</title>
-    <desc>首播2025美國網球公開賽DAY11八強</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369216" start="20250910150000 +0800" stop="20250910233000 +0800">
-    <title lang="zh">首播2025美國網球公開賽DAY11八強</title>
-    <desc>首播2025美國網球公開賽DAY11八強</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369216" start="20250910233000 +0800" stop="20250911000000 +0800">
-    <title lang="zh">LIVE2025美國網球公開賽DAY12男雙四強</title>
-    <desc>LIVE2025美國網球公開賽DAY12男雙四強</desc>
-    <date>2025-09-10</date>
-  </programme>
   <programme channel="369216" start="20250911040000 +0800" stop="20250911070000 +0800">
     <title lang="zh">2025美國網球公開賽DAY8十六強</title>
     <desc>2025美國網球公開賽DAY8十六強</desc>
@@ -53,5 +33,20 @@
     <title lang="zh">LIVE2025美國網球公開賽DAY13女雙決賽</title>
     <desc>LIVE2025美國網球公開賽DAY13女雙決賽</desc>
     <date>2025-09-11</date>
+  </programme>
+  <programme channel="369216" start="20250912020000 +0800" stop="20250912023000 +0800">
+    <title lang="zh">2025美網第8天精華</title>
+    <desc>2025美網第8天精華</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369216" start="20250912023000 +0800" stop="20250912030000 +0800">
+    <title lang="zh">2025美網第9天精華</title>
+    <desc>2025美網第9天精華</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369216" start="20250912030000 +0800" stop="20250913000000 +0800">
+    <title lang="zh">LIVE2025美國網球公開賽DAY13男單四強</title>
+    <desc>LIVE2025美國網球公開賽DAY13男單四強</desc>
+    <date>2025-09-12</date>
   </programme>
 </tv>

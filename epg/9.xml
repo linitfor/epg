@@ -1,139 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250910205555 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369307/20250910.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369307&amp;date=20250910&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250911095958 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369307/20250911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369307&amp;date=20250911&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369307">
     <display-name lang="Taiwan">台視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154222419472_40.jpg" />
   </channel>
-  <programme channel="369307" start="20250910000000 +0800" stop="20250910010000 +0800">
-    <title lang="zh">晚安台灣</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910010000 +0800" stop="20250910020000 +0800">
-    <title lang="zh">台視新聞世界報導</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910020000 +0800" stop="20250910030000 +0800">
-    <title lang="zh">0200台視晚間新聞</title>
-    <desc>由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910030000 +0800" stop="20250910040000 +0800">
-    <title lang="zh">台視夜線新聞</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910040000 +0800" stop="20250910050000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>由台視專業團隊，帶你了解國際財經脈動</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910050000 +0800" stop="20250910053000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>社會中每一個小人物，都有著觸動人心的故事！我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910053000 +0800" stop="20250910060000 +0800">
-    <title lang="zh">發現科學</title>
-    <desc>台視為方便網友了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910060000 +0800" stop="20250910063000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>節目將邀請來自各個醫療領域的專家，透過專業知識和實際案例，幫助觀眾建立正確的健康觀念</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910063000 +0800" stop="20250910070000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>節目將邀請來自各個醫療領域的專家，透過專業知識和實際案例，幫助觀眾建立正確的健康觀念</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910070000 +0800" stop="20250910080000 +0800">
-    <title lang="zh">早安您好台視新聞</title>
-    <desc>由最專業的台視新聞團隊，每天早晨為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910080000 +0800" stop="20250910090000 +0800">
-    <title lang="zh">0800整點新聞</title>
-    <desc>台視整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910090000 +0800" stop="20250910100000 +0800">
-    <title lang="zh">早安最前線</title>
-    <desc>現場即時播報當日重大財經、政治等新聞。</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910100000 +0800" stop="20250910110000 +0800">
-    <title lang="zh">台視10點新聞</title>
-    <desc>台視10點新聞</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910110000 +0800" stop="20250910115800 +0800">
-    <title lang="zh">台視1100台語新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910115800 +0800" stop="20250910130000 +0800">
-    <title lang="zh">午安您好台視新聞</title>
-    <desc>午安您好台視新聞</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910130000 +0800" stop="20250910140000 +0800">
-    <title lang="zh">1300整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910140000 +0800" stop="20250910150000 +0800">
-    <title lang="zh">1400整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910150000 +0800" stop="20250910160000 +0800">
-    <title lang="zh">1500整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910160000 +0800" stop="20250910170000 +0800">
-    <title lang="zh">1600整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910170000 +0800" stop="20250910175500 +0800">
-    <title lang="zh">1700整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910175500 +0800" stop="20250910185800 +0800">
-    <title lang="zh">台視新聞全球現場</title>
-    <desc>台視新聞全球現場</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910185800 +0800" stop="20250910200000 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910200000 +0800" stop="20250910210000 +0800">
-    <title lang="zh">2000整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910210000 +0800" stop="20250910220000 +0800">
-    <title lang="zh">台視新聞世界報導</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910220000 +0800" stop="20250910230000 +0800">
-    <title lang="zh">晚安台灣</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="369307" start="20250910230000 +0800" stop="20250911000000 +0800">
-    <title lang="zh">台視夜線新聞</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-10</date>
-  </programme>
   <programme channel="369307" start="20250911000000 +0800" stop="20250911010000 +0800">
     <title lang="zh">晚安台灣</title>
     <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -254,9 +124,34 @@
     <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
     <date>2025-09-11</date>
   </programme>
-  <programme channel="369307" start="20250912000000 +0800" stop="20250913000000 +0800">
+  <programme channel="369307" start="20250912000000 +0800" stop="20250912010000 +0800">
     <title lang="zh">晚安台灣</title>
     <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369307" start="20250912010000 +0800" stop="20250912020000 +0800">
+    <title lang="zh">台視新聞世界報導</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369307" start="20250912020000 +0800" stop="20250912030000 +0800">
+    <title lang="zh">0200台視晚間新聞</title>
+    <desc>由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369307" start="20250912030000 +0800" stop="20250912040000 +0800">
+    <title lang="zh">台視夜線新聞</title>
+    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369307" start="20250912040000 +0800" stop="20250912050000 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>由台視專業團隊，帶你了解國際財經脈動</desc>
+    <date>2025-09-12</date>
+  </programme>
+  <programme channel="369307" start="20250912050000 +0800" stop="20250913000000 +0800">
+    <title lang="zh">發現科學</title>
+    <desc>台視為方便網友了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯</desc>
     <date>2025-09-12</date>
   </programme>
 </tv>
