@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250911205555 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250911&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250912095638 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
   </channel>
-  <programme channel="370172" start="20250911010000 +0800" stop="20250911013000 +0800">
-    <title lang="zh">民視英語新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911013000 +0800" stop="20250911023000 +0800">
-    <title lang="zh">台灣看世界【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911023000 +0800" stop="20250911033000 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911033000 +0800" stop="20250911041500 +0800">
-    <title lang="zh">台灣最前線【普】(E2284)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911041500 +0800" stop="20250911053000 +0800">
-    <title lang="zh">台灣最前線【普】(E2284)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911053000 +0800" stop="20250911060000 +0800">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911060000 +0800" stop="20250911070000 +0800">
-    <title lang="zh">民視六點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911070000 +0800" stop="20250911080000 +0800">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911080000 +0800" stop="20250911083000 +0800">
-    <title lang="zh">民視八點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911083000 +0800" stop="20250911090000 +0800">
-    <title lang="zh">國際早報【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911090000 +0800" stop="20250911100000 +0800">
-    <title lang="zh">民視九點新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911100000 +0800" stop="20250911110000 +0800">
-    <title lang="zh">民視十點新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911110000 +0800" stop="20250911115000 +0800">
-    <title lang="zh">民視十一點新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911115000 +0800" stop="20250911135000 +0800">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911135000 +0800" stop="20250911160000 +0800">
-    <title lang="zh">頭家來開講【普】(E16)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911160000 +0800" stop="20250911163000 +0800">
-    <title lang="zh">民視四點新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911163000 +0800" stop="20250911170000 +0800">
-    <title lang="zh">民視國際新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911170000 +0800" stop="20250911175500 +0800">
-    <title lang="zh">民視五點新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911175500 +0800" stop="20250911182500 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911182500 +0800" stop="20250911195500 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911195500 +0800" stop="20250911204000 +0800">
-    <title lang="zh">台灣最前線【普】(E2285)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911204000 +0800" stop="20250911215500 +0800">
-    <title lang="zh">台灣最前線【普】(E2285)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911215500 +0800" stop="20250911233000 +0800">
-    <title lang="zh">台灣向前行【普】(E1848)</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
-  <programme channel="370172" start="20250911233000 +0800" stop="20250912000000 +0800">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2025-09-11</date>
-  </programme>
   <programme channel="370172" start="20250912010000 +0800" stop="20250912013000 +0800">
     <title lang="zh">民視英語新聞【普】</title>
     <desc />
@@ -243,5 +123,125 @@
     <title lang="zh">民視午夜新聞【普】</title>
     <desc />
     <date>2025-09-12</date>
+  </programme>
+  <programme channel="370172" start="20250913010000 +0800" stop="20250913013000 +0800">
+    <title lang="zh">民視英語新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913013000 +0800" stop="20250913023000 +0800">
+    <title lang="zh">台灣看世界【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913023000 +0800" stop="20250913033000 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913033000 +0800" stop="20250913041500 +0800">
+    <title lang="zh">台灣最前線【普】(E2286)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913041500 +0800" stop="20250913053000 +0800">
+    <title lang="zh">台灣最前線【普】(E2286)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913053000 +0800" stop="20250913060000 +0800">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913060000 +0800" stop="20250913070000 +0800">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913070000 +0800" stop="20250913080000 +0800">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913080000 +0800" stop="20250913083000 +0800">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913083000 +0800" stop="20250913090000 +0800">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913090000 +0800" stop="20250913100000 +0800">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913100000 +0800" stop="20250913110000 +0800">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913110000 +0800" stop="20250913115000 +0800">
+    <title lang="zh">民視十一點新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913115000 +0800" stop="20250913135000 +0800">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913135000 +0800" stop="20250913160000 +0800">
+    <title lang="zh">頭家來開講【普】(E18)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913160000 +0800" stop="20250913170000 +0800">
+    <title lang="zh">民視四點新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913170000 +0800" stop="20250913174500 +0800">
+    <title lang="zh">新聞觀測站【普】(E861)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913174500 +0800" stop="20250913175500 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913175500 +0800" stop="20250913182500 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913182500 +0800" stop="20250913195500 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913195500 +0800" stop="20250913215500 +0800">
+    <title lang="zh">台灣最前線【普】(E2287)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913215500 +0800" stop="20250913225500 +0800">
+    <title lang="zh">十點不一樣【普】</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913225500 +0800" stop="20250913235500 +0800">
+    <title lang="zh">民視異言堂【普】(E1377)</title>
+    <desc />
+    <date>2025-09-13</date>
+  </programme>
+  <programme channel="370172" start="20250913235500 +0800" stop="20250914000000 +0800">
+    <title lang="zh">財經週末趴【普】(E314)</title>
+    <desc />
+    <date>2025-09-13</date>
   </programme>
 </tv>
