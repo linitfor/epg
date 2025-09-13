@@ -1,22 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205219 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369247/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369247&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095213 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369247/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369247&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369247">
     <display-name lang="Taiwan">年代新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151526264581_97.png" />
   </channel>
-  <programme channel="369247" start="20250912000000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">新聞面對面</title>
-    <desc>邀請話題關鍵大人物，與記者交鋒辯論！誰說是、誰說非，最精彩的對話，都在新聞面對面。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369247" start="20250912020000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">突發琪想</title>
-    <desc>初期主要討論近期的新聞時事，包含八卦內幕、火線話題，並以社會新聞、奇聞軼事為主要議題。節目宗旨為「沒什麼不能談，什麼都能談」，並邀請來賓進行討論</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369247" start="20250912040000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">新聞面對面</title>
-    <desc>邀請話題關鍵大人物，與記者交鋒辯論！誰說是、誰說非，最精彩的對話，都在新聞面對面。</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

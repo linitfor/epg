@@ -1,27 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205237 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095227 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369287/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369287&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369287">
     <display-name lang="Taiwan">緯來體育台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png" />
   </channel>
-  <programme channel="369287" start="20250912000000 +0800" stop="20250912003000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369287" start="20250912003000 +0800" stop="20250912033000 +0800">
-    <title lang="zh">2025 MLB美國職棒</title>
-    <desc>MLB火熱開打！各隊火力全開，盼能優先打下好基礎，以利挑戰進入最終決賽，精采刺激的賽事，請棒球迷繼續鎖定緯來體育台！</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369287" start="20250912033000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">緯來運動STUDIO</title>
-    <desc>緯來運動STUDIO</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369287" start="20250912040000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">2025 WRC世界拉力賽分站精華</title>
-    <desc>2025 WRC世界拉力賽分站精華</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

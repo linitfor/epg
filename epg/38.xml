@@ -1,22 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205237 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095227 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369288/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369288&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369288">
     <display-name lang="Taiwan">DAZN 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152140764095_32.jpg" />
   </channel>
-  <programme channel="369288" start="20250912010000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">TSR 全國機車錦標賽精華</title>
-    <desc>TSR 全國機車錦標賽精華</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369288" start="20250912020000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369288" start="20250912030000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">格鬥特區 2024PFL 職業格鬥聯盟</title>
-    <desc>格鬥特區 2024PFL 職業格鬥聯盟</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

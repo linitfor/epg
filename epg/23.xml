@@ -1,17 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205229 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368953/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368953&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095222 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/368953/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=368953&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="368953">
     <display-name lang="Taiwan">八大綜合台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611150900167189_13.jpg" />
   </channel>
-  <programme channel="368953" start="20250912020000 +0800" stop="20250912035000 +0800">
-    <title lang="zh">世界大對戰</title>
-    <desc>在這場視覺上壯觀的動作冒險遊戲中，一群意想不到的前 80 年代電子遊戲冠軍挺身而出，拯救世界免於外星人入侵。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="368953" start="20250912035000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">暮光之城-無懼的愛</title>
-    <desc>一個問題少女搬到一個偏僻的小鎮投靠父親。她愛上一個擁有驚人秘密的神秘獨行俠；他是否與當地開始發生的謀殺案有關？</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

@@ -1,134 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205255 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095241 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335027/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335027&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="335027">
     <display-name lang="Taiwan">愛爾達體育3台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="335027" start="20250912010000 +0800" stop="20250912013000 +0800">
-    <title lang="zh">體壇最前線 9/11 (新)(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912013000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">WTT冠軍賽 澳門站 第三日回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912030000 +0800" stop="20250912033000 +0800">
-    <title lang="zh">體壇最前線 9/12 (新)(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912033000 +0800" stop="20250912034500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#32(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912034500 +0800" stop="20250912040000 +0800">
-    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912040000 +0800" stop="20250912043000 +0800">
-    <title lang="zh">中華職棒 富邦 VS 味全 9/10(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912043000 +0800" stop="20250912063000 +0800">
-    <title lang="zh">BWF 香港公開賽 16強回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912063000 +0800" stop="20250912080000 +0800">
-    <title lang="zh">BWF 香港公開賽 八強回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912080000 +0800" stop="20250912090000 +0800">
-    <title lang="zh">WTT冠軍賽 澳門站 第三日回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912090000 +0800" stop="20250912110000 +0800">
-    <title lang="zh">WTT冠軍賽 澳門站 16強回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912110000 +0800" stop="20250912120000 +0800">
-    <title lang="zh">LIVE BWF 香港公開賽 八強(上) 9/12(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912120000 +0800" stop="20250912150000 +0800">
-    <title lang="zh">LIVE WTT冠軍賽 澳門站 八強 (上) 9/13(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912150000 +0800" stop="20250912153000 +0800">
-    <title lang="zh">體壇最前線 9/11(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912153000 +0800" stop="20250912160000 +0800">
-    <title lang="zh">NFL 司令 VS 包裝工 例行賽第二週 9/12(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912160000 +0800" stop="20250912163000 +0800">
-    <title lang="zh">2025 BWF世界羽球雜誌#8 駱建佑大對決(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912163000 +0800" stop="20250912164500 +0800">
-    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912164500 +0800" stop="20250912170000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#33(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912170000 +0800" stop="20250912183000 +0800">
-    <title lang="zh">LIVE BWF 香港公開賽 四強(下) 9/13(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912183000 +0800" stop="20250912213000 +0800">
-    <title lang="zh">LIVE BWF 香港公開賽 八強(下) 9/12(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912213000 +0800" stop="20250912214500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912214500 +0800" stop="20250912220000 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#32(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912220000 +0800" stop="20250912223000 +0800">
-    <title lang="zh">BWF 香港公開賽 四強回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912223000 +0800" stop="20250912224500 +0800">
-    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912224500 +0800" stop="20250912230000 +0800">
-    <title lang="zh">世界羽球戰報第七季 #7(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="335027" start="20250912230000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">BWF 香港公開賽 八強回顧(普)</title>
-    <desc />
-    <date>2025-09-12</date>
-  </programme>
   <programme channel="335027" start="20250913030000 +0800" stop="20250913033000 +0800">
     <title lang="zh">體壇最前線 9/12 (新)(普)</title>
     <desc />
@@ -198,5 +73,80 @@
     <title lang="zh">BWF 香港公開賽 四強回顧(普)</title>
     <desc />
     <date>2025-09-13</date>
+  </programme>
+  <programme channel="335027" start="20250914010000 +0800" stop="20250914013000 +0800">
+    <title lang="zh">體壇最前線 9/13 (新)(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914013000 +0800" stop="20250914040000 +0800">
+    <title lang="zh">中華職棒 味全 VS 統一 9/13(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914040000 +0800" stop="20250914060000 +0800">
+    <title lang="zh">WTT冠軍賽 澳門站 八強回顧(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914060000 +0800" stop="20250914090000 +0800">
+    <title lang="zh">NFL 司令 VS 包裝工 例行賽第二週 9/12(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914090000 +0800" stop="20250914093000 +0800">
+    <title lang="zh">體壇最前線 9/13(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914093000 +0800" stop="20250914113000 +0800">
+    <title lang="zh">WTT冠軍賽 澳門站 八強回顧(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914113000 +0800" stop="20250914133000 +0800">
+    <title lang="zh">BWF 香港公開賽 四強回顧(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914133000 +0800" stop="20250914140000 +0800">
+    <title lang="zh">體壇最前線 9/13(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914140000 +0800" stop="20250914203000 +0800">
+    <title lang="zh">LIVE BWF 香港公開賽 決賽 9/14(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914203000 +0800" stop="20250914210000 +0800">
+    <title lang="zh">2025 BWF世界羽球雜誌#7 世錦賽冠軍之路(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914210000 +0800" stop="20250914211500 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#31 世錦賽(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914211500 +0800" stop="20250914213000 +0800">
+    <title lang="zh">2025 BWF世界羽球週報#32(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914213000 +0800" stop="20250914223000 +0800">
+    <title lang="zh">WTT冠軍賽 澳門站 女單決賽 9/14(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250914223000 +0800" stop="20250915000000 +0800">
+    <title lang="zh">WTT冠軍賽 澳門站 男單決賽 9/14(普)</title>
+    <desc />
+    <date>2025-09-14</date>
+  </programme>
+  <programme channel="335027" start="20250915000000 +0800" stop="20250916000000 +0800">
+    <title lang="zh">BWF 香港公開賽 決賽 9/14(普)</title>
+    <desc />
+    <date>2025-09-15</date>
   </programme>
 </tv>

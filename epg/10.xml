@@ -1,37 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205223 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095217 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
   </channel>
-  <programme channel="369324" start="20250912000000 +0800" stop="20250912010000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369324" start="20250912010000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369324" start="20250912020000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369324" start="20250912030000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369324" start="20250912040000 +0800" stop="20250912050000 +0800">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369324" start="20250912050000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

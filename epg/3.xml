@@ -1,32 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205219 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095214 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
   </channel>
-  <programme channel="369248" start="20250912000000 +0800" stop="20250912010000 +0800">
-    <title lang="zh">東森夜線新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369248" start="20250912010000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369248" start="20250912020000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369248" start="20250912030000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369248" start="20250912040000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

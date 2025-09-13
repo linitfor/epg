@@ -1,62 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205312 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095255 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369234/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369234&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369234">
     <display-name lang="Taiwan">BBC News</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154043536929_80.jpg" />
   </channel>
-  <programme channel="369234" start="20250912000000 +0800" stop="20250912003000 +0800">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912003000 +0800" stop="20250912010000 +0800">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912010000 +0800" stop="20250912013000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912013000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912020000 +0800" stop="20250912023000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912023000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912030000 +0800" stop="20250912033000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912033000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912040000 +0800" stop="20250912043000 +0800">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912043000 +0800" stop="20250912050000 +0800">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369234" start="20250912050000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>

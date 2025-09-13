@@ -1,37 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250912205222 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369307/20250912.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369307&amp;date=20250912&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250913095216 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369307/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369307&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="369307">
     <display-name lang="Taiwan">台視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154222419472_40.jpg" />
   </channel>
-  <programme channel="369307" start="20250912000000 +0800" stop="20250912010000 +0800">
-    <title lang="zh">晚安台灣</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369307" start="20250912010000 +0800" stop="20250912020000 +0800">
-    <title lang="zh">台視新聞世界報導</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369307" start="20250912020000 +0800" stop="20250912030000 +0800">
-    <title lang="zh">0200台視晚間新聞</title>
-    <desc>由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369307" start="20250912030000 +0800" stop="20250912040000 +0800">
-    <title lang="zh">台視夜線新聞</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369307" start="20250912040000 +0800" stop="20250912050000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>由台視專業團隊，帶你了解國際財經脈動</desc>
-    <date>2025-09-12</date>
-  </programme>
-  <programme channel="369307" start="20250912050000 +0800" stop="20250913000000 +0800">
-    <title lang="zh">發現科學</title>
-    <desc>台視為方便網友了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯</desc>
-    <date>2025-09-12</date>
-  </programme>
 </tv>
