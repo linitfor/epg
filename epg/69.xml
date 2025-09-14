@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250913205030 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250914100504 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/334825/20250914.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=334825&amp;date=20250914&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="334825">
     <display-name lang="Taiwan">CatchPlay HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="334825" start="20250913020500 +0800" stop="20250913043500 +0800">
-    <title lang="zh">全境炸裂(雙語)(輔15)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913043500 +0800" stop="20250913060000 +0800">
-    <title lang="zh">攝氏零度．春光再現(輔15)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913060000 +0800" stop="20250913082500 +0800">
-    <title lang="zh">心動(雙語)(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913082500 +0800" stop="20250913095500 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913095500 +0800" stop="20250913120000 +0800">
-    <title lang="zh">師大公園地下社會(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913120000 +0800" stop="20250913133000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913133000 +0800" stop="20250913154000 +0800">
-    <title lang="zh">零號追殺(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913154000 +0800" stop="20250913173000 +0800">
-    <title lang="zh">美國第一情緣(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913173000 +0800" stop="20250913193000 +0800">
-    <title lang="zh">我想念我自己(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913193000 +0800" stop="20250913210000 +0800">
-    <title lang="zh">王者天下(雙語)(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913210000 +0800" stop="20250913231000 +0800">
-    <title lang="zh">【全台首播】小曉(護)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="334825" start="20250913231000 +0800" stop="20250914000000 +0800">
-    <title lang="zh">懼裂(輔15)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
   <programme channel="334825" start="20250914020000 +0800" stop="20250914041000 +0800">
     <title lang="zh">【本月熱播】小曉(護)</title>
     <desc />
@@ -128,5 +68,10 @@
     <title lang="zh">【本月熱播】AI終結戰(護)</title>
     <desc />
     <date>2025-09-14</date>
+  </programme>
+  <programme channel="334825" start="20250915231500 +0800" stop="20250916000000 +0800">
+    <title lang="zh">【本月熱播】AI終結戰(護)</title>
+    <desc />
+    <date>2025-09-15</date>
   </programme>
 </tv>

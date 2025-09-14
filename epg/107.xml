@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250913205047 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20250913&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250914100524 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20250914.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20250914&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370178">
     <display-name lang="Taiwan">Bloomberg TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="370178" start="20250913000000 +0800" stop="20250913010000 +0800">
-    <title lang="zh">Bloomberg Markets: European Close(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="370178" start="20250913010000 +0800" stop="20250913020000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="370178" start="20250913020000 +0800" stop="20250913023000 +0800">
-    <title lang="zh">Bloomberg Real Yield(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="370178" start="20250913023000 +0800" stop="20250913030000 +0800">
-    <title lang="zh">Bloomberg Markets(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
-  <programme channel="370178" start="20250913030000 +0800" stop="20250914000000 +0800">
-    <title lang="zh">Bloomberg Markets: The Close(普)</title>
-    <desc />
-    <date>2025-09-13</date>
-  </programme>
   <programme channel="370178" start="20250914000000 +0800" stop="20250914003000 +0800">
     <title lang="zh">Bloomberg Studio 1.0(普)</title>
     <desc />
@@ -249,9 +224,114 @@
     <desc />
     <date>2025-09-14</date>
   </programme>
-  <programme channel="370178" start="20250915000000 +0800" stop="20250916000000 +0800">
+  <programme channel="370178" start="20250915000000 +0800" stop="20250915010000 +0800">
     <title lang="zh">Bloomberg Wall Street Week(普)</title>
     <desc />
     <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915010000 +0800" stop="20250915020000 +0800">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915020000 +0800" stop="20250915023000 +0800">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915023000 +0800" stop="20250915030000 +0800">
+    <title lang="zh">Bloomberg Primer(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915030000 +0800" stop="20250915040000 +0800">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915040000 +0800" stop="20250915043000 +0800">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915043000 +0800" stop="20250915050000 +0800">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915050000 +0800" stop="20250915053000 +0800">
+    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915053000 +0800" stop="20250915060000 +0800">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915060000 +0800" stop="20250915070000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915070000 +0800" stop="20250915090000 +0800">
+    <title lang="zh">Bloomberg The Asia Trade(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915090000 +0800" stop="20250915110000 +0800">
+    <title lang="zh">Bloomberg: The China Show(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915110000 +0800" stop="20250915120000 +0800">
+    <title lang="zh">Insight with Haslinda Amin(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915120000 +0800" stop="20250915130000 +0800">
+    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915130000 +0800" stop="20250915140000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915140000 +0800" stop="20250915160000 +0800">
+    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915160000 +0800" stop="20250915170000 +0800">
+    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915170000 +0800" stop="20250915180000 +0800">
+    <title lang="zh">Bloomberg Brief(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915180000 +0800" stop="20250915210000 +0800">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915210000 +0800" stop="20250915230000 +0800">
+    <title lang="zh">Bloomberg Open Interest(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250915230000 +0800" stop="20250916000000 +0800">
+    <title lang="zh">Bloomberg Tech(普)</title>
+    <desc />
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="370178" start="20250916000000 +0800" stop="20250917000000 +0800">
+    <title lang="zh">Bloomberg ETF IQ(普)</title>
+    <desc />
+    <date>2025-09-16</date>
   </programme>
 </tv>
