@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250921205115 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250921.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250921&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20250922100800 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20250922.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20250922&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370141">
     <display-name lang="Taiwan">中視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" />
   </channel>
-  <programme channel="370141" start="20250921000000 +0800" stop="20250921020000 +0800">
-    <title lang="zh">飢餓遊戲(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921020000 +0800" stop="20250921040000 +0800">
-    <title lang="zh">綜藝一級棒阿鈣八合一強效錠(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921040000 +0800" stop="20250921060000 +0800">
-    <title lang="zh">綜藝玩很大特選版(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921060000 +0800" stop="20250921070000 +0800">
-    <title lang="zh">大陸尋奇英才文教基金會(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921070000 +0800" stop="20250921080000 +0800">
-    <title lang="zh">中視早安新聞(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921080000 +0800" stop="20250921090000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921090000 +0800" stop="20250921100000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921100000 +0800" stop="20250921110000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921110000 +0800" stop="20250921115800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921115800 +0800" stop="20250921130000 +0800">
-    <title lang="zh">中視午間新聞(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921130000 +0800" stop="20250921150000 +0800">
-    <title lang="zh">綜藝一級棒阿鈣八合一強效錠(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921150000 +0800" stop="20250921160000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921160000 +0800" stop="20250921175700 +0800">
-    <title lang="zh">綜藝玩很大阿鈣八合一強效錠(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921175700 +0800" stop="20250921185700 +0800">
-    <title lang="zh">大陸尋奇英才文教基金會(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921185700 +0800" stop="20250921200000 +0800">
-    <title lang="zh">中視新聞全球報導(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921200000 +0800" stop="20250921220000 +0800">
-    <title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
-  <programme channel="370141" start="20250921220000 +0800" stop="20250922000000 +0800">
-    <title lang="zh">全村的希望(普)</title>
-    <desc />
-    <date>2025-09-21</date>
-  </programme>
   <programme channel="370141" start="20250922000000 +0800" stop="20250922020000 +0800">
     <title lang="zh">飢餓遊戲阿鈣八合一強效錠(普)</title>
     <desc />
@@ -219,9 +134,149 @@
     <desc />
     <date>2025-09-22</date>
   </programme>
-  <programme channel="370141" start="20250923000000 +0800" stop="20250924000000 +0800">
+  <programme channel="370141" start="20250923000000 +0800" stop="20250923010000 +0800">
     <title lang="zh">中視新聞(普)</title>
     <desc />
     <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923010000 +0800" stop="20250923020000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923020000 +0800" stop="20250923030000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923030000 +0800" stop="20250923040000 +0800">
+    <title lang="zh">工程維護(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923040000 +0800" stop="20250923050000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923050000 +0800" stop="20250923060000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923060000 +0800" stop="20250923070000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923070000 +0800" stop="20250923080000 +0800">
+    <title lang="zh">中視早安新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923080000 +0800" stop="20250923083000 +0800">
+    <title lang="zh">財經早點名(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923083000 +0800" stop="20250923090000 +0800">
+    <title lang="zh">股市貴公子(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923090000 +0800" stop="20250923100000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923100000 +0800" stop="20250923110000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923110000 +0800" stop="20250923115800 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923115800 +0800" stop="20250923130000 +0800">
+    <title lang="zh">中視午間新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923130000 +0800" stop="20250923140000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923140000 +0800" stop="20250923143000 +0800">
+    <title lang="zh">股林高手(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923143000 +0800" stop="20250923150000 +0800">
+    <title lang="zh">股市薇積分(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923150000 +0800" stop="20250923153000 +0800">
+    <title lang="zh">價值型投資(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923153000 +0800" stop="20250923160000 +0800">
+    <title lang="zh">金錢道(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923160000 +0800" stop="20250923170000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923170000 +0800" stop="20250923172800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923172800 +0800" stop="20250923175800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923175800 +0800" stop="20250923185800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923185800 +0800" stop="20250923200000 +0800">
+    <title lang="zh">中視新聞全球報導(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923200000 +0800" stop="20250923210000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923210000 +0800" stop="20250923220000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923220000 +0800" stop="20250923230000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250923230000 +0800" stop="20250924000000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2025-09-23</date>
+  </programme>
+  <programme channel="370141" start="20250924000000 +0800" stop="20250925000000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2025-09-24</date>
   </programme>
 </tv>
