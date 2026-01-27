@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260126210943 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260126.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260126&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260127211157 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260127&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
   </channel>
-  <programme channel="370171" start="20260126000000 +0800" stop="20260126010000 +0800">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126010000 +0800" stop="20260126020000 +0800">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126020000 +0800" stop="20260126030000 +0800">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126030000 +0800" stop="20260126040000 +0800">
-    <title lang="zh">新聞高峰會</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126040000 +0800" stop="20260126050000 +0800">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126050000 +0800" stop="20260126060000 +0800">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126060000 +0800" stop="20260126070000 +0800">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126070000 +0800" stop="20260126080000 +0800">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126080000 +0800" stop="20260126090000 +0800">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126090000 +0800" stop="20260126100000 +0800">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126100000 +0800" stop="20260126110000 +0800">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126110000 +0800" stop="20260126115800 +0800">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126115800 +0800" stop="20260126130000 +0800">
-    <title lang="zh">華視午間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126130000 +0800" stop="20260126140000 +0800">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126140000 +0800" stop="20260126150000 +0800">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126150000 +0800" stop="20260126160000 +0800">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126160000 +0800" stop="20260126165300 +0800">
-    <title lang="zh">華視在地新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126165300 +0800" stop="20260126200000 +0800">
-    <title lang="zh">華視新聞晚報</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126200000 +0800" stop="20260126210000 +0800">
-    <title lang="zh">華視2000整點新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126210000 +0800" stop="20260126220000 +0800">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126220000 +0800" stop="20260126230000 +0800">
-    <title lang="zh">52政經點</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126230000 +0800" stop="20260126235500 +0800">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
-  <programme channel="370171" start="20260126235500 +0800" stop="20260127000000 +0800">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-26</date>
-  </programme>
   <programme channel="370171" start="20260127010000 +0800" stop="20260127020000 +0800">
     <title lang="zh">World News 9</title>
     <desc />
@@ -228,5 +113,115 @@
     <title lang="zh">華視2400夜間新聞</title>
     <desc />
     <date>2026-01-27</date>
+  </programme>
+  <programme channel="370171" start="20260128010000 +0800" stop="20260128020000 +0800">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128020000 +0800" stop="20260128030000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128030000 +0800" stop="20260128040000 +0800">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128040000 +0800" stop="20260128050000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128050000 +0800" stop="20260128060000 +0800">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128060000 +0800" stop="20260128070000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128070000 +0800" stop="20260128080000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128080000 +0800" stop="20260128090000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128090000 +0800" stop="20260128100000 +0800">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128100000 +0800" stop="20260128110000 +0800">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128110000 +0800" stop="20260128115800 +0800">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128115800 +0800" stop="20260128130000 +0800">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128130000 +0800" stop="20260128140000 +0800">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128140000 +0800" stop="20260128150000 +0800">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128150000 +0800" stop="20260128160000 +0800">
+    <title lang="zh">華視1500整點新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128160000 +0800" stop="20260128165300 +0800">
+    <title lang="zh">華視在地新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128165300 +0800" stop="20260128200000 +0800">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128200000 +0800" stop="20260128210000 +0800">
+    <title lang="zh">華視2000整點新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128210000 +0800" stop="20260128220000 +0800">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128220000 +0800" stop="20260128230000 +0800">
+    <title lang="zh">52政經點</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128230000 +0800" stop="20260128235500 +0800">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
+  </programme>
+  <programme channel="370171" start="20260128235500 +0800" stop="20260129000000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-28</date>
   </programme>
 </tv>
