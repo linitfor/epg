@@ -1,229 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260215211251 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20260215.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20260215&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260216111628 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20260216.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20260216&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370178">
     <display-name lang="Taiwan">Bloomberg TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="370178" start="20260215000000 +0800" stop="20260215003000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215003000 +0800" stop="20260215010000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215010000 +0800" stop="20260215013000 +0800">
-    <title lang="zh">Athlete | Empire: Alex Rodriguez(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215013000 +0800" stop="20260215020000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215020000 +0800" stop="20260215023000 +0800">
-    <title lang="zh">The David Rubenstein Show(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215023000 +0800" stop="20260215030000 +0800">
-    <title lang="zh">Bloomberg Green(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215030000 +0800" stop="20260215033000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215033000 +0800" stop="20260215040000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215040000 +0800" stop="20260215043000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215043000 +0800" stop="20260215050000 +0800">
-    <title lang="zh">Athlete | Empire: Alex Rodriguez(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215050000 +0800" stop="20260215053000 +0800">
-    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215053000 +0800" stop="20260215060000 +0800">
-    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215060000 +0800" stop="20260215070000 +0800">
-    <title lang="zh">Bloomberg Wall Street Week(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215070000 +0800" stop="20260215073000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215073000 +0800" stop="20260215080000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215080000 +0800" stop="20260215083000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215083000 +0800" stop="20260215090000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215090000 +0800" stop="20260215093000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215093000 +0800" stop="20260215100000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215100000 +0800" stop="20260215103000 +0800">
-    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215103000 +0800" stop="20260215110000 +0800">
-    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215110000 +0800" stop="20260215113000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215113000 +0800" stop="20260215120000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215120000 +0800" stop="20260215123000 +0800">
-    <title lang="zh">Athlete | Empire: Alex Rodriguez(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215123000 +0800" stop="20260215130000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215130000 +0800" stop="20260215140000 +0800">
-    <title lang="zh">Bloomberg Wall Street Week(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215140000 +0800" stop="20260215143000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215143000 +0800" stop="20260215150000 +0800">
-    <title lang="zh">Worldwide Business with Kathy Ireland(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215150000 +0800" stop="20260215153000 +0800">
-    <title lang="zh">Athlete | Empire: Alex Rodriguez(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215153000 +0800" stop="20260215160000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215160000 +0800" stop="20260215163000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215163000 +0800" stop="20260215170000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215170000 +0800" stop="20260215180000 +0800">
-    <title lang="zh">Bloomberg Wall Street Week(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215180000 +0800" stop="20260215183000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215183000 +0800" stop="20260215190000 +0800">
-    <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215190000 +0800" stop="20260215193000 +0800">
-    <title lang="zh">Bloomberg Green(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215193000 +0800" stop="20260215200000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215200000 +0800" stop="20260215203000 +0800">
-    <title lang="zh">Athlete | Empire: Alex Rodriguez(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215203000 +0800" stop="20260215210000 +0800">
-    <title lang="zh">Bloomberg Studio 1.0(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215210000 +0800" stop="20260215213000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215213000 +0800" stop="20260215220000 +0800">
-    <title lang="zh">Leaders with Lacqua(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215220000 +0800" stop="20260215230000 +0800">
-    <title lang="zh">Bloomberg Wall Street Week(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215230000 +0800" stop="20260215233000 +0800">
-    <title lang="zh">The David Rubenstein Show(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
-  <programme channel="370178" start="20260215233000 +0800" stop="20260216000000 +0800">
-    <title lang="zh">Bloomberg Green(普)</title>
-    <desc />
-    <date>2026-02-15</date>
-  </programme>
   <programme channel="370178" start="20260216000000 +0800" stop="20260216003000 +0800">
     <title lang="zh">Bloomberg Wealth with David Rubenstein(普)</title>
     <desc />
@@ -344,9 +124,109 @@
     <desc />
     <date>2026-02-16</date>
   </programme>
-  <programme channel="370178" start="20260217000000 +0800" stop="20260218000000 +0800">
+  <programme channel="370178" start="20260217000000 +0800" stop="20260217010000 +0800">
     <title lang="zh">Bloomberg Markets: European Close(普)</title>
     <desc />
     <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217010000 +0800" stop="20260217020000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217020000 +0800" stop="20260217023000 +0800">
+    <title lang="zh">Bloomberg Markets(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217023000 +0800" stop="20260217030000 +0800">
+    <title lang="zh">Bloomberg Markets(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217030000 +0800" stop="20260217053000 +0800">
+    <title lang="zh">Bloomberg Markets: The Close(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217053000 +0800" stop="20260217060000 +0800">
+    <title lang="zh">Bloomberg Markets: Whatd You Miss?(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217060000 +0800" stop="20260217070000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Australia(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217070000 +0800" stop="20260217090000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Asia(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217090000 +0800" stop="20260217100000 +0800">
+    <title lang="zh">Bloomberg Markets: China Open(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217100000 +0800" stop="20260217120000 +0800">
+    <title lang="zh">Bloomberg Markets: Asia(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217120000 +0800" stop="20260217140000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Middle East(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217140000 +0800" stop="20260217150000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217150000 +0800" stop="20260217160000 +0800">
+    <title lang="zh">Bloomberg Markets: Europe(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217160000 +0800" stop="20260217170000 +0800">
+    <title lang="zh">Bloomberg Markets: European Open(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217170000 +0800" stop="20260217180000 +0800">
+    <title lang="zh">Bloomberg Technology(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217180000 +0800" stop="20260217190000 +0800">
+    <title lang="zh">Bloomberg Surveillance: Early Edition(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217190000 +0800" stop="20260217200000 +0800">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217200000 +0800" stop="20260217220000 +0800">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217220000 +0800" stop="20260217230000 +0800">
+    <title lang="zh">Bloomberg: The Open(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260217230000 +0800" stop="20260218000000 +0800">
+    <title lang="zh">Bloomberg Markets: Americas(普)</title>
+    <desc />
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="370178" start="20260218000000 +0800" stop="20260219000000 +0800">
+    <title lang="zh">Bloomberg Markets: European Close(普)</title>
+    <desc />
+    <date>2026-02-18</date>
   </programme>
 </tv>
