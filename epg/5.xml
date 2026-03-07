@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260306211839 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260306.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260306&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260307104142 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260307&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
   </channel>
-  <programme channel="370172" start="20260306010000 +0800" stop="20260306013000 +0800">
-    <title lang="zh">民視英語新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306013000 +0800" stop="20260306023000 +0800">
-    <title lang="zh">台灣看世界【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306023000 +0800" stop="20260306033000 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306033000 +0800" stop="20260306041500 +0800">
-    <title lang="zh">台灣最前線【普】(E2435)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306041500 +0800" stop="20260306053000 +0800">
-    <title lang="zh">台灣最前線【普】(E2435)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306053000 +0800" stop="20260306060000 +0800">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306060000 +0800" stop="20260306070000 +0800">
-    <title lang="zh">民視六點晨間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306070000 +0800" stop="20260306080000 +0800">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306080000 +0800" stop="20260306083000 +0800">
-    <title lang="zh">民視八點晨間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306083000 +0800" stop="20260306090000 +0800">
-    <title lang="zh">國際早報【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306090000 +0800" stop="20260306100000 +0800">
-    <title lang="zh">民視九點新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306100000 +0800" stop="20260306110000 +0800">
-    <title lang="zh">民視十點新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306110000 +0800" stop="20260306115000 +0800">
-    <title lang="zh">民視十一點新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306115000 +0800" stop="20260306135000 +0800">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306135000 +0800" stop="20260306160000 +0800">
-    <title lang="zh">頭家來開講【普】(E161)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306160000 +0800" stop="20260306163000 +0800">
-    <title lang="zh">民視四點新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306163000 +0800" stop="20260306170000 +0800">
-    <title lang="zh">民視國際新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306170000 +0800" stop="20260306175500 +0800">
-    <title lang="zh">民視五點新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306175500 +0800" stop="20260306182500 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306182500 +0800" stop="20260306195500 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306195500 +0800" stop="20260306204000 +0800">
-    <title lang="zh">台灣最前線【普】(E2436)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306204000 +0800" stop="20260306215500 +0800">
-    <title lang="zh">台灣最前線【普】(E2436)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306215500 +0800" stop="20260306233000 +0800">
-    <title lang="zh">台灣向前行【普】(E1967)</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
-  <programme channel="370172" start="20260306233000 +0800" stop="20260307000000 +0800">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2026-03-06</date>
-  </programme>
   <programme channel="370172" start="20260307010000 +0800" stop="20260307013000 +0800">
     <title lang="zh">民視英語新聞【普】</title>
     <desc />
@@ -243,5 +123,110 @@
     <title lang="zh">頭家來開講【普】(E162)</title>
     <desc />
     <date>2026-03-07</date>
+  </programme>
+  <programme channel="370172" start="20260308020000 +0800" stop="20260308030000 +0800">
+    <title lang="zh">十點不一樣【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308030000 +0800" stop="20260308040000 +0800">
+    <title lang="zh">民視異言堂【普】(E1407)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308040000 +0800" stop="20260308060000 +0800">
+    <title lang="zh">台灣最前線【普】(E2437)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308060000 +0800" stop="20260308070000 +0800">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308070000 +0800" stop="20260308080000 +0800">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308080000 +0800" stop="20260308083000 +0800">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308083000 +0800" stop="20260308090000 +0800">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308090000 +0800" stop="20260308100000 +0800">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308100000 +0800" stop="20260308110000 +0800">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308110000 +0800" stop="20260308114500 +0800">
+    <title lang="zh">決策者【普】(E200)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308114500 +0800" stop="20260308140000 +0800">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308140000 +0800" stop="20260308150000 +0800">
+    <title lang="zh">民視二點新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308150000 +0800" stop="20260308160000 +0800">
+    <title lang="zh">科學再發現【普】(E27)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308160000 +0800" stop="20260308170000 +0800">
+    <title lang="zh">財經週日趴【普】(E338)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308170000 +0800" stop="20260308175500 +0800">
+    <title lang="zh">民視五點新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308175500 +0800" stop="20260308184500 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308184500 +0800" stop="20260308195500 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308195500 +0800" stop="20260308210000 +0800">
+    <title lang="zh">台灣演義【普】(E775)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308210000 +0800" stop="20260308223000 +0800">
+    <title lang="zh">挑戰新聞【普】(E1699)</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308223000 +0800" stop="20260308233000 +0800">
+    <title lang="zh">民視全球新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="370172" start="20260308233000 +0800" stop="20260309000000 +0800">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2026-03-08</date>
   </programme>
 </tv>
