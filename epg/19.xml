@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260412212224 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260412.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260412&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260413114845 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260413.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260413&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370149">
     <display-name lang="Taiwan">愛爾達娛樂台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" />
   </channel>
-  <programme channel="370149" start="20260412000000 +0800" stop="20260412030000 +0800">
-    <title lang="zh">2026 Crufts犬展大賽 敏捷賽非牧羊犬跳躍賽/各犬型跳躍預賽/與狗共舞自由編舞 3/6(第5集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412030000 +0800" stop="20260412040000 +0800">
-    <title lang="zh">2019 Crufts 飛球接力賽 精華回顧(第16集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412040000 +0800" stop="20260412050000 +0800">
-    <title lang="zh">2024 Crufts 敏捷障礙賽 各犬型組 精華回顧(第17集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412050000 +0800" stop="20260412060000 +0800">
-    <title lang="zh">野人追夢(第4集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412060000 +0800" stop="20260412070000 +0800">
-    <title lang="zh">野人追夢(第5集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412070000 +0800" stop="20260412080000 +0800">
-    <title lang="zh">野人追夢(第6集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412080000 +0800" stop="20260412090000 +0800">
-    <title lang="zh">2019 Crufts 飛球接力賽 精華回顧(第16集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412090000 +0800" stop="20260412100000 +0800">
-    <title lang="zh">2024 Crufts 敏捷障礙賽 各犬型組 精華回顧(第17集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412100000 +0800" stop="20260412110000 +0800">
-    <title lang="zh">2019 Crufts 與狗共舞賽 精華回顧(第18集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412110000 +0800" stop="20260412113000 +0800">
-    <title lang="zh">歐冠足球誌#13(第13集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412113000 +0800" stop="20260412120000 +0800">
-    <title lang="zh">歐冠足球誌#14(第14集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412120000 +0800" stop="20260412150000 +0800">
-    <title lang="zh">2026 Crufts犬展大賽 敏捷賽非牧羊犬跳躍賽/各犬型跳躍預賽/與狗共舞自由編舞 3/6(第5集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412150000 +0800" stop="20260412160000 +0800">
-    <title lang="zh">2019 Crufts 飛球接力賽 精華回顧(第16集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412160000 +0800" stop="20260412170000 +0800">
-    <title lang="zh">2024 Crufts 敏捷障礙賽 各犬型組 精華回顧(第17集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412170000 +0800" stop="20260412180000 +0800">
-    <title lang="zh">野人追夢(第4集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412180000 +0800" stop="20260412190000 +0800">
-    <title lang="zh">野人追夢(第5集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412190000 +0800" stop="20260412200000 +0800">
-    <title lang="zh">野人追夢(第6集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412200000 +0800" stop="20260412210000 +0800">
-    <title lang="zh">2019 Crufts 飛球接力賽 精華回顧(第16集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412210000 +0800" stop="20260412220000 +0800">
-    <title lang="zh">2024 Crufts 敏捷障礙賽 各犬型組 精華回顧(第17集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412220000 +0800" stop="20260412230000 +0800">
-    <title lang="zh">2019 Crufts 與狗共舞賽 精華回顧(第18集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412230000 +0800" stop="20260412233000 +0800">
-    <title lang="zh">英超名人堂 #21 Sandro Tonali(第21集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
-  <programme channel="370149" start="20260412233000 +0800" stop="20260413000000 +0800">
-    <title lang="zh">體壇最前線 4/12(第102集) (普)</title>
-    <desc />
-    <date>2026-04-12</date>
-  </programme>
   <programme channel="370149" start="20260413000000 +0800" stop="20260413023000 +0800">
     <title lang="zh">2026 Crufts犬展大賽 敏捷賽各犬型標準預賽/非牧羊犬標準賽/飛球淘汰賽 3/6(第6集) (普)</title>
     <desc />
@@ -234,9 +124,119 @@
     <desc />
     <date>2026-04-13</date>
   </programme>
-  <programme channel="370149" start="20260414000000 +0800" stop="20260415000000 +0800">
+  <programme channel="370149" start="20260414000000 +0800" stop="20260414030000 +0800">
     <title lang="zh">2026 Crufts犬展大賽 黃金獵犬警犬表演/與狗共舞自由編舞國際組/醫療犬表演 3/7(第9集) (普)</title>
     <desc />
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414030000 +0800" stop="20260414040000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 敏捷賽各犬型決賽 3/6(第7集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414040000 +0800" stop="20260414050000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 敏捷賽國際邀請跳躍賽 3/7(第8集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414050000 +0800" stop="20260414060000 +0800">
+    <title lang="zh">野人追夢(第10集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414060000 +0800" stop="20260414070000 +0800">
+    <title lang="zh">野人追夢(第11集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414070000 +0800" stop="20260414080000 +0800">
+    <title lang="zh">野人追夢(第12集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414080000 +0800" stop="20260414090000 +0800">
+    <title lang="zh">2017 Crufts 飛球接力賽 精華回顧(第22集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414090000 +0800" stop="20260414100000 +0800">
+    <title lang="zh">2024 Crufts 敏捷障礙賽 青少年組 精華回顧(第23集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414100000 +0800" stop="20260414110000 +0800">
+    <title lang="zh">2017 Crufts 與狗共舞賽 精華回顧(第24集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414110000 +0800" stop="20260414113000 +0800">
+    <title lang="zh">歐冠足球誌#15(第15集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414113000 +0800" stop="20260414120000 +0800">
+    <title lang="zh">體壇最前線 4/13(第103集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414120000 +0800" stop="20260414150000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 黃金獵犬警犬表演/與狗共舞自由編舞國際組/醫療犬表演 3/7(第9集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414150000 +0800" stop="20260414160000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 敏捷賽各犬型決賽 3/6(第7集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414160000 +0800" stop="20260414170000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 敏捷賽國際邀請跳躍賽 3/7(第8集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414170000 +0800" stop="20260414180000 +0800">
+    <title lang="zh">野人追夢(第10集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414180000 +0800" stop="20260414190000 +0800">
+    <title lang="zh">野人追夢(第11集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414190000 +0800" stop="20260414200000 +0800">
+    <title lang="zh">野人追夢(第12集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414200000 +0800" stop="20260414210000 +0800">
+    <title lang="zh">2017 Crufts 飛球接力賽 精華回顧(第22集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414210000 +0800" stop="20260414220000 +0800">
+    <title lang="zh">2024 Crufts 敏捷障礙賽 青少年組 精華回顧(第23集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414220000 +0800" stop="20260414230000 +0800">
+    <title lang="zh">2017 Crufts 與狗共舞賽 精華回顧(第24集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414230000 +0800" stop="20260414233000 +0800">
+    <title lang="zh">英超名人堂 #23 Luc Nilis(第23集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260414233000 +0800" stop="20260415000000 +0800">
+    <title lang="zh">體壇最前線 4/14(第104集) (普)</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="370149" start="20260415000000 +0800" stop="20260416000000 +0800">
+    <title lang="zh">2026 Crufts犬展大賽 敏捷賽國際邀請標準賽/敏捷賽與飛球賽青少年組決賽/飛球八強賽 3/7(第10集) (普)</title>
+    <desc />
+    <date>2026-04-15</date>
   </programme>
 </tv>
