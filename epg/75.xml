@@ -1,249 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260422220531 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20260422.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20260422&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260423114202 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20260423.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20260423&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370167">
     <display-name lang="Taiwan">MOMO親子台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110802687808_97.png" />
   </channel>
-  <programme channel="370167" start="20260422000000 +0800" stop="20260422002100 +0800">
-    <title lang="zh">MOMO這一家S3 EP22</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422002100 +0800" stop="20260422010000 +0800">
-    <title lang="zh">史汀出任務 S1 EP04  水的表面張力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422010000 +0800" stop="20260422012100 +0800">
-    <title lang="zh">MOMO這一家S3 EP23</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422012100 +0800" stop="20260422020000 +0800">
-    <title lang="zh">史汀出任務 S1 EP05  靜電</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422020000 +0800" stop="20260422022200 +0800">
-    <title lang="zh">MOMO這一家S3 EP24</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422022200 +0800" stop="20260422030000 +0800">
-    <title lang="zh">史汀出任務 S1 EP06  摩擦力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422030000 +0800" stop="20260422032100 +0800">
-    <title lang="zh">MOMO這一家S3 EP25</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422032100 +0800" stop="20260422040000 +0800">
-    <title lang="zh">史汀出任務 S1 EP07  熱漲冷縮</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422040000 +0800" stop="20260422042200 +0800">
-    <title lang="zh">MOMO這一家S3 EP26</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422042200 +0800" stop="20260422050000 +0800">
-    <title lang="zh">史汀出任務 S1 EP08  投石器</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422050000 +0800" stop="20260422052200 +0800">
-    <title lang="zh">MOMO這一家S3 EP27</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422052200 +0800" stop="20260422060000 +0800">
-    <title lang="zh">史汀出任務 S1 EP09  溶解</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422060000 +0800" stop="20260422062100 +0800">
-    <title lang="zh">MOMO這一家S3 EP22</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422062100 +0800" stop="20260422070000 +0800">
-    <title lang="zh">史汀出任務 S1 EP04  水的表面張力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422070000 +0800" stop="20260422072100 +0800">
-    <title lang="zh">MOMO這一家S3 EP23</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422072100 +0800" stop="20260422080000 +0800">
-    <title lang="zh">史汀出任務 S1 EP05  靜電</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422080000 +0800" stop="20260422082200 +0800">
-    <title lang="zh">MOMO這一家S3 EP24</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422082200 +0800" stop="20260422090000 +0800">
-    <title lang="zh">史汀出任務 S1 EP06  摩擦力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422090000 +0800" stop="20260422092100 +0800">
-    <title lang="zh">MOMO這一家S3 EP25</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422092100 +0800" stop="20260422100000 +0800">
-    <title lang="zh">史汀出任務 S1 EP07  熱漲冷縮</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422100000 +0800" stop="20260422102200 +0800">
-    <title lang="zh">MOMO這一家S3 EP26</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422102200 +0800" stop="20260422110000 +0800">
-    <title lang="zh">史汀出任務 S1 EP08  投石器</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422110000 +0800" stop="20260422112200 +0800">
-    <title lang="zh">MOMO這一家S3 EP27</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422112200 +0800" stop="20260422120000 +0800">
-    <title lang="zh">史汀出任務 S1 EP09  溶解</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422120000 +0800" stop="20260422122100 +0800">
-    <title lang="zh">MOMO這一家S3 EP22</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422122100 +0800" stop="20260422130000 +0800">
-    <title lang="zh">史汀出任務 S1 EP04  水的表面張力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422130000 +0800" stop="20260422132100 +0800">
-    <title lang="zh">MOMO這一家S3 EP23</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422132100 +0800" stop="20260422140000 +0800">
-    <title lang="zh">史汀出任務 S1 EP05  靜電</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422140000 +0800" stop="20260422142200 +0800">
-    <title lang="zh">MOMO這一家S3 EP24</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422142200 +0800" stop="20260422150000 +0800">
-    <title lang="zh">史汀出任務 S1 EP06  摩擦力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422150000 +0800" stop="20260422152100 +0800">
-    <title lang="zh">MOMO這一家S3 EP25</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422152100 +0800" stop="20260422160000 +0800">
-    <title lang="zh">史汀出任務 S1 EP07  熱漲冷縮</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422160000 +0800" stop="20260422162200 +0800">
-    <title lang="zh">MOMO這一家S3 EP26</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422162200 +0800" stop="20260422170000 +0800">
-    <title lang="zh">史汀出任務 S1 EP08  投石器</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422170000 +0800" stop="20260422172200 +0800">
-    <title lang="zh">MOMO這一家S3 EP27</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422172200 +0800" stop="20260422180000 +0800">
-    <title lang="zh">史汀出任務 S1 EP09  溶解</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422180000 +0800" stop="20260422182100 +0800">
-    <title lang="zh">MOMO這一家S3 EP22</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422182100 +0800" stop="20260422190000 +0800">
-    <title lang="zh">史汀出任務 S1 EP04  水的表面張力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422190000 +0800" stop="20260422192100 +0800">
-    <title lang="zh">MOMO這一家S3 EP23</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422192100 +0800" stop="20260422200000 +0800">
-    <title lang="zh">史汀出任務 S1 EP05  靜電</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422200000 +0800" stop="20260422202200 +0800">
-    <title lang="zh">MOMO這一家S3 EP24</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422202200 +0800" stop="20260422210000 +0800">
-    <title lang="zh">史汀出任務 S1 EP06  摩擦力</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422210000 +0800" stop="20260422212100 +0800">
-    <title lang="zh">MOMO這一家S3 EP25</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422212100 +0800" stop="20260422220000 +0800">
-    <title lang="zh">史汀出任務 S1 EP07  熱漲冷縮</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422220000 +0800" stop="20260422222200 +0800">
-    <title lang="zh">MOMO這一家S3 EP26</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422222200 +0800" stop="20260422230000 +0800">
-    <title lang="zh">史汀出任務 S1 EP08  投石器</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422230000 +0800" stop="20260422232200 +0800">
-    <title lang="zh">MOMO這一家S3 EP27</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
-  <programme channel="370167" start="20260422232200 +0800" stop="20260423000000 +0800">
-    <title lang="zh">史汀出任務 S1 EP09  溶解</title>
-    <desc />
-    <date>2026-04-22</date>
-  </programme>
   <programme channel="370167" start="20260423000000 +0800" stop="20260423002200 +0800">
     <title lang="zh">MOMO這一家S3 EP28</title>
     <desc />
@@ -484,9 +244,249 @@
     <desc />
     <date>2026-04-23</date>
   </programme>
-  <programme channel="370167" start="20260424000000 +0800" stop="20260425000000 +0800">
+  <programme channel="370167" start="20260424000000 +0800" stop="20260424002200 +0800">
     <title lang="zh">MOMO這一家S4 EP04</title>
     <desc />
     <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424002200 +0800" stop="20260424010000 +0800">
+    <title lang="zh">史汀出任務 S1 EP16  重心</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424010000 +0800" stop="20260424012200 +0800">
+    <title lang="zh">MOMO這一家S4 EP05</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424012200 +0800" stop="20260424020000 +0800">
+    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424020000 +0800" stop="20260424022200 +0800">
+    <title lang="zh">MOMO這一家S4 EP06</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424022200 +0800" stop="20260424030000 +0800">
+    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424030000 +0800" stop="20260424032200 +0800">
+    <title lang="zh">MOMO這一家S4 EP07</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424032200 +0800" stop="20260424040000 +0800">
+    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424040000 +0800" stop="20260424042200 +0800">
+    <title lang="zh">MOMO這一家S4 EP08</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424042200 +0800" stop="20260424050000 +0800">
+    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424050000 +0800" stop="20260424052200 +0800">
+    <title lang="zh">MOMO這一家S4 EP09</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424052200 +0800" stop="20260424060000 +0800">
+    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424060000 +0800" stop="20260424062200 +0800">
+    <title lang="zh">MOMO這一家S4 EP04</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424062200 +0800" stop="20260424070000 +0800">
+    <title lang="zh">史汀出任務 S1 EP16  重心</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424070000 +0800" stop="20260424072200 +0800">
+    <title lang="zh">MOMO這一家S4 EP05</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424072200 +0800" stop="20260424080000 +0800">
+    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424080000 +0800" stop="20260424082200 +0800">
+    <title lang="zh">MOMO這一家S4 EP06</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424082200 +0800" stop="20260424090000 +0800">
+    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424090000 +0800" stop="20260424092200 +0800">
+    <title lang="zh">MOMO這一家S4 EP07</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424092200 +0800" stop="20260424100000 +0800">
+    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424100000 +0800" stop="20260424102200 +0800">
+    <title lang="zh">MOMO這一家S4 EP08</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424102200 +0800" stop="20260424110000 +0800">
+    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424110000 +0800" stop="20260424112200 +0800">
+    <title lang="zh">MOMO這一家S4 EP09</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424112200 +0800" stop="20260424120000 +0800">
+    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424120000 +0800" stop="20260424122200 +0800">
+    <title lang="zh">MOMO這一家S4 EP04</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424122200 +0800" stop="20260424130000 +0800">
+    <title lang="zh">史汀出任務 S1 EP16  重心</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424130000 +0800" stop="20260424132200 +0800">
+    <title lang="zh">MOMO這一家S4 EP05</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424132200 +0800" stop="20260424140000 +0800">
+    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424140000 +0800" stop="20260424142200 +0800">
+    <title lang="zh">MOMO這一家S4 EP06</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424142200 +0800" stop="20260424150000 +0800">
+    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424150000 +0800" stop="20260424152200 +0800">
+    <title lang="zh">MOMO這一家S4 EP07</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424152200 +0800" stop="20260424160000 +0800">
+    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424160000 +0800" stop="20260424162200 +0800">
+    <title lang="zh">MOMO這一家S4 EP08</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424162200 +0800" stop="20260424170000 +0800">
+    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424170000 +0800" stop="20260424172200 +0800">
+    <title lang="zh">MOMO這一家S4 EP09</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424172200 +0800" stop="20260424180000 +0800">
+    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424180000 +0800" stop="20260424182200 +0800">
+    <title lang="zh">MOMO這一家S4 EP04</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424182200 +0800" stop="20260424190000 +0800">
+    <title lang="zh">史汀出任務 S1 EP16  重心</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424190000 +0800" stop="20260424192200 +0800">
+    <title lang="zh">MOMO這一家S4 EP05</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424192200 +0800" stop="20260424200000 +0800">
+    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424200000 +0800" stop="20260424202200 +0800">
+    <title lang="zh">MOMO這一家S4 EP06</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424202200 +0800" stop="20260424210000 +0800">
+    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424210000 +0800" stop="20260424212200 +0800">
+    <title lang="zh">MOMO這一家S4 EP07</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424212200 +0800" stop="20260424220000 +0800">
+    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424220000 +0800" stop="20260424222200 +0800">
+    <title lang="zh">MOMO這一家S4 EP08</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424222200 +0800" stop="20260424230000 +0800">
+    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424230000 +0800" stop="20260424232200 +0800">
+    <title lang="zh">MOMO這一家S4 EP09</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260424232200 +0800" stop="20260425000000 +0800">
+    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
+    <desc />
+    <date>2026-04-24</date>
+  </programme>
+  <programme channel="370167" start="20260425000000 +0800" stop="20260426000000 +0800">
+    <title lang="zh">MOMO這一家S4 EP10</title>
+    <desc />
+    <date>2026-04-25</date>
   </programme>
 </tv>
