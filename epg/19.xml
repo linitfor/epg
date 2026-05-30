@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260530000510 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260530&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260530121315 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260530&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370149">
     <display-name lang="Taiwan">愛爾達娛樂台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" />
@@ -253,5 +253,10 @@
     <title lang="zh">英超名人堂 #23 Luc Nilis(第23集) (普)</title>
     <desc />
     <date>2026-05-31</date>
+  </programme>
+  <programme channel="370149" start="20260601000000 +0800" stop="20260602000000 +0800">
+    <title lang="zh">2026 敏捷障礙賽 青少年組 跳躍賽(第5集) (普)</title>
+    <desc />
+    <date>2026-06-01</date>
   </programme>
 </tv>

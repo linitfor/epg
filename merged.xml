@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20260530000459 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20260530&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260530121306 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20260530&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="370171">
 <display-name lang="Taiwan">華視新聞</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -275,6 +275,10 @@
 <programme channel="370171" start="20260531230000 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">華視夜間新聞</title>
+</programme>
+<programme channel="370171" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">華視2400夜間新聞</title>
 </programme>
 <programme channel="370172" start="20260530010000 +0800" stop="20260530013000 +0800">
 <date>2026-05-30</date>
@@ -656,6 +660,10 @@
 <date>2026-05-31</date>
 <desc /><title lang="zh">57怪奇物語</title>
 </programme>
+<programme channel="370175" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">台灣大代誌</title>
+</programme>
 <programme channel="370177" start="20260530000000 +0800" stop="20260530010000 +0800">
 <date>2026-05-30</date>
 <desc /><title lang="zh">18中天辣晚報</title>
@@ -847,6 +855,10 @@
 <programme channel="370177" start="20260531230000 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">23洪流洞見</title>
+</programme>
+<programme channel="370177" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">18中天辣晚報</title>
 </programme>
 <programme channel="370139" start="20260530013000 +0800" stop="20260530020000 +0800">
 <date>2026-05-30</date>
@@ -1428,6 +1440,10 @@
 <date>2026-05-31</date>
 <desc /><title lang="zh">英超名人堂 #23 Luc Nilis(第23集) (普)</title>
 </programme>
+<programme channel="370149" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">2026 敏捷障礙賽 青少年組 跳躍賽(第5集) (普)</title>
+</programme>
 <programme channel="370222" start="20260530000000 +0800" stop="20260530004600 +0800">
 <date>2026-05-30</date>
 <desc /><title lang="zh">地球的慶典43 台北春節</title>
@@ -1715,6 +1731,10 @@
 <programme channel="370222" start="20260531231500 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">野人追夢 06 和澳洲原住民交朋友囉</title>
+</programme>
+<programme channel="370222" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">地球的慶典49 盛岡三颯舞祭(上)</title>
 </programme>
 <programme channel="368365" start="20260530003500 +0800" stop="20260530013000 +0800">
 <date>2026-05-30</date>
@@ -2620,6 +2640,10 @@
 <date>2026-05-31</date>
 <desc /><title lang="zh">00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
 </programme>
+<programme channel="370209" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">K POP DANCE ACADEMY 01</title>
+</programme>
 <programme channel="370167" start="20260530000000 +0800" stop="20260530002100 +0800">
 <date>2026-05-30</date>
 <desc /><title lang="zh">MOMO歡樂谷S14 EP30</title>
@@ -3195,6 +3219,10 @@
 <programme channel="370167" start="20260531234300 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">世界真奇妙第一季 EP12</title>
+</programme>
+<programme channel="370167" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">MOMO歡樂谷S14 EP42</title>
 </programme>
 <programme channel="370162" start="20260530002000 +0800" stop="20260530004500 +0800">
 <date>2026-05-30</date>
@@ -5041,6 +5069,10 @@
 <date>2026-05-31</date>
 <desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
 </programme>
+<programme channel="370173" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">驚爆新聞線(首)(普)(N)</title>
+</programme>
 <programme channel="370144" start="20260530000000 +0800" stop="20260530010000 +0800">
 <date>2026-05-30</date>
 <desc /><title lang="zh">女神在線(普)(N)</title>
@@ -5168,6 +5200,10 @@
 <programme channel="370144" start="20260531230000 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">旅行東西軍(普)(N)</title>
+</programme>
+<programme channel="370144" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">綜藝大熱門(普)(N)</title>
 </programme>
 <programme channel="3290" start="20260530003000 +0800" stop="20260530012000 +0800">
 <date>2026-05-30</date>
@@ -5778,6 +5814,10 @@
 <programme channel="370178" start="20260531230000 +0800" stop="20260601000000 +0800">
 <date>2026-05-31</date>
 <desc /><title lang="zh">The Circuit(普)</title>
+</programme>
+<programme channel="370178" start="20260601000000 +0800" stop="20260602000000 +0800">
+<date>2026-06-01</date>
+<desc /><title lang="zh">Bloomberg Wall Street Week(普)</title>
 </programme>
 <programme channel="2124" start="20260530002000 +0800" stop="20260530011000 +0800">
 <date>2026-05-30</date>
