@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260531220835 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370227/20260531.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370227&amp;date=20260531&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260601131056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370227/20260601.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370227&amp;date=20260601&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370227">
     <display-name lang="Taiwan">民視影劇台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111450185133_40.png" />
   </channel>
-  <programme channel="370227" start="20260531001500 +0800" stop="20260531015600 +0800">
-    <title lang="zh">豆腐媽媽-第93集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531015600 +0800" stop="20260531021700 +0800">
-    <title lang="zh">實習醫師鬥格-第47集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531021700 +0800" stop="20260531041400 +0800">
-    <title lang="zh">風水世家-第190集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531041400 +0800" stop="20260531043700 +0800">
-    <title lang="zh">我的老師叫小賀-第191集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531043700 +0800" stop="20260531062200 +0800">
-    <title lang="zh">父與子-第13集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531062200 +0800" stop="20260531080200 +0800">
-    <title lang="zh">豆腐媽媽-第94集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531080200 +0800" stop="20260531082400 +0800">
-    <title lang="zh">實習醫師鬥格-第48集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531082400 +0800" stop="20260531102100 +0800">
-    <title lang="zh">風水世家-第191集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531102100 +0800" stop="20260531104300 +0800">
-    <title lang="zh">我的老師叫小賀-第192集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531104300 +0800" stop="20260531122800 +0800">
-    <title lang="zh">父與子-第14集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531122800 +0800" stop="20260531140800 +0800">
-    <title lang="zh">豆腐媽媽-第95集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531140800 +0800" stop="20260531142900 +0800">
-    <title lang="zh">實習醫師鬥格-第49集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531142900 +0800" stop="20260531162600 +0800">
-    <title lang="zh">風水世家-第192集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531162600 +0800" stop="20260531164700 +0800">
-    <title lang="zh">我的老師叫小賀-第193集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531164700 +0800" stop="20260531183200 +0800">
-    <title lang="zh">父與子-第15集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531183200 +0800" stop="20260531201300 +0800">
-    <title lang="zh">豆腐媽媽-第93集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531201300 +0800" stop="20260531203400 +0800">
-    <title lang="zh">實習醫師鬥格-第47集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531203400 +0800" stop="20260531223100 +0800">
-    <title lang="zh">風水世家-第190集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531223100 +0800" stop="20260531225400 +0800">
-    <title lang="zh">我的老師叫小賀-第191集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="370227" start="20260531225400 +0800" stop="20260601000000 +0800">
-    <title lang="zh">父與子-第13集【普】</title>
-    <desc />
-    <date>2026-05-31</date>
-  </programme>
   <programme channel="370227" start="20260601003900 +0800" stop="20260601021900 +0800">
     <title lang="zh">豆腐媽媽-第96集【普】</title>
     <desc />
@@ -208,5 +108,100 @@
     <title lang="zh">豆腐媽媽-第96集【普】</title>
     <desc />
     <date>2026-06-01</date>
+  </programme>
+  <programme channel="370227" start="20260602013400 +0800" stop="20260602031600 +0800">
+    <title lang="zh">豆腐媽媽-第97集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602031600 +0800" stop="20260602033800 +0800">
+    <title lang="zh">實習醫師鬥格-第51集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602033800 +0800" stop="20260602053500 +0800">
+    <title lang="zh">風水世家-第194集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602053500 +0800" stop="20260602055600 +0800">
+    <title lang="zh">我的老師叫小賀-第195集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602055600 +0800" stop="20260602074100 +0800">
+    <title lang="zh">父與子-第17集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602074100 +0800" stop="20260602092300 +0800">
+    <title lang="zh">豆腐媽媽-第97集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602092300 +0800" stop="20260602094500 +0800">
+    <title lang="zh">實習醫師鬥格-第51集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602094500 +0800" stop="20260602114200 +0800">
+    <title lang="zh">風水世家-第194集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602114200 +0800" stop="20260602120300 +0800">
+    <title lang="zh">我的老師叫小賀-第195集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602120300 +0800" stop="20260602134800 +0800">
+    <title lang="zh">父與子-第17集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602134800 +0800" stop="20260602153000 +0800">
+    <title lang="zh">豆腐媽媽-第97集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602153000 +0800" stop="20260602155200 +0800">
+    <title lang="zh">實習醫師鬥格-第51集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602155200 +0800" stop="20260602174900 +0800">
+    <title lang="zh">風水世家-第194集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602174900 +0800" stop="20260602181000 +0800">
+    <title lang="zh">我的老師叫小賀-第195集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602181000 +0800" stop="20260602195600 +0800">
+    <title lang="zh">父與子-第17集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602195600 +0800" stop="20260602213700 +0800">
+    <title lang="zh">豆腐媽媽-第97集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602213700 +0800" stop="20260602215900 +0800">
+    <title lang="zh">實習醫師鬥格-第51集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602215900 +0800" stop="20260602235600 +0800">
+    <title lang="zh">風水世家-第194集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="370227" start="20260602235600 +0800" stop="20260603000000 +0800">
+    <title lang="zh">我的老師叫小賀-第195集【普】</title>
+    <desc />
+    <date>2026-06-02</date>
   </programme>
 </tv>
