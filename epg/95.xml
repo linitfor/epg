@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260608125915 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260608&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260609001442 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260609.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260609&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20260608000000 +0800" stop="20260608010000 +0800">
-    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608010000 +0800" stop="20260608020000 +0800">
-    <title lang="zh">新聞深一度特別報導(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608020000 +0800" stop="20260608030000 +0800">
-    <title lang="zh">台灣新思路(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608030000 +0800" stop="20260608040000 +0800">
-    <title lang="zh">360大世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608040000 +0800" stop="20260608050000 +0800">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608050000 +0800" stop="20260608060000 +0800">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608060000 +0800" stop="20260608070000 +0800">
-    <title lang="zh">360大世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608070000 +0800" stop="20260608080000 +0800">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608080000 +0800" stop="20260608090000 +0800">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608090000 +0800" stop="20260608095500 +0800">
-    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608095500 +0800" stop="20260608105500 +0800">
-    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608105500 +0800" stop="20260608115500 +0800">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608115500 +0800" stop="20260608140000 +0800">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608140000 +0800" stop="20260608143000 +0800">
-    <title lang="zh">台股大贏家(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608143000 +0800" stop="20260608150000 +0800">
-    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608150000 +0800" stop="20260608160000 +0800">
-    <title lang="zh">全球新食力(重)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608160000 +0800" stop="20260608170000 +0800">
-    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608170000 +0800" stop="20260608180000 +0800">
-    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608180000 +0800" stop="20260608195500 +0800">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608195500 +0800" stop="20260608203000 +0800">
-    <title lang="zh">iNEWS大世界(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608203000 +0800" stop="20260608210000 +0800">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608210000 +0800" stop="20260608220000 +0800">
-    <title lang="zh">2100 Catch大錢潮(首)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608220000 +0800" stop="20260608230000 +0800">
-    <title lang="zh">2200 Catch大錢潮(首)(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
-  <programme channel="370173" start="20260608230000 +0800" stop="20260609000000 +0800">
-    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
-    <desc />
-    <date>2026-06-08</date>
-  </programme>
   <programme channel="370173" start="20260609000000 +0800" stop="20260609010000 +0800">
     <title lang="zh">2100 Catch大錢潮(重)(普)(N)</title>
     <desc />
@@ -239,8 +119,118 @@
     <desc />
     <date>2026-06-09</date>
   </programme>
-  <programme channel="370173" start="20260610000000 +0800" stop="20260611000000 +0800">
+  <programme channel="370173" start="20260610000000 +0800" stop="20260610010000 +0800">
     <title lang="zh">2100 Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610010000 +0800" stop="20260610020000 +0800">
+    <title lang="zh">2200 Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610020000 +0800" stop="20260610030000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610030000 +0800" stop="20260610050000 +0800">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610050000 +0800" stop="20260610060000 +0800">
+    <title lang="zh">2100 Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610060000 +0800" stop="20260610070000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610070000 +0800" stop="20260610080000 +0800">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610080000 +0800" stop="20260610090000 +0800">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610090000 +0800" stop="20260610095500 +0800">
+    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610095500 +0800" stop="20260610105500 +0800">
+    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610105500 +0800" stop="20260610115500 +0800">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610115500 +0800" stop="20260610140000 +0800">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610140000 +0800" stop="20260610143000 +0800">
+    <title lang="zh">台股大贏家(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610143000 +0800" stop="20260610150000 +0800">
+    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610150000 +0800" stop="20260610160000 +0800">
+    <title lang="zh">全球新食力(重)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610160000 +0800" stop="20260610170000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610170000 +0800" stop="20260610180000 +0800">
+    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610180000 +0800" stop="20260610195500 +0800">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610195500 +0800" stop="20260610203000 +0800">
+    <title lang="zh">iNEWS大世界(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610203000 +0800" stop="20260610210000 +0800">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610210000 +0800" stop="20260610220000 +0800">
+    <title lang="zh">2100 Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610220000 +0800" stop="20260610230000 +0800">
+    <title lang="zh">2200 Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2026-06-10</date>
+  </programme>
+  <programme channel="370173" start="20260610230000 +0800" stop="20260611000000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
     <desc />
     <date>2026-06-10</date>
   </programme>
