@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260609232526 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20260609.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20260609&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260610124159 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370178/20260610.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370178&amp;date=20260610&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370178">
     <display-name lang="Taiwan">Bloomberg TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="370178" start="20260609000000 +0800" stop="20260609010000 +0800">
-    <title lang="zh">Bloomberg ETF IQ(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609010000 +0800" stop="20260609020000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609020000 +0800" stop="20260609030000 +0800">
-    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609030000 +0800" stop="20260609050000 +0800">
-    <title lang="zh">Bloomberg The Close(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609050000 +0800" stop="20260609060000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609060000 +0800" stop="20260609063000 +0800">
-    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609063000 +0800" stop="20260609070000 +0800">
-    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609070000 +0800" stop="20260609090000 +0800">
-    <title lang="zh">Bloomberg The Asia Trade(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609090000 +0800" stop="20260609110000 +0800">
-    <title lang="zh">Bloomberg: The China Show(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609110000 +0800" stop="20260609120000 +0800">
-    <title lang="zh">Insight with Haslinda Amin(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609120000 +0800" stop="20260609130000 +0800">
-    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609130000 +0800" stop="20260609140000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609140000 +0800" stop="20260609160000 +0800">
-    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609160000 +0800" stop="20260609170000 +0800">
-    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609170000 +0800" stop="20260609180000 +0800">
-    <title lang="zh">Bloomberg Brief(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609180000 +0800" stop="20260609210000 +0800">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609210000 +0800" stop="20260609230000 +0800">
-    <title lang="zh">Bloomberg Open Interest(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
-  <programme channel="370178" start="20260609230000 +0800" stop="20260610000000 +0800">
-    <title lang="zh">Bloomberg Tech(普)</title>
-    <desc />
-    <date>2026-06-09</date>
-  </programme>
   <programme channel="370178" start="20260610000000 +0800" stop="20260610010000 +0800">
     <title lang="zh">Bloomberg Crypto(普)</title>
     <desc />
@@ -184,9 +94,99 @@
     <desc />
     <date>2026-06-10</date>
   </programme>
-  <programme channel="370178" start="20260611000000 +0800" stop="20260612000000 +0800">
+  <programme channel="370178" start="20260611000000 +0800" stop="20260611010000 +0800">
     <title lang="zh">Bloomberg Deals(普)</title>
     <desc />
     <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611010000 +0800" stop="20260611020000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611020000 +0800" stop="20260611030000 +0800">
+    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611030000 +0800" stop="20260611050000 +0800">
+    <title lang="zh">Bloomberg The Close(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611050000 +0800" stop="20260611060000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611060000 +0800" stop="20260611063000 +0800">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611063000 +0800" stop="20260611070000 +0800">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611070000 +0800" stop="20260611090000 +0800">
+    <title lang="zh">Bloomberg The Asia Trade(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611090000 +0800" stop="20260611110000 +0800">
+    <title lang="zh">Bloomberg: The China Show(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611110000 +0800" stop="20260611120000 +0800">
+    <title lang="zh">Insight with Haslinda Amin(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611120000 +0800" stop="20260611130000 +0800">
+    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611130000 +0800" stop="20260611140000 +0800">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611140000 +0800" stop="20260611160000 +0800">
+    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611160000 +0800" stop="20260611170000 +0800">
+    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611170000 +0800" stop="20260611180000 +0800">
+    <title lang="zh">Bloomberg Brief(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611180000 +0800" stop="20260611210000 +0800">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611210000 +0800" stop="20260611230000 +0800">
+    <title lang="zh">Bloomberg Open Interest(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260611230000 +0800" stop="20260612000000 +0800">
+    <title lang="zh">Bloomberg Tech(普)</title>
+    <desc />
+    <date>2026-06-11</date>
+  </programme>
+  <programme channel="370178" start="20260612000000 +0800" stop="20260613000000 +0800">
+    <title lang="zh">Bloomberg Deals(普)</title>
+    <desc />
+    <date>2026-06-12</date>
   </programme>
 </tv>
