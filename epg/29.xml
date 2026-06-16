@@ -1,189 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260616132611 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20260616.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20260616&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260617011816 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370222/20260617.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370222&amp;date=20260617&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370222">
     <display-name lang="Taiwan">愛爾達生活旅遊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" />
   </channel>
-  <programme channel="370222" start="20260616000000 +0800" stop="20260616004800 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616004800 +0800" stop="20260616013400 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616013400 +0800" stop="20260616022100 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616022100 +0800" stop="20260616030400 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616030400 +0800" stop="20260616035000 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616035000 +0800" stop="20260616041400 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616041400 +0800" stop="20260616043700 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616043700 +0800" stop="20260616052200 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616052200 +0800" stop="20260616060500 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616060500 +0800" stop="20260616065300 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616065300 +0800" stop="20260616073900 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616073900 +0800" stop="20260616082500 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616082500 +0800" stop="20260616090900 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616090900 +0800" stop="20260616095400 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616095400 +0800" stop="20260616101900 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616101900 +0800" stop="20260616104200 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616104200 +0800" stop="20260616112700 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616112700 +0800" stop="20260616120900 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616120900 +0800" stop="20260616125800 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616125800 +0800" stop="20260616134400 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616134400 +0800" stop="20260616143000 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616143000 +0800" stop="20260616151300 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616151300 +0800" stop="20260616155900 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616155900 +0800" stop="20260616162400 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616162400 +0800" stop="20260616164600 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616164600 +0800" stop="20260616173100 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616173100 +0800" stop="20260616181400 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616181400 +0800" stop="20260616190300 +0800">
-    <title lang="zh">主廚大聯盟 04</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616190300 +0800" stop="20260616194900 +0800">
-    <title lang="zh">網路很忙 07</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616194900 +0800" stop="20260616203500 +0800">
-    <title lang="zh">網路很忙 08</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616203500 +0800" stop="20260616211800 +0800">
-    <title lang="zh">地球的慶典07 雞籠中元祭</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616211800 +0800" stop="20260616220400 +0800">
-    <title lang="zh">地球的慶典08 頭城搶孤</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616220400 +0800" stop="20260616222900 +0800">
-    <title lang="zh">週遊列國 07 日本北投+時時</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616222900 +0800" stop="20260616225100 +0800">
-    <title lang="zh">週遊列國 08 南美Tudo Bom+aucho</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616225100 +0800" stop="20260616233600 +0800">
-    <title lang="zh">野人追夢 07 高空跳傘 急流泛舟</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
-  <programme channel="370222" start="20260616233600 +0800" stop="20260617000000 +0800">
-    <title lang="zh">野人追夢 08 大堡礁深潛</title>
-    <desc />
-    <date>2026-06-16</date>
-  </programme>
   <programme channel="370222" start="20260617000000 +0800" stop="20260617004900 +0800">
     <title lang="zh">主廚大聯盟 05</title>
     <desc />
@@ -364,8 +184,178 @@
     <desc />
     <date>2026-06-17</date>
   </programme>
-  <programme channel="370222" start="20260618000000 +0800" stop="20260619000000 +0800">
+  <programme channel="370222" start="20260618000000 +0800" stop="20260618004800 +0800">
     <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618004800 +0800" stop="20260618013400 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618013400 +0800" stop="20260618022400 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618022400 +0800" stop="20260618030800 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618030800 +0800" stop="20260618035500 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618035500 +0800" stop="20260618042100 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618042100 +0800" stop="20260618044700 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618044700 +0800" stop="20260618053100 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618053100 +0800" stop="20260618061300 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618061300 +0800" stop="20260618070200 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618070200 +0800" stop="20260618074800 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618074800 +0800" stop="20260618083700 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618083700 +0800" stop="20260618092100 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618092100 +0800" stop="20260618100800 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618100800 +0800" stop="20260618103400 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618103400 +0800" stop="20260618110100 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618110100 +0800" stop="20260618114400 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618114400 +0800" stop="20260618122600 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618122600 +0800" stop="20260618131500 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618131500 +0800" stop="20260618140100 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618140100 +0800" stop="20260618145000 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618145000 +0800" stop="20260618153400 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618153400 +0800" stop="20260618162100 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618162100 +0800" stop="20260618164700 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618164700 +0800" stop="20260618171400 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618171400 +0800" stop="20260618175700 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618175700 +0800" stop="20260618183900 +0800">
+    <title lang="zh">野人追夢 12 捕獲野生無尾熊</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618183900 +0800" stop="20260618192800 +0800">
+    <title lang="zh">主廚大聯盟 06</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618192800 +0800" stop="20260618201400 +0800">
+    <title lang="zh">網路很忙 11</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618201400 +0800" stop="20260618210300 +0800">
+    <title lang="zh">網路很忙 12</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618210300 +0800" stop="20260618214700 +0800">
+    <title lang="zh">地球的慶典11 鹿港慶端陽</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618214700 +0800" stop="20260618223400 +0800">
+    <title lang="zh">地球的慶典12 高雄左營萬年季</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618223400 +0800" stop="20260618230100 +0800">
+    <title lang="zh">週遊列國 36 台灣 利晴天</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618230100 +0800" stop="20260618232700 +0800">
+    <title lang="zh">週遊列國 37 歐洲 佩得羅</title>
+    <desc />
+    <date>2026-06-18</date>
+  </programme>
+  <programme channel="370222" start="20260618232700 +0800" stop="20260619000000 +0800">
+    <title lang="zh">野人追夢 11 挑戰開小飛機</title>
     <desc />
     <date>2026-06-18</date>
   </programme>
