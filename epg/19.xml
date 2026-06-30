@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260630000551 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260630.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260630&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260630122102 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370149/20260630.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370149&amp;date=20260630&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370149">
     <display-name lang="Taiwan">愛爾達娛樂台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" />
@@ -243,5 +243,10 @@
     <title lang="zh">體壇最前線 7/1(第182集) (普)</title>
     <desc />
     <date>2026-07-01</date>
+  </programme>
+  <programme channel="370149" start="20260702000000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">2026 與狗共舞賽 腳側隨行(第1集) (普)</title>
+    <desc />
+    <date>2026-07-02</date>
   </programme>
 </tv>
