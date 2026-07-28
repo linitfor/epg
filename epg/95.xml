@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260727230850 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260727.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260727&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260728112914 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260728.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260728&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20260727000000 +0800" stop="20260727010000 +0800">
-    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727010000 +0800" stop="20260727020000 +0800">
-    <title lang="zh">360大世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727020000 +0800" stop="20260727030000 +0800">
-    <title lang="zh">台灣新思路(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727030000 +0800" stop="20260727040000 +0800">
-    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727040000 +0800" stop="20260727050000 +0800">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727050000 +0800" stop="20260727060000 +0800">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727060000 +0800" stop="20260727070000 +0800">
-    <title lang="zh">360大世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727070000 +0800" stop="20260727080000 +0800">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727080000 +0800" stop="20260727090000 +0800">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727090000 +0800" stop="20260727095500 +0800">
-    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727095500 +0800" stop="20260727105500 +0800">
-    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727105500 +0800" stop="20260727115500 +0800">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727115500 +0800" stop="20260727140000 +0800">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727140000 +0800" stop="20260727150000 +0800">
-    <title lang="zh">iNEWS1400整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727150000 +0800" stop="20260727160000 +0800">
-    <title lang="zh">全球新食力(重)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727160000 +0800" stop="20260727170000 +0800">
-    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727170000 +0800" stop="20260727180000 +0800">
-    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727180000 +0800" stop="20260727195500 +0800">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727195500 +0800" stop="20260727203000 +0800">
-    <title lang="zh">iNEWS大世界(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727203000 +0800" stop="20260727210000 +0800">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727210000 +0800" stop="20260727220000 +0800">
-    <title lang="zh">關我什麼事2100(首)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727220000 +0800" stop="20260727230000 +0800">
-    <title lang="zh">關我什麼事2200(首)(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="370173" start="20260727230000 +0800" stop="20260728000000 +0800">
-    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
   <programme channel="370173" start="20260728000000 +0800" stop="20260728010000 +0800">
     <title lang="zh">關我什麼事2100(重)(普)(N)</title>
     <desc />
@@ -234,9 +119,124 @@
     <desc />
     <date>2026-07-28</date>
   </programme>
-  <programme channel="370173" start="20260729000000 +0800" stop="20260730000000 +0800">
+  <programme channel="370173" start="20260729000000 +0800" stop="20260729010000 +0800">
     <title lang="zh">關我什麼事2100(重)(普)(N)</title>
     <desc />
     <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729010000 +0800" stop="20260729020000 +0800">
+    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729020000 +0800" stop="20260729030000 +0800">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729030000 +0800" stop="20260729040000 +0800">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729040000 +0800" stop="20260729050000 +0800">
+    <title lang="zh">關我什麼事2100(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729050000 +0800" stop="20260729060000 +0800">
+    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729060000 +0800" stop="20260729070000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729070000 +0800" stop="20260729080000 +0800">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729080000 +0800" stop="20260729090000 +0800">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729090000 +0800" stop="20260729095500 +0800">
+    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729095500 +0800" stop="20260729105500 +0800">
+    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729105500 +0800" stop="20260729115500 +0800">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729115500 +0800" stop="20260729140000 +0800">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729140000 +0800" stop="20260729150000 +0800">
+    <title lang="zh">iNEWS1400整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729150000 +0800" stop="20260729160000 +0800">
+    <title lang="zh">全球新食力(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729160000 +0800" stop="20260729170000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729170000 +0800" stop="20260729180000 +0800">
+    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729180000 +0800" stop="20260729195500 +0800">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729195500 +0800" stop="20260729203000 +0800">
+    <title lang="zh">iNEWS大世界(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729203000 +0800" stop="20260729210000 +0800">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729210000 +0800" stop="20260729220000 +0800">
+    <title lang="zh">關我什麼事2100(首)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729220000 +0800" stop="20260729230000 +0800">
+    <title lang="zh">關我什麼事2200(首)(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260729230000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="370173" start="20260730000000 +0800" stop="20260731000000 +0800">
+    <title lang="zh">關我什麼事2100(重)(普)(N)</title>
+    <desc />
+    <date>2026-07-30</date>
   </programme>
 </tv>
