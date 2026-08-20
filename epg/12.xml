@@ -1,189 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260819210403 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370139/20260819.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370139&amp;date=20260819&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260820094725 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370139/20260820.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370139&amp;date=20260820&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370139">
     <display-name lang="Taiwan">民視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" />
   </channel>
-  <programme channel="370139" start="20260819003000 +0800" stop="20260819013000 +0800">
-    <title lang="zh">阿松與阿暖【普】(E52)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819013000 +0800" stop="20260819020000 +0800">
-    <title lang="zh">元氣加油站【普】(E3063)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819020000 +0800" stop="20260819023000 +0800">
-    <title lang="zh">消費高手【普】(E8004)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819023000 +0800" stop="20260819030000 +0800">
-    <title lang="zh">元氣加油站【普】(E3073)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819030000 +0800" stop="20260819033000 +0800">
-    <title lang="zh">元氣加油站【普】(E2601)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819033000 +0800" stop="20260819043000 +0800">
-    <title lang="zh">醫學大聯盟【普】(E544)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819043000 +0800" stop="20260819050000 +0800">
-    <title lang="zh">元氣加油站【普】(E3063)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819050000 +0800" stop="20260819053000 +0800">
-    <title lang="zh">美鳳有約【普】(E5319)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819053000 +0800" stop="20260819060000 +0800">
-    <title lang="zh">消費高手【普】(E7942)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819060000 +0800" stop="20260819070000 +0800">
-    <title lang="zh">民視六點晨間新聞【普】</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819070000 +0800" stop="20260819080000 +0800">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819080000 +0800" stop="20260819090000 +0800">
-    <title lang="zh">醫學大聯盟【普】(E544)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819090000 +0800" stop="20260819093000 +0800">
-    <title lang="zh">元氣加油站【普】(E3087)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819093000 +0800" stop="20260819100000 +0800">
-    <title lang="zh">美鳳有約【普】(E5334)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819100000 +0800" stop="20260819103000 +0800">
-    <title lang="zh">消費高手【普】(E7989)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819103000 +0800" stop="20260819110000 +0800">
-    <title lang="zh">消費高手【普】(E8005)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819110000 +0800" stop="20260819113000 +0800">
-    <title lang="zh">元氣加油站【普】(E2934)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819113000 +0800" stop="20260819120000 +0800">
-    <title lang="zh">消費高手【普】(E8006)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819120000 +0800" stop="20260819123000 +0800">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819123000 +0800" stop="20260819130000 +0800">
-    <title lang="zh">美鳳有約【普】(E5273)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819130000 +0800" stop="20260819141500 +0800">
-    <title lang="zh">豆腐媽媽【普】(E170)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819141500 +0800" stop="20260819151500 +0800">
-    <title lang="zh">阿松與阿暖【普】(E52)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819151500 +0800" stop="20260819151600 +0800">
-    <title lang="zh">新歌介紹【普】(E93)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819151600 +0800" stop="20260819151700 +0800">
-    <title lang="zh">新歌介紹【普】(E104)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819151700 +0800" stop="20260819153000 +0800">
-    <title lang="zh">消費高手【普】(E7942)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819153000 +0800" stop="20260819160000 +0800">
-    <title lang="zh">消費高手【普】(E8000)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819160000 +0800" stop="20260819163000 +0800">
-    <title lang="zh">元氣加油站【普】(E2976)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819163000 +0800" stop="20260819170000 +0800">
-    <title lang="zh">全民好健康【普】(E2)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819170000 +0800" stop="20260819173000 +0800">
-    <title lang="zh">快樂故事屋【普】(E1099)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819173000 +0800" stop="20260819180000 +0800">
-    <title lang="zh">美鳳有約【普】(E5336)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819180000 +0800" stop="20260819190000 +0800">
-    <title lang="zh">2025飛龍在天【普】(E170)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819190000 +0800" stop="20260819200000 +0800">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819200000 +0800" stop="20260819211500 +0800">
-    <title lang="zh">豆腐媽媽【普】(E171)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819211500 +0800" stop="20260819221500 +0800">
-    <title lang="zh">阿松與阿暖【普】(E52)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819221500 +0800" stop="20260819231500 +0800">
-    <title lang="zh">姊妹亮起來【普】(E372)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
-  <programme channel="370139" start="20260819231500 +0800" stop="20260820000000 +0800">
-    <title lang="zh">豆腐媽媽【普】(E171)</title>
-    <desc />
-    <date>2026-08-19</date>
-  </programme>
   <programme channel="370139" start="20260820003000 +0800" stop="20260820013000 +0800">
     <title lang="zh">阿松與阿暖【普】(E52)</title>
     <desc />
@@ -363,5 +183,185 @@
     <title lang="zh">豆腐媽媽【普】(E172)</title>
     <desc />
     <date>2026-08-20</date>
+  </programme>
+  <programme channel="370139" start="20260821003000 +0800" stop="20260821013000 +0800">
+    <title lang="zh">阿松與阿暖【普】(E54)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821013000 +0800" stop="20260821020000 +0800">
+    <title lang="zh">元氣加油站【普】(E2498)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821020000 +0800" stop="20260821023000 +0800">
+    <title lang="zh">消費高手【普】(E7995)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821023000 +0800" stop="20260821030000 +0800">
+    <title lang="zh">元氣加油站【普】(E2964)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821030000 +0800" stop="20260821033000 +0800">
+    <title lang="zh">元氣加油站【普】(E3063)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821033000 +0800" stop="20260821043000 +0800">
+    <title lang="zh">姊妹亮起來【普】(E373)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821043000 +0800" stop="20260821050000 +0800">
+    <title lang="zh">元氣加油站【普】(E2660)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821050000 +0800" stop="20260821053000 +0800">
+    <title lang="zh">美鳳有約【普】(E5325)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821053000 +0800" stop="20260821060000 +0800">
+    <title lang="zh">消費高手【普】(E8005)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821060000 +0800" stop="20260821070000 +0800">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821070000 +0800" stop="20260821080000 +0800">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821080000 +0800" stop="20260821090000 +0800">
+    <title lang="zh">姊妹亮起來【普】(E373)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821090000 +0800" stop="20260821093000 +0800">
+    <title lang="zh">元氣加油站【普】(E2976)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821093000 +0800" stop="20260821100000 +0800">
+    <title lang="zh">美鳳有約【普】(E5331)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821100000 +0800" stop="20260821103000 +0800">
+    <title lang="zh">消費高手【普】(E8006)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821103000 +0800" stop="20260821110000 +0800">
+    <title lang="zh">消費高手【普】(E7929)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821110000 +0800" stop="20260821113000 +0800">
+    <title lang="zh">元氣加油站【普】(E2520)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821113000 +0800" stop="20260821120000 +0800">
+    <title lang="zh">消費高手【普】(E8000)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821120000 +0800" stop="20260821123000 +0800">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821123000 +0800" stop="20260821130000 +0800">
+    <title lang="zh">美鳳有約【普】(E5346)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821130000 +0800" stop="20260821141500 +0800">
+    <title lang="zh">豆腐媽媽【普】(E172)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821141500 +0800" stop="20260821151500 +0800">
+    <title lang="zh">阿松與阿暖【普】(E54)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821151500 +0800" stop="20260821151600 +0800">
+    <title lang="zh">新歌介紹【普】(E93)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821151600 +0800" stop="20260821151700 +0800">
+    <title lang="zh">新歌介紹【普】(E104)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821151700 +0800" stop="20260821153000 +0800">
+    <title lang="zh">消費高手【普】(E7942)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821153000 +0800" stop="20260821160000 +0800">
+    <title lang="zh">消費高手【普】(E8005)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821160000 +0800" stop="20260821163000 +0800">
+    <title lang="zh">元氣加油站【普】(E2974)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821163000 +0800" stop="20260821170000 +0800">
+    <title lang="zh">全民好健康【普】(E9)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821170000 +0800" stop="20260821173000 +0800">
+    <title lang="zh">快樂故事屋【普】(E793)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821173000 +0800" stop="20260821180000 +0800">
+    <title lang="zh">美鳳有約【普】(E5346)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821180000 +0800" stop="20260821190000 +0800">
+    <title lang="zh">2025飛龍在天【普】(E172)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821190000 +0800" stop="20260821200000 +0800">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821200000 +0800" stop="20260821211500 +0800">
+    <title lang="zh">豆腐媽媽【普】(E173)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821211500 +0800" stop="20260821221500 +0800">
+    <title lang="zh">阿松與阿暖【普】(E55)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821221500 +0800" stop="20260821231500 +0800">
+    <title lang="zh">綜藝新時代【普】(E358)</title>
+    <desc />
+    <date>2026-08-21</date>
+  </programme>
+  <programme channel="370139" start="20260821231500 +0800" stop="20260822000000 +0800">
+    <title lang="zh">豆腐媽媽【普】(E173)</title>
+    <desc />
+    <date>2026-08-21</date>
   </programme>
 </tv>
