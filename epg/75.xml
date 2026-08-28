@@ -1,492 +1,732 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260826211742 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20260826.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20260826&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260828191647 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370167/20260828.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370167&amp;date=20260828&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370167">
     <display-name lang="Taiwan">MOMO親子台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110802687808_97.png" />
   </channel>
-  <programme channel="370167" start="20260826000000 +0800" stop="20260826002200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP30</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826002200 +0800" stop="20260826010000 +0800">
-    <title lang="zh">史汀出任務 S1 EP15  飛行的秘密</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826010000 +0800" stop="20260826012200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP31</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826012200 +0800" stop="20260826020000 +0800">
-    <title lang="zh">史汀出任務 S1 EP16  重心</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826020000 +0800" stop="20260826022200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP32</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826022200 +0800" stop="20260826030000 +0800">
-    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826030000 +0800" stop="20260826032200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP33</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826032200 +0800" stop="20260826040000 +0800">
-    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826040000 +0800" stop="20260826042200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP34</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826042200 +0800" stop="20260826050000 +0800">
-    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826050000 +0800" stop="20260826052200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP35</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826052200 +0800" stop="20260826060000 +0800">
-    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826060000 +0800" stop="20260826062200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP30</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826062200 +0800" stop="20260826070000 +0800">
-    <title lang="zh">史汀出任務 S1 EP15  飛行的秘密</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826070000 +0800" stop="20260826072200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP31</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826072200 +0800" stop="20260826080000 +0800">
-    <title lang="zh">史汀出任務 S1 EP16  重心</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826080000 +0800" stop="20260826082200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP32</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826082200 +0800" stop="20260826090000 +0800">
-    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826090000 +0800" stop="20260826092200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP33</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826092200 +0800" stop="20260826100000 +0800">
-    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826100000 +0800" stop="20260826102200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP34</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826102200 +0800" stop="20260826110000 +0800">
-    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826110000 +0800" stop="20260826112200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP35</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826112200 +0800" stop="20260826120000 +0800">
-    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826120000 +0800" stop="20260826122200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP30</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826122200 +0800" stop="20260826130000 +0800">
-    <title lang="zh">史汀出任務 S1 EP15  飛行的秘密</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826130000 +0800" stop="20260826132200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP31</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826132200 +0800" stop="20260826140000 +0800">
-    <title lang="zh">史汀出任務 S1 EP16  重心</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826140000 +0800" stop="20260826142200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP32</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826142200 +0800" stop="20260826150000 +0800">
-    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826150000 +0800" stop="20260826152200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP33</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826152200 +0800" stop="20260826160000 +0800">
-    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826160000 +0800" stop="20260826162200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP34</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826162200 +0800" stop="20260826170000 +0800">
-    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826170000 +0800" stop="20260826172200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP35</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826172200 +0800" stop="20260826180000 +0800">
-    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826180000 +0800" stop="20260826182200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP30</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826182200 +0800" stop="20260826190000 +0800">
-    <title lang="zh">史汀出任務 S1 EP15  飛行的秘密</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826190000 +0800" stop="20260826192200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP31</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826192200 +0800" stop="20260826200000 +0800">
-    <title lang="zh">史汀出任務 S1 EP16  重心</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826200000 +0800" stop="20260826202200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP32</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826202200 +0800" stop="20260826210000 +0800">
-    <title lang="zh">史汀出任務 S1 EP17  大氣壓力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826210000 +0800" stop="20260826212200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP33</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826212200 +0800" stop="20260826220000 +0800">
-    <title lang="zh">史汀出任務 S1 EP18  作用力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826220000 +0800" stop="20260826222200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP34</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826222200 +0800" stop="20260826230000 +0800">
-    <title lang="zh">史汀出任務 S1 EP19  浮力</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826230000 +0800" stop="20260826232200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP35</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260826232200 +0800" stop="20260827000000 +0800">
-    <title lang="zh">史汀出任務 S1 EP20  非牛頓流體</title>
-    <desc />
-    <date>2026-08-26</date>
-  </programme>
-  <programme channel="370167" start="20260827000000 +0800" stop="20260827002200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP36</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827002200 +0800" stop="20260827010000 +0800">
-    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827010000 +0800" stop="20260827012200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP37</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827012200 +0800" stop="20260827020000 +0800">
-    <title lang="zh">史汀出任務 S1 EP22  風力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827020000 +0800" stop="20260827022200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP38</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827022200 +0800" stop="20260827030000 +0800">
-    <title lang="zh">史汀出任務 S1 EP23  牛頓第二運動定律</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827030000 +0800" stop="20260827032200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP39</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827032200 +0800" stop="20260827040000 +0800">
-    <title lang="zh">史汀出任務 S1 EP24  輪軸</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827040000 +0800" stop="20260827042200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP40</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827042200 +0800" stop="20260827050000 +0800">
-    <title lang="zh">史汀出任務 S1 EP25  空氣阻力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827050000 +0800" stop="20260827052200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP41</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827052200 +0800" stop="20260827060000 +0800">
-    <title lang="zh">史汀出任務 S1 EP26  角動量</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827060000 +0800" stop="20260827062200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP36</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827062200 +0800" stop="20260827070000 +0800">
-    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827070000 +0800" stop="20260827072200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP37</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827072200 +0800" stop="20260827080000 +0800">
-    <title lang="zh">史汀出任務 S1 EP22  風力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827080000 +0800" stop="20260827082200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP38</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827082200 +0800" stop="20260827090000 +0800">
-    <title lang="zh">史汀出任務 S1 EP23  牛頓第二運動定律</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827090000 +0800" stop="20260827092200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP39</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827092200 +0800" stop="20260827100000 +0800">
-    <title lang="zh">史汀出任務 S1 EP24  輪軸</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827100000 +0800" stop="20260827102200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP40</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827102200 +0800" stop="20260827110000 +0800">
-    <title lang="zh">史汀出任務 S1 EP25  空氣阻力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827110000 +0800" stop="20260827112200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP41</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827112200 +0800" stop="20260827120000 +0800">
-    <title lang="zh">史汀出任務 S1 EP26  角動量</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827120000 +0800" stop="20260827122200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP36</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827122200 +0800" stop="20260827130000 +0800">
-    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827130000 +0800" stop="20260827132200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP37</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827132200 +0800" stop="20260827140000 +0800">
-    <title lang="zh">史汀出任務 S1 EP22  風力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827140000 +0800" stop="20260827142200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP38</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827142200 +0800" stop="20260827150000 +0800">
-    <title lang="zh">史汀出任務 S1 EP23  牛頓第二運動定律</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827150000 +0800" stop="20260827152200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP39</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827152200 +0800" stop="20260827160000 +0800">
-    <title lang="zh">史汀出任務 S1 EP24  輪軸</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827160000 +0800" stop="20260827162200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP40</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827162200 +0800" stop="20260827170000 +0800">
-    <title lang="zh">史汀出任務 S1 EP25  空氣阻力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827170000 +0800" stop="20260827172200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP41</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827172200 +0800" stop="20260827180000 +0800">
-    <title lang="zh">史汀出任務 S1 EP26  角動量</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827180000 +0800" stop="20260827182200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP36</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827182200 +0800" stop="20260827190000 +0800">
-    <title lang="zh">史汀出任務 S1 EP21  向心力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827190000 +0800" stop="20260827192200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP37</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827192200 +0800" stop="20260827200000 +0800">
-    <title lang="zh">史汀出任務 S1 EP22  風力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827200000 +0800" stop="20260827202200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP38</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827202200 +0800" stop="20260827210000 +0800">
-    <title lang="zh">史汀出任務 S1 EP23  牛頓第二運動定律</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827210000 +0800" stop="20260827212200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP39</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827212200 +0800" stop="20260827220000 +0800">
-    <title lang="zh">史汀出任務 S1 EP24  輪軸</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827220000 +0800" stop="20260827222200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP40</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827222200 +0800" stop="20260827230000 +0800">
-    <title lang="zh">史汀出任務 S1 EP25  空氣阻力</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827230000 +0800" stop="20260827232200 +0800">
-    <title lang="zh">MOMO歡樂谷S15 EP41</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260827232200 +0800" stop="20260828000000 +0800">
-    <title lang="zh">史汀出任務 S1 EP26  角動量</title>
-    <desc />
-    <date>2026-08-27</date>
-  </programme>
-  <programme channel="370167" start="20260828000000 +0800" stop="20260829000000 +0800">
+  <programme channel="370167" start="20260828000000 +0800" stop="20260828002200 +0800">
     <title lang="zh">MOMO歡樂谷S15 EP42</title>
     <desc />
     <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828002200 +0800" stop="20260828004500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828004500 +0800" stop="20260828010000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP19</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828010000 +0800" stop="20260828012200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP43</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828012200 +0800" stop="20260828014500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828014500 +0800" stop="20260828020000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP20</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828020000 +0800" stop="20260828022200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP44</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828022200 +0800" stop="20260828024500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828024500 +0800" stop="20260828030000 +0800">
+    <title lang="zh">WAWA哇！S2 EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828030000 +0800" stop="20260828032200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP45</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828032200 +0800" stop="20260828034400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828034400 +0800" stop="20260828040000 +0800">
+    <title lang="zh">WAWA哇！S2 EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828040000 +0800" stop="20260828042200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP46</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828042200 +0800" stop="20260828044500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP05</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828044500 +0800" stop="20260828050000 +0800">
+    <title lang="zh">WAWA哇！S2 EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828050000 +0800" stop="20260828052200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP47</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828052200 +0800" stop="20260828054400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP06</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828054400 +0800" stop="20260828060000 +0800">
+    <title lang="zh">WAWA哇！S2 EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828060000 +0800" stop="20260828062200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP42</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828062200 +0800" stop="20260828064500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828064500 +0800" stop="20260828070000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP19</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828070000 +0800" stop="20260828072200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP43</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828072200 +0800" stop="20260828074500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828074500 +0800" stop="20260828080000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP20</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828080000 +0800" stop="20260828082200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP44</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828082200 +0800" stop="20260828084500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828084500 +0800" stop="20260828090000 +0800">
+    <title lang="zh">WAWA哇！S2 EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828090000 +0800" stop="20260828092200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP45</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828092200 +0800" stop="20260828094400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828094400 +0800" stop="20260828100000 +0800">
+    <title lang="zh">WAWA哇！S2 EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828100000 +0800" stop="20260828102200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP46</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828102200 +0800" stop="20260828104500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP05</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828104500 +0800" stop="20260828110000 +0800">
+    <title lang="zh">WAWA哇！S2 EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828110000 +0800" stop="20260828112200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP47</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828112200 +0800" stop="20260828114400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP06</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828114400 +0800" stop="20260828120000 +0800">
+    <title lang="zh">WAWA哇！S2 EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828120000 +0800" stop="20260828122200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP42</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828122200 +0800" stop="20260828124500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828124500 +0800" stop="20260828130000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP19</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828130000 +0800" stop="20260828132200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP43</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828132200 +0800" stop="20260828134500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828134500 +0800" stop="20260828140000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP20</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828140000 +0800" stop="20260828142200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP44</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828142200 +0800" stop="20260828144500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828144500 +0800" stop="20260828150000 +0800">
+    <title lang="zh">WAWA哇！S2 EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828150000 +0800" stop="20260828152200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP45</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828152200 +0800" stop="20260828154400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828154400 +0800" stop="20260828160000 +0800">
+    <title lang="zh">WAWA哇！S2 EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828160000 +0800" stop="20260828162200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP46</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828162200 +0800" stop="20260828164500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP05</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828164500 +0800" stop="20260828170000 +0800">
+    <title lang="zh">WAWA哇！S2 EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828170000 +0800" stop="20260828172200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP47</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828172200 +0800" stop="20260828174400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP06</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828174400 +0800" stop="20260828180000 +0800">
+    <title lang="zh">WAWA哇！S2 EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828180000 +0800" stop="20260828182200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP42</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828182200 +0800" stop="20260828184500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828184500 +0800" stop="20260828190000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP19</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828190000 +0800" stop="20260828192200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP43</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828192200 +0800" stop="20260828194500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828194500 +0800" stop="20260828200000 +0800">
+    <title lang="zh">ABC故事屋 S2 EP20</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828200000 +0800" stop="20260828202200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP44</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828202200 +0800" stop="20260828204500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828204500 +0800" stop="20260828210000 +0800">
+    <title lang="zh">WAWA哇！S2 EP01</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828210000 +0800" stop="20260828212200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP45</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828212200 +0800" stop="20260828214400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828214400 +0800" stop="20260828220000 +0800">
+    <title lang="zh">WAWA哇！S2 EP02</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828220000 +0800" stop="20260828222200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP46</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828222200 +0800" stop="20260828224500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP05</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828224500 +0800" stop="20260828230000 +0800">
+    <title lang="zh">WAWA哇！S2 EP03</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828230000 +0800" stop="20260828232200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP47</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828232200 +0800" stop="20260828234400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP06</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260828234400 +0800" stop="20260829000000 +0800">
+    <title lang="zh">WAWA哇！S2 EP04</title>
+    <desc />
+    <date>2026-08-28</date>
+  </programme>
+  <programme channel="370167" start="20260829000000 +0800" stop="20260829002200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP48</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829002200 +0800" stop="20260829004500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP07</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829004500 +0800" stop="20260829010000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829010000 +0800" stop="20260829012200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP49</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829012200 +0800" stop="20260829014400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP08</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829014400 +0800" stop="20260829020000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829020000 +0800" stop="20260829022200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP50</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829022200 +0800" stop="20260829024400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP09</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829024400 +0800" stop="20260829030000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829030000 +0800" stop="20260829032200 +0800">
+    <title lang="zh">MOMO這一家S1 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829032200 +0800" stop="20260829034400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP10</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829034400 +0800" stop="20260829040000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP04</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829040000 +0800" stop="20260829042200 +0800">
+    <title lang="zh">MOMO這一家S1 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829042200 +0800" stop="20260829044400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP11</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829044400 +0800" stop="20260829050000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP05</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829050000 +0800" stop="20260829052200 +0800">
+    <title lang="zh">MOMO這一家S1 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829052200 +0800" stop="20260829054400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP12</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829054400 +0800" stop="20260829060000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP06</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829060000 +0800" stop="20260829062200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP48</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829062200 +0800" stop="20260829064500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP07</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829064500 +0800" stop="20260829070000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829070000 +0800" stop="20260829072200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP49</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829072200 +0800" stop="20260829074400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP08</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829074400 +0800" stop="20260829080000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829080000 +0800" stop="20260829082200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP50</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829082200 +0800" stop="20260829084400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP09</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829084400 +0800" stop="20260829090000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829090000 +0800" stop="20260829092200 +0800">
+    <title lang="zh">MOMO這一家S1 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829092200 +0800" stop="20260829094400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP10</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829094400 +0800" stop="20260829100000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP04</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829100000 +0800" stop="20260829102200 +0800">
+    <title lang="zh">MOMO這一家S1 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829102200 +0800" stop="20260829104400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP11</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829104400 +0800" stop="20260829110000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP05</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829110000 +0800" stop="20260829112200 +0800">
+    <title lang="zh">MOMO這一家S1 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829112200 +0800" stop="20260829114400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP12</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829114400 +0800" stop="20260829120000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP06</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829120000 +0800" stop="20260829122200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP48</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829122200 +0800" stop="20260829124500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP07</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829124500 +0800" stop="20260829130000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829130000 +0800" stop="20260829132200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP49</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829132200 +0800" stop="20260829134400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP08</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829134400 +0800" stop="20260829140000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829140000 +0800" stop="20260829142200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP50</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829142200 +0800" stop="20260829144400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP09</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829144400 +0800" stop="20260829150000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829150000 +0800" stop="20260829152200 +0800">
+    <title lang="zh">MOMO這一家S1 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829152200 +0800" stop="20260829154400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP10</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829154400 +0800" stop="20260829160000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP04</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829160000 +0800" stop="20260829162200 +0800">
+    <title lang="zh">MOMO這一家S1 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829162200 +0800" stop="20260829164400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP11</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829164400 +0800" stop="20260829170000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP05</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829170000 +0800" stop="20260829172200 +0800">
+    <title lang="zh">MOMO這一家S1 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829172200 +0800" stop="20260829174400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP12</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829174400 +0800" stop="20260829180000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP06</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829180000 +0800" stop="20260829182200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP48</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829182200 +0800" stop="20260829184500 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP07</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829184500 +0800" stop="20260829190000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829190000 +0800" stop="20260829192200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP49</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829192200 +0800" stop="20260829194400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP08</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829194400 +0800" stop="20260829200000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829200000 +0800" stop="20260829202200 +0800">
+    <title lang="zh">MOMO歡樂谷S15 EP50</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829202200 +0800" stop="20260829204400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP09</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829204400 +0800" stop="20260829210000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829210000 +0800" stop="20260829212200 +0800">
+    <title lang="zh">MOMO這一家S1 EP01</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829212200 +0800" stop="20260829214400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP10</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829214400 +0800" stop="20260829220000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP04</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829220000 +0800" stop="20260829222200 +0800">
+    <title lang="zh">MOMO這一家S1 EP02</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829222200 +0800" stop="20260829224400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP11</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829224400 +0800" stop="20260829230000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP05</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829230000 +0800" stop="20260829232200 +0800">
+    <title lang="zh">MOMO這一家S1 EP03</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829232200 +0800" stop="20260829234400 +0800">
+    <title lang="zh">百味小廚神 小廚師筆記　EP12</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260829234400 +0800" stop="20260830000000 +0800">
+    <title lang="zh">世界真奇妙第一季 EP06</title>
+    <desc />
+    <date>2026-08-29</date>
+  </programme>
+  <programme channel="370167" start="20260830000000 +0800" stop="20260831000000 +0800">
+    <title lang="zh">MOMO這一家S1 EP04</title>
+    <desc />
+    <date>2026-08-30</date>
   </programme>
 </tv>
