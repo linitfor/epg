@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260830131631 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20260830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20260830&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260831003648 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370141/20260831.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370141&amp;date=20260831&amp;timezone=QXNpYS9UYWlwZWk=">
   <channel id="370141">
     <display-name lang="Taiwan">中視</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" />
   </channel>
-  <programme channel="370141" start="20260830000000 +0800" stop="20260830020000 +0800">
-    <title lang="zh">飢餓遊戲(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830020000 +0800" stop="20260830040000 +0800">
-    <title lang="zh">綜藝一級棒赫蒂法莊園(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830040000 +0800" stop="20260830060000 +0800">
-    <title lang="zh">綜藝玩很大特選版(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830060000 +0800" stop="20260830070000 +0800">
-    <title lang="zh">大陸尋奇英才文教基金會(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830070000 +0800" stop="20260830080000 +0800">
-    <title lang="zh">中視早安新聞(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830080000 +0800" stop="20260830083000 +0800">
-    <title lang="zh">台灣味道2(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830083000 +0800" stop="20260830090000 +0800">
-    <title lang="zh">台灣味道2(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830090000 +0800" stop="20260830100000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830100000 +0800" stop="20260830110000 +0800">
-    <title lang="zh">繞著幸福轉(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830110000 +0800" stop="20260830115800 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830115800 +0800" stop="20260830130000 +0800">
-    <title lang="zh">中視午間新聞(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830130000 +0800" stop="20260830150000 +0800">
-    <title lang="zh">綜藝一級棒赫蒂法莊園(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830150000 +0800" stop="20260830160000 +0800">
-    <title lang="zh">中視新聞(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830160000 +0800" stop="20260830175700 +0800">
-    <title lang="zh">綜藝玩很大福爾血糖機(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830175700 +0800" stop="20260830185700 +0800">
-    <title lang="zh">大陸尋奇英才文教基金會(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830185700 +0800" stop="20260830200000 +0800">
-    <title lang="zh">中視新聞全球報導(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830200000 +0800" stop="20260830220000 +0800">
-    <title lang="zh">飢餓遊戲愛妮雅化妝品絲瓜露(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
-  <programme channel="370141" start="20260830220000 +0800" stop="20260831000000 +0800">
-    <title lang="zh">達人總動員(普)</title>
-    <desc />
-    <date>2026-08-30</date>
-  </programme>
   <programme channel="370141" start="20260831000000 +0800" stop="20260831020000 +0800">
     <title lang="zh">飢餓遊戲愛妮雅化妝品絲瓜露(普)</title>
     <desc />
@@ -219,8 +129,143 @@
     <desc />
     <date>2026-08-31</date>
   </programme>
-  <programme channel="370141" start="20260901000000 +0800" stop="20260902000000 +0800">
+  <programme channel="370141" start="20260901000000 +0800" stop="20260901010000 +0800">
     <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901010000 +0800" stop="20260901020000 +0800">
+    <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901020000 +0800" stop="20260901030000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901030000 +0800" stop="20260901033000 +0800">
+    <title lang="zh">台灣味道4(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901033000 +0800" stop="20260901040000 +0800">
+    <title lang="zh">台灣味道4(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901040000 +0800" stop="20260901050000 +0800">
+    <title lang="zh">MIT台灣誌(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901050000 +0800" stop="20260901060000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901060000 +0800" stop="20260901070000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901070000 +0800" stop="20260901080000 +0800">
+    <title lang="zh">中視早安新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901080000 +0800" stop="20260901083000 +0800">
+    <title lang="zh">財經早點名(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901083000 +0800" stop="20260901090000 +0800">
+    <title lang="zh">股市貴公子(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901090000 +0800" stop="20260901100000 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901100000 +0800" stop="20260901110000 +0800">
+    <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901110000 +0800" stop="20260901115800 +0800">
+    <title lang="zh">繞著幸福轉(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901115800 +0800" stop="20260901130000 +0800">
+    <title lang="zh">中視午間新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901130000 +0800" stop="20260901140000 +0800">
+    <title lang="zh">MIT台灣誌阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901140000 +0800" stop="20260901143000 +0800">
+    <title lang="zh">股市最錢線(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901143000 +0800" stop="20260901153000 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901153000 +0800" stop="20260901160000 +0800">
+    <title lang="zh">價值型投資(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901160000 +0800" stop="20260901170000 +0800">
+    <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901170000 +0800" stop="20260901172800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901172800 +0800" stop="20260901175800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901175800 +0800" stop="20260901185800 +0800">
+    <title lang="zh">中視新聞(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901185800 +0800" stop="20260901200000 +0800">
+    <title lang="zh">中視新聞全球報導(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901200000 +0800" stop="20260901210000 +0800">
+    <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901210000 +0800" stop="20260901220000 +0800">
+    <title lang="zh">樓上樓下阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901220000 +0800" stop="20260901230000 +0800">
+    <title lang="zh">唱歌給你聽阿鈣八合一強效錠(普)</title>
+    <desc />
+    <date>2026-09-01</date>
+  </programme>
+  <programme channel="370141" start="20260901230000 +0800" stop="20260902000000 +0800">
+    <title lang="zh">大陸尋奇(普)</title>
     <desc />
     <date>2026-09-01</date>
   </programme>
