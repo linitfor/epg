@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv date="20260930020221 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20260930.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20260930&amp;timezone=QXNpYS9UYWlwZWk=">
+<tv date="20260930132424 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369218/20260930.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369218&amp;date=20260930&amp;timezone=QXNpYS9UYWlwZWk=">
 <channel id="370171">
 <display-name lang="Taiwan">華視新聞</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -616,6 +616,10 @@
 <date>2026-10-01</date>
 <desc /><title lang="zh">夢想街57號-預約你的夢想</title>
 </programme>
+<programme channel="370175" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">理財達人秀2000</title>
+</programme>
 <programme channel="370139" start="20260930013000 +0800" stop="20260930020000 +0800">
 <date>2026-09-30</date>
 <desc /><title lang="zh">元氣加油站【普】(E3063)</title>
@@ -1103,6 +1107,10 @@
 <programme channel="370141" start="20261001230000 +0800" stop="20261002000000 +0800">
 <date>2026-10-01</date>
 <desc /><title lang="zh">大陸尋奇(普)</title>
+</programme>
+<programme channel="370141" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">大愛街2巷(普)</title>
 </programme>
 <programme channel="370149" start="20260930000100 +0800" stop="20260930005600 +0800">
 <date>2026-09-30</date>
@@ -1679,6 +1687,10 @@
 <programme channel="370222" start="20261001233500 +0800" stop="20261002000000 +0800">
 <date>2026-10-01</date>
 <desc /><title lang="zh">野人追夢 06 和澳洲原住民交朋友囉</title>
+</programme>
+<programme channel="370222" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">主廚大聯盟 12</title>
 </programme>
 <programme channel="370209" start="20260930000000 +0800" stop="20260930002300 +0800">
 <date>2026-09-30</date>
@@ -2460,6 +2472,10 @@
 <date>2026-10-01</date>
 <desc /><title lang="zh">K POP DANCE ACADEMY 08</title>
 </programme>
+<programme channel="370209" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">K-POP Dance Sketch 2 06</title>
+</programme>
 <programme channel="370167" start="20260930000000 +0800" stop="20260930002100 +0800">
 <date>2026-09-30</date>
 <desc /><title lang="zh">MOMO歡樂谷S13 EP39</title>
@@ -3035,6 +3051,10 @@
 <programme channel="370167" start="20261001234300 +0800" stop="20261002000000 +0800">
 <date>2026-10-01</date>
 <desc /><title lang="zh">袋鼠海灘救援隊　EP103</title>
+</programme>
+<programme channel="370167" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">MOMO歡樂谷S14 EP01</title>
 </programme>
 <programme channel="370162" start="20260930002000 +0800" stop="20260930004500 +0800">
 <date>2026-09-30</date>
@@ -4991,6 +5011,10 @@
 <date>2026-10-01</date>
 <desc /><title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
 </programme>
+<programme channel="370173" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">關我什麼事2100(重)(普)(N)</title>
+</programme>
 <programme channel="370144" start="20260930000000 +0800" stop="20260930010000 +0800">
 <date>2026-09-30</date>
 <desc /><title lang="zh">綜藝大熱門(普)(N)</title>
@@ -5182,6 +5206,10 @@
 <programme channel="370144" start="20261001230000 +0800" stop="20261002000000 +0800">
 <date>2026-10-01</date>
 <desc /><title lang="zh">完全娛樂(普)(N)</title>
+</programme>
+<programme channel="370144" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">綜藝大熱門(普)(N)</title>
 </programme>
 <programme channel="3290" start="20260930003000 +0800" stop="20260930012000 +0800">
 <date>2026-09-30</date>
@@ -5748,6 +5776,10 @@
 <programme channel="370178" start="20261001230000 +0800" stop="20261002000000 +0800">
 <date>2026-10-01</date>
 <desc /><title lang="zh">Bloomberg Tech(普)</title>
+</programme>
+<programme channel="370178" start="20261002000000 +0800" stop="20261003000000 +0800">
+<date>2026-10-02</date>
+<desc /><title lang="zh">Bloomberg Real Yield(普)</title>
 </programme>
 <programme channel="2124" start="20260930003000 +0800" stop="20260930012000 +0800">
 <date>2026-09-30</date>
